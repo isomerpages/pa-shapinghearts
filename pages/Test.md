@@ -5,17 +5,7 @@ variant: markdown
 description: ""
 ---
 ```
-
-
-
-    
-    
-    <title>Shaping Hearts</title>
-    
-     
-                                                                                                                                                             
-    
-        <style>
+  <style>
             @import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&family=Oswald:wght@200..700&display=swap');
             :root {
                 --primary-clr: #DF366D;
@@ -674,6 +664,4 @@ description: ""
             </div>
             </div>
         </footer>
-    
-
 ```
