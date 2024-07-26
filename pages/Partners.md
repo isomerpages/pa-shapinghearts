@@ -20,7 +20,7 @@ description: ""
 	margin-top: -30px;
         }
 
-        .hero .canvas {
+        .hero .canvass {
             display: flex;
             justify-content: space-between;
             align-items: center;
@@ -238,7 +238,7 @@ description: ""
         }
 
         @media (max-width: 800px) {
-	.canvas{
+	.canvass{
 	width: 90% !important;
 	margin-left: auto;
 	margin-right: auto;
