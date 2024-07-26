@@ -534,7 +534,7 @@ description: ""
     <section class="section bg_gray mt-5 FAQS">
         <div class="canvas">
             <div class="faqs_left">
-                <p class="bold">LOREM IPSUM dolor</p>
+                <p class="bold">LOREM IPSUM DOLOR</p>
                 <h1 class="bold mt-5">
                     Lorem ipsum dolor sit amet adipiscing elit,
                 </h1>
