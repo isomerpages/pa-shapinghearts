@@ -111,10 +111,11 @@ margin: auto;
 }
 
 .story_grid .arrow {
-font-size: 1.1rem;
+font-size: 1.2rem;
 margin-left: auto;
-margin-top: 20px;
-display: block;
+	height: 35px;
+	width: 35px;
+	border-radius: 50%;
 }
 
 
@@ -170,6 +171,7 @@ line-height: 1.4;
 
 .main_heading2 {
 font-size: 3rem;
+	margin-top: 0 !important;
 }
 
 .section {
@@ -416,49 +418,49 @@ tempor
 <div class="story_card">
 <p>Lorem ipsum dolor sit amet consectetur.</p>
 <button class="arrow">
-<i class="fa-solid fa-arrow-right"></i>
+<i class="sgds-icon sgds-icon-arrow-right"></i>
 </button>
 </div>
 <div class="story_card">
 <p>Lorem ipsum dolor sit amet consectetur.</p>
 <button class="arrow">
-<i class="fa-solid fa-arrow-right"></i>
+<i class="sgds-icon sgds-icon-arrow-right"></i>
 </button>
 </div>
 <div class="story_card">
 <p>Lorem ipsum dolor sit amet consectetur.</p>
 <button class="arrow">
-<i class="fa-solid fa-arrow-right"></i>
+<i class="sgds-icon sgds-icon-arrow-right"></i>
 </button>
 </div>
 <div class="story_card">
 <p>Lorem ipsum dolor sit amet consectetur.</p>
 <button class="arrow">
-<i class="fa-solid fa-arrow-right"></i>
+<i class="sgds-icon sgds-icon-arrow-right"></i>
 </button>
 </div>
 <div class="story_card">
 <p>Lorem ipsum dolor sit amet consectetur.</p>
 <button class="arrow">
-<i class="fa-solid fa-arrow-right"></i>
+<i class="sgds-icon sgds-icon-arrow-right"></i>
 </button>
 </div>
 <div class="story_card">
 <p>Lorem ipsum dolor sit amet consectetur.</p>
 <button class="arrow">
-<i class="fa-solid fa-arrow-right"></i>
+<i class="sgds-icon sgds-icon-arrow-right"></i>
 </button>
 </div>
 <div class="story_card">
 <p>Lorem ipsum dolor sit amet consectetur.</p>
 <button class="arrow">
-<i class="fa-solid fa-arrow-right"></i>
+<i class="sgds-icon sgds-icon-arrow-right"></i>
 </button>
 </div>
 <div class="story_card">
 <p>Lorem ipsum dolor sit amet consectetur.</p>
 <button class="arrow">
-<i class="fa-solid fa-arrow-right"></i>
+<i class="sgds-icon sgds-icon-arrow-right"></i>
 </button>
 </div>
 
