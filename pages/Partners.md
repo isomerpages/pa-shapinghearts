@@ -17,7 +17,7 @@ description: ""
         .hero {
           /* border-top: 1.99px solid rgba(0, 0, 0, 0.7);*/
             min-height: 60vh;
-	margin-top: -30px;
+	margin-top: -20px;
         }
 
         .hero .canvass {
