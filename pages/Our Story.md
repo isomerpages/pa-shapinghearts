@@ -295,6 +295,12 @@ transform: rotate(180deg);
 
 
 @media (max-width: 800px) {
+	.canvas{
+	width: 90% !important;
+	margin-left: auto;
+	margin-right: auto;
+	}
+	
 .story_grid{
 width: 100%;
 }
