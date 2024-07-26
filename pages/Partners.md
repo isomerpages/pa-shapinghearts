@@ -6,6 +6,7 @@ description: ""
 ---
 <p>&lt;style&gt;</p>
 <p>@import url('<a href="https://fonts.googleapis.com/css2?family=Inter:wght@100..900&amp;display=swap" rel="noopener noreferrer nofollow" target="_blank">https://fonts.googleapis.com/css2?family=Inter:wght@100..900&amp;display=swap</a>');</p>
+<p></p>
 <p>* {</p>
 <p>margin: 0%;</p>
 <p>padding: 0;</p>
@@ -213,6 +214,7 @@ description: ""
 <p>}</p>
 <p>}</p>
 <p>&lt;/style&gt;</p>
+<p>&lt;section&gt;</p>
 <p>&lt;section class="hero"&gt;</p>
 <p>&lt;div class="canvas relative"&gt;</p>
 <p>&lt;div class="hero_left"&gt;</p>
