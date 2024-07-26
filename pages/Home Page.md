@@ -33,6 +33,10 @@ description: ""
 		padding: 20px;
         }
 	
+	.bp-section-pagetitle{
+	display: none;
+	}
+	
 	.bp-section{
 	padding: 0px
 	}
