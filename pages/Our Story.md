@@ -178,6 +178,7 @@ description: ""
 
         .main_heading2 {
             font-size: 3rem;
+	margin-top: 0rem !important;
         }
 
         .section {
