@@ -390,9 +390,7 @@ description: ""
                 transform: translateY(0%);
                 font-size: 1.2rem;
             }
-
-
-
+	
             .main_heading {
                 font-size: 2.5rem;
             }
