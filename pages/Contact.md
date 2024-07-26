@@ -179,6 +179,7 @@ description: ""
             .ms_form{
                 width: 100%;   
                 justify-content: center;
+	
             }
 
             .ms_medium{
@@ -188,6 +189,10 @@ description: ""
             .ms_form_cont{
                 position: static;
             }
+	.ms_form_cont{
+	padding-left: 20px;
+	padding-right: 20px;
+	}
         }
     </style>
 
