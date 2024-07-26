@@ -147,10 +147,12 @@ description: ""
         .story_card h1 {
             font-size: 3rem;
 	font-weight: bold;
+		margin: 0px;
         }
 
         .story p {
             font-size: 1.1rem;
+	margin: 0px;
         }
 
 
@@ -185,6 +187,10 @@ description: ""
         .faqs_right {
             width: 45%;
         }
+	
+	.faqs_left{
+	padding-left: 20px;
+	}
 
         .faq-container {
             width: 100%;
@@ -448,7 +454,6 @@ description: ""
                 <div class="story_grid mt-5">
                     <div class="story_card">
                         <p class="text-gray">Over</p>
-                        <br>
                         <h1>150</h1>
                         <br>
                         <p class="text-gray">
@@ -458,7 +463,6 @@ description: ""
                     </div>
                     <div class="story_card">
                         <p class="text-gray">More than</p>
-                        <br>
                         <h1>350</h1>
                         <br>
                         <p class="text-gray">
@@ -467,7 +471,6 @@ description: ""
                     </div>
                     <div class="story_card">
                         <p class="text-gray">Over</p>
-                        <br>
                         <h1>30</h1>
                         <br>
                         <p class="text-gray">
@@ -478,7 +481,6 @@ description: ""
                     </div>
                     <div class="story_card">
                         <p class="text-gray">More than</p>
-                        <br>
                         <h1>2.8M</h1>
                         <br>
                         <p class="text-gray">
