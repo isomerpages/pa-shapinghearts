@@ -114,7 +114,7 @@ description: ""
             display: grid;
             grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
             gap: 25px;
-            width: 90%;
+            width: 95%;
             margin: auto;
         }
 
@@ -232,9 +232,20 @@ description: ""
             flex-wrap: wrap;
         }
 
+	
+	.faqs_left{
+	padding-left: 20px;
+	}
+	
+	.faqs_left h1{
+	font-size: 2rem;
+	line-height: 1.2;
+	font-weight: bold;
+	}
+	
         .faqs_left,
         .faqs_right {
-            width: 45%;
+            width: 48%;
         }
 
         .faq-container {
