@@ -84,7 +84,7 @@ font-size: 2rem;
 font-weight: bold;
 line-height: 1.2;
 }
-.banner .canvas {
+.banner .canvass {
 display: flex;
 justify-content: space-between;
 align-items: center;
@@ -231,7 +231,7 @@ color: rgb(78, 78, 78);
 
 
 /* FAQS */
-.FAQS .canvas {
+.FAQS .canvass {
 display: flex;
 justify-content: space-between;
 flex-wrap: wrap;
