@@ -13,6 +13,9 @@ description: ""
             box-sizing: border-box;
             font-family: "Inter", sans-serif;
         }
+		.bp-section-pagetitle{
+	display: none;
+	}
 
         .hero {
           /* border-top: 1.99px solid rgba(0, 0, 0, 0.7);*/
