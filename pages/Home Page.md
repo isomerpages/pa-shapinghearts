@@ -31,6 +31,11 @@ description: ""
             overflow: hidden;
 	padding-left: 20px;
         }
+	
+	.bp-section{
+	padding: 0px
+	}
+	
 
         .hero .canvas {
             height: 80vh;
