@@ -18,6 +18,7 @@ description: ""
             background: #D1D1D1;
             min-height: 70vh;
 	width: 100%;
+	margin-top: -20px;
             display: flex;
         }
 
