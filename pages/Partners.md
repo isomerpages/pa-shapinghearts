@@ -90,7 +90,7 @@ description: ""
 
         /* General */
         .canvas {
-            width: 88%;
+            width: 100%;
             margin-left: auto;
             margin-right: auto;
         }
