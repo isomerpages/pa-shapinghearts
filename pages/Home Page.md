@@ -432,7 +432,6 @@ description: ""
                 ARTS EVENT
             </h1>
             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut.</p>
-            <br>
             <div class="flex justify-between mt-5">
                 <button class="button bold">PROGRAMME</button>
                 <button class="button bold">SHOP</button>
