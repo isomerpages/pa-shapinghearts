@@ -29,8 +29,8 @@ description: ""
             position: relative;
             width: 100%;
             overflow: hidden;
-	padding-left: 20px;
-		padding-right: 20px;
+	padding: 20px;
+		padding: 20px;
         }
 	
 	.bp-section{
