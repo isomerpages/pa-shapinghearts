@@ -17,7 +17,7 @@ font-family: "Inter", sans-serif;
 .hero {
 min-height: 100vh;
 padding: 30px 0px;
-margin-top: -30px;
+margin-top: -20px;
 /* border-top: 1px solid rgba(0, 0, 0, 0.7);
 border-bottom: 1px solid rgba(0, 0, 0, 0.7); */
 }
