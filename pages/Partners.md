@@ -238,7 +238,7 @@ description: ""
         }
 
         @media (max-width: 800px) {
-	.canvas {
+	.canvass {
 	width: 90% !important;
 	margin-left: auto;
 	margin-right: auto;
@@ -282,7 +282,7 @@ description: ""
 	
 <section>
     <section class="hero">
-        <div class="canvas relative">
+        <div class="canvas canvass relative">
             <div class="hero_left">
                 <h1>Lorem ipsum dolor sit amet, consectetur adipiscing eli</h1>
                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut Lorem
@@ -295,7 +295,7 @@ description: ""
     </section>
 
     <section class="section">
-        <div class="canvas">
+        <div class="canvas canvass">
             <h1 class="main_heading2">Our Heartists</h1>
             <br>
             <div class="hearts_grid">
@@ -349,14 +349,10 @@ description: ""
                         incididunt ut Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor</p>
                 </div>
             </div>
-
         </div>
     </section>
-
-
-    
     <section class="section bg_gray youtube_section">
-        <div class="canvas">
+        <div class="canvas canvass">
             <h1 class="main_heading2">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
             </h1>
             <br>
@@ -372,7 +368,7 @@ description: ""
 
     
     <section class="section partners">
-        <div class="canvas">
+        <div class="canvass canvas">
             <h1 class="main_heading2">Our Partners</h1>
             <br>
             <div class="partners_grid mt-5">
@@ -430,7 +426,7 @@ description: ""
 
     
     <section class="section bg_gray mt-5 FAQS">
-        <div class="canvas">
+        <div class="canvass canvas">
             <div class="faqs_left">
                 <p class="bold">LOREM IPSUM dolor</p>
                 <h1 class="bold mt-5">
