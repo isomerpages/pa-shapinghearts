@@ -8,6 +8,8 @@ description: ""
 
 1. Interdum et malesuada fames ac ante ipsum primis in faucibus. In sagittis ut nisl eget suscipit. Morbi lorem ligula, tincidunt et viverra et, gravida sit amet velit. Duis posuere mi lectus, molestie viverra metus consectetur quis. Fusce dignissim arcu enim, id faucibus felis dignissim ut. Suspendisse potenti. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Phasellus blandit sem sit amet neque fringilla cursus. Ut semper imperdiet dolor ac vulputate. Phasellus in accumsan urna. Suspendisse potenti. Curabitur porttitor risus a dolor pellentesque, sed dignissim ligula laoreet. Nullam lacus ligula, malesuada ac vestibulum vitae, condimentum nec sem.
 
+    
+
     <style>
         @import url('https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap');
 
@@ -101,8 +103,10 @@ description: ""
 
         .story_grid {
             display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
-            gap: 20px;
+            grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+            gap: 25px;
+            width: 90%;
+            margin: auto;
         }
 
         .story_grid .arrow {
@@ -115,7 +119,7 @@ description: ""
 
         .story_card {
             background-color: rgba(44, 44, 44, 1);
-            padding: 20px;
+            padding: 30px 20px;
             border-radius: 20px;
             text-align: start;
             color: white;
@@ -266,6 +270,9 @@ description: ""
 
 
         @media (max-width: 800px) {
+            .story_grid{
+                width: 100%;
+            }
             .faqs_left,
             .faqs_right {
                 width: 100%;
@@ -319,7 +326,7 @@ description: ""
             }
         }
     </style>
-
+	<section>
     <div class="hero">
         <div class="canvas">
             <div class="hero_left">
@@ -496,8 +503,5 @@ description: ""
             </div>
         </div>
     </section>
-
-
-
-
-
+		
+	</section>
