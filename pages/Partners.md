@@ -265,6 +265,10 @@ description: ""
                 width: 100% !important;
             }
         }
+	
+	.bp-section{
+	padding: 0px !important;
+	}
     </style>
 	
 <section>
