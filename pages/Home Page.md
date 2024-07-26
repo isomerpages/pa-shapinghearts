@@ -4,6 +4,380 @@ permalink: /home-page/
 variant: markdown
 description: ""
 ---
+   <style>
+        @import url('https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap');
+
+        * {
+            margin: 0%;
+            padding: 0;
+            box-sizing: border-box;
+            font-family: "Inter", sans-serif;
+        }
+	
+		.col.is-offset-2, .col.is-offset-2-tablet{
+	margin-left: 0% !important;
+ width: 100% !important;
+	}
+
+        .hero {
+            margin-top: 10vh !important;
+            min-height: 100vh;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            border-top: 1.99px solid rgba(0, 0, 0, 0.7);
+            border-bottom: 1.99px solid rgba(0, 0, 0, 0.7);
+            position: relative;
+            width: 100%;
+            overflow: hidden;
+        }
+
+        .hero .canvas {
+            height: 80vh;
+        }
+
+        .gray_box {
+            position: absolute;
+            min-height: 50vh;
+            left: 25%;
+            width: 50%;
+            background: rgba(249, 249, 249, 1);
+            border: 1px solid gainsboro;
+            border-radius: 5px;
+        }
+
+        .text {
+            font-weight: bold;
+            z-index: 32;
+        }
+
+        .left {
+            position: absolute;
+            left: 0;
+            height: 100%;
+            display: flex;
+            flex-direction: column;
+            justify-content: space-between;
+            top: 0;
+        }
+
+        .right {
+            position: absolute;
+            right: 0;
+            height: 100%;
+            display: flex;
+            flex-direction: column;
+            justify-content: space-between;
+            top: 0;
+        }
+
+        .find {
+            font-size: 5.5rem;
+        }
+
+        .art {
+            font-size: 5.5rem;
+        }
+
+        .in {
+            font-size: 5.5rem;
+        }
+
+        .meaning {
+            font-size: 5.5rem;
+        }
+
+        .center-text {
+            transform: translateY(-50%);
+            font-size: 1.2rem;
+            font-weight: bold;
+            font-weight: normal;
+        }
+
+
+        .center-box {
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            width: 30%;
+            height: 20%;
+            transform: translate(-50%, -50%);
+            background-color: rgba(0, 0, 0, 0.1);
+        }
+
+        /* 2nd section EVents */
+        .events {
+            display: flex;
+            justify-content: space-between;
+        }
+
+        .events .event_left {
+            width: 34%;
+        }
+
+        .event_left p {
+            font-size: 1.1rem;
+            margin-top: 5px;
+            color: gray;
+        }
+
+        .events .event_right {
+            width: 40%;
+        }
+
+        .events .secondimg {
+            margin-top: -10px;
+        }
+
+        /* Story */
+        .story .canvas {
+            width: 80%;
+        }
+
+        .story_grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            gap: 16px;
+        }
+
+        .story_card h1 {
+            font-size: 3rem;
+        }
+
+        .story p {
+            font-size: 1.1rem;
+        }
+
+
+        /* Sponsors */
+        .sponsors .canvas {
+            width: 70%;
+        }
+
+        .sponsors .sponsors_grid {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            flex-wrap: wrap;
+            grid-gap: 30px;
+        }
+
+        .sponsors_grid .button {
+            width: 150px;
+            font-weight: bold;
+            border-radius: 2px;
+        }
+
+
+        /* FAQS */
+        .FAQS .canvas {
+            display: flex;
+            justify-content: space-between;
+            flex-wrap: wrap;
+        }
+
+        .faqs_left,
+        .faqs_right {
+            width: 45%;
+        }
+
+        .faq-container {
+            width: 100%;
+            margin: auto;
+            padding: 20px;
+        }
+
+        .faq {
+            border-bottom: 1px solid #ccc;
+            padding: 15px 0;
+            margin-top: 20px;
+        }
+
+        .faq-question {
+            cursor: pointer;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 20px 0px;
+            font-weight: 600;
+            font-size: 1.1rem;
+        }
+
+        .faq-answer {
+            display: none;
+            margin-top: 10px;
+            color: #555;
+        }
+
+        .faq-question::after {
+            content: '▼';
+            font-size: 12px;
+            transform: rotate(0deg);
+            transition: transform 0.3s ease;
+        }
+
+        .faq-question.active::after {
+            transform: rotate(180deg);
+        }
+
+        /* General */
+        .canvas {
+            width: 88%;
+            margin-left: auto;
+            margin-right: auto;
+        }
+
+        .relative {
+            position: relative;
+        }
+
+        .text-end {
+            text-align: end;
+        }
+
+        .text-center {
+            text-align: center;
+        }
+
+        .main_heading {
+            font-size: 3.5rem;
+            line-height: 1.4;
+        }
+
+        .main_heading2 {
+            font-size: 3rem;
+        }
+
+        .section {
+            padding: 100px 0px;
+        }
+
+        .button {
+            background: transparent;
+            border: 1.99px solid rgba(0, 0, 0, 1);
+            border-radius: 20px;
+            padding: 12.5px 30px;
+            width: 45%;
+            transition: 0.2s all ease;
+            cursor: pointer;
+        }
+
+        .button:hover {
+            background: black;
+            color: white;
+        }
+
+        .flex {
+            display: flex;
+        }
+
+        .justify-between {
+            justify-content: space-between;
+        }
+
+        .bold {
+            font-weight: bold;
+        }
+
+        .mt-5 {
+            margin-top: 20px;
+        }
+
+
+        .bg_gray {
+            background-color: rgba(244, 244, 244, 1);
+        }
+
+        .text-gray {
+            color: rgb(78, 78, 78);
+        }
+
+
+        @media (max-width: 700px) {
+
+            .faqs_left,
+            .faqs_right {
+                width: 100%;
+                text-align: center;
+            }
+
+            .faqs_left img {
+                width: 100%;
+            }
+
+            .canvas {
+                width: 90% !important;
+            }
+
+            .events {
+                flex-direction: column-reverse;
+            }
+
+            .event_right,
+            .event_left {
+                width: 100% !important;
+            }
+
+            .main_heading {
+                font-size: 3rem;
+                line-height: normal;
+            }
+
+            .gray_box {
+                display: none;
+            }
+
+            .diagonal-lines {
+                display: none;
+            }
+
+            .hero {
+                min-height: 89vh;
+            }
+
+            .hero .canvas {
+                height: auto;
+            }
+
+            .left {
+                position: static;
+                height: 100%;
+                display: block;
+            }
+
+            .right {
+                position: static;
+                height: 100%;
+                display: block;
+            }
+
+            .art {
+                text-align: start;
+            }
+
+            .meaning,
+            .art,
+            .in,
+            .find {
+                font-size: 4.5rem;
+            }
+
+            .center-text {
+                transform: translateY(0%);
+                font-size: 1.2rem;
+            }
+
+
+
+            .main_heading {
+                font-size: 2.5rem;
+            }
+
+            .main_heading2 {
+                font-size: 2rem;
+            }
+        }
+    </style>
 
 <section>
     <section class="hero">
