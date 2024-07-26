@@ -288,7 +288,7 @@ description: ""
             <div class="hearts_grid">
                 <div class="heart_card">
                     <img src="./assets/user1.png">
-                    <p class="bold mt-5">Mawell Rebarber</p>
+                    <p class="bol">Mawell Rebarber</p>
                     <br>
                     <p class="desc">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
                         incididunt ut Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
@@ -297,7 +297,7 @@ description: ""
 
                 <div class="heart_card">
                     <img src="./assets/user2.jpg">
-                    <p class="bold mt-5">Mawell Rebarber</p>
+                    <p class="bold">Mawell Rebarber</p>
                     <br>
                     <p class="desc">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
                         incididunt ut Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
@@ -305,7 +305,7 @@ description: ""
                 </div>
                 <div class="heart_card">
                     <img src="./assets/user3.png">
-                    <p class="bold mt-5">Mawell Rebarber</p>
+                    <p class="bold">Mawell Rebarber</p>
                     <br>
                     <p class="desc">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
                         incididunt ut Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
@@ -313,7 +313,7 @@ description: ""
                 </div>
                 <div class="heart_card">
                     <img src="./assets/user4.png">
-                    <p class="bold mt-5">Mawell Rebarber</p>
+                    <p class="bold">Mawell Rebarber</p>
                     <br>
                     <p class="desc">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
                         incididunt ut Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
@@ -321,7 +321,7 @@ description: ""
                 </div>
                 <div class="heart_card">
                     <img src="./assets/user5.png">
-                    <p class="bold mt-5">Mawell Rebarber</p>
+                    <p class="bold">Mawell Rebarber</p>
                     <br>
                     <p class="desc">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
                         incididunt ut Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
@@ -329,14 +329,12 @@ description: ""
                 </div>
                 <div class="heart_card">
                     <img src="./assets/user6.png">
-                    <p class="bold mt-5">Mawell Rebarber</p>
+                    <p class="bold">Mawell Rebarber</p>
                     <br>
                     <p class="desc">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
                         incididunt ut Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
                         incididunt ut Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor</p>
                 </div>
-
-                
             </div>
 
         </div>
