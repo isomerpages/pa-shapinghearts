@@ -20,7 +20,7 @@ description: ""
 	}
 
         .hero {
-            margin-top: 10vh !important;
+            margin-top: -20px !important;
             min-height: 100vh;
             display: flex;
             justify-content: center;
@@ -30,6 +30,7 @@ description: ""
             width: 100%;
             overflow: hidden;
 	padding-left: 20px;
+		padding-right: 20px;
         }
 	
 	.bp-section{
@@ -42,7 +43,8 @@ description: ""
         }
 
 	.diagonal-lines { background: url("data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZlcnNpb249JzEuMScgcHJlc2VydmVBc3BlY3RSYXRpbz0nbm9uZScgdmlld0JveD0nMCAwIDEwMCAxMDAnPjxwYXRoIGQ9J00xMDAgMCBMMCAxMDAgJyBzdHJva2U9J3JnYmEoMCwwLDAsMC44KScgc3Ryb2tlLXdpZHRoPScwLjEnLz48cGF0aCBkPSdNMCAwIEwxMDAgMTAwICcgc3Ryb2tlPSdyZ2JhKDAsMCwwLDAuOCknIHN0cm9rZS13aWR0aD0nMC4xJy8+PC9zdmc+"); 
-	background-repeat: no-repeat; background-position: center center; background-size: 100% 100%, auto; position: absolute; width: 100%; height: 100vh; left: 0; top: 0; 
+	background-repeat: no-repeat; 
+	background-position: center center; background-size: 100% 100%, auto; position: absolute; width: 100%; height: 100vh; left: 0; top: 0; 
 	}
 	
         .gray_box {
@@ -419,9 +421,7 @@ description: ""
         </div>
         <div class="diagonal-lines"></div>
     </section>
-
-
-    
+	
     <section class="canvas section events">
         <div class="event_left mt-5">
             <h1 class="main_heading">
@@ -440,11 +440,8 @@ description: ""
             <img style="width: 50%; margin-right: auto; display: block;" src="./assets/event.png">
             <img class="secondimg" style="width: 50%; margin-left: auto; display: block;" src="./assets/event.png">
         </div>
-
     </section>
 
-
-    
     <section class="bg_gray section mt-5 story">
         <div class="canvas">
             <div class="text-center">
@@ -460,7 +457,6 @@ description: ""
                     <div class="story_card">
                         <p class="text-gray">Over</p>
                         <h1>150</h1>
-                        <br>
                         <p class="text-gray">
                             Participating Artists
                             with Disabilities
@@ -469,7 +465,6 @@ description: ""
                     <div class="story_card">
                         <p class="text-gray">More than</p>
                         <h1>350</h1>
-                        <br>
                         <p class="text-gray">
                             Exhibited Paintings
                         </p>
@@ -477,7 +472,6 @@ description: ""
                     <div class="story_card">
                         <p class="text-gray">Over</p>
                         <h1>30</h1>
-                        <br>
                         <p class="text-gray">
                             Participating Social
                             Service Agencies
@@ -487,7 +481,6 @@ description: ""
                     <div class="story_card">
                         <p class="text-gray">More than</p>
                         <h1>2.8M</h1>
-                        <br>
                         <p class="text-gray">
                             Public Engagements
                             on Social Media
@@ -497,8 +490,7 @@ description: ""
             </div>
         </div>
     </section>
-
-    
+	
     <section class="section mt-5 sponsors">
         <div class="canvas">
             <div class="text-center mt-5">
@@ -507,7 +499,6 @@ description: ""
                     <button class="button">LOGO</button>
                     <button class="button">LOGO</button>
                     <button class="button">LOGO</button>
-
                 </div>
 
                 <div class="text-center mt-5">
@@ -543,7 +534,6 @@ description: ""
                 <h1 class="bold mt-5">
                     Lorem ipsum dolor sit amet adipiscing elit,
                 </h1>
-                <br>
                 <img class="mt-5" src="./assets/event.png">
             </div>
             <div class="faqs_right">
