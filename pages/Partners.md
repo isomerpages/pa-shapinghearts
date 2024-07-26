@@ -41,6 +41,7 @@ description: ""
 
         .hero_left h1 {
             font-size: 2rem;
+	font-weight: bold;
         }
 
         .hero_left p {
