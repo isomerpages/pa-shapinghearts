@@ -17,8 +17,7 @@ description: ""
         .ms_cont {
             background: #D1D1D1;
             min-height: 70vh;
-            padding-right: 80px;
-            padding-left: 80px;
+	width: 100%;
             display: flex;
         }
 
