@@ -109,7 +109,7 @@ height: 100%;
 
 
 /* STORY */
-.story .canvas {
+.story .canvass {
 width: 80%;
 }
 
@@ -157,7 +157,7 @@ border-radius: 50%;
 }
 
 /* General */
-.canvas {
+.canvass {
 width: 100%;
 margin-left: auto;
 margin-right: auto;
@@ -295,7 +295,7 @@ transform: rotate(180deg);
 
 
 @media (max-width: 800px) {
-	.canvas{
+	.canvass{
 	width: 90% !important;
 	margin-left: auto;
 	margin-right: auto;
@@ -338,7 +338,7 @@ margin-top: 50px;
 margin-left: 0px;
 }
 
-.banner .canvas {
+.banner .canvass {
 flex-direction: column-reverse;
 }
 
@@ -359,7 +359,7 @@ font-size: 2rem;
 </style>
 <section>
 <div class="hero">
-<div class="canvas">
+<div class="canvass">
 <div class="hero_left">
 <h1>
 LOREM IPSUM DOLOR SIT AMET, CONSECER ELIT TEMPOR
@@ -408,7 +408,7 @@ sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut</p>
 </div>
 
 <div class="banner">
-<div class="canvas">
+<div class="canvass">
 <div class="banner_left">
 <h1>
 “Lorem ipsum dolor sit amet, consectetur adipiscing eli”
@@ -422,7 +422,7 @@ sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut</p>
 </div>
 
 <section class="section mt-5 story">
-<div class="canvas">
+<div class="canvass">
 <div class="text-center">
 <p class="bold">LOREM IPSUM DOLOR</p>
 <br>
@@ -490,7 +490,7 @@ tempor
 
 
 <section class="section bg_gray FAQS">
-<div class="canvas">
+<div class="canvass">
 <div class="faqs_left">
 <p class="bold">LOREM IPSUM dolor</p>
 <h1 class="bold mt-5">
