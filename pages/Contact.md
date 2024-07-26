@@ -20,6 +20,8 @@ description: ""
 	width: 100%;
 	margin-top: -20px;
             display: flex;
+	padding-left: 20px;
+	padding-right: 20px;
         }
 
         .ms_flex {
@@ -49,7 +51,6 @@ description: ""
  width: 100% !important;
 	}
 	
-
         .ms_form {
             position: relative;
             width: 50%;
