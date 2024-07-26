@@ -15,7 +15,6 @@ description: ""
         }
 
         .hero {
-            margin-top: 10vh;
             border-top: 1.99px solid rgba(0, 0, 0, 0.7);
             min-height: 60vh;
         }
@@ -94,6 +93,11 @@ description: ""
             margin-left: auto;
             margin-right: auto;
         }
+	
+	.col.is-offset-2, .col.is-offset-2-tablet{
+	width: 100%;
+	margin-left: 0%;
+	}
 
         .relative {
             position: relative;
@@ -108,12 +112,14 @@ description: ""
         }
 
         .main_heading {
-            font-size: 3.5rem;
+            font-size: 3rem;
             line-height: 1.4;
+	font-weight: bold;
         }
 
         .main_heading2 {
             font-size: 3rem;
+	font-weight: bold;
         }
 
         .section {
