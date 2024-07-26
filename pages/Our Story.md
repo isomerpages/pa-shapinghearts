@@ -16,12 +16,15 @@ font-family: "Inter", sans-serif;
 
 .hero {
 min-height: 100vh;
-padding: 50px 0px;
-margin-top: 10vh;
+padding: 30px 0px;
 border-top: 1px solid rgba(0, 0, 0, 0.7);
 border-bottom: 1px solid rgba(0, 0, 0, 0.7);
 }
 
+	.bp-section{
+	padding: 0px !important;
+	}
+	
 .hero h1 {
 font-size: 3rem;
 font-weight: bold;
