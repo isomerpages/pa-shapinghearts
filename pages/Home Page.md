@@ -30,7 +30,6 @@ description: ""
             width: 100%;
             overflow: hidden;
 	padding: 20px;
-		padding: 20px;
         }
 	
 	.bp-section-pagetitle{
@@ -357,6 +356,7 @@ description: ""
 
             .hero {
                 min-height: 89vh;
+	padding: 20px 10px;
             }
 
             .hero .canvas {
@@ -383,7 +383,7 @@ description: ""
             .art,
             .in,
             .find {
-                font-size: 4.5rem;
+                font-size: 4rem;
             }
 
             .center-text {
