@@ -38,12 +38,12 @@ color: rgb(105, 105, 105);
 
 .hero_left {
 position: relative;
-width: 80%;
+width: 50%;
 margin-right: auto;
 }
 
 .hero_right {
-width: 80%;
+width: 50%;
 margin-left: auto;
 }
 
