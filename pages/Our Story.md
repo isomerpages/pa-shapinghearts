@@ -31,11 +31,13 @@ description: ""
         }
 
         .hero h1 {
-            font-size: 4rem;
+            font-size: 3rem;
+	font-weight: bold;
         }
 
         .hero h2 {
             font-size: 2rem;
+	font-weight: bold;
         }
 
         .hero p {
@@ -44,11 +46,12 @@ description: ""
 
         .hero_left {
             position: relative;
-            width: 50%;
+            width: 80%;
+	          margin-right: auto;
         }
 
         .hero_right {
-            width: 50%;
+            width: 80%;
             margin-left: auto;
         }
 
@@ -59,11 +62,11 @@ description: ""
         }
 
         .hero_left img {
-            width: 70%;
+            width: 50%;
         }
 
         .hero_left img:last-child {
-            margin-left: 80%;
+            margin-left: 50%;
             margin-top: -25%;
         }
 
@@ -73,6 +76,11 @@ description: ""
             background: rgba(209, 209, 209, 1);
         }
 
+	.banner h1{
+	font-size: 2rem;
+	font-weight: bold;
+	line-height: 1.2;
+	}
         .banner .canvas {
             display: flex;
             justify-content: space-between;
@@ -81,13 +89,14 @@ description: ""
 
         .banner_left {
             width: 50%;
-            padding: 20px 0px;
+            padding: 20px 20px;
         }
 
         .banner_img {
             position: relative;
-            width: 30%;
+            width: 35%;
             padding-bottom: 20px;
+	padding-right: 20px;
         }
 
         .banner img {
@@ -345,7 +354,6 @@ description: ""
                     consectetur
                     adipiscing elit, sed do eiusmod tempor incididunt ut
                 </p>
-                <br>
                 <p>
                     Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut Lorem
                     ipsum
@@ -364,8 +372,7 @@ description: ""
             <br>
             <div class="hero_left">
                 <h2>Lorem ipsum dolor sit amet, consectetur adipiscing eli</h2>
-                <br>
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut Lorem
+							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut Lorem
                     ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut Lorem ipsum
                     dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut Lorem ipsum dolor
                     sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut</p>
