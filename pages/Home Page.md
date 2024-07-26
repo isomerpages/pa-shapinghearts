@@ -4,7 +4,7 @@ permalink: /home-page/
 variant: markdown
 description: ""
 ---
-   <style>
+<style>
         @import url('https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap');
 
         * {
@@ -25,17 +25,21 @@ description: ""
             display: flex;
             justify-content: center;
             align-items: center;
-            border-top: 1.99px solid rgba(0, 0, 0, 0.7);
-            border-bottom: 1.99px solid rgba(0, 0, 0, 0.7);
+            border: 1.99px solid rgba(0, 0, 0, 0.7);
             position: relative;
             width: 100%;
             overflow: hidden;
+	padding-left: 20px;
         }
 
         .hero .canvas {
             height: 80vh;
         }
 
+	.diagonal-lines { background: url("data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZlcnNpb249JzEuMScgcHJlc2VydmVBc3BlY3RSYXRpbz0nbm9uZScgdmlld0JveD0nMCAwIDEwMCAxMDAnPjxwYXRoIGQ9J00xMDAgMCBMMCAxMDAgJyBzdHJva2U9J3JnYmEoMCwwLDAsMC44KScgc3Ryb2tlLXdpZHRoPScwLjEnLz48cGF0aCBkPSdNMCAwIEwxMDAgMTAwICcgc3Ryb2tlPSdyZ2JhKDAsMCwwLDAuOCknIHN0cm9rZS13aWR0aD0nMC4xJy8+PC9zdmc+"); 
+	background-repeat: no-repeat; background-position: center center; background-size: 100% 100%, auto; position: absolute; width: 100%; height: 100vh; left: 0; top: 0; 
+	}
+	
         .gray_box {
             position: absolute;
             min-height: 50vh;
@@ -142,6 +146,7 @@ description: ""
 
         .story_card h1 {
             font-size: 3rem;
+	font-weight: bold;
         }
 
         .story p {
@@ -222,7 +227,7 @@ description: ""
 
         /* General */
         .canvas {
-            width: 88%;
+            width: 100%;
             margin-left: auto;
             margin-right: auto;
         }
@@ -242,10 +247,12 @@ description: ""
         .main_heading {
             font-size: 3.5rem;
             line-height: 1.4;
+	font-weight: bold;
         }
 
         .main_heading2 {
             font-size: 3rem;
+	font-weight: bold;
         }
 
         .section {
