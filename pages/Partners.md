@@ -17,7 +17,7 @@ description: ""
         .hero {
           /* border-top: 1.99px solid rgba(0, 0, 0, 0.7);*/
             min-height: 60vh;
-	margin-top: -20px;
+	margin-top: -30px;
         }
 
         .hero .canvas {
@@ -238,7 +238,11 @@ description: ""
         }
 
         @media (max-width: 800px) {
-
+	.canvas{
+	width: 90% !important;
+	margin-left: auto;
+	margin-right: auto;
+	}
             .faqs_left,
             .faqs_right {
                 width: 100%;
