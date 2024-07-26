@@ -1,4 +1,5 @@
 collections:
   staging:
     output: true
-    order: []
+    order:
+      - Our Story.md
