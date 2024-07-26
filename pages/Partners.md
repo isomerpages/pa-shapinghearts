@@ -4,7 +4,7 @@ permalink: /partners/
 variant: markdown
 description: ""
 ---
- <style>
+<style>
         @import url('https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap');
 
         * {
@@ -107,6 +107,11 @@ description: ""
             text-align: center;
         }
 
+	.col.is-offset-2, .col.is-offset-2-tablet{
+	width: 100%;
+	margin-left: 0%;
+	}
+	
         .main_heading {
             font-size: 3.5rem;
             line-height: 1.4;
