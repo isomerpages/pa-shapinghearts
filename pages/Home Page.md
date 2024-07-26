@@ -328,6 +328,9 @@ description: ""
                 width: 100%;
             }
 
+	.button{
+	  padding: 12.5px 20px;
+	}
             .canvas {
                 width: 90% !important;
             }
