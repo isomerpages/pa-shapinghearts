@@ -56,6 +56,15 @@ margin-right: auto;
 	.col.is-offset-2, .col.is-offset-2-tablet{
 	margin-left: 0% !important;
 	}
+	
+	
+@media screen and (min-width: 769px) {
+.col.is-8, .col.is-8-tablet { 
+	flex: none;
+  width: 90%;
+  margin: auto;
+}
+}
 
 .hero_left img {
 width: 50%;
