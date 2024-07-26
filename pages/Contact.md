@@ -44,6 +44,7 @@ description: ""
         .ms_medium {
             font-size: 48px;
             font-weight: 700;
+	          line-height: 1.5;
             text-transform: capitalize;
             padding-bottom: 30px;
         }
