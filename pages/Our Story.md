@@ -52,6 +52,10 @@ width: 65%;
 margin-left: auto;
 margin-right: auto;
 }
+	
+	.col.is-offset-2, .col.is-offset-2-tablet{
+	margin-left: 0% !important;
+	}
 
 .hero_left img {
 width: 50%;
