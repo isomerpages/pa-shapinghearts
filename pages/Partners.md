@@ -58,6 +58,10 @@ description: ""
         .heart_card p:last-child {
             color: rgb(85, 85, 85);
         }
+	
+	.heart_card p{
+	margin: 0% !important;
+	}
 
         .heart_card img {
             width: 100%;
