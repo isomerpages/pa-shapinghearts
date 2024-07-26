@@ -44,8 +44,9 @@ description: ""
         }
 
         .hero_left h1 {
-            font-size: 2rem;
+            font-size: 3rem;
 	font-weight: bold;
+	line-height: 1.4;
         }
 
         .hero_left p {
