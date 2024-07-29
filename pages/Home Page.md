@@ -259,7 +259,7 @@ description: ""
     }
 
     /* General */
-    .canvas {
+    body .canvas {
         width: 90%;
         margin-left: auto;
         margin-right: auto;
@@ -349,7 +349,7 @@ description: ""
             padding: 12.5px 20px;
         }
 
-        .canvas {
+       body  .canvas {
             width: 90% !important;
         }
 
