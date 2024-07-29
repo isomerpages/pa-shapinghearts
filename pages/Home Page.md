@@ -62,7 +62,7 @@ description: ""
     .story_bg,
     .sponsors_bg {
         position: absolute;
-        height: 100vh;
+        height: 100%;
         left: 0%;
         width: 100%;
         top: 0;
@@ -458,7 +458,7 @@ description: ""
 			</div>
     </section>
 
-    <section class="bg_gray  mt-5 story relative">
+    <section class="bg_gray  story relative">
         <img class="story_bg" src="https://i.ibb.co/ryzxPxg/Elements.png">
         <div style="z-index: 4000; position: relative;" class="canvas section">
             <div class="text-center">
