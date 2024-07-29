@@ -5,408 +5,406 @@ variant: markdown
 description: ""
 ---
 <style>
-        @import url('https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap');
+    @import url('https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap');
 
-        * {
-            margin: 0%;
-            padding: 0;
-            box-sizing: border-box;
-            font-family: "Inter", sans-serif;
-        }
-	
-		.col.is-offset-2, .col.is-offset-2-tablet{
-	margin-left: 0% !important;
- width: 100% !important;
-	}
+    * {
+        margin: 0%;
+        padding: 0;
+        box-sizing: border-box;
+        font-family: "Inter", sans-serif;
+    }
 
-        .hero {
-            margin-top: -20px !important;
-            min-height: 100vh;
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            border: 1.99px solid rgba(0, 0, 0, 0.7);
-            position: relative;
-            width: 100%;
-            overflow: hidden;
-	padding: 20px;
-        }
-	
-	.bp-section-pagetitle{
-	display: none;
-	}
-	
-	.bp-section{
-	padding: 0px
-	}
-	
+    .col.is-offset-2,
+    .col.is-offset-2-tablet {
+        margin-left: 0% !important;
+        width: 100% !important;
+    }
 
-        .hero .canvas {
-            height: 80vh;
-        }
+    .hero {
+        margin-top: -20px !important;
+        height: 100vh;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        border: 1.99px solid rgba(0, 0, 0, 0.7);
+        position: relative;
+        width: 100%;
+        overflow: hidden;
+        padding: 20px;
+    }
 
-	.diagonal-lines { background: url("data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZlcnNpb249JzEuMScgcHJlc2VydmVBc3BlY3RSYXRpbz0nbm9uZScgdmlld0JveD0nMCAwIDEwMCAxMDAnPjxwYXRoIGQ9J00xMDAgMCBMMCAxMDAgJyBzdHJva2U9J3JnYmEoMCwwLDAsMC44KScgc3Ryb2tlLXdpZHRoPScwLjEnLz48cGF0aCBkPSdNMCAwIEwxMDAgMTAwICcgc3Ryb2tlPSdyZ2JhKDAsMCwwLDAuOCknIHN0cm9rZS13aWR0aD0nMC4xJy8+PC9zdmc+"); 
-	background-repeat: no-repeat; 
-	background-position: center center; background-size: 100% 100%, auto; position: absolute; width: 100%; height: 100vh; left: 0; top: 0; 
-	}
-	
-        .gray_box {
-            position: absolute;
-            min-height: 50vh;
-            left: 25%;
-            width: 50%;
-            background: rgba(249, 249, 249, 1);
-            border: 1px solid gainsboro;
-            border-radius: 5px;
-        }
+    .bp-section-pagetitle {
+        display: none;
+    }
 
-        .text {
-            font-weight: bold;
-            z-index: 32;
-        }
-
-        .left {
-            position: absolute;
-            left: 0;
-            height: 100%;
-            display: flex;
-            flex-direction: column;
-            justify-content: space-between;
-            top: 0;
-        }
-
-        .right {
-            position: absolute;
-            right: 0;
-            height: 100%;
-            display: flex;
-            flex-direction: column;
-            justify-content: space-between;
-            top: 0;
-        }
-
-        .find {
-            font-size: 5.5rem;
-        }
-
-        .art {
-            font-size: 5.5rem;
-        }
-
-        .in {
-            font-size: 5.5rem;
-        }
-
-        .meaning {
-            font-size: 5.5rem;
-        }
-
-        .center-text {
-            transform: translateY(-50%);
-            font-size: 1.2rem;
-            font-weight: bold;
-            font-weight: normal;
-        }
+    .bp-section {
+        padding: 0px
+    }
 
 
-        .center-box {
-            position: absolute;
-            top: 50%;
-            left: 50%;
-            width: 30%;
-            height: 20%;
-            transform: translate(-50%, -50%);
-            background-color: rgba(0, 0, 0, 0.1);
-        }
+    .hero .canvas {
+        height: 80vh;
+    }
 
-        /* 2nd section EVents */
-        .events {
-            display: flex;
-            justify-content: space-between;
-        }
+    .relative{
+        position: relative;
+    }
+    
+    .hero_img,
+    .event_bg,
+    .story_bg,
+    .sponsors_bg {
+        position: absolute;
+        height: 100vh;
+        left: 0%;
+        width: 100%;
+        top: 0;
+    }
 
-        .events .event_left {
-            width: 34%;
-        }
+    .text {
+        font-weight: bold;
+        z-index: 32;
+        color: #f5acbe;
+    }
 
-        .event_left p {
-            font-size: 1.1rem;
-            margin-top: 5px;
-            color: gray;
-        }
+    .left {
+        position: absolute;
+        left: 0;
+        height: 100%;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        top: 0;
+    }
 
-        .events .event_right {
-            width: 40%;
-        }
+    .right {
+        position: absolute;
+        right: 0;
+        height: 100%;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        top: 0;
+    }
 
-        .events .secondimg {
-            margin-top: -10px;
-        }
+    .find {
+        font-size: 5.5rem;
+    }
 
-        /* Story */
-        .story .canvas {
-            width: 80%;
-        }
+    .art {
+        font-size: 5.5rem;
+    }
 
-        .story_grid {
-            display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
-            gap: 16px;
-        }
+    .in {
+        font-size: 5.5rem;
+    }
 
-        .story_card h1 {
-            font-size: 3rem;
-	font-weight: bold;
-		margin: 0px;
-        }
+    .meaning {
+        font-size: 5.5rem;
+    }
 
-        .story p {
-            font-size: 1.1rem;
-	margin: 0px;
-        }
-
-
-        /* Sponsors */
-        .sponsors .canvas {
-            width: 70%;
-        }
-
-        .sponsors .sponsors_grid {
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            flex-wrap: wrap;
-            grid-gap: 30px;
-        }
-
-        .sponsors_grid .button {
-            width: 150px;
-            font-weight: bold;
-            border-radius: 2px;
-        }
+    .center-text {
+        transform: translateY(-50%);
+        font-size: 1.2rem;
+        font-weight: bold;
+        color: white;
+        font-weight: normal;
+    }
 
 
-        /* FAQS */
-        .FAQS .canvas {
-            display: flex;
-            justify-content: space-between;
-            flex-wrap: wrap;
-        }
+    .center-box {
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        width: 30%;
+        height: 20%;
+        transform: translate(-50%, -50%);
+        background-color: rgba(0, 0, 0, 0.1);
+    }
+
+    /* 2nd section EVents */
+    .events {
+        display: flex;
+        justify-content: space-between;
+        position: relative;
+    }
+
+    .events .event_left {
+        width: 34%;
+        z-index: 3000;
+    }
+
+    .event_left p {
+        font-size: 1.1rem;
+        margin-top: 5px;
+        color: gray;
+    }
+
+    .events .event_right {
+        width: 48%;
+    }
+
+    .events .secondimg {
+        margin-top: -10px;
+    }
+
+    /* Story */
+    .story .canvas {
+        width: 80%;
+    }
+
+    .story_grid {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+        gap: 16px;
+    }
+
+    .story_card h1 {
+        font-size: 3rem;
+        font-weight: bold;
+        margin: 0px;
+    }
+
+    .story p {
+        font-size: 1.1rem;
+        margin: 0px;
+    }
+
+
+    /* Sponsors */
+    .sponsors .canvas {
+        width: 70%;
+    }
+
+    .sponsors .sponsors_grid {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-wrap: wrap;
+        grid-gap: 30px;
+    }
+
+    .sponsors_grid .button {
+        width: 150px;
+        font-weight: bold;
+        border-radius: 2px;
+    }
+
+
+    /* FAQS */
+    .FAQS .canvas {
+        display: flex;
+        justify-content: space-between;
+        flex-wrap: wrap;
+    }
+
+    .faqs_left,
+    .faqs_right {
+        width: 45%;
+    }
+
+    .faqs_left {
+        padding-left: 20px;
+    }
+
+    .faq-container {
+        width: 100%;
+        margin: auto;
+        padding: 20px;
+    }
+
+    .faq {
+        border-bottom: 1px solid #ccc;
+        padding: 15px 0;
+        margin-top: 20px;
+    }
+
+    .faq-question {
+        cursor: pointer;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        padding: 20px 0px;
+        font-weight: 600;
+        font-size: 1.1rem;
+    }
+
+    .faq-answer {
+        display: none;
+        margin-top: 10px;
+        color: #555;
+    }
+
+    .faq-question::after {
+        content: '▼';
+        font-size: 12px;
+        transform: rotate(0deg);
+        transition: transform 0.3s ease;
+    }
+
+    .faq-question.active::after {
+        transform: rotate(180deg);
+    }
+
+    /* General */
+    .canvas {
+        width: 100%;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    .relative {
+        position: relative;
+    }
+
+    .text-end {
+        text-align: end;
+    }
+
+    .text-center {
+        text-align: center;
+    }
+
+    .main_heading {
+        font-size: 3.5rem;
+        line-height: 1.4;
+        font-weight: bold;
+    }
+
+    .main_heading2 {
+        font-size: 3rem;
+        font-weight: bold;
+    }
+
+    .section {
+        padding: 100px 0px;
+    }
+
+    .button {
+        background: transparent;
+        border: 1.99px solid rgba(0, 0, 0, 1);
+        border-radius: 20px;
+        padding: 12.5px 30px;
+        width: 45%;
+        transition: 0.2s all ease;
+        cursor: pointer;
+    }
+
+    .button:hover {
+        background: black;
+        color: white;
+    }
+
+    .flex {
+        display: flex;
+    }
+
+    .justify-between {
+        justify-content: space-between;
+    }
+
+    .bold {
+        font-weight: bold;
+    }
+
+    .mt-5 {
+        margin-top: 20px;
+    }
+
+
+    .bg_gray {
+        background-color: rgba(244, 244, 244, 1);
+    }
+
+    .text-gray {
+        color: rgb(78, 78, 78);
+    }
+
+
+    @media (max-width: 700px) {
 
         .faqs_left,
         .faqs_right {
-            width: 45%;
-        }
-	
-	.faqs_left{
-	padding-left: 20px;
-	}
-
-        .faq-container {
             width: 100%;
-            margin: auto;
-            padding: 20px;
-        }
-
-        .faq {
-            border-bottom: 1px solid #ccc;
-            padding: 15px 0;
-            margin-top: 20px;
-        }
-
-        .faq-question {
-            cursor: pointer;
-            display: flex;
-            justify-content: space-between;
-            align-items: center;
-            padding: 20px 0px;
-            font-weight: 600;
-            font-size: 1.1rem;
-        }
-
-        .faq-answer {
-            display: none;
-            margin-top: 10px;
-            color: #555;
-        }
-
-        .faq-question::after {
-            content: '▼';
-            font-size: 12px;
-            transform: rotate(0deg);
-            transition: transform 0.3s ease;
-        }
-
-        .faq-question.active::after {
-            transform: rotate(180deg);
-        }
-
-        /* General */
-        .canvas {
-            width: 100%;
-            margin-left: auto;
-            margin-right: auto;
-        }
-
-        .relative {
-            position: relative;
-        }
-
-        .text-end {
-            text-align: end;
-        }
-
-        .text-center {
             text-align: center;
         }
 
-        .main_heading {
-            font-size: 3.5rem;
-            line-height: 1.4;
-	font-weight: bold;
-        }
-
-        .main_heading2 {
-            font-size: 3rem;
-	font-weight: bold;
-        }
-
-        .section {
-            padding: 100px 0px;
+        .faqs_left img {
+            width: 100%;
         }
 
         .button {
-            background: transparent;
-            border: 1.99px solid rgba(0, 0, 0, 1);
-            border-radius: 20px;
-            padding: 12.5px 30px;
-            width: 45%;
-            transition: 0.2s all ease;
-            cursor: pointer;
+            padding: 12.5px 20px;
         }
 
-        .button:hover {
-            background: black;
-            color: white;
+        .canvas {
+            width: 90% !important;
         }
 
-        .flex {
-            display: flex;
+        .events {
+            flex-direction: column-reverse;
         }
 
-        .justify-between {
-            justify-content: space-between;
+        .event_right,
+        .event_left {
+            width: 100% !important;
         }
 
-        .bold {
-            font-weight: bold;
+        .main_heading {
+            font-size: 3rem;
+            line-height: normal;
+        }    
+
+        .hero {
+            min-height: 89vh;
+            padding: 20px 10px;
         }
 
-        .mt-5 {
-            margin-top: 20px;
+        .hero .canvas {
+            height: auto;
         }
 
-
-        .bg_gray {
-            background-color: rgba(244, 244, 244, 1);
+        .left {
+            position: static;
+            height: 100%;
+            display: block;
         }
 
-        .text-gray {
-            color: rgb(78, 78, 78);
+        .right {
+            position: static;
+            height: 100%;
+            display: block;
         }
 
-
-        @media (max-width: 700px) {
-
-            .faqs_left,
-            .faqs_right {
-                width: 100%;
-                text-align: center;
-            }
-
-            .faqs_left img {
-                width: 100%;
-            }
-
-	.button{
-	  padding: 12.5px 20px;
-	}
-            .canvas {
-                width: 90% !important;
-            }
-
-            .events {
-                flex-direction: column-reverse;
-            }
-
-            .event_right,
-            .event_left {
-                width: 100% !important;
-            }
-
-            .main_heading {
-                font-size: 3rem;
-                line-height: normal;
-            }
-
-            .gray_box {
-                display: none;
-            }
-
-            .diagonal-lines {
-                display: none;
-            }
-
-            .hero {
-                min-height: 89vh;
-	padding: 20px 10px;
-            }
-
-            .hero .canvas {
-                height: auto;
-            }
-
-            .left {
-                position: static;
-                height: 100%;
-                display: block;
-            }
-
-            .right {
-                position: static;
-                height: 100%;
-                display: block;
-            }
-
-            .art {
-                text-align: start;
-            }
-
-            .meaning,
-            .art,
-            .in,
-            .find {
-                font-size: 4rem;
-            }
-
-            .center-text {
-                transform: translateY(0%);
-                font-size: 1.2rem;
-            }
-	
-            .main_heading {
-                font-size: 2.5rem;
-            }
-
-            .main_heading2 {
-                font-size: 2rem;
-            }
+        .art {
+            text-align: start;
         }
-    </style>
+
+        .meaning,
+        .art,
+        .in,
+        .find {
+            font-size: 4rem;
+        }
+
+        .center-text {
+            transform: translateY(0%);
+            font-size: 1.2rem;
+        }
+
+        .main_heading {
+            font-size: 2.5rem;
+        }
+
+        .main_heading2 {
+            font-size: 2rem;
+        }
+    }
+</style>
 
 <section>
     <section class="hero">
-        <div class="gray_box"></div>
+        <img class="hero_img" src="https://i.imgur.com/2905Us8.png">
         <div class="canvas relative">
             <div class="hero_box">
                 <div class="left">
@@ -424,10 +422,10 @@ description: ""
                 </div>
             </div>
         </div>
-        <div class="diagonal-lines"></div>
     </section>
-	
-    <section class="canvas section events">
+
+    <section style="z-index: 4000; position: relative;" class="canvas section events">
+        <img class="event_bg" src="https://i.imgur.com/NG08rTq.png">
         <div class="event_left mt-5">
             <h1 class="main_heading">
                 THE LARGEST<br>
@@ -440,14 +438,15 @@ description: ""
                 <button class="button bold">SHOP</button>
             </div>
         </div>
-        <div class="event_right">
-            <img style="width: 50%; margin-right: auto; display: block;" src="./assets/event.png">
-            <img class="secondimg" style="width: 50%; margin-left: auto; display: block;" src="./assets/event.png">
+        <div style="z-index: 4000; position: relative;" class="event_right">
+            <img style="width: 300px; margin-right: auto; display: block;" src="https://i.imgur.com/TZkXnY6.png">
+            <img class="secondimg" style="width: 300px; margin-left: auto; display: block;" src="https://i.imgur.com/DoKO5aG.png">
         </div>
     </section>
 
-    <section class="bg_gray section mt-5 story">
-        <div class="canvas">
+    <section class="bg_gray section mt-5 story relative">
+        <img class="story_bg" src="https://i.imgur.com/NG08rTq.png">
+        <div style="z-index: 4000; position: relative;" class="canvas">
             <div class="text-center">
                 <p class="text-center bold">LOREM IPSUM dolor</p>
                 <h1 class="main_heading2 text-center mt-5">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
@@ -494,9 +493,11 @@ description: ""
             </div>
         </div>
     </section>
-	
-    <section class="section mt-5 sponsors">
-        <div class="canvas">
+
+    <section class="section sponsors relative">
+        <img class="sponsors_bg" src="https://i.imgur.com/NG08rTq.png">
+
+        <div style="z-index: 4000; position: relative;" class="canvas">
             <div class="text-center mt-5">
                 <h3>PLATINUM SPONSORS</h3>
                 <div class="sponsors_grid mt-5">
@@ -528,17 +529,19 @@ description: ""
                     </div>
                 </div>
             </div>
-    </div></section>
+        </div>
+    </section>
 
-    
-    <section class="section bg_gray mt-5 FAQS">
-        <div class="canvas">
+
+    <section class="section bg_gray mt-5 FAQS relative">
+        <img class="story_bg" src="https://i.imgur.com/NG08rTq.png">
+        <div style="z-index: 4000; position: relative;" class="canvas">
             <div class="faqs_left">
                 <p class="bold">LOREM IPSUM DOLOR</p>
                 <h1 class="bold mt-5">
                     Lorem ipsum dolor sit amet adipiscing elit,
                 </h1>
-                <img class="mt-5" src="./assets/event.png">
+                <img class="mt-5" style="width: 500px;" src="https://i.imgur.com/2Uc7Xr1.png">
             </div>
             <div class="faqs_right">
                 <div class="faq-container">
@@ -573,4 +576,4 @@ description: ""
             </div>
         </div>
     </section>
-	</section>
+</section>
