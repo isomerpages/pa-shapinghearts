@@ -441,13 +441,13 @@ description: ""
 			<div class="events_flex canvas">
         <div class="event_left mt-5 section">
             <h1 class="main_heading">
-                THE LARGEST<br>
+                SINGAPORE'S LARGEST<br>
                 INCLUSIVE<br>
-                ARTS EVENT
+                ARTS FESTIVAL
             </h1>
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut.</p>
+            <p>Shop meaningful artworks by artists with disabilities, step into their world through sensorial experiences, and so much more!</p>
             <div class="flex justify-between mt-5">
-                <button class="button bold">PROGRAMME</button>
+							<button class="button bold"><a href="/our-story">Our Story</a></button>
                 <button class="button bold">SHOP</button>
             </div>
         </div>
@@ -462,10 +462,8 @@ description: ""
         <img class="story_bg" src="https://i.ibb.co/ryzxPxg/Elements.png">
         <div style="z-index: 4000; position: relative;" class="canvas section">
             <div class="text-center">
-                <p class="text-center bold">LOREM IPSUM dolor</p>
-                <h1 class="main_heading2 text-center mt-5">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-                    do
-                    eiusmod tempor incididunt ut la</h1>
+                <p class="text-center bold">FOLLOW OUR HEARTS</p>
+                <h1 class="main_heading2 text-center mt-5">Step into the world of talented artists with disabilities and be awed by their art creations at the largest inclusive arts event!</h1>
                 <button style="width: fit-content; background: white;" class="button bold mt-5">OUR STORY</button>
                 <br>
                 <br>
