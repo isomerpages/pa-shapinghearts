@@ -452,8 +452,8 @@ description: ""
             </div>
         </div>
         <div style="z-index: 4000; position: relative;" class="event_right section">
-            <img style="width: 300px; margin-right: auto; display: block;" src="https://i.ibb.co/ccKwydQ/2.png">
-            <img class="secondimg" style="width: 300px; margin-left: auto; display: block;" src="https://i.ibb.co/rZzYfhM/1.png">
+            <img style="width: 300px; margin-right: auto; margin-left: 0px; display: block;" src="https://i.ibb.co/ccKwydQ/2.png">
+            <img class="secondimg" style="width: 300px; margin-left: auto; margin-right: 0px; display: block;" src="https://i.ibb.co/rZzYfhM/1.png">
         </div>
 			</div>
     </section>
