@@ -416,7 +416,7 @@ description: ""
 
 <section>
     <section class="hero">
-        <img class="hero_img" src="https://iili.io/dTOmBig.md.png">
+        <img class="hero_img" src="https://i.ibb.co/vBW0DDc/Homepage.png">
         <div class="canvas relative">
             <div class="hero_box">
                 <div class="left">
@@ -437,7 +437,7 @@ description: ""
     </section>
 
     <section style="z-index: 4000; position: relative;" class="canvas  events">
-        <img class="event_bg" src="https://iili.io/dTOydZP.md.png">
+        <img class="event_bg" src="https://i.ibb.co/ryzxPxg/Elements.png">
         <div class="event_left mt-5 section">
             <h1 class="main_heading">
                 THE LARGEST<br>
@@ -451,13 +451,13 @@ description: ""
             </div>
         </div>
         <div style="z-index: 4000; position: relative;" class="event_right section">
-            <img style="width: 300px; margin-right: auto; display: block;" src="https://iili.io/dTOykNV.png">
-            <img class="secondimg" style="width: 300px; margin-left: auto; display: block;" src="https://iili.io/dTOyeAQ.png">
+            <img style="width: 300px; margin-right: auto; display: block;" src="https://i.ibb.co/rZzYfhM/2.png">
+            <img class="secondimg" style="width: 300px; margin-left: auto; display: block;" src="https://i.ibb.co/rZzYfhM/1.png&quot;">
         </div>
     </section>
 
     <section class="bg_gray  mt-5 story relative">
-        <img class="story_bg" src="https://iili.io/dTOydZP.md.png">
+        <img class="story_bg" src="https://i.ibb.co/ryzxPxg/Elements.png">
         <div style="z-index: 4000; position: relative;" class="canvas section">
             <div class="text-center">
                 <p class="text-center bold">LOREM IPSUM dolor</p>
@@ -507,7 +507,7 @@ description: ""
     </section>
 
     <section class="sponsors relative">
-        <img class="sponsors_bg" src="https://iili.io/dTOydZP.md.png">
+        <img class="sponsors_bg" src="https://i.ibb.co/ryzxPxg/Elements.png">
 
         <div style="z-index: 4000; position: relative;" class="canvas section">
             <div class="text-center mt-5">
@@ -546,14 +546,14 @@ description: ""
 
 
     <section class="bg_gray mt-5 FAQS relative">
-        <img class="story_bg" src="https://iili.io/dTOydZP.md.png">
+        <img class="story_bg" src="https://i.ibb.co/ryzxPxg/Elements.png">
         <div style="z-index: 4000; position: relative;" class="canvas section">
             <div class="faqs_left">
                 <p class="bold">LOREM IPSUM DOLOR</p>
                 <h1 class="bold mt-5">
                     Lorem ipsum dolor sit amet adipiscing elit,
                 </h1>
-                <img class="mt-5" style="width: 500px;" src="https://iili.io/dTOykNV.png">
+                <img class="mt-5" style="width: 500px;" src="https://i.ibb.co/ccKwydQ/3.png">
             </div>
             <div class="faqs_right">
                 <div class="faq-container">
