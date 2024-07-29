@@ -343,23 +343,18 @@ description: ""
     <div class="canvass">
     <div class="hero_left">
     <h1>
-    LOREM IPSUM DOLOR SIT AMET, CONSECER ELIT TEMPOR
+    Step into the world of talent artists with disabilities
     </h1>
     </div>
     <div class="hero_right">
 			<img src="https://i.ibb.co/yWvSB53/1.png">
     <div>
-			<h2>Lorem ipsum dolor sit amet, consectetur adipiscing elit</h2>
+			<h2>...and be awed by their art creations at the largest inclusive arts festival in Singapore!</h2>
     <p>
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut Lorem
-    ipsum
-    dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut Lorem ipsum dolor
-    sit
-    amet,
-    consectetur adipiscing elit, sed do eiusmod tempor incididunt ut Lorem ipsum dolor sit amet,
-    consectetur
-    adipiscing elit, sed do eiusmod tempor incididunt ut
+   An inclusive arts festival that is held annually, Shaping Hearts celebrates the artistic talents (visual and performing arts) of the special needs community. Through this festival, North East CDC provide beneficiaries with a platform to pursue their interests in the arts. Shaping Hearts features an art exhibition, live performances and virtual art sales.
     </p>
+			<p>North East CDC aims to increase awareness and support for differently-abled artists, and the larger special needs community. It also hopes to garner support from corporate sponsors, partners and individuals for differently-abled artists, in the form of donations to support this cause.
+			</p>
 			</div>
     </div>
 			</div>
@@ -369,16 +364,13 @@ description: ""
     <section class="section mt-5 story">
     <div class="canvass">
     <div class="text-center">
-    <p class="bold">LOREM IPSUM DOLOR</p>
-    <br>
-    <h1 class="main_heading2 bold">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-    tempor
+    <h1 class="main_heading2 bold">MEET OUR HEARTISTS
     </h1>
     <br><br>
     
     <div class="story_grid">
     <div class="story_card">
-    <p>Lorem ipsum dolor sit amet consectetur.</p>
+    <p>ALEX</p>
     <button class="arrow">
     <i class="sgds-icon sgds-icon-arrow-right"></i>
     </button>
