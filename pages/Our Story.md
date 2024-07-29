@@ -6,7 +6,7 @@ description: ""
 ---
 <style>
     @import url('https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap');
-    
+	
     * {
     margin: 0%;
     padding: 0;
@@ -373,7 +373,7 @@ description: ""
     }
     }
     </style>
-    <section>
+<section>
     <div class="hero">
     <div class="canvass">
     <div class="hero_left">
@@ -545,5 +545,4 @@ description: ""
     </div>
     </div>
     </section>
-	
     </section>
