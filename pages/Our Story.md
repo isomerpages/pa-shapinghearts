@@ -406,6 +406,8 @@ description: ""
     adipiscing elit, sed do eiusmod tempor incididunt ut
     </p>
     </div>
+			</div>
+	</div>
     
     <div class="banner">
     <div class="canvass">
@@ -529,4 +531,4 @@ description: ""
     </div>
     </div>
     </section>
-    </div></div></section>
+    </section>
