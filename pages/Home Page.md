@@ -130,7 +130,7 @@ description: ""
     }
 
     /* 2nd section EVents */
-    .events {
+    .events_flex {
         display: flex;
         justify-content: space-between;
         position: relative;
@@ -353,7 +353,7 @@ description: ""
             width: 90% !important;
         }
 
-        .events {
+        .events_flex {
             flex-direction: column-reverse;
         }
 
@@ -436,8 +436,9 @@ description: ""
         </div>
     </section>
 
-    <section style="z-index: 4000; position: relative;" class="canvas  events">
+    <section style="z-index: 4000; position: relative;" class="events">
         <img class="event_bg" src="https://i.ibb.co/ryzxPxg/Elements.png">
+			<div class="events_flex canvas">
         <div class="event_left mt-5 section">
             <h1 class="main_heading">
                 THE LARGEST<br>
@@ -454,6 +455,7 @@ description: ""
             <img style="width: 300px; margin-right: auto; display: block;" src="https://i.ibb.co/rZzYfhM/2.png">
             <img class="secondimg" style="width: 300px; margin-left: auto; display: block;" src="https://i.ibb.co/rZzYfhM/1.png&quot;">
         </div>
+			</div>
     </section>
 
     <section class="bg_gray  mt-5 story relative">
