@@ -19,6 +19,10 @@ description: ""
         margin-left: 0% !important;
         width: 100% !important;
     }
+	
+	.content h1, .content h2, .content h3, .content h4, .content h5 {
+	color: black !important;
+}
 
     .hero {
         margin-top: -20px !important;
