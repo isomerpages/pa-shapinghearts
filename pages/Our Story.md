@@ -24,7 +24,7 @@ description: ""
         width: 100% !important;
     }
 
-    .content h1, .content h2, .content h3, .content h4, .content h5 {
+  .content h1, .content h2, .content h3, .content h4, .content h5 {
     color: black !important;
 }
 	
