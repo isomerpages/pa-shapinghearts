@@ -499,15 +499,12 @@ description: ""
     <i class="sgds-icon sgds-icon-arrow-right"></i>
     </button>
     </div>
-    
-    
-    
     </div>
     </div>
     </div>
     </section>
     
-    
+   
     <section class="section bg_gray FAQS">
     <div class="canvass">
     <div class="faqs_left">
@@ -551,5 +548,4 @@ description: ""
     </div>
     </div>
     </section>
-    
     </section>
