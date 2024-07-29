@@ -427,9 +427,9 @@ description: ""
         </div>
     </section>
 
-    <section style="z-index: 4000; position: relative;" class="canvas section events">
+    <section style="z-index: 4000; position: relative;" class="canvas  events">
         <img class="event_bg" src="https://i.imgur.com/NG08rTq.png">
-        <div class="event_left mt-5">
+        <div class="event_left mt-5 section">
             <h1 class="main_heading">
                 THE LARGEST<br>
                 INCLUSIVE<br>
@@ -441,15 +441,15 @@ description: ""
                 <button class="button bold">SHOP</button>
             </div>
         </div>
-        <div style="z-index: 4000; position: relative;" class="event_right">
+        <div style="z-index: 4000; position: relative;" class="event_right section">
             <img style="width: 300px; margin-right: auto; display: block;" src="https://i.imgur.com/TZkXnY6.png">
             <img class="secondimg" style="width: 300px; margin-left: auto; display: block;" src="https://i.imgur.com/DoKO5aG.png">
         </div>
     </section>
 
-    <section class="bg_gray section mt-5 story relative">
+    <section class="bg_gray  mt-5 story relative">
         <img class="story_bg" src="https://i.imgur.com/NG08rTq.png">
-        <div style="z-index: 4000; position: relative;" class="canvas">
+        <div style="z-index: 4000; position: relative;" class="canvas section">
             <div class="text-center">
                 <p class="text-center bold">LOREM IPSUM dolor</p>
                 <h1 class="main_heading2 text-center mt-5">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
@@ -497,10 +497,10 @@ description: ""
         </div>
     </section>
 
-    <section class="section sponsors relative">
+    <section class="sponsors relative">
         <img class="sponsors_bg" src="https://i.imgur.com/NG08rTq.png">
 
-        <div style="z-index: 4000; position: relative;" class="canvas">
+        <div style="z-index: 4000; position: relative;" class="canvas section">
             <div class="text-center mt-5">
                 <h3>PLATINUM SPONSORS</h3>
                 <div class="sponsors_grid mt-5">
@@ -536,9 +536,9 @@ description: ""
     </section>
 
 
-    <section class="section bg_gray mt-5 FAQS relative">
+    <section class="bg_gray mt-5 FAQS relative">
         <img class="story_bg" src="https://i.imgur.com/NG08rTq.png">
-        <div style="z-index: 4000; position: relative;" class="canvas">
+        <div style="z-index: 4000; position: relative;" class="canvas section">
             <div class="faqs_left">
                 <p class="bold">LOREM IPSUM DOLOR</p>
                 <h1 class="bold mt-5">
