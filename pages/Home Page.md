@@ -548,9 +548,9 @@ description: ""
         <img class="story_bg" src="https://i.ibb.co/ryzxPxg/Elements.png">
         <div style="z-index: 4000; position: relative;" class="canvas section">
             <div class="faqs_left">
-                <p class="bold">LOREM IPSUM DOLOR</p>
+                <p class="bold">FREQUENTLY ASKED QUESTIONS</p>
                 <h1 class="bold mt-5">
-                    Lorem ipsum dolor sit amet adipiscing elit,
+                  Shaping Hearts is where you can experience the artists’ works through multiple lenses – an art exhibition, live performances, a charity art auction – and celebrate the diverse talents in our community.
                 </h1>
                 <img class="mt-5" style="width: 500px;" src="https://i.ibb.co/0YcyxrZ/3.png">
             </div>
