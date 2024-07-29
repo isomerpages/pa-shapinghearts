@@ -29,7 +29,7 @@ description: ""
         width: 100% !important;
     }
 
-  .content h1, .content h2, .content h3, .content h4, .content h5 {
+ body .content h1, body .content h2,body .content h3, body .content h4, body .content h5 {
     color: black !important;
 }
 	
@@ -53,6 +53,7 @@ description: ""
     .hero h1 {
     font-size: 3rem;
     font-weight: bold;
+	color: white !important;
     }
     
     .hero h2 {
@@ -61,7 +62,7 @@ description: ""
     }
     
     .hero p {
-    color: rgb(105, 105, 105);
+    color: white;
     }
     
     .hero_left {
