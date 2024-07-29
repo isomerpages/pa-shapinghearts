@@ -59,6 +59,7 @@ description: ""
     .hero h2 {
     font-size: 2rem;
     font-weight: bold;
+	color: white !important;
     }
     
     .hero p {
@@ -75,7 +76,6 @@ description: ""
 	display: flex;
 	align-items: start;
     width: 100%;
-    margin-left: auto;
     }
     
     .hero_center {
@@ -347,6 +347,8 @@ description: ""
     </div>
     <div class="hero_right">
 			<img src="https://i.ibb.co/yWvSB53/1.png">
+    <div>
+			<h2>Lorem ipsum dolor sit amet, consectetur adipiscing elit</h2>
     <p>
     Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut Lorem
     ipsum
@@ -357,16 +359,7 @@ description: ""
     consectetur
     adipiscing elit, sed do eiusmod tempor incididunt ut
     </p>
-    <p>
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut Lorem
-    ipsum
-    dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut Lorem ipsum dolor
-    sit
-    amet,
-    consectetur adipiscing elit, sed do eiusmod tempor incididunt ut Lorem ipsum dolor sit amet,
-    consectetur
-    adipiscing elit, sed do eiusmod tempor incididunt ut
-    </p>
+			</div>
     </div>
 			</div>
 	</div>
