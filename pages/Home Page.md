@@ -136,6 +136,11 @@ description: ""
         width: 34%;
         z-index: 3000;
     }
+	
+	.bp-container{
+	width: 100% !important;
+	max-width: 100% !important;
+	}
 
     .event_left p {
         font-size: 1.1rem;
@@ -251,7 +256,7 @@ description: ""
 
     /* General */
     .canvas {
-        width: 100%;
+        width: 90%;
         margin-left: auto;
         margin-right: auto;
     }
