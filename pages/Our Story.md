@@ -32,6 +32,9 @@ description: ""
     min-height: 100vh;
     padding: 30px 0px;
     margin-top: -20px;
+	background: url("https://i.ibb.co/3rH1qph/Background.png") no-repeat;
+	background-size: cover;
+	background-position: center;
     }
     
             .bp-section-pagetitle{
@@ -403,25 +406,6 @@ description: ""
     adipiscing elit, sed do eiusmod tempor incididunt ut
     </p>
     </div>
-    <div class="hero_left">
-    <img src="./assets/event.png">
-    <img src="./assets/event.png">
-    </div>
-    <br>
-    <div class="hero_left">
-    <h2>Lorem ipsum dolor sit amet, consectetur adipiscing eli</h2>
-    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut Lorem
-    ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut Lorem ipsum
-    dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut Lorem ipsum dolor
-    sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut</p>
-    </div>
-    <br>
-    <br>
-    <div class="hero_center">
-    <img style="width: 100%;" src="./assets/Frame 9.png">
-    </div>
-    </div>
-    </div>
     
     <div class="banner">
     <div class="canvass">
@@ -545,4 +529,4 @@ description: ""
     </div>
     </div>
     </section>
-    </section>
+    </div></div></section>
