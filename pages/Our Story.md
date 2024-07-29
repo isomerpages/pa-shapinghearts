@@ -72,7 +72,9 @@ description: ""
     }
     
     .hero_right {
-    width: 50%;
+	display: flex;
+	align-items: start;
+    width: 100%;
     margin-left: auto;
     }
     
@@ -391,6 +393,7 @@ description: ""
     </h1>
     </div>
     <div class="hero_right">
+			<img src="https://i.ibb.co/yWvSB53/1.png">
     <p>
     Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut Lorem
     ipsum
