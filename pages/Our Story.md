@@ -176,6 +176,7 @@ description: ""
     .main_heading2 {
     font-size: 3rem;
         margin-top: 0 !important;
+	color: black !important;
     }
     
     .section {
