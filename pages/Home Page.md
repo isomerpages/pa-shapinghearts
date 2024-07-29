@@ -14,7 +14,7 @@ description: ""
     font-family: "Inter", sans-serif;
 }
 	
-html {
+.canvasstext  {
 	    width: 100% !important;
 	}
 	
@@ -128,7 +128,7 @@ html {
 }
 
 /* 2nd section Events */
-.events {
+.events_flex {
     display: flex;
     justify-content: space-between;
     position: relative;
@@ -430,8 +430,9 @@ html {
         </div>
     </section>
 
-    <section style="z-index: 4000; position: relative;" class="canvass events">
+    <section style="z-index: 4000; position: relative;" class="relative events">
         <img class="event_bg" src="https://i.imgur.com/NG08rTq.png">
+			<div class="canvass">
         <div class="event_left mt-5 section">
             <h1 class="main_heading">
                 THE LARGEST<br>
@@ -442,6 +443,7 @@ html {
         </div>
         <div class="event_right mt-5 section">
             <img class="secondimg" src="https://i.imgur.com/hfmiZ2B.png">
+				</div>
         </div>
     </section>
 
