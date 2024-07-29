@@ -26,7 +26,6 @@ description: ""
         display: flex;
         justify-content: center;
         align-items: center;
-        border: 1.99px solid rgba(0, 0, 0, 0.7);
         position: relative;
         width: 100%;
         overflow: hidden;
