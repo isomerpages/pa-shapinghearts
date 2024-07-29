@@ -101,40 +101,6 @@ description: ""
     }
     
     
-    /* Banner */
-    .banner {
-    background: rgba(209, 209, 209, 1);
-    }
-    
-    .banner h1{
-    font-size: 2rem;
-    font-weight: bold;
-    line-height: 1.2;
-    }
-    .banner .canvass {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    }
-    
-    .banner_left {
-    width: 50%;
-    padding: 20px 20px;
-    }
-    
-    .banner_img {
-    position: relative;
-    width: 35%;
-    padding-bottom: 20px;
-    padding-right: 20px;
-    }
-    
-    .banner img {
-    width: 100%;
-    height: 100%;
-    }
-    
-    
     /* STORY */
     .story .canvass {
     width: 80%;
@@ -365,20 +331,7 @@ description: ""
     margin-left: 0px;
     }
     
-    .banner .canvass {
-    flex-direction: column-reverse;
-    }
-    
-    .banner_left {
-    width: 100%;
-    }
-    
-    .banner_img {
-    width: 50%;
-    margin-left: auto;
-    margin-right: auto;
-    }
-    
+  
     .main_heading2 {
     font-size: 2rem;
     }
@@ -418,20 +371,7 @@ description: ""
 			</div>
 	</div>
     
-    <div class="banner">
-    <div class="canvass">
-    <div class="banner_left">
-    <h1>
-    “Lorem ipsum dolor sit amet, consectetur adipiscing eli”
-    </h1>
-    <p class="mt-5">- John Smith, 15</p>
-    </div>
-    <div class="banner_img">
-    <img src="./assets/Frame 6.png">
-    </div>
-    </div>
-    </div>
-    
+  
     <section class="section mt-5 story">
     <div class="canvass">
     <div class="text-center">
