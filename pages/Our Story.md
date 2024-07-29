@@ -26,15 +26,12 @@ description: ""
 
     .content h1, .content h2, .content h3, .content h4, .content h5 {
     color: black !important;
-
 }
 	
     .hero {
     min-height: 100vh;
     padding: 30px 0px;
     margin-top: -20px;
-    /* border-top: 1px solid rgba(0, 0, 0, 0.7);
-    border-bottom: 1px solid rgba(0, 0, 0, 0.7); */
     }
     
             .bp-section-pagetitle{
@@ -548,4 +545,5 @@ description: ""
     </div>
     </div>
     </section>
+	
     </section>
