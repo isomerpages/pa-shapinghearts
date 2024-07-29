@@ -452,8 +452,8 @@ description: ""
             </div>
         </div>
         <div style="z-index: 4000; position: relative;" class="event_right section">
-            <img style="width: 300px; margin-right: auto; display: block;" src="https://i.ibb.co/rZzYfhM/2.png">
-            <img class="secondimg" style="width: 300px; margin-left: auto; display: block;" src="https://i.ibb.co/rZzYfhM/1.png&quot;">
+            <img style="width: 300px; margin-right: auto; display: block;" src="https://i.ibb.co/ccKwydQ/2.png">
+            <img class="secondimg" style="width: 300px; margin-left: auto; display: block;" src="https://i.ibb.co/rZzYfhM/1.png">
         </div>
 			</div>
     </section>
@@ -555,7 +555,7 @@ description: ""
                 <h1 class="bold mt-5">
                     Lorem ipsum dolor sit amet adipiscing elit,
                 </h1>
-                <img class="mt-5" style="width: 500px;" src="https://i.ibb.co/ccKwydQ/3.png">
+                <img class="mt-5" style="width: 500px;" src="https://i.ibb.co/0YcyxrZ/3.png">
             </div>
             <div class="faqs_right">
                 <div class="faq-container">
