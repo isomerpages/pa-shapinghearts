@@ -61,10 +61,10 @@ description: ""
         top: 0;
     }
 
-    .text {
+  .hero  .text {
         font-weight: bold;
         z-index: 32;
-        color: #f5acbe;
+        color: #f5acbe !important;
     }
 
     .left {
