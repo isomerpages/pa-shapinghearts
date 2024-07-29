@@ -13,7 +13,22 @@ description: ""
     box-sizing: border-box;
     font-family: "Inter", sans-serif;
     }
-    
+	
+	    html {
+    width: 100% !important;
+    }
+
+    .col.is-offset-2,
+    .col.is-offset-2-tablet {
+        margin-left: 0% !important;
+        width: 100% !important;
+    }
+
+    .content h1, .content h2, .content h3, .content h4, .content h5 {
+    color: black !important;
+
+}
+	
     .hero {
     min-height: 100vh;
     padding: 30px 0px;
@@ -161,8 +176,8 @@ description: ""
     }
     
     /* General */
-    .canvass {
-    width: 100%;
+    body .canvass {
+    width: 90%;
     margin-left: auto;
     margin-right: auto;
     }
@@ -299,7 +314,7 @@ description: ""
     
     
     @media (max-width: 800px) {
-        .canvass{
+       body .canvass{
         width: 90% !important;
         margin-left: auto;
         margin-right: auto;
