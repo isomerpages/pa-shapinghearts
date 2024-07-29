@@ -14,6 +14,11 @@ description: ""
     font-family: "Inter", sans-serif;
     }
 	
+	.bp-container{
+	max-width: 100%;
+	width: 100%;
+	}
+	
 	    html {
     width: 100% !important;
     }
