@@ -546,8 +546,7 @@ description: ""
         </div>
     </section>
 
-
-    <section class="bg_gray mt-5 FAQS relative">
+    <section class="bg_gray FAQS relative">
         <img class="story_bg" src="https://i.ibb.co/ryzxPxg/Elements.png">
         <div style="z-index: 4000; position: relative;" class="canvas section">
             <div class="faqs_left">
