@@ -468,51 +468,40 @@ description: ""
     </div>
     </section>
 	    
-   
-    <section class="section bg_gray FAQS">
-    <div class="canvass">
+   <section class="section bg_gray FAQS">
+  <div class="canvass">
     <div class="faqs_left">
-    <p class="bold">LOREM IPSUM dolor</p>
-    <h1 class="bold mt-5">
-    Lorem ipsum dolor sit amet adipiscing elit,
-    </h1>
-    <br>
-    <img class="mt-5" src="./assets/event.png">
+      <p class="bold">LOREM IPSUM dolor</p>
+      <h1 class="bold mt-5">Lorem ipsum dolor sit amet adipiscing elit,</h1>
+      <br>
+      <img alt="Event" class="mt-5" src="./assets/event.png">
     </div>
     <div class="faqs_right">
-    <div class="faq-container">
-    <div class="faq">
-			<input class="faq-input" id="faq1" type="checkbox">
-    <div class="faq-question">
-    Add commonly asked questions here
+      <div class="faq-container">
+        <div class="faq">
+          <input class="faq-input" id="faq1" type="checkbox">
+          <label class="faq-question" for="faq1">Add commonly asked questions here</label>
+          <div class="faq-answer">
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam ut lorem qui Nullam ut lorem qui.
+          </div>
+        </div>
+        <div class="faq">
+          <input class="faq-input" id="faq2" type="checkbox">
+          <label class="faq-question" for="faq2">Add commonly asked questions here</label>
+          <div class="faq-answer">
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam ut lorem qui Nullam ut lorem qui.
+          </div>
+        </div>
+        <div class="faq">
+          <input class="faq-input" id="faq3" type="checkbox">
+          <label class="faq-question" for="faq3">Add commonly asked questions here</label>
+          <div class="faq-answer">
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam ut lorem qui Nullam ut lorem qui.
+          </div>
+        </div>
+      </div>
     </div>
-    <div class="faq-answer">
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam ut lorem qui Nullam ut lorem
-    qui.
-    </div>
-    </div>
-    <div class="faq">
-				<input class="faq-input" id="faq2" type="checkbox">
-    <div class="faq-question">
-    Add commonly asked questions here
-    </div>
-    <div class="faq-answer">
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam ut lorem qui Nullam ut lorem
-    qui.
-    </div>
-    </div>
-    <div class="faq">
-				<input class="faq-input" id="faq3" type="checkbox">
-    <div class="faq-question">
-    Add commonly asked questions here
-    </div>
-    <div class="faq-answer">
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam ut lorem qui Nullam ut lorem
-    qui.
-    </div>
-    </div>
-    </div>
-    </div>
-    </div>
-    </section>
+  </div>
+</section>
+
     </section>
