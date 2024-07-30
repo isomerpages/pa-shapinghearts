@@ -210,7 +210,7 @@ description: ""
 
 
     /* FAQS */
-    .FAQS .canvass {
+    .FAQS .canvas {
     display: flex;
     justify-content: space-between;
     flex-wrap: wrap;
@@ -220,6 +220,11 @@ description: ""
     max-width: 800px;
     margin: 0 auto;
   }
+	
+		.faq_left,
+	.faq_right {
+	max-width: 500px
+	}
 
   .faq {
     border-bottom: 1px solid #ccc;
