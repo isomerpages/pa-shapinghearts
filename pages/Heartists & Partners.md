@@ -134,7 +134,7 @@ description: ""
         }
 
         .section {
-            padding: 70px 0px;
+            padding: 50px 0px;
         }
 	
 	.text-center{
