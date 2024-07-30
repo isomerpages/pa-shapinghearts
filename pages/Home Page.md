@@ -197,7 +197,7 @@ description: ""
         grid-gap: 30px;
     }
 
-    .sponsors_grid .button {
+    .sponsors_grid img {
         width: 150px;
         font-weight: bold;
         border-radius: 2px;
@@ -529,31 +529,45 @@ description: ""
             <div class="text-center mt-5">
                 <h3>PLATINUM SPONSORS</h3>
                 <div class="sponsors_grid mt-5">
-                    <button class="button">LOGO</button>
-                    <button class="button">LOGO</button>
-                    <button class="button">LOGO</button>
+                    <img src="https://i.ibb.co/DfppnNY/PLATINUM-Neo-Group-Logo.png">
+                    <img src="https://i.ibb.co/jwd4skW/Rigel-Logo-Horizontalnew-004.png">
+                    <img src="https://i.ibb.co/vqPKFGQ/PLATINUM-SP-55th-Horizontal-Logo-2.png">
                 </div>
+                <br>
 
                 <div class="text-center mt-5">
                     <h3>SILVER SPONSORS</h3>
                     <div class="sponsors_grid mt-5">
-                        <button class="button">LOGO</button>
-                        <button class="button">LOGO</button>
+                        <img src="https://i.ibb.co/kSyrgzb/Myck.jpg">
+                        <img src="https://i.ibb.co/kSyrgzb/Myck.jpg">
                     </div>
                 </div>
+                <br>
 
                 <div class="text-center mt-5">
                     <h3>BRONZE SPONSORS</h3>
                     <div class="sponsors_grid mt-5">
-                        <button class="button">LOGO</button>
-                        <button class="button">LOGO</button>
-                        <button class="button">LOGO</button>
-                        <button class="button">LOGO</button>
-                        <button class="button">LOGO</button>
-                        <button class="button">LOGO</button>
-                        <button class="button">LOGO</button>
-                        <button class="button">LOGO</button>
-
+                        <img src="https://i.ibb.co/Fgs9HfR/global-indian.png">
+                        <img src="https://i.ibb.co/ByfhfkD/Logo-Jean-Yip-Group.png">
+                        <img src="https://i.ibb.co/qkbc2gw/RICO-002-scaled.jpg">
+                        <img src="https://i.ibb.co/SBrd86x/OUE.jpg">
+                        <img style="width: 100px;" src="https://i.ibb.co/XttB1jx/BRONZE-P-G-Logo-RGB.png">
+                        <img src="https://i.ibb.co/gg1Xk9j/LOGO-NEW-JULY-MULTIPLE-TRANSPARENT-new-extend-40.png">
+                    </div>
+                </div>
+                <br>
+                <div class="text-center mt-5">
+                    <h3>TECH SPONSORS</h3>
+                    <div class="sponsors_grid mt-5">
+                        <img src="https://i.ibb.co/FJy3P94/HW-POS-RGB-Horizontal-300ppi-002.png">
+                    </div>
+                </div>
+                <br>
+                <div class="text-center mt-5">
+                    <h3>ART PATRON</h3>
+                    <div class="sponsors_grid mt-5">
+                        <img src="https://i.ibb.co/FnZzsFC/Appliedlogo-blue-102021-002.png">
+                        <img src="https://i.ibb.co/mXdQQPR/SSIA-Logo-CMYK-002.jpg">
                     </div>
                 </div>
             </div>
