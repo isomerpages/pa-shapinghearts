@@ -197,7 +197,7 @@ description: ""
         grid-gap: 30px;
     }
 
-	.sponsors_grid h3{
+	.sponsors h3{
 	color: black !important;
 	}
 	
