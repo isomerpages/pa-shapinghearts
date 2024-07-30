@@ -123,6 +123,14 @@ description: ""
 
 
     /* 2nd section EVents */
+	.events{
+	background: url("https://i.ibb.co/YhHHDZ2/Asset-13.png") no-repeat;
+	background-size: cover;
+	background-position: center;
+	height: 100%;
+	width: 100%;
+	}
+	
     .events_flex {
         display: flex;
         justify-content: space-between;
@@ -439,7 +447,6 @@ description: ""
     </section>
 
     <section style="z-index: 4000; position: relative;" class="events">
-        <img class="event_bg" src="https://i.ibb.co/YhHHDZ2/Asset-13.png">
 			<div class="events_flex canvas">
         <div class="event_left mt-5 section">
             <h1 class="main_heading">
