@@ -162,10 +162,6 @@ description: ""
     }
 
     /* Story */
-	.story{
-	height: 100%;
-	width: 100%;
-	}
     .story .canvas {
         width: 80%;
     }
@@ -189,10 +185,6 @@ description: ""
 
 
     /* Sponsors */
-	.sponsors {
-	height: 100%;
-	width: 100%;
-	}
     .sponsors .canvas {
         width: 70%;
     }
@@ -212,12 +204,7 @@ description: ""
     }
 
 
-    /* FAQS */
-	.FAQS{
-	height: 100%;
-	width: 100%;
-	}
-	
+    /* FAQS */	
     .FAQS .canvas {
     display: flex;
     justify-content: space-between;
