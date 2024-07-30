@@ -199,6 +199,7 @@ description: ""
 
 	.sponsors h3{
 	color: black !important;
+	font-weight: bold;
 	}
 	
     .sponsors_grid img {
