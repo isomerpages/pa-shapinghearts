@@ -195,6 +195,13 @@ description: ""
 
 
     /* Sponsors */
+	.sponsors {
+		background: url("https://i.ibb.co/WGjtMzp/Asset-15.png") no-repeat;
+	background-size: cover;
+	background-position: center;
+	height: 100%;
+	width: 100%;
+	}
     .sponsors .canvas {
         width: 70%;
     }
@@ -215,6 +222,14 @@ description: ""
 
 
     /* FAQS */
+	.FAQS{
+	background: url("https://i.ibb.co/JBFRmjG/Asset-16.png") no-repeat;
+	background-size: cover;
+	background-position: center;
+	height: 100%;
+	width: 100%;
+	}
+	
     .FAQS .canvas {
     display: flex;
     justify-content: space-between;
@@ -522,7 +537,6 @@ description: ""
     </section>
 
     <section class="sponsors relative">
-        <img class="sponsors_bg" src="https://i.ibb.co/ryzxPxg/Elements.png">
 
         <div style="z-index: 4000; position: relative;" class="canvas section">
             <div class="text-center mt-5">
@@ -560,7 +574,6 @@ description: ""
     </section>
 
     <section class="bg_gray FAQS relative">
-        <img class="story_bg" src="https://i.ibb.co/ryzxPxg/Elements.png">
         <div style="z-index: 4000; position: relative;" class="canvas section">
             <div class="faqs_left">
                 <p class="bold">FREQUENTLY ASKED QUESTIONS</p>
