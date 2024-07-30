@@ -19,6 +19,10 @@ description: ""
 	width: 100%;
 	}
 	
+		.has-float-btns{
+	display:none;
+	}
+	
 	    html {
     width: 100% !important;
     }
