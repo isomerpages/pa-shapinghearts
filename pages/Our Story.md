@@ -93,7 +93,7 @@ description: ""
 	}
 	
 	.VideoPlayer{
-	height: 90vh;
+	padding: 30px 0px;
 	display: flex;
 	align-items: center;
 	justify-content: center;
@@ -207,7 +207,7 @@ description: ""
     }
     
     .section {
-    padding: 100px 0px;
+    padding: 70px 0px;
     }
     
     .button {
@@ -381,6 +381,12 @@ color: black !important;
     font-size: 2rem;
     }
     }
+	
+	.story h1{
+	color: black !important;
+	font-weight: bold;
+	}
+	
     </style>
 <section>
     <div class="hero">
