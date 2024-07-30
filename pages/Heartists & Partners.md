@@ -47,6 +47,7 @@ description: ""
             font-size: 3rem;
 	font-weight: bold;
 	line-height: 1.4;
+	color: black !important;
         }
 
         .hero_left p {
@@ -293,7 +294,7 @@ description: ""
                     ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut</p>
             </div>
             <div class="hero_right">
-                <img src="./assets/event.png">
+                <img src="https://i.ibb.co/gzGc84Z/Partners-1.png">
             </div>
         </div>
     </section>
