@@ -88,10 +88,22 @@ description: ""
 
 	}
 	
+	.VideoPlayer{
+	height: 90vh;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	background: url("https://i.ibb.co/ryzxPxg/Elements.png") no-repeat;
+	background-position: center;
+	background-size: cover;
+	}
+	
     .hero_center {
     width: 65%;
     margin-left: auto;
     margin-right: auto;
+	position: relative;
+	z-index: 3000;
     }
         
         .col.is-offset-2, .col.is-offset-2-tablet{
@@ -387,7 +399,6 @@ description: ""
 	</div>
     
   	<div class="VideoPlayer relative">
-				<img class="bg_player" src="https://i.ibb.co/ryzxPxg/Elements.png">
 		<div class="hero_center">
 			<img style="width: 100%" src="https://www.intermedia-solutions.net/wp-content/uploads/2021/06/video-thumbnail-01.jpg">
 		</div>
