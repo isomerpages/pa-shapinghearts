@@ -210,59 +210,61 @@ description: ""
 
 
     /* FAQS */
-    .FAQS .canvas {
-        display: flex;
-        justify-content: space-between;
-        flex-wrap: wrap;
+    .FAQS .canvass {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
     }
+    
+  .faq-container {
+    max-width: 800px;
+    margin: 0 auto;
+  }
 
-    .faqs_left,
-    .faqs_right {
-        width: 45%;
-    }
+  .faq {
+    border-bottom: 1px solid #ccc;
+    margin-bottom: 10px;
+  }
 
-    .faqs_left {
-        padding-left: 20px;
-    }
+  .faq-input {
+    display: none;
+  }
 
-    .faq-container {
-        width: 100%;
-        margin: auto;
-        padding: 20px;
-    }
+  .faq-question {
+    display: block;
+    padding: 15px 0;
+    font-weight: bold;
+    cursor: pointer;
+    background: #f1f1f1;
+    margin: 0;
+  }
 
-    .faq {
-        border-bottom: 1px solid #ccc;
-        padding: 15px 0;
-        margin-top: 20px;
-    }
+  .faq-answer {
+    max-height: 0;
+    overflow: hidden;
+    transition: max-height 0.3s ease-out;
+    background: #fff;
+    padding: 0 15px;
+  }
 
-    .faq-question {
-        cursor: pointer;
-        display: flex;
-        justify-content: space-between;
-        align-items: center;
-        padding: 20px 0px;
-        font-weight: 600;
-        font-size: 1.1rem;
-    }
+  .faq-input:checked + .faq-question + .faq-answer {
+    max-height: 200px; /* Adjust this value as needed */
+    padding: 15px 15px;
+  }
 
-    .faq-answer {
-        display: none;
-        margin-top: 10px;
-        color: #555;
-    }
+  .faq-input:checked + .faq-question {
+    background: #e0e0e0;
+  }
 
-    .faq-question::after {
-        content: '▼';
-        font-size: 12px;
-        transform: rotate(0deg);
-        transition: transform 0.3s ease;
-    }
+  .faq-question::after {
+    content: '▼';
+    float: right;
+    transition: transform 0.3s ease-out;
+  }
 
-    .faq-question.active::after {
-        transform: rotate(180deg);
-    }
+  .faq-input:checked + .faq-question::after {
+    transform: rotate(180deg);
+  }
 
     /* General */
     body .canvas {
@@ -559,37 +561,30 @@ description: ""
                 </h1>
                 <img class="mt-5" style="width: 500px;" src="https://i.ibb.co/0YcyxrZ/3.png">
             </div>
-            <div class="faqs_right">
-                <div class="faq-container">
-                    <div class="faq">
-                        <div class="faq-question">
-                            Add commonly asked questions here
-                        </div>
-                        <div class="faq-answer">
-                            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam ut lorem qui Nullam ut lorem
-                            qui.
-                        </div>
-                    </div>
-                    <div class="faq">
-                        <div class="faq-question">
-                            Add commonly asked questions here
-                        </div>
-                        <div class="faq-answer">
-                            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam ut lorem qui Nullam ut lorem
-                            qui.
-                        </div>
-                    </div>
-                    <div class="faq">
-                        <div class="faq-question">
-                            Add commonly asked questions here
-                        </div>
-                        <div class="faq-answer">
-                            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam ut lorem qui Nullam ut lorem
-                            qui.
-                        </div>
-                    </div>
-                </div>
-            </div>
+					<div class="faqs_right">
+      <div class="faq-container">
+        <div class="faq">
+          <input class="faq-input" id="faq1" type="checkbox">
+          <label class="faq-question" for="faq1">Add commonly asked questions here</label>
+          <div class="faq-answer">
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam ut lorem qui Nullam ut lorem qui.
+          </div>
         </div>
-    </section>
+        <div class="faq">
+          <input class="faq-input" id="faq2" type="checkbox">
+          <label class="faq-question" for="faq2">Add commonly asked questions here</label>
+          <div class="faq-answer">
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam ut lorem qui Nullam ut lorem qui.
+          </div>
+        </div>
+        <div class="faq">
+          <input class="faq-input" id="faq3" type="checkbox">
+          <label class="faq-question" for="faq3">Add commonly asked questions here</label>
+          <div class="faq-answer">
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam ut lorem qui Nullam ut lorem qui.
+          </div>
+        </div>
+      </div>
+			</div>
+    </div></section>
 </section>
