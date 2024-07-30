@@ -270,62 +270,55 @@ description: ""
     flex-wrap: wrap;
     }
     
-    
-    .faqs_left{
-    padding-left: 20px;
-    }
-    
-    .faqs_left h1{
-    font-size: 2rem;
-    line-height: 1.2;
-    font-weight: bold;
-    }
-    
-    .faqs_left,
-    .faqs_right {
-    width: 48%;
-    }
-    
-    .faq-container {
-    width: 100%;
-    margin: auto;
-    padding: 20px;
-    }
-    
-    .faq {
+  .faq-container {
+    max-width: 800px;
+    margin: 0 auto;
+  }
+
+  .faq {
     border-bottom: 1px solid #ccc;
-    padding: 15px 0;
-    margin-top: 20px;
-    }
-    
-    .faq-question {
-    cursor: pointer;
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    padding: 20px 0px;
-    font-weight: 600;
-    font-size: 1.1rem;
-    }
-    
-    .faq-answer {
+    margin-bottom: 10px;
+  }
+
+  .faq-input {
     display: none;
-    margin-top: 10px;
-    color: #555;
-    }
-    
-    .faq-question::after {
+  }
+
+  .faq-question {
+    display: block;
+    padding: 15px 0;
+    font-weight: bold;
+    cursor: pointer;
+    background: #f1f1f1;
+    margin: 0;
+  }
+
+  .faq-answer {
+    max-height: 0;
+    overflow: hidden;
+    transition: max-height 0.3s ease-out;
+    background: #fff;
+    padding: 0 15px;
+  }
+
+  .faq-input:checked + .faq-question + .faq-answer {
+    max-height: 200px; /* Adjust this value as needed */
+    padding: 15px 15px;
+  }
+
+  .faq-input:checked + .faq-question {
+    background: #e0e0e0;
+  }
+
+  .faq-question::after {
     content: '▼';
-    font-size: 12px;
-    transform: rotate(0deg);
-    transition: transform 0.3s ease;
-    }
-    
-    .faq-question.active::after {
+    float: right;
+    transition: transform 0.3s ease-out;
+  }
+
+  .faq-input:checked + .faq-question::after {
     transform: rotate(180deg);
-    }
-    
-    .faq-container { max-width: 800px; margin: 0 auto; } .faq { border-bottom: 1px solid #ccc; margin-bottom: 10px; } .faq-input { display: none; } .faq-question { display: block; padding: 10px; font-weight: bold; cursor: pointer; background: #f1f1f1; } .faq-answer { max-height: 0; overflow: hidden; transition: max-height 0.3s ease-out; background: #fff; padding: 0 10px; } .faq-input:checked + .faq-question + .faq-answer { max-height: 100px; /\* Adjust according to the content height \*/ padding: 10px; }
+  }
     
     @media (max-width: 800px) {
 	.hero_right img{
