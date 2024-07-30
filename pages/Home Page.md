@@ -38,6 +38,9 @@ description: ""
         width: 100%;
         overflow: hidden;
         padding: 20px;
+	background: url("https://i.ibb.co/vBW0DDc/Homepage.png") no-repeat;
+	background-size: cover;
+	background-position: center;
     }
 
     .bp-section-pagetitle {
@@ -419,7 +422,6 @@ description: ""
 
 <section>
     <section class="hero">
-        <img class="hero_img" src="https://i.ibb.co/vBW0DDc/Homepage.png">
         <div class="canvas relative">
             <div class="hero_box">
                 <div class="left">
