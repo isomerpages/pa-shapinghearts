@@ -386,7 +386,7 @@ description: ""
 			</div>
 	</div>
     
-  	<div class="bg_player relative">
+  	<div class="VideoPlayer relative">
 				<img class="bg_player" src="https://i.ibb.co/ryzxPxg/Elements.png">
 		<div class="hero_center">
 			<img style="width: 100%" src="https://www.intermedia-solutions.net/wp-content/uploads/2021/06/video-thumbnail-01.jpg">
