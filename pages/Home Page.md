@@ -241,9 +241,9 @@ description: ""
     margin: 0 auto;
   }
 	
-		.faq_left,
-	.faq_right {
-	max-width: 500px
+		.faqs_left,
+	.faqs_right {
+	max-width: 500px;
 	}
 
   .faq {
