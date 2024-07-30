@@ -348,6 +348,10 @@ description: ""
 	}
 	
     @media (max-width: 700px) {
+	.hero{
+	background: none;
+	}
+	
 	.section{
 	padding: 50px 0px;
 	}
