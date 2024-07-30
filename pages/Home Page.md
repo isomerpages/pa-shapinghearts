@@ -229,10 +229,16 @@ description: ""
   .faq-input {
     display: none;
   }
+  
+  .FAQS h1{
+    font-size: 1.5rem !important;
+  }
 
   .faq-question {
+    border-top-right-radius: 10px;
     display: block;
-    padding: 15px 0;
+    padding: 15px 10px;
+    border-top-left-radius: 10px;
     font-weight: bold;
     cursor: pointer;
     background: #f1f1f1;
