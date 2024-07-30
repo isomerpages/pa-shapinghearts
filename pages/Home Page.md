@@ -348,6 +348,9 @@ description: ""
 	}
 	
     @media (max-width: 700px) {
+	.section{
+	padding: 50px 0px;
+	}
         .faqs_left,
         .faqs_right {
             width: 100%;
