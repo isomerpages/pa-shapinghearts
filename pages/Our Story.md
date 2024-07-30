@@ -75,9 +75,15 @@ description: ""
     .hero_right {
 	display: flex;
 	align-items: start;
+	justify-content: space-between;
     width: 100%;
     }
-    
+  
+	.hero_right .second{
+	width:50%;
+
+	}
+	
     .hero_center {
     width: 65%;
     margin-left: auto;
@@ -289,6 +295,10 @@ description: ""
     
     
     @media (max-width: 800px) {
+	.hero_right img{
+	display: none;
+	}
+	
        body .canvass{
         width: 90% !important;
         margin-left: auto;
@@ -314,7 +324,7 @@ description: ""
     }
     
     .hero_left,
-    .hero_right,
+    .hero_right .second,
     .hero_center {
     width: 100%;
     }
@@ -348,7 +358,7 @@ description: ""
     </div>
     <div class="hero_right">
 			<img src="https://i.ibb.co/yWvSB53/1.png">
-    <div>
+    <div class="second">
 			<h2>...and be awed by their art creations at the largest inclusive arts festival in Singapore!</h2>
     <p>
    An inclusive arts festival that is held annually, Shaping Hearts celebrates the artistic talents (visual and performing arts) of the special needs community. Through this festival, North East CDC provide beneficiaries with a platform to pursue their interests in the arts. Shaping Hearts features an art exhibition, live performances and virtual art sales.
