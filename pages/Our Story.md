@@ -82,6 +82,7 @@ description: ""
 	align-items: start;
 	justify-content: space-between;
     width: 100%;
+	margin-top: 30px !important;
     }
 	
 	.hero_right h2{
