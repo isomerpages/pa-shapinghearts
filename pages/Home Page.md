@@ -341,6 +341,12 @@ description: ""
     }
 
 
+	@media (max-width: 1280px) {
+	.bp-container{
+	width: 100%;
+}
+	}
+	
     @media (max-width: 700px) {
         .faqs_left,
         .faqs_right {
