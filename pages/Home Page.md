@@ -165,6 +165,13 @@ description: ""
     }
 
     /* Story */
+	.story{
+		background: url("https://i.ibb.co/LpHxkxT/Asset-14.png") no-repeat;
+	background-size: cover;
+	background-position: center;
+	height: 100%;
+	width: 100%;
+	}
     .story .canvas {
         width: 80%;
     }
@@ -271,7 +278,7 @@ description: ""
 
     /* General */
     body .canvas {
-        width: 90%;
+        width: 100%;
         margin-left: auto;
         margin-right: auto;
     }
@@ -468,7 +475,6 @@ description: ""
     </section>
 
     <section class="bg_gray  story relative">
-        <img class="story_bg" src="https://i.ibb.co/ryzxPxg/Elements.png">
         <div style="z-index: 4000; position: relative;" class="canvas section">
             <div class="text-center">
                 <p class="text-center bold">FOLLOW OUR HEARTS</p>
