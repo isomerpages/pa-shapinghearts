@@ -198,7 +198,7 @@ description: ""
     }
 
 	.sponsors_grid h3{
-	color: black;
+	color: black !important;
 	}
 	
     .sponsors_grid img {
@@ -318,6 +318,8 @@ description: ""
         width: 45%;
         transition: 0.2s all ease;
         cursor: pointer;
+	text-decoration: none;
+	color: black;
     }
 
     .button:hover {
