@@ -39,7 +39,7 @@ description: ""
         overflow: hidden;
         padding: 20px;
 	background: url("https://i.ibb.co/BznXQFQ/Homepage-1.png") no-repeat;
-	background-size: contain;
+	background-size: 70% 70%;
 	background-position: center;
     }
 
