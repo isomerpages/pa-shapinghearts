@@ -270,6 +270,10 @@ description: ""
     flex-wrap: wrap;
     }
     
+	.faq_left{
+	max-width: 500px
+	}
+	
   .faq-container {
     max-width: 800px;
     margin: 0 auto;
@@ -467,7 +471,7 @@ description: ""
       <p class="bold">LOREM IPSUM dolor</p>
       <h1 class="bold mt-5">Lorem ipsum dolor sit amet adipiscing elit,</h1>
       <br>
-      <img alt="Event" class="mt-5" src="./assets/event.png">
+      <img alt="Event" class="mt-5" src="https://i.ibb.co/0YcyxrZ/3.png">
     </div>
     <div class="faqs_right">
       <div class="faq-container">
