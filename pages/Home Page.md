@@ -313,7 +313,7 @@ description: ""
     }
 
     .section {
-        padding: 100px 0px;
+        padding: 70px 0px;
     }
 
     .button {
