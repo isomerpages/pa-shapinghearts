@@ -97,9 +97,6 @@ description: ""
 	display: flex;
 	align-items: center;
 	justify-content: center;
-	background: url("https://i.ibb.co/LpHxkxT/Asset-14.png") no-repeat;
-	background-position: center;
-	background-size: cover;
 	}
 	
     .hero_center {
@@ -126,9 +123,6 @@ description: ""
 	display: flex;
 	align-items: center;
 	justify-content: center;
-	background: url("https://i.ibb.co/JBFRmjG/Asset-16.png") no-repeat;
-	background-position: center;
-	background-size: cover;
 	}
 	
     .story .canvass {
@@ -263,12 +257,14 @@ description: ""
     
     /* FAQS */
 		.FAQS{
-	background: url("https://i.ibb.co/JBFRmjG/Asset-16.png") no-repeat;
-	background-size: cover;
-	background-position: center;
 	height: 100%;
 	width: 100%;
 	}
+	
+	.FAQS h1{
+color: black !important;
+	}
+	
     .FAQS .canvass {
     display: flex;
     justify-content: space-between;
@@ -295,8 +291,10 @@ description: ""
   }
 
   .faq-question {
+    border-top-right-radius: 10px;
     display: block;
-    padding: 15px 0;
+    padding: 15px 10px;
+    border-top-left-radius: 10px;
     font-weight: bold;
     cursor: pointer;
     background: #f1f1f1;
@@ -477,7 +475,7 @@ description: ""
       <p class="bold">LOREM IPSUM dolor</p>
       <h1 class="bold mt-5">Lorem ipsum dolor sit amet adipiscing elit,</h1>
       <br>
-      <img alt="Event" class="mt-5" src="https://i.ibb.co/0YcyxrZ/3.png">
+      <img alt="Event" class="mt-5" style="width: 500px" src="https://i.ibb.co/F6zc2zJ/Homepage-3.png">
     </div>
     <div class="faqs_right">
       <div class="faq-container">
