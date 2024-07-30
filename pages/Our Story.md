@@ -151,10 +151,14 @@ description: ""
         height: 35px;
         width: 35px;
         border-radius: 50%;
+	position: absolute;
+	bottom: 20px;
+	right: 20px;
     }
     
     
     .story_card {
+	position: relative;
     background-color: rgba(44, 44, 44, 1);
     padding: 30px 20px;
     border-radius: 20px;
