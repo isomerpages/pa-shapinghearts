@@ -38,7 +38,7 @@ description: ""
         width: 100%;
         overflow: hidden;
         padding: 20px;
-	background: url("https://i.ibb.co/87tYK5L/Header.png") no-repeat;
+	background: url("https://i.ibb.co/BznXQFQ/Homepage-1.png") no-repeat;
 	background-size: contain;
 	background-position: center;
     }
@@ -481,7 +481,7 @@ description: ""
             </div>
         </div>
         <div style="z-index: 4000; position: relative;" class="event_right section">
-            <img style="width: 100%;  display: block;" src="https://i.ibb.co/C8qTZKG/Asset-17.png">
+            <img style="width: 100%;  display: block;" src="https://i.ibb.co/0BsF3nb/Homepage-2.png">
         </div>
 			</div>
     </section>
@@ -591,7 +591,7 @@ description: ""
                 <h1 class="bold mt-5">
                   Shaping Hearts is where you can experience the artists’ works through multiple lenses – an art exhibition, live performances, a charity art auction – and celebrate the diverse talents in our community.
                 </h1>
-                <img class="mt-5" style="width: 500px;" src="https://i.ibb.co/0YcyxrZ/3.png">
+                <img class="mt-5" style="width: 500px;" src="https://i.ibb.co/F6zc2zJ/Homepage-3.png">
             </div>
 					<div class="faqs_right">
       <div class="faq-container">
