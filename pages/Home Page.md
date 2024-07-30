@@ -355,10 +355,10 @@ description: ""
 
 
     @media (max-width: 700px) {
-
         .faqs_left,
         .faqs_right {
             width: 100%;
+            max-width: 100%;
             text-align: center;
         }
 
