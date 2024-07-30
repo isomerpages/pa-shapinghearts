@@ -270,7 +270,6 @@ description: ""
     flex-wrap: wrap;
     }
     
-	
     
     .faqs_left{
     padding-left: 20px;
@@ -326,7 +325,7 @@ description: ""
     transform: rotate(180deg);
     }
     
-    
+    .faq-container { max-width: 800px; margin: 0 auto; } .faq { border-bottom: 1px solid #ccc; margin-bottom: 10px; } .faq-input { display: none; } .faq-question { display: block; padding: 10px; font-weight: bold; cursor: pointer; background: #f1f1f1; } .faq-answer { max-height: 0; overflow: hidden; transition: max-height 0.3s ease-out; background: #fff; padding: 0 10px; } .faq-input:checked + .faq-question + .faq-answer { max-height: 100px; /\* Adjust according to the content height \*/ padding: 10px; }
     
     @media (max-width: 800px) {
 	.hero_right img{
