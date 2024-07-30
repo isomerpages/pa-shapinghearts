@@ -19,7 +19,6 @@ description: ""
 
         .hero {
           /* border-top: 1.99px solid rgba(0, 0, 0, 0.7);*/
-            min-height: 60vh;
 	margin-top: -20px;
         }
 
@@ -134,7 +133,7 @@ description: ""
         }
 
         .section {
-            padding: 100px 0px;
+            padding: 70px 0px;
         }
 
         .button {
