@@ -29,9 +29,10 @@ description: ""
 }
 
     .hero {
+        display: flex;
+	     display: none;
         margin-top: -20px !important;
         height: 100vh;
-        display: flex;
         justify-content: center;
         align-items: center;
         position: relative;
