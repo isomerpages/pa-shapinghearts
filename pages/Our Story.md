@@ -268,6 +268,13 @@ description: ""
     
     
     /* FAQS */
+		.FAQS{
+	background: url("https://i.ibb.co/JBFRmjG/Asset-16.png") no-repeat;
+	background-size: cover;
+	background-position: center;
+	height: 100%;
+	width: 100%;
+	}
     .FAQS .canvass {
     display: flex;
     justify-content: space-between;
@@ -470,7 +477,7 @@ description: ""
     </div>
     </section>
 	    
-   <section class="section bg_gray FAQS">
+   <section class="section FAQS">
   <div class="canvass">
     <div class="faqs_left">
       <p class="bold">LOREM IPSUM dolor</p>
