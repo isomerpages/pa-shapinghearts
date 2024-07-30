@@ -45,6 +45,10 @@ description: ""
 	background-size: cover;
 	background-position: center;
     }
+	
+	.hero .canvass{
+	width: 90%;
+	}
     
             .bp-section-pagetitle{
         display: none;
@@ -186,7 +190,7 @@ description: ""
     
     /* General */
     body .canvass {
-    width: 90%;
+    width: 100%;
     margin-left: auto;
     margin-right: auto;
     }
@@ -270,8 +274,8 @@ description: ""
     flex-wrap: wrap;
     }
     
-	.faq_left,
-	.faq_right {
+	.faqs_left,
+	.faqs_right {
 	max-width: 500px
 	}
 	
