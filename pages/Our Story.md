@@ -94,7 +94,6 @@ description: ""
 	}
 	
 	.VideoPlayer{
-	height: 90vh;
 	display: flex;
 	align-items: center;
 	justify-content: center;
@@ -402,13 +401,11 @@ color: black !important;
     </div>
 			</div>
 	</div>
-    
   	<div class="VideoPlayer relative">
 		<div class="hero_center">
 			<img style="width: 100%" src="https://www.intermedia-solutions.net/wp-content/uploads/2021/06/video-thumbnail-01.jpg">
 		</div>
 	</div>
-	
     <section class="section story bg_gray">
     <div class="canvass">
     <div class="text-center">
