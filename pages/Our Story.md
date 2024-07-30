@@ -38,7 +38,6 @@ description: ""
 }
 	
     .hero {
-    min-height: 100vh;
     padding: 30px 0px;
     margin-top: -20px;
     }
@@ -94,6 +93,7 @@ description: ""
 	}
 	
 	.VideoPlayer{
+	height: 90vh;
 	display: flex;
 	align-items: center;
 	justify-content: center;
