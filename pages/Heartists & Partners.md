@@ -130,11 +130,16 @@ description: ""
         .main_heading2 {
             font-size: 3rem;
 	font-weight: bold;
+	color: black !important;
         }
 
         .section {
             padding: 70px 0px;
         }
+	
+	.text-center{
+	text-align: center;
+	}
 
         .button {
             background: transparent;
@@ -300,7 +305,7 @@ description: ""
 
     <section class="section">
         <div class="canvas canvass">
-            <h1 class="main_heading2">Our Heartists</h1>
+            <h1 class="main_heading2 text-center">Our Heartists</h1>
             <br>
             <div class="hearts_grid">
                 <div class="heart_card">
