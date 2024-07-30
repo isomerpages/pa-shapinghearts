@@ -113,7 +113,7 @@ description: ""
         }
         
     .hero_right img {
-    width: 50%;
+    width: 45%;
     }
 
     
