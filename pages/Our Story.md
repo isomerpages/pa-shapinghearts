@@ -97,7 +97,7 @@ description: ""
 	display: flex;
 	align-items: center;
 	justify-content: center;
-	background: url("https://i.ibb.co/ryzxPxg/Elements.png") no-repeat;
+	background: url("https://i.ibb.co/LpHxkxT/Asset-14.png") no-repeat;
 	background-position: center;
 	background-size: cover;
 	}
@@ -132,7 +132,7 @@ description: ""
 	display: flex;
 	align-items: center;
 	justify-content: center;
-	background: url("https://i.ibb.co/ryzxPxg/Elements.png") no-repeat;
+	background: url("https://i.ibb.co/JBFRmjG/Asset-16.png") no-repeat;
 	background-position: center;
 	background-size: cover;
 	}
@@ -223,7 +223,7 @@ description: ""
     }
     
     .button {
-    background: transparent;
+    background: white;
     border: 1.99px solid rgba(0, 0, 0, 1);
     border-radius: 20px;
     padding: 12.5px 30px;
@@ -409,7 +409,7 @@ description: ""
 		</div>
 	</div>
 	
-    <section class="section mt-5 story">
+    <section class="section story">
     <div class="canvass">
     <div class="text-center">
     <h1 class="main_heading2 bold">MEET OUR HEARTISTS
