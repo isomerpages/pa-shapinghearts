@@ -124,9 +124,6 @@ description: ""
 
     /* 2nd section EVents */
 	.events{
-	background: url("https://i.ibb.co/YhHHDZ2/Asset-13.png") no-repeat;
-	background-size: cover;
-	background-position: center;
 	height: 100%;
 	width: 100%;
 	}
@@ -166,9 +163,6 @@ description: ""
 
     /* Story */
 	.story{
-		background: url("https://i.ibb.co/LpHxkxT/Asset-14.png") no-repeat;
-	background-size: cover;
-	background-position: center;
 	height: 100%;
 	width: 100%;
 	}
@@ -196,9 +190,6 @@ description: ""
 
     /* Sponsors */
 	.sponsors {
-		background: url("https://i.ibb.co/WGjtMzp/Asset-15.png") no-repeat;
-	background-size: cover;
-	background-position: center;
 	height: 100%;
 	width: 100%;
 	}
@@ -223,9 +214,6 @@ description: ""
 
     /* FAQS */
 	.FAQS{
-	background: url("https://i.ibb.co/JBFRmjG/Asset-16.png") no-repeat;
-	background-size: cover;
-	background-position: center;
 	height: 100%;
 	width: 100%;
 	}
@@ -273,7 +261,7 @@ description: ""
   }
 
   .faq-input:checked + .faq-question + .faq-answer {
-    max-height: 200px; /* Adjust this value as needed */
+    max-height: 200px;
     padding: 15px 15px;
   }
 
@@ -483,8 +471,7 @@ description: ""
             </div>
         </div>
         <div style="z-index: 4000; position: relative;" class="event_right section">
-            <img style="width: 300px; margin-right: auto; margin-left: 0px; display: block;" src="https://i.ibb.co/ccKwydQ/2.png">
-            <img class="secondimg" style="width: 300px; margin-left: auto; margin-right: 0px; display: block;" src="https://i.ibb.co/rZzYfhM/1.png">
+            <img style="width: 100%;  display: block;" src="https://i.ibb.co/C8qTZKG/Asset-17.png">
         </div>
 			</div>
     </section>
