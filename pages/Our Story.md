@@ -270,7 +270,8 @@ description: ""
     flex-wrap: wrap;
     }
     
-	.faq_left{
+	.faq_left,
+	.faq_right {
 	max-width: 500px
 	}
 	
