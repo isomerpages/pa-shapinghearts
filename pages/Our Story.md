@@ -41,9 +41,6 @@ description: ""
     min-height: 100vh;
     padding: 30px 0px;
     margin-top: -20px;
-	background: url("https://i.ibb.co/3rH1qph/Background.png") no-repeat;
-	background-size: cover;
-	background-position: center;
     }
 	
 	.hero .canvass{
@@ -61,7 +58,7 @@ description: ""
     .hero h1 {
     font-size: 3rem;
     font-weight: bold;
-	color: white !important;
+	color: black !important;
     }
     
     .hero h2 {
@@ -71,7 +68,7 @@ description: ""
     }
     
     .hero p {
-    color: white;
+    color: black;
     }
     
     .hero_left {
@@ -86,10 +83,13 @@ description: ""
 	justify-content: space-between;
     width: 100%;
     }
+	
+	.hero_right h2{
+	color: black !important;
+	}
   
 	.hero_right .second{
 	width: 80%;
-
 	}
 	
 	.VideoPlayer{
@@ -115,16 +115,10 @@ description: ""
      width: 100% !important;
         }
         
-    
-    
-    .hero_left img {
+    .hero_right img {
     width: 50%;
     }
-    
-    .hero_left img:last-child {
-    margin-left: 50%;
-    margin-top: -25%;
-    }
+
     
     
     /* STORY */
@@ -399,7 +393,7 @@ description: ""
     </h1>
     </div>
     <div class="hero_right">
-			<img src="https://i.ibb.co/yWvSB53/1.png">
+			<img src="https://i.ibb.co/mGydBr3/Story-1.png">
     <div class="second">
 			<h2>...and be awed by their art creations at the largest inclusive arts festival in Singapore!</h2>
     <p>
