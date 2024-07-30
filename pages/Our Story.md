@@ -89,7 +89,7 @@ description: ""
 	}
   
 	.hero_right .second{
-	width: 80%;
+	width: 50%;
 	}
 	
 	.VideoPlayer{
@@ -408,7 +408,7 @@ color: black !important;
 		</div>
 	</div>
 	
-    <section class="section story">
+    <section class="section story bg_gray">
     <div class="canvass">
     <div class="text-center">
     <h1 class="main_heading2 bold">MEET OUR HEARTISTS
