@@ -482,6 +482,7 @@ description: ""
     <div class="faqs_right">
     <div class="faq-container">
     <div class="faq">
+			<input class="faq-input" id="faq1" type="checkbox">
     <div class="faq-question">
     Add commonly asked questions here
     </div>
@@ -491,6 +492,7 @@ description: ""
     </div>
     </div>
     <div class="faq">
+				<input class="faq-input" id="faq2" type="checkbox">
     <div class="faq-question">
     Add commonly asked questions here
     </div>
@@ -500,6 +502,7 @@ description: ""
     </div>
     </div>
     <div class="faq">
+				<input class="faq-input" id="faq3" type="checkbox">
     <div class="faq-question">
     Add commonly asked questions here
     </div>
