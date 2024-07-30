@@ -314,7 +314,7 @@ description: ""
     }
 
     .button {
-        background: transparent;
+        background: white;
         border: 1.99px solid rgba(0, 0, 0, 1);
         border-radius: 20px;
         padding: 12.5px 30px;
