@@ -197,6 +197,10 @@ description: ""
         grid-gap: 30px;
     }
 
+	.sponsors_grid h3{
+	color: black;
+	}
+	
     .sponsors_grid img {
         width: 150px;
         font-weight: bold;
