@@ -152,7 +152,7 @@ description: ""
     
     .story_card {
 	position: relative;
-    background-color: rgba(44, 44, 44, 1);
+    background-color: #121212;
     padding: 30px 20px;
     border-radius: 20px;
     text-align: start;
