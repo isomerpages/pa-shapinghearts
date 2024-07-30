@@ -189,6 +189,11 @@ description: ""
         width: 70%;
     }
 
+	.button a{
+	color: black;
+	text-decoration: none;
+	}
+	
     .sponsors .sponsors_grid {
         display: flex;
         justify-content: center;
