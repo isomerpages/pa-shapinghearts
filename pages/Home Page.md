@@ -142,8 +142,8 @@ description: ""
     }
 	
 	.bp-container{
-	width: 100% !important;
-	max-width: 100% !important;
+	width: 1280px !important;
+	max-width: 1280px !important;
 	}
 
     .event_left p {
