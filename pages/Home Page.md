@@ -439,7 +439,7 @@ description: ""
     </section>
 
     <section style="z-index: 4000; position: relative;" class="events">
-        <img class="event_bg" src="https://i.ibb.co/ryzxPxg/Elements.png">
+        <img class="event_bg" src="https://i.ibb.co/YhHHDZ2/Asset-13.png">
 			<div class="events_flex canvas">
         <div class="event_left mt-5 section">
             <h1 class="main_heading">
