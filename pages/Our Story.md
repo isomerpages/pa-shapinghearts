@@ -124,6 +124,15 @@ description: ""
     
     
     /* STORY */
+	.story{
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	background: url("https://i.ibb.co/ryzxPxg/Elements.png") no-repeat;
+	background-position: center;
+	background-size: cover;
+	}
+	
     .story .canvass {
     width: 80%;
     }
@@ -240,13 +249,6 @@ description: ""
 	position: relative;
 	}
 	
-	 .bg_player {
-        position: absolute;
-        height: 100%;
-        left: 0%;
-        width: 100%;
-        top: 0;
-    }
     
     .bg_gray {
     background-color: rgba(244, 244, 244, 1);
