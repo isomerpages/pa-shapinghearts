@@ -145,6 +145,9 @@ description: ""
 	width: 1280px !important;
 	max-width: 1280px !important;
 	}
+	.has-float-btns{
+	display:none;
+	}
 
     .event_left p {
         font-size: 1.1rem;
