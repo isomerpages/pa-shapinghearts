@@ -489,7 +489,7 @@ description: ""
 			</div>
     </section>
 
-    <section class="bg_gray  story relative">
+    <section class="story relative">
         <div style="z-index: 4000; position: relative;" class="canvas section">
             <div class="text-center">
                 <p class="text-center bold">FOLLOW OUR HEARTS</p>
@@ -573,7 +573,7 @@ description: ""
         </div>
     </section>
 
-    <section class="bg_gray FAQS relative">
+    <section class="FAQS relative">
         <div style="z-index: 4000; position: relative;" class="canvas section">
             <div class="faqs_left">
                 <p class="bold">FREQUENTLY ASKED QUESTIONS</p>
