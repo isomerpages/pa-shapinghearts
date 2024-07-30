@@ -38,8 +38,8 @@ description: ""
         width: 100%;
         overflow: hidden;
         padding: 20px;
-	background: url("https://i.ibb.co/vBW0DDc/Homepage.png") no-repeat;
-	background-size: cover;
+	background: url("https://i.ibb.co/87tYK5L/Header.png") no-repeat;
+	background-size: contain;
 	background-position: center;
     }
 
@@ -117,20 +117,10 @@ description: ""
         transform: translateY(-50%);
         font-size: 1.2rem;
         font-weight: bold;
-        color: white;
+        color: black;
         font-weight: normal;
     }
 
-
-    .center-box {
-        position: absolute;
-        top: 50%;
-        left: 50%;
-        width: 30%;
-        height: 20%;
-        transform: translate(-50%, -50%);
-        background-color: rgba(0, 0, 0, 0.1);
-    }
 
     /* 2nd section EVents */
     .events_flex {
