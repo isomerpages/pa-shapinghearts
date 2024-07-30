@@ -389,10 +389,8 @@ description: ""
     <div class="second">
 			<h2>...and be awed by their art creations at the largest inclusive arts festival in Singapore!</h2>
     <p>
-   An inclusive arts festival that is held annually, Shaping Hearts celebrates the artistic talents (visual and performing arts) of the special needs community. Through this festival, North East CDC provide beneficiaries with a platform to pursue their interests in the arts. Shaping Hearts features an art exhibition, live performances and virtual art sales.
+   Experience the artists' works through multiple lenses - an art exhibition, live performances, a charity art auction- and celebrate the diverse talents in our community.
     </p>
-			<p>North East CDC aims to increase awareness and support for differently-abled artists, and the larger special needs community. It also hopes to garner support from corporate sponsors, partners and individuals for differently-abled artists, in the form of donations to support this cause.
-			</p>
 			</div>
     </div>
 			</div>
