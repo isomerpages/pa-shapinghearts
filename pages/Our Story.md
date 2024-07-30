@@ -80,7 +80,7 @@ description: ""
     }
   
 	.hero_right .second{
-	width:50%;
+	width:70%;
 
 	}
 	
@@ -220,6 +220,17 @@ description: ""
     margin-top: 20px;
     }
     
+	.relative{
+	position: relative;
+	}
+	
+	 .bg_player {
+        position: absolute;
+        height: 100%;
+        left: 0%;
+        width: 100%;
+        top: 0;
+    }
     
     .bg_gray {
     background-color: rgba(244, 244, 244, 1);
@@ -237,6 +248,7 @@ description: ""
     flex-wrap: wrap;
     }
     
+	
     
     .faqs_left{
     padding-left: 20px;
@@ -370,7 +382,13 @@ description: ""
 			</div>
 	</div>
     
-  
+  	<div class="videoPlayer relative">
+				<img class="bg_player" src="https://i.ibb.co/ryzxPxg/Elements.png">
+		<div class="hero_center">
+			<img style="width: 100%" src="https://www.intermedia-solutions.net/wp-content/uploads/2021/06/video-thumbnail-01.jpg">
+		</div>
+	</div>
+	
     <section class="section mt-5 story">
     <div class="canvass">
     <div class="text-center">
@@ -431,7 +449,7 @@ description: ""
     </div>
     </div>
     </section>
-    
+	    
    
     <section class="section bg_gray FAQS">
     <div class="canvass">
