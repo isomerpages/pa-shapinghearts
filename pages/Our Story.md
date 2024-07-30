@@ -80,7 +80,7 @@ description: ""
     }
   
 	.hero_right .second{
-	width:70%;
+	width: 80%;
 
 	}
 	
@@ -382,7 +382,7 @@ description: ""
 			</div>
 	</div>
     
-  	<div class="videoPlayer relative">
+  	<div class="bg_player relative">
 				<img class="bg_player" src="https://i.ibb.co/ryzxPxg/Elements.png">
 		<div class="hero_center">
 			<img style="width: 100%" src="https://www.intermedia-solutions.net/wp-content/uploads/2021/06/video-thumbnail-01.jpg">
