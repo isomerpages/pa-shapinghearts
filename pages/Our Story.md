@@ -15,7 +15,7 @@ description: ""
     }
 	
 	.bp-container{
-	max-width: 100%;
+	max-width: 1280px;
 	width: 100%;
 	}
 	
