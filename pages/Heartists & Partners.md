@@ -83,7 +83,6 @@ description: ""
         }
 
         .partner_card {
-            box-shadow: 0px 0px 10px 1px gainsboro;
             display: flex;
             justify-content: center;
             align-items: center;
@@ -93,7 +92,7 @@ description: ""
         }
 
         .partner_card img {
-            width: 30%;
+            width: 100%;
         }
 
 
@@ -186,57 +185,82 @@ description: ""
             flex-wrap: wrap;
         }
 
-        /* FAQS */
-        .FAQS .canvas {
-            display: flex;
-            justify-content: space-between;
-            flex-wrap: wrap;
-        }
+     /* FAQS */	
+	.FAQS{
+	background: #f5f0e7;
+	}
+	
+    .FAQS .canvas {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    }
+    
+  .faq-container {
+    max-width: 800px;
+    margin: 0 auto;
+  }
+	
+		.faqs_left,
+	.faqs_right {
+	max-width: 500px;
+	}
 
-        .faqs_left,
-        .faqs_right {
-            width: 45%;
-        }
+  .faq {
+    border-bottom: 1px solid #ccc;
+    margin-bottom: 10px;
+  }
 
-        .faq-container {
-            width: 100%;
-            margin: auto;
-            padding: 20px;
-        }
+  .faq-input {
+    display: none;
+  }
+  
+  .FAQS h1{
+    font-size: 1.5rem !important;
+  }
 
-        .faq {
-            border-bottom: 1px solid #ccc;
-            padding: 15px 0;
-            margin-top: 20px;
-        }
+  .faq-question {
+    border-top-right-radius: 10px;
+    display: block;
+    padding: 15px 10px;
+    border-top-left-radius: 10px;
+    font-weight: bold;
+    cursor: pointer;
+    background: #f1f1f1;
+    margin: 0;
+  }
+	
+	.navbar .bp-container{
+		width: 1280px !important;
+	max-width: 1280px !important;
+	}
 
-        .faq-question {
-            cursor: pointer;
-            display: flex;
-            justify-content: space-between;
-            align-items: center;
-            padding: 20px 0px;
-            font-weight: 600;
-            font-size: 1.1rem;
-        }
+  .faq-answer {
+    max-height: 0;
+    overflow: hidden;
+    transition: max-height 0.3s ease-out;
+    background: #fff;
+    padding: 0 15px;
+  }
 
-        .faq-answer {
-            display: none;
-            margin-top: 10px;
-            color: #555;
-        }
+  .faq-input:checked + .faq-question + .faq-answer {
+    max-height: 200px;
+    padding: 15px 15px;
+  }
 
-        .faq-question::after {
-            content: '▼';
-            font-size: 12px;
-            transform: rotate(0deg);
-            transition: transform 0.3s ease;
-        }
+  .faq-input:checked + .faq-question {
+    background: #e0e0e0;
+  }
 
-        .faq-question.active::after {
-            transform: rotate(180deg);
-        }
+  .faq-question::after {
+    content: '▼';
+    float: right;
+    transition: transform 0.3s ease-out;
+  }
 
+  .faq-input:checked + .faq-question::after {
+    transform: rotate(180deg);
+  }
 
 
         /* youtube_section */
@@ -252,15 +276,17 @@ description: ""
 	margin-left: auto;
 	margin-right: auto;
 	}
-            .faqs_left,
-            .faqs_right {
-                width: 100%;
-                text-align: center;
-            }
+         .faqs_left,
+        .faqs_right {
+            width: 100%;
+            max-width: 100%;
+            text-align: center;
+        }
 
-            .faqs_left img {
-                width: 100%;
-            }
+        .faqs_left img {
+            width: 100%;
+        }
+
 
             .hero .canvas {
                 flex-direction: column-reverse;
@@ -423,44 +449,39 @@ description: ""
     </section>
 
     
-    <section class="section bg_gray mt-5 FAQS">
-        <div class="canvass canvas">
+    <section class="FAQS relative">
+        <div style="z-index: 4000; position: relative;" class="canvas section">
             <div class="faqs_left">
-                <p class="bold">LOREM IPSUM dolor</p>
-                <h1 class="bold mt-5">
-                    Lorem ipsum dolor sit amet adipiscing elit,
+                <p class="bold">FREQUENTLY ASKED QUESTIONS</p>
+                <h1 style="line-height: normal" class="bold mt-5">
+                  Shaping Hearts celebrate the diverse talents in our community.
                 </h1>
-                <br>
-                <img class="mt-5" src="./assets/event.png">
+                <img class="mt-5" style="width: 500px;" src="https://i.ibb.co/F6zc2zJ/Homepage-3.png">
             </div>
-            <div class="faqs_right">
-                <div class="faq-container">
-                    <div class="faq">
-                        <div class="faq-question">
-                            What is the Shaping Hearts festival?
-                        </div>
-                        <div class="faq-answer">
-                           Shaping Hearts is Singapore's largest inclusive arts festival organized by the North East Community Development Council (NE CDC). It celebrates the talents of artists with disabilities through art exhibitions, live performances, and an art marketplace, promoting inclusivity and raising awareness about the special needs community.
-                        </div>
-                    </div>
-                    <div class="faq">
-                        <div class="faq-question">
-                            What impact does the Shaping Hearts festival have on the community?
-                        </div>
-                        <div class="faq-answer">
-                            The Shaping Hearts festival promotes inclusivity and awareness for the special needs community, supports differently-abled artists financially and socially, and encourages community engagement and compassion through art, creating a more cohesive and supportive society.
-                        </div>
-                    </div>
-                    <div class="faq">
-                        <div class="faq-question">
-                            How does the Shaping Hearts festival support artists with disabilities?
-                        </div>
-                        <div class="faq-answer">
-                           The Shaping Hearts festival supports artists with disabilities by providing a platform for them to showcase their talents through art exhibitions and performances. It raises awareness and funds through the sale of artwork, with proceeds going directly to the artists and their supporting social service agencies, helping them gain financial stability and recognition for their work
-                        </div>
-                    </div>
-                </div>
-            </div>
+					<div class="faqs_right">
+      <div class="faq-container">
+        <div class="faq">
+          <input class="faq-input" id="faq1" type="checkbox">
+          <label class="faq-question" for="faq1">What is the Shaping Hearts festival?</label>
+          <div class="faq-answer">
+             Shaping Hearts is Singapore's largest inclusive arts festival organized by the North East Community Development Council (NE CDC). It celebrates the talents of artists with disabilities through art exhibitions, live performances, and an art marketplace, promoting inclusivity and raising awareness about the special needs community.
+          </div>
         </div>
-    </section>
+        <div class="faq">
+          <input class="faq-input" id="faq2" type="checkbox">
+          <label class="faq-question" for="faq2">What impact does the Shaping Hearts festival have on the community?</label>
+          <div class="faq-answer">
+            The Shaping Hearts festival promotes inclusivity and awareness for the special needs community, supports differently-abled artists financially and socially, and encourages community engagement and compassion through art, creating a more cohesive and supportive society.
+          </div>
+        </div>
+        <div class="faq">
+          <input class="faq-input" id="faq3" type="checkbox">
+          <label class="faq-question" for="faq3">How does the Shaping Hearts festival support artists with disabilities?</label>
+          <div class="faq-answer">
+            The Shaping Hearts festival supports artists with disabilities by providing a platform for them to showcase their talents through art exhibitions and performances. It raises awareness and funds through the sale of artwork, with proceeds going directly to the artists and their supporting social service agencies, helping them gain financial stability and recognition for their work.
+          </div>
+        </div>
+      </div>
+			</div>
+    </div></section>
 </section>
