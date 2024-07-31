@@ -151,32 +151,9 @@ description: ""
     
     
     .story_card {
-	position: relative;
-    background-color: #121212;
-    padding: 30px 20px;
-    border-radius: 20px;
-    text-align: start;
-    color: white;
     height: 200px;
-    display: flex;
-    justify-content: space-between;
-    -ms-flex-direction: column;
-    flex-direction: column;
     }
-    
-    .story_card p {
-    width: 90%;
-    }
-    
-    .story_card button {
-    outline: none;
-    border: none;
-    height: 40px;
-    width: 40px;
-    background: white;
-    border-radius: 50%;
-    }
-    
+
     /* General */
     body .canvass {
     width: 100%;
@@ -421,58 +398,12 @@ color: black !important;
     <br><br>
     
     <div class="story_grid">
-    <div class="story_card">
-    <p>ALEX</p>
-    <button class="arrow">
-    <i class="sgds-icon sgds-icon-arrow-right"></i>
-    </button>
-    </div>
-    <div class="story_card">
-    <p>Lorem ipsum dolor sit amet consectetur.</p>
-    <button class="arrow">
-    <i class="sgds-icon sgds-icon-arrow-right"></i>
-    </button>
-    </div>
-    <div class="story_card">
-    <p>Lorem ipsum dolor sit amet consectetur.</p>
-    <button class="arrow">
-    <i class="sgds-icon sgds-icon-arrow-right"></i>
-    </button>
-    </div>
-    <div class="story_card">
-    <p>Lorem ipsum dolor sit amet consectetur.</p>
-    <button class="arrow">
-    <i class="sgds-icon sgds-icon-arrow-right"></i>
-    </button>
-    </div>
-    <div class="story_card">
-    <p>Lorem ipsum dolor sit amet consectetur.</p>
-    <button class="arrow">
-    <i class="sgds-icon sgds-icon-arrow-right"></i>
-    </button>
-    </div>
-    <div class="story_card">
-    <p>Lorem ipsum dolor sit amet consectetur.</p>
-    <button class="arrow">
-    <i class="sgds-icon sgds-icon-arrow-right"></i>
-    </button>
-    </div>
-    <div class="story_card">
-    <p>Lorem ipsum dolor sit amet consectetur.</p>
-    <button class="arrow">
-    <i class="sgds-icon sgds-icon-arrow-right"></i>
-    </button>
-    </div>
-    <div class="story_card">
-    <p>Lorem ipsum dolor sit amet consectetur.</p>
-    <button class="arrow">
-    <i class="sgds-icon sgds-icon-arrow-right"></i>
-    </button>
+   <img class="story_card" src="https://i.ibb.co/B4dqK81/Alex-Lim.jpg">
+			<div>
     </div>
     </div>
     </div>
-    </div>
-    </section>
+    </div></section>
 	    
    <section class="section FAQS">
   <div class="canvass">
