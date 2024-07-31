@@ -179,6 +179,9 @@ description: ""
 	color: black !important;
 	font-weight: bold;
 	}
+	.bg-container .row{
+	width: 100%;
+	}
     </style>
 <section style="width: 100%">
 	<div class="canvas">
