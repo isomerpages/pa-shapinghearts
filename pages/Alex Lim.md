@@ -192,7 +192,7 @@ description: ""
 	
     </style>
 <section style="width: 100%">
-	<div class="canvas">
+	<div class="canvass">
 	<section class="hero">
 		<h1 class="text-center main_heading">Step into the world of  talent artists with disabilities</h1>
 		<img class="hero_img" src="https://i.ibb.co/B4dqK81/Alex-Lim.jpg">
@@ -202,7 +202,7 @@ Experience the artists' works through multiple lenses-an art exhibition, live pe
 	</section>
 	</div>
 	
-	<div class="canvas">
+	<div class="canvass">
 <div class="images_grid">
 		<img src="https://i.ibb.co/C5TyLDX/1.jpg">
 		<img src="https://i.ibb.co/9t94DfW/2.jpg">
