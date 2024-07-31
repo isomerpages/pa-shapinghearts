@@ -166,7 +166,7 @@ description: ""
 	color: white !important;
 	text-decoration: none !important;
 	background: #97002b !important;
-	padding: 10px;
+	padding: 10px 20px;
 	text-transform: uppercase;
 	display: flex;
 	justify-content: space-between;
@@ -326,6 +326,10 @@ color: black !important;
   }
     
     @media (max-width: 800px) {
+		.story_card a{
+	        padding: 10px;
+	}
+	
 	.hero_right img{
 	display: none;
 	}
