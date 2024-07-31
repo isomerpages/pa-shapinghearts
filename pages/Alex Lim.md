@@ -60,7 +60,18 @@ description: ""
         padding: 0px !important;
         }
         
+	
+	.images_grid{
+	 display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 25px;
+	}
 
+	.images_grid img{
+	width: auto !important;
+	height: auto !important;
+	}
+	
     /* General */
     body .canvass {
     width: 100%;
@@ -154,6 +165,11 @@ description: ""
     font-size: 2rem;
     }
     }
+	.hero h1{
+	color: black !important;
+	font-weight: bold;
+	}
+	
     </style>
 <section>
 	<section class="hero">
@@ -163,5 +179,12 @@ description: ""
 Experience the artists' works through multiple lenses-an art exhibition, live performances, a charity art auction-and celebrate the diverse talents in our community.
 		</p>
 	</section>
+	
+<div class="images_grid">
+		<img src="https://i.ibb.co/C5TyLDX/1.jpg">
+		<img src="https://i.ibb.co/9t94DfW/2.jpg">
+		<img src="https://i.ibb.co/Gc91Z0n/3.jpg">
+		<img src="https://i.ibb.co/09rvMG3/4.jpg">
+	</div>
 	
 </section>
