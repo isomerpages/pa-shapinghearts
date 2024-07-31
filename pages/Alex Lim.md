@@ -194,7 +194,7 @@ description: ""
 <section style="width: 100%">
 	<div class="canvass">
 	<section class="hero">
-		<h1 class="text-center main_heading">Alex Lim</h1>
+		<h1 class="text-center main_heading">Hi! I'm a Heartist<br>Alex Lim</h1>
 		<p><img class="hero_img" src="https://i.ibb.co/B4dqK81/Alex-Lim.jpg"></p>
 		<p>
 Alex (@theunskilledboy), a visual artist with autism, creates abstract and pop-art inspired by nature and everyday objects. He uses vibrant colours and shapes and excels in various mediums such as acrylics, ink, oil pastels, and watercolours.</p><p>
@@ -202,14 +202,4 @@ This year, Shaping Hearts 2023 is introducing event-exclusive merchandise, featu
 		</p>
 	</section>
 	</div>
-	
-	<div class="canvass">
-<div class="images_grid">
-		<img src="https://i.ibb.co/C5TyLDX/1.jpg">
-		<img src="https://i.ibb.co/9t94DfW/2.jpg">
-		<img src="https://i.ibb.co/Gc91Z0n/3.jpg">
-		<img src="https://i.ibb.co/09rvMG3/4.jpg">
-	</div>
-	</div>
-	
 </section>
