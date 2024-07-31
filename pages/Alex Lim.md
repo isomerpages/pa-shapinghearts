@@ -45,6 +45,8 @@ description: ""
     .hero {
     padding: 30px 0px;
     margin-top: -20px;
+	width: 70%;
+	margin: auto;
     }
 	
 	.hero_img{
@@ -157,6 +159,9 @@ description: ""
     }
    
     @media (max-width: 800px) {
+	.hero{
+	width: 100%;
+	}
 		.hero_img{
 	width: 90% !important;
 	}
