@@ -157,6 +157,16 @@ description: ""
 	width: auto !important;
 	border-radius: 10px;
     }
+	.story_card a{
+	position: absolute;
+	bottom:0%;
+	width: 100%;
+	color: white !important;
+	text-decoration: none !important;
+	background: #97002b !important;
+	padding: 10px;
+	text-transform: uppercase;
+	}
 
     /* General */
     body .canvass {
@@ -404,21 +414,27 @@ color: black !important;
     <div class="story_grid">
 			<div class="story_card">
   <img src="https://i.ibb.co/B4dqK81/Alex-Lim.jpg">
+				<a>Alex Lim</a>
 			</div>
 			<div class="story_card">
 			 <img src="https://i.ibb.co/w7GMVNX/Gary-Chong.jpg">
+					<a>Gary Chong</a>
 			</div>
 			<div class="story_card">
 					 <img src="https://i.ibb.co/n1HZZGc/Leong-Sijun.png">
+				<a>Leong Sijun</a>
 			</div>
 			<div class="story_card">
 				 <img src="https://i.ibb.co/7gQFvV5/Ng-Jun-Yao.jpg">
+				<a>Ng Jun Yao</a>
 			</div>
 			<div class="story_card">
 						 <img src="https://i.ibb.co/ZLg3w39/Vincent-Seet.jpg">
+					<a>Vincent Seet</a>
 			</div>
 			<div class="story_card">
 							 <img src="https://i.ibb.co/GVNQWyY/Yap-Jia-Hui.jpg">
+				<a>Yap Jia Hui</a>
 			</div>
 			<div>
     </div>
@@ -438,23 +454,23 @@ color: black !important;
       <div class="faq-container">
         <div class="faq">
           <input class="faq-input" id="faq1" type="checkbox">
-          <label class="faq-question" for="faq1">What is the Shaping Hearts festival?</label>
+          <label class="faq-question" for="faq1">Add commonly asked questions here</label>
           <div class="faq-answer">
-            Shaping Hearts is Singapore's largest inclusive arts festival organized by the North East Community Development Council (NE CDC). It celebrates the talents of artists with disabilities through art exhibitions, live performances, and an art marketplace, promoting inclusivity and raising awareness about the special needs community.
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam ut lorem qui Nullam ut lorem qui.
           </div>
         </div>
         <div class="faq">
           <input class="faq-input" id="faq2" type="checkbox">
-          <label class="faq-question" for="faq2">What impact does the Shaping Hearts festival have on the community?</label>
+          <label class="faq-question" for="faq2">Add commonly asked questions here</label>
           <div class="faq-answer">
-            The Shaping Hearts festival promotes inclusivity and awareness for the special needs community, supports differently-abled artists financially and socially, and encourages community engagement and compassion through art, creating a more cohesive and supportive society.
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam ut lorem qui Nullam ut lorem qui.
           </div>
         </div>
         <div class="faq">
           <input class="faq-input" id="faq3" type="checkbox">
-          <label class="faq-question" for="faq3"> How does the Shaping Hearts festival support artists with disabilities?</label>
+          <label class="faq-question" for="faq3">Add commonly asked questions here</label>
           <div class="faq-answer">
-              The Shaping Hearts festival supports artists with disabilities by providing a platform for them to showcase their talents through art exhibitions and performances. It raises awareness and funds through the sale of artwork, with proceeds going directly to the artists and their supporting social service agencies, helping them gain financial stability and recognition for their work
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam ut lorem qui Nullam ut lorem qui.
           </div>
         </div>
       </div>
