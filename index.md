@@ -12,71 +12,43 @@ sections:
       background: /images/SH_Website_3.jpg
       key_highlights:
         - title: ABOUT SHAPING HEARTS
-          description: Key Highlight description
-          url: ""
+          description: Largest Inclusive Arts Event
+          url: /about-shaping-hearts
         - title: SHOP FOR ART
-          description: Key Highlight description
+          description: Paintings & Merchandise
           url: ""
         - title: PARTNERS & HEARTISTS
-          description: Key Highlight description
-          url: ""
+          description: Discover the Talents
+          url: /heartists-and-partners/
       variant: image
       alignment: left
       size: md
+  - infopic:
+      title: Discover meaningful art made by people with disabilities
+      subtitle: Add an image and text
+      id: infopic
+      description: At Shaping Hearts, art by disabled artists is inherently
+        meaningful. Celebrate their talents and find the art that speaks to you;
+        its meaning is already there.
+      button: Learn more about Shaping hearts
+      url: /about-shaping-hearts
+      image: /images/Infopic_1.png
+      alt: Image alt text
+  - infopic:
+      title: Artwork that tells a thousand stories
+      subtitle: Add an image and text
+      id: infopic
+      description: What gives art meaning? Is it the artist behind the art? Is it the
+        way it’s created? Or is it art because it speaks to you?
+      button: DISCOVER OUR HEARTISTS
+      url: /heartists-and-partners/
+      image: /images/Infopic_2_1.png
+      alt: Image alt text
   - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
-      button: Button text
-      url: /faq/
-  - infobar:
-      title: Infobar
-      subtitle: Add informational text
+      title: The Largest Inclusive Arts Event in Singapore
+      subtitle: SHOP ART & MERCHANDISE
       id: infobar
-      description: <h2>Hello</h2>
-      button: Button Text
-  - infocols:
-      title: Info-columns
-      subtitle: Add snippets of text in columns
-      id: infocols
-      linktext: Learn more
-      infoboxes:
-        - title: Infobox
-          description: Infobox description
-        - title: Infobox
-          description: Infobox description
-        - title: Infobox
-          description: Infobox description
-  - textcards:
-      title: Text Cards
-      subtitle: Add informational text
-      id: textcards
-      description: Text card description
-      cards:
-        - title: Card
-          description: Card description
-          linktext: Learn more
-          url: ""
-        - title: Card
-          description: Card description
-          linktext: Learn more
-          url: ""
-        - title: Card
-          description: Card description
-          linktext: Learn more
-          url: ""
-  - announcements:
-      title: Announcements
-      id: announcements
-      subtitle: Add a list of announcements with dates
-      announcement_items:
-        - title: New Announcement
-          date: 31 July 2024
-          announcement: Announcement content
-          link_text: ""
-          link_url: ""
-  - resources:
-      title: Resources
-      subtitle: Add a preview and link to your Resource Room
-      id: resources
+      description: Shop over 500 artworks from artists with disabilities.
+      button: VISIT SHOP
+      url: https://example.com
 ---
