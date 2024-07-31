@@ -153,20 +153,24 @@ description: ""
 	}
     
     .story_card img {
-    height: 270px;
-	width: auto !important;
+	width: 100% !important;
 	border-radius: 10px;
     }
 	
 	.story_card a{
 	position: absolute;
 	bottom:0%;
+	left: 0%;
+	margin-bottom: 0%;
 	width: 100%;
 	color: white !important;
 	text-decoration: none !important;
 	background: #97002b !important;
 	padding: 10px;
 	text-transform: uppercase;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
 	}
 
     /* General */
