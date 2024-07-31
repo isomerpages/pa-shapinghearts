@@ -359,23 +359,7 @@ description: ""
                 </div>
             </div>
         </div>
-    </section>
-    <section class="section bg_gray youtube_section">
-        <div class="canvas canvass">
-            <h1 class="main_heading2">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-            </h1>
-            <br>
-
-            <div class="flex mt-5 justify-between  flex-wrap">
-                <iframe class="youtubeVid" allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/v1v_jBPOJWQ?si=tFRSp9q9D90agi2C" height="315" width="280"></iframe>
-                <iframe class="youtubeVid" allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/QTB1YiWxxKU?si=oBYIdMSIW7YnQ6LW" height="315" width="280"></iframe>
-                <iframe class="youtubeVid" allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/v1v_jBPOJWQ?si=tFRSp9q9D90agi2C" height="315" width="280"></iframe>
-                <iframe class="youtubeVid" allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/QTB1YiWxxKU?si=oBYIdMSIW7YnQ6LW" height="315" width="280"></iframe>
-            </div>
-        </div>
-    </section>
-
-    
+    </section>    
     <section class="section partners">
         <div class="canvass canvas">
             <h1 class="main_heading2">Our Partners</h1>
