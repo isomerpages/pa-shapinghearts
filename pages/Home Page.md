@@ -620,7 +620,7 @@ description: ""
         <div style="z-index: 4000; position: relative;" class="canvas section">
             <div class="faqs_left">
                 <p class="bold">FREQUENTLY ASKED QUESTIONS</p>
-                <h1 class="bold mt-5">
+                <h1 style="line-height: normal" class="bold mt-5">
                   Shaping Hearts celebrate the diverse talents in our community.
                 </h1>
                 <img class="mt-5" style="width: 500px;" src="https://i.ibb.co/F6zc2zJ/Homepage-3.png">
