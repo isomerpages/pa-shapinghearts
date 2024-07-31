@@ -423,27 +423,27 @@ color: black !important;
     <div class="story_grid">
 			<div class="story_card">
   <img src="https://i.ibb.co/B4dqK81/Alex-Lim.jpg">
-				<a>Alex Lim</a>
+				<a href="https://staging.d2d4qnv3td402n.amplifyapp.com/alex-lim/">Alex Lim</a>
 			</div>
 			<div class="story_card">
 			 <img src="https://i.ibb.co/w7GMVNX/Gary-Chong.jpg">
-					<a>Gary Chong</a>
+					<a href="https://staging.d2d4qnv3td402n.amplifyapp.com/alex-lim/">Gary Chong</a>
 			</div>
 			<div class="story_card">
 					 <img src="https://i.ibb.co/n1HZZGc/Leong-Sijun.png">
-				<a>Leong Sijun</a>
+				<a href="https://staging.d2d4qnv3td402n.amplifyapp.com/alex-lim/2">Leong Sijun</a>
 			</div>
 			<div class="story_card">
 				 <img src="https://i.ibb.co/7gQFvV5/Ng-Jun-Yao.jpg">
-				<a>Ng Jun Yao</a>
+				<a href="https://staging.d2d4qnv3td402n.amplifyapp.com/alex-lim/">Ng Jun Yao</a>
 			</div>
 			<div class="story_card">
 						 <img src="https://i.ibb.co/ZLg3w39/Vincent-Seet.jpg">
-					<a>Vincent Seet</a>
+					<a href="https://staging.d2d4qnv3td402n.amplifyapp.com/alex-lim/">Vincent Seet</a>
 			</div>
 			<div class="story_card">
 							 <img src="https://i.ibb.co/GVNQWyY/Yap-Jia-Hui.jpg">
-				<a>Yap Jia Hui</a>
+				<a href="https://staging.d2d4qnv3td402n.amplifyapp.com/alex-lim/">Yap Jia Hui</a>
 			</div>
 			<div>
     </div>
