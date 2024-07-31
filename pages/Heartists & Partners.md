@@ -356,49 +356,67 @@ description: ""
                     <img src="https://i.ibb.co/5xC1Wdb/Frame-217-1.png">
                 </div>
                 <div class="partner_card">
-                    <img src="https://freepnglogo.com/images/all_img/1697562980facebook-logo-transparent.png">
+                    <img src="https://i.ibb.co/YDJPN5d/AWWA.png">
                 </div>
                 <div class="partner_card">
-                    <img src="https://freepnglogo.com/images/all_img/1697562980facebook-logo-transparent.png">
+                    <img src="https://i.ibb.co/5Wwy12d/Bizlink-Centre-Singapore.png">
                 </div>
                 <div class="partner_card">
-                    <img src="https://freepnglogo.com/images/all_img/1697562980facebook-logo-transparent.png">
+                    <img src="https://i.ibb.co/t3qhTZ9/Cerebral-Palsy-Alliance-Singapore-CPAS-School.png">
                 </div>
                 <div class="partner_card">
-                    <img src="https://freepnglogo.com/images/all_img/1697562980facebook-logo-transparent.png">
+                    <img src="https://i.ibb.co/25GsqMX/Christian-outreach.png">
                 </div>
                 <div class="partner_card">
-                    <img src="https://freepnglogo.com/images/all_img/1697562980facebook-logo-transparent.png">
+                    <img src="https://i.ibb.co/bJ7vD0Q/Down-Syndrome-Association-Singapore.png">
                 </div>
                 <div class="partner_card">
-                    <img src="https://freepnglogo.com/images/all_img/1697562980facebook-logo-transparent.png">
+                    <img src="https://i.ibb.co/MZWSKDp/Extra-Ordinary-People.png">
                 </div>
                 <div class="partner_card">
-                    <img src="https://freepnglogo.com/images/all_img/1697562980facebook-logo-transparent.png">
+                    <img src="https://i.ibb.co/6WJ1KjY/Frame-206.png">
                 </div>
                 <div class="partner_card">
-                    <img src="https://freepnglogo.com/images/all_img/1697562980facebook-logo-transparent.png">
+                    <img src="https://i.ibb.co/ssmZ13q/Frame-217.png">
                 </div>
                 <div class="partner_card">
-                    <img src="https://freepnglogo.com/images/all_img/1697562980facebook-logo-transparent.png">
+                    <img src="https://i.ibb.co/nbddZ6y/Friends-of-the-Disabled-Society-FDS.png">
                 </div>
                 <div class="partner_card">
-                    <img src="https://freepnglogo.com/images/all_img/1697562980facebook-logo-transparent.png">
+                    <img src="https://i.ibb.co/Fhhkgrk/Group-4171.png">
                 </div>
                 <div class="partner_card">
-                    <img src="https://freepnglogo.com/images/all_img/1697562980facebook-logo-transparent.png">
+                    <img src="https://i.ibb.co/Qr6gBxt/Group-7270-1.png">
                 </div>
                 <div class="partner_card">
-                    <img src="https://freepnglogo.com/images/all_img/1697562980facebook-logo-transparent.png">
+                    <img src="https://i.ibb.co/XXfLxp8/Group-7270-2.png">
                 </div>
                 <div class="partner_card">
-                    <img src="https://freepnglogo.com/images/all_img/1697562980facebook-logo-transparent.png">
+                    <img src="https://i.ibb.co/YbdG585/Handicapped-Welfare-Association.png">
                 </div>
                 <div class="partner_card">
-                    <img src="https://freepnglogo.com/images/all_img/1697562980facebook-logo-transparent.png">
+                    <img src="https://i.ibb.co/qN9gnTs/MINDS.png">
                 </div>
                 <div class="partner_card">
-                    <img src="https://freepnglogo.com/images/all_img/1697562980facebook-logo-transparent.png">
+                    <img src="https://i.ibb.co/Nx0KgW4/Mouth-Foot-Painting-Artists-Pte-Ltd-1.png">
+                </div>
+                <div class="partner_card">
+                    <img src="https://i.ibb.co/QnNXmv3/Muscular-Dystrophy-Association-Singapore.png">
+                </div>
+                <div class="partner_card">
+                    <img src="https://i.ibb.co/FHt66wn/Partners-metta.png">
+                </div>
+                <div class="partner_card">
+                    <img src="https://i.ibb.co/D7Zzxrz/Rainbow-Centre.png">
+                </div>
+                <div class="partner_card">
+                    <img src="https://i.ibb.co/89Wx44M/Singapore-Association-for-Mental-Health-SAMH.png">
+                </div>
+                <div class="partner_card">
+                    <img src="https://i.ibb.co/C9TC495/Singapore-cheshire-home.png">
+                </div>
+                <div class="partner_card">
+                    <img src="https://i.ibb.co/fS7jGNx/SPD.png">
                 </div>
             </div>
         </div>
