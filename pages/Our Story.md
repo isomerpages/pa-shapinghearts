@@ -93,6 +93,7 @@ description: ""
 	}
 	
 	.VideoPlayer{
+	display: none;
 	padding: 30px 0px;
 	display: flex;
 	align-items: center;
