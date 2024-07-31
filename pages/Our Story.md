@@ -395,15 +395,16 @@ color: black !important;
     <div class="canvass">
     <div class="hero_left">
     <h1>
-    Step into the world of talent artists with disabilities
+    FIND ART IN MEANING
     </h1>
     </div>
     <div class="hero_right">
 			<img src="https://i.ibb.co/mGydBr3/Story-1.png">
     <div class="second">
-			<h2>...and be awed by their art creations at the largest inclusive arts festival in Singapore!</h2>
+			<h2>Meaningful art made by artists with disabilities</h2>
     <p>
-   Experience the artists' works through multiple lenses - an art exhibition, live performances, a charity art auction- and celebrate the diverse talents in our community.
+   When we look at art, we often find ourselves asking: what makes this piece of art - art? What makes this artwork meaningful? We naturally search for the meaning of art: that’s normal. </p>
+  <p>But at Shaping Hearts, art is already meaningful. It’s created by artists with disabilities - a showcase of their strength and talents. You don’t have to find meaning in art; just find the art that speaks to you. It’s already meaningful.
     </p>
 			</div>
     </div>
@@ -455,8 +456,8 @@ color: black !important;
    <section class="section FAQS">
   <div class="canvass">
     <div class="faqs_left">
-      <p class="bold">LOREM IPSUM dolor</p>
-      <h1 class="bold mt-5">Lorem ipsum dolor sit amet adipiscing elit,</h1>
+      <p class="bold">Frequently Asked Questions</p>
+      <h1 class="bold mt-5">Got a question? We've got the answers.</h1>
       <br>
       <img alt="Event" class="mt-5" style="width: 500px" src="https://i.ibb.co/F6zc2zJ/Homepage-3.png">
     </div>
@@ -464,23 +465,23 @@ color: black !important;
       <div class="faq-container">
         <div class="faq">
           <input class="faq-input" id="faq1" type="checkbox">
-          <label class="faq-question" for="faq1">Add commonly asked questions here</label>
+          <label class="faq-question" for="faq1">What is the Shaping Hearts festival?</label>
           <div class="faq-answer">
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam ut lorem qui Nullam ut lorem qui.
+            Shaping Hearts is Singapore's largest inclusive arts festival organized by the North East Community Development Council (NE CDC). It celebrates the talents of artists with disabilities through art exhibitions, live performances, and an art marketplace, promoting inclusivity and raising awareness about the special needs community.
           </div>
         </div>
         <div class="faq">
           <input class="faq-input" id="faq2" type="checkbox">
-          <label class="faq-question" for="faq2">Add commonly asked questions here</label>
+          <label class="faq-question" for="faq2">What impact does the Shaping Hearts festival have on the community?</label>
           <div class="faq-answer">
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam ut lorem qui Nullam ut lorem qui.
+            The Shaping Hearts festival promotes inclusivity and awareness for the special needs community, supports differently-abled artists financially and socially, and encourages community engagement and compassion through art, creating a more cohesive and supportive society.
           </div>
         </div>
         <div class="faq">
           <input class="faq-input" id="faq3" type="checkbox">
-          <label class="faq-question" for="faq3">Add commonly asked questions here</label>
+          <label class="faq-question" for="faq3">How does the Shaping Hearts festival support artists with disabilities?</label>
           <div class="faq-answer">
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam ut lorem qui Nullam ut lorem qui.
+            The Shaping Hearts festival supports artists with disabilities by providing a platform for them to showcase their talents through art exhibitions and performances. It raises awareness and funds through the sale of artwork, with proceeds going directly to the artists and their supporting social service agencies, helping them gain financial stability and recognition for their work.
           </div>
         </div>
       </div>
