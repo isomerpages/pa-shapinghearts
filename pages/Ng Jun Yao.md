@@ -194,21 +194,13 @@ description: ""
 <section style="width: 100%">
 	<div class="canvass">
 	<section class="hero">
-		<h1 class="text-center main_heading">Step into the world of  talent artists with disabilities</h1>
+		<h1 class="text-center main_heading">Hi! I'm a Heartist<br>Ng Jun Yao</h1>
 		<img class="hero_img" src="https://i.ibb.co/7gQFvV5/Ng-Jun-Yao.jpg">
 		<p>
-Experience the artists' works through multiple lenses-an art exhibition, live performances, a charity art auction-and celebrate the diverse talents in our community.
+Jun Yao has been fond of observing the expression and movement of animals since young. His fondness for animals translates into paintings of uniquely charming animal cartoon characters. His parents enrolled him in art classes when he was 8 years old to nurture his interest and talent. Over the years, his artworks were exhibited in various art exhibitions and printed on merchandise e.g. bags &amp; and pouches. In 2015, his artwork was selected by Uniqlo to be one of the prints on t-shirts. He was diagnosed with autism at the age of 4 and graduated from AWWA Special School in 2018.
 		</p>
 	</section>
 	</div>
-	
-	<div class="canvass">
-<div class="images_grid">
-		<img src="https://i.ibb.co/C5TyLDX/1.jpg">
-		<img src="https://i.ibb.co/9t94DfW/2.jpg">
-		<img src="https://i.ibb.co/Gc91Z0n/3.jpg">
-		<img src="https://i.ibb.co/09rvMG3/4.jpg">
-	</div>
-	</div>
+
 	
 </section>
