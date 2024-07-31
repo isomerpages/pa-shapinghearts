@@ -169,9 +169,9 @@ description: ""
 	color: black !important;
 	font-weight: bold;
 	}
-	
     </style>
 <section>
+	<div class="canvas">
 	<section class="hero">
 		<h1 class="text-center main_heading">Step into the world of  talent artists with disabilities</h1>
 		<img class="hero_img" src="https://i.ibb.co/B4dqK81/Alex-Lim.jpg">
@@ -179,12 +179,15 @@ description: ""
 Experience the artists' works through multiple lenses-an art exhibition, live performances, a charity art auction-and celebrate the diverse talents in our community.
 		</p>
 	</section>
+	</div>
 	
+	<div class="canvas">
 <div class="images_grid">
 		<img src="https://i.ibb.co/C5TyLDX/1.jpg">
 		<img src="https://i.ibb.co/9t94DfW/2.jpg">
 		<img src="https://i.ibb.co/Gc91Z0n/3.jpg">
 		<img src="https://i.ibb.co/09rvMG3/4.jpg">
+	</div>
 	</div>
 	
 </section>
