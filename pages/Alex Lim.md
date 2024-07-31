@@ -186,7 +186,10 @@ description: ""
 	}
 	.bg-container .row{
 	width: 100%;
+	margin-left: 0% !important;
+	margin-right: 0% !important;
 	}
+	
     </style>
 <section style="width: 100%">
 	<div class="canvas">
