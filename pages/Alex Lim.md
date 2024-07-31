@@ -34,8 +34,8 @@ description: ""
     }
 	
 	.col.is-8, .col.is-8-tablet{
+	width: 100% !important;
 	 margin-left: 0% !important;
-   width: 100% !important;
 	}
 
  body .content h1, body .content h2,body .content h3, body .content h4, body .content h5 {
