@@ -3,7 +3,7 @@ url: https://shapinghearts.sg
 favicon: /images/NECDC_Shaping_Hearts__Logo_Full_Colour_RGB_main_logo.jpg
 colors:
   primary-color: "#c5242f"
-  secondary-color: "#f28a5e"
+  secondary-color: "#e00537"
   media-colors:
     - title: media-color-one
       color: "#49759a"
