@@ -452,9 +452,8 @@ description: ""
         }
     }
 </style>
-
 <section>
-    <section class="hero">
+	<section class="hero">
         <div class="canvas relative">
             <div class="hero_box">
                 <div class="left">
@@ -489,7 +488,7 @@ description: ""
             </div>
         </div>
         <div style="z-index: 4000; position: relative;" class="event_right section">
-            <img style="width: 100%;  display: block;" src="https://i.ibb.co/0BsF3nb/Homepage-2.png">
+            <img style="width: 100%;  display: block;" src="https://i.ibb.co/FBZbLTf/Homepage-Header-Image.png">
         </div>
 			</div>
     </section>
