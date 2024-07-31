@@ -153,7 +153,7 @@ description: ""
 	}
     
     .story_card img {
-    height: 200px;
+    height: 270px;
 	width: auto !important;
 	border-radius: 10px;
     }
