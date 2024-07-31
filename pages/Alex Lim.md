@@ -32,6 +32,11 @@ description: ""
         margin-left: 0% !important;
         width: 100% !important;
     }
+	
+	.col.is-8, .col.is-8-tablet{
+	 margin-left: 0% !important;
+        width: 100% !important;
+	}
 
  body .content h1, body .content h2,body .content h3, body .content h4, body .content h5 {
     color: black !important;
@@ -170,7 +175,7 @@ description: ""
 	font-weight: bold;
 	}
     </style>
-<section>
+<section style="width: 100%">
 	<div class="canvas">
 	<section class="hero">
 		<h1 class="text-center main_heading">Step into the world of  talent artists with disabilities</h1>
