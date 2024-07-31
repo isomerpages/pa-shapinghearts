@@ -143,6 +143,7 @@ description: ""
 	.bp-container{
 	width: 100% !important;
 	max-width: 100% !important;
+	padding: 0px !important;
 	}
 	
 	.has-float-btns{
