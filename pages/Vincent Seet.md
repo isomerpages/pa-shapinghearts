@@ -194,21 +194,13 @@ description: ""
 <section style="width: 100%">
 	<div class="canvass">
 	<section class="hero">
-		<h1 class="text-center main_heading">Step into the world of  talent artists with disabilities</h1>
+		<h1 class="text-center main_heading">Hi! I'm a Heartist<br>Vincent Seet</h1>
 		<img class="hero_img" src="https://i.ibb.co/ZLg3w39/Vincent-Seet.jpg">
 		<p>
-Experience the artists' works through multiple lenses-an art exhibition, live performances, a charity art auction-and celebrate the diverse talents in our community.
+Vincent is a two-time stroke survivor and educator turned artist. He believes that every painting is “a dream come true” and every artwork can be a “hope for peace and harmony in the world”. Over the years, Vincent has supported various charity institutions locally as well as across the region. He also conducts art workshops for residents of a mental health nursing home on a voluntary basis.
 		</p>
 	</section>
 	</div>
-	
-	<div class="canvass">
-<div class="images_grid">
-		<img src="https://i.ibb.co/C5TyLDX/1.jpg">
-		<img src="https://i.ibb.co/9t94DfW/2.jpg">
-		<img src="https://i.ibb.co/Gc91Z0n/3.jpg">
-		<img src="https://i.ibb.co/09rvMG3/4.jpg">
-	</div>
-	</div>
+
 	
 </section>
