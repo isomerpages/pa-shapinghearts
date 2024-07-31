@@ -141,9 +141,10 @@ description: ""
     }
 	
 	.bp-container{
-	width: 1280px !important;
-	max-width: 1280px !important;
+	width: 100% !important;
+	max-width: 100% !important;
 	}
+	
 	.has-float-btns{
 	display:none;
 	}
@@ -255,6 +256,11 @@ description: ""
     background: #f1f1f1;
     margin: 0;
   }
+	
+	.navbar .bp-container{
+		width: 1280px !important;
+	max-width: 1280px !important;
+	}
 
   .faq-answer {
     max-height: 0;
@@ -285,7 +291,8 @@ description: ""
 
     /* General */
     body .canvas {
-        width: 100%;
+       	width: 1280px !important;
+	max-width: 1280px !important;
         margin-left: auto;
         margin-right: auto;
     }
