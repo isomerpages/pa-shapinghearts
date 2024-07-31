@@ -194,20 +194,17 @@ description: ""
 <section style="width: 100%">
 	<div class="canvass">
 	<section class="hero">
-		<h1 class="text-center main_heading">Step into the world of  talent artists with disabilities</h1>
+		<h1 class="text-center main_heading">Gary Chong</h1>
 		<img class="hero_img" src="https://i.ibb.co/w7GMVNX/Gary-Chong.jpg">
 		<p>
-Experience the artists' works through multiple lenses-an art exhibition, live performances, a charity art auction-and celebrate the diverse talents in our community.
+Alex (@theunskilledboy), a visual artist with autism, creates abstract and pop-art inspired by nature and everyday objects. He uses vibrant colours and shapes and excels in various mediums such as acrylics, ink, oil pastels, and watercolours.</p><p>
+This year, Shaping Hearts 2023 is introducing event-exclusive merchandise, featuring the works of Alex. If his paintings catches your eye, be sure to check out and support the merchandise!
 		</p>
 	</section>
 	</div>
 	
 	<div class="canvass">
 <div class="images_grid">
-		<img src="https://i.ibb.co/C5TyLDX/1.jpg">
-		<img src="https://i.ibb.co/9t94DfW/2.jpg">
-		<img src="https://i.ibb.co/Gc91Z0n/3.jpg">
-		<img src="https://i.ibb.co/09rvMG3/4.jpg">
 	</div>
 	</div>
 	
