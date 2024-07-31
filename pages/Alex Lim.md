@@ -33,7 +33,8 @@ description: ""
         width: 100% !important;
     }
 	
-	.col.is-8, .col.is-8-tablet{
+	body .col.is-8, 
+	body .col.is-8-tablet{
 	width: 100% !important;
 	 margin-left: 0% !important;
 	}
