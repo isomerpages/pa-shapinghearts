@@ -308,53 +308,41 @@ description: ""
             <br>
             <div class="hearts_grid">
                 <div class="heart_card">
-                    <img src="./assets/user1.png">
-                    <p class="bol">Mawell Rebarber</p>
+                    <img src="https://i.ibb.co/cQY3zg7/Alex-Lim.jpg">
+                    <p class="bold">Alex Lim</p>
                     <br>
-                    <p class="desc">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-                        incididunt ut Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-                        incididunt ut Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor</p>
+                    <p class="desc">Alex (@theunskilledboy), a visual artist with autism, creates abstract and pop-art inspired by nature and everyday objects. He uses vibrant colours and shapes and excels in various mediums such as acrylics, ink, oil pastels, and watercolours.</p>
                 </div>
 
                 <div class="heart_card">
-                    <img src="./assets/user2.jpg">
-                    <p class="bold">Mawell Rebarber</p>
+                    <img src="https://i.ibb.co/TgtK1Xp/Gary-Chong.jpg">
+                    <p class="bold">Gary Chong</p>
                     <br>
-                    <p class="desc">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-                        incididunt ut Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-                        incididunt ut Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor</p>
+                    <p class="desc">Gary is a talented artist with a remarkable spirit. His friendly and chatty nature shines through as he expresses himself through art. His vibrant energy is evident in his captivating drawings, showcasing his innate talent and passion. Beyond art, Gary finds joy in dancing, a testament to his zest for life and determination to embrace the world with boundless enthusiasm. Gary is diagnosed with intellectual disability.</p>
                 </div>
                 <div class="heart_card">
-                    <img src="./assets/user3.png">
-                    <p class="bold">Mawell Rebarber</p>
+                    <img src="https://i.ibb.co/QjM0F9X/Leong-Sijun.png">
+                    <p class="bold">Leong Sijun</p>
                     <br>
-                    <p class="desc">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-                        incididunt ut Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-                        incididunt ut Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor</p>
+                    <p class="desc">Sijun was born with Down Syndrome and had been challenging the deterioration of his eyesight and muscles in the past decade. He would paint very slowly stroke by stroke to fill up the whole canvas. He loves cars and paintings; if given a choice, he would want to become a car designer or an Interior Designer. He is a cheerful boy, like his paintings, colourful and bright; he feels happy with colours and sunshine.”</p>
                 </div>
                 <div class="heart_card">
-                    <img src="./assets/user4.png">
-                    <p class="bold">Mawell Rebarber</p>
+                    <img src="https://i.ibb.co/QJ5tKyw/Ng-Jun-Yao.jpg">
+                    <p class="bold">Ng Jun Yao</p>
                     <br>
-                    <p class="desc">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-                        incididunt ut Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-                        incididunt ut Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor</p>
+                    <p class="desc">Jun Yao has been fond of observing the expression and movement of animals since young. His fondness for animals translates into paintings of uniquely charming animal cartoon characters. His parents enrolled him in art classes when he was 8 years old to nurture his interest and talent. Over the years, his artworks were exhibited in various art exhibitions and printed on merchandise e.g. bags &amp; and pouches. In 2015, his artwork was selected by Uniqlo to be one of the prints on t-shirts. He was diagnosed with autism at the age of 4 and graduated from AWWA Special School in 2018.</p>
                 </div>
                 <div class="heart_card">
-                    <img src="./assets/user5.png">
-                    <p class="bold">Mawell Rebarber</p>
+                    <img src="https://i.ibb.co/yWwVvgs/Vincent-Seet.jpg">
+                    <p class="bold">Vincent Seet</p>
                     <br>
-                    <p class="desc">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-                        incididunt ut Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-                        incididunt ut Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor</p>
+                    <p class="desc">Vincent is a two-time stroke survivor and educator turned artist. He believes that every painting is “a dream come true” and every artwork can be a “hope for peace and harmony in the world”. Over the years, Vincent has supported various charity institutions locally as well as across the region. He also conducts art workshops for residents of a mental health nursing home on a voluntary basis.</p>
                 </div>
                 <div class="heart_card">
-                    <img src="./assets/user6.png">
-                    <p class="bold">Mawell Rebarber</p>
+                    <img src="https://i.ibb.co/qp8cF5H/Yap-Jia-Hui.jpg">
+                    <p class="bold">Yap Jia Hui</p>
                     <br>
-                    <p class="desc">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-                        incididunt ut Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-                        incididunt ut Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor</p>
+                    <p class="desc">Jia Hui is a young artist who likeseverything cute, lovely, and pink! With her distinctive crayon techniques and bold colour choices, her style is one of the most iconic and refreshing out of all of our apprentices! </p>
                 </div>
             </div>
         </div>
