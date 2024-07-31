@@ -148,8 +148,11 @@ description: ""
 	right: 20px;
     }
     
+	.story_card{
+	position: relative;
+	}
     
-    .story_card {
+    .story_card img {
     height: 200px;
 	width: auto !important;
 	border-radius: 10px;
@@ -399,12 +402,24 @@ color: black !important;
     <br><br>
     
     <div class="story_grid">
-   <img class="story_card" src="https://i.ibb.co/B4dqK81/Alex-Lim.jpg">
-			 <img class="story_card" src="https://i.ibb.co/w7GMVNX/Gary-Chong.jpg">
-					 <img class="story_card" src="https://i.ibb.co/n1HZZGc/Leong-Sijun.png">
-				 <img class="story_card" src="https://i.ibb.co/7gQFvV5/Ng-Jun-Yao.jpg">
-						 <img class="story_card" src="https://i.ibb.co/ZLg3w39/Vincent-Seet.jpg">
-							 <img class="story_card" src="https://i.ibb.co/GVNQWyY/Yap-Jia-Hui.jpg">
+			<div class="story_card">
+  <img src="https://i.ibb.co/B4dqK81/Alex-Lim.jpg">
+			</div>
+			<div class="story_card">
+			 <img src="https://i.ibb.co/w7GMVNX/Gary-Chong.jpg">
+			</div>
+			<div class="story_card">
+					 <img src="https://i.ibb.co/n1HZZGc/Leong-Sijun.png">
+			</div>
+			<div class="story_card">
+				 <img src="https://i.ibb.co/7gQFvV5/Ng-Jun-Yao.jpg">
+			</div>
+			<div class="story_card">
+						 <img src="https://i.ibb.co/ZLg3w39/Vincent-Seet.jpg">
+			</div>
+			<div class="story_card">
+							 <img src="https://i.ibb.co/GVNQWyY/Yap-Jia-Hui.jpg">
+			</div>
 			<div>
     </div>
     </div>
