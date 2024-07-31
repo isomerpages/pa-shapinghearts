@@ -126,6 +126,7 @@ description: ""
 	.events{
 	height: 100%;
 	width: 100%;
+	background: #c5242f;
 	}
 	
     .events_flex {
