@@ -160,6 +160,10 @@ description: ""
     }
    
     @media (max-width: 800px) {
+	.images_grid{
+	display: none
+	}
+	
 	.hero{
 	width: 100%;
 	}
