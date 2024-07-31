@@ -152,7 +152,7 @@ description: ""
     .event_left p {
         font-size: 1.1rem;
         margin-top: 5px;
-        color: gray;
+        color: white;
     }
 
     .events .event_right {
@@ -163,6 +163,10 @@ description: ""
         margin-top: -10px;
     }
 
+	.events h1{
+	color: white !important;
+	}
+	
     /* Story */
     .story .canvas {
         width: 80%;
