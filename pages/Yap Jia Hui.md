@@ -194,21 +194,12 @@ description: ""
 <section style="width: 100%">
 	<div class="canvass">
 	<section class="hero">
-		<h1 class="text-center main_heading">Step into the world of  talent artists with disabilities</h1>
+		<h1 class="text-center main_heading">Hi! I'm a Heartist<br>Yap Jia Hui</h1>
 		<img class="hero_img" src="https://i.ibb.co/GVNQWyY/Yap-Jia-Hui.jpg">
 		<p>
-Experience the artists' works through multiple lenses-an art exhibition, live performances, a charity art auction-and celebrate the diverse talents in our community.
+Jia Hui is a young artist who likeseverything cute, lovely, and pink! With her distinctive crayon techniques and bold colour choices, her style is one of the most iconic and refreshing out of all of our apprentices!
 		</p>
 	</section>
 	</div>
-	
-	<div class="canvass">
-<div class="images_grid">
-		<img src="https://i.ibb.co/C5TyLDX/1.jpg">
-		<img src="https://i.ibb.co/9t94DfW/2.jpg">
-		<img src="https://i.ibb.co/Gc91Z0n/3.jpg">
-		<img src="https://i.ibb.co/09rvMG3/4.jpg">
-	</div>
-	</div>
-	
+
 </section>
