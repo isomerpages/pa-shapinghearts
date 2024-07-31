@@ -25,7 +25,7 @@ sections:
       size: md
   - infopic:
       title: Discover meaningful art made by people with disabilities
-      subtitle: Add an image and text
+      subtitle: ABOUT SHAPING HEARTS
       id: infopic
       description: At Shaping Hearts, art by disabled artists is inherently
         meaningful. Celebrate their talents and find the art that speaks to you;
@@ -36,7 +36,7 @@ sections:
       alt: Image alt text
   - infopic:
       title: Artwork that tells a thousand stories
-      subtitle: Add an image and text
+      subtitle: HEARTISTS & PARTNERS
       id: infopic
       description: What gives art meaning? Is it the artist behind the art? Is it the
         way it’s created? Or is it art because it speaks to you?
