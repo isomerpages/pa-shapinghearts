@@ -194,21 +194,12 @@ description: ""
 <section style="width: 100%">
 	<div class="canvass">
 	<section class="hero">
-		<h1 class="text-center main_heading">Step into the world of  talent artists with disabilities</h1>
+		<h1 class="text-center main_heading">Leong Sijun</h1>
 		<img class="hero_img" src="https://i.ibb.co/n1HZZGc/Leong-Sijun.png">
 		<p>
-Experience the artists' works through multiple lenses-an art exhibition, live performances, a charity art auction-and celebrate the diverse talents in our community.
+Sijun was born with Down Syndrome and had been challenging the deterioration of his eyesight and muscles in the past decade. He would paint very slowly stroke by stroke to fill up the whole canvas. He loves cars and paintings; if given a choice, he would want to become a car designer or an Interior Designer. He is a cheerful boy, like his paintings, colourful and bright; he feels happy with colours and sunshine.”
 		</p>
 	</section>
-	</div>
-	
-	<div class="canvass">
-<div class="images_grid">
-		<img src="https://i.ibb.co/C5TyLDX/1.jpg">
-		<img src="https://i.ibb.co/9t94DfW/2.jpg">
-		<img src="https://i.ibb.co/Gc91Z0n/3.jpg">
-		<img src="https://i.ibb.co/09rvMG3/4.jpg">
-	</div>
 	</div>
 	
 </section>
