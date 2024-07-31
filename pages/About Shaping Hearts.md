@@ -506,7 +506,7 @@ description: ""
                 INCLUSIVE<br>
                 ARTS FESTIVAL
             </h1>
-            <p>Shop meaningful artworks by artists with disabilities, step into their world through sensorial experiences, and so much more!</p>
+            <p>What gives art meaning? Is it the artist behind the art? Is it the way it’s created? Or is it art because it speaks to you? Sometimes, we don’t need to find meaning in art - it’s already there.</p>
             <div class="flex justify-between mt-5">
 							<button class="button bold"><a href="/our-story">Our Story</a></button>
                 <button class="button bold">SHOP</button>
