@@ -293,9 +293,8 @@ description: ""
     <section class="hero">
         <div class="canvas canvass relative">
             <div class="hero_left">
-                <h1>Lorem ipsum dolor sit amet, consectetur adipiscing eli</h1>
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut Lorem
-                    ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut</p>
+                <h1>Meet the Heartists behind the masterpieces.</h1>
+                <p>Every art piece has a story behind it. Stories of triumph, tragedy, strength, failure, hardship, and beauty. See what speaks to you. </p>
             </div>
             <div class="hero_right">
                 <img src="https://i.ibb.co/gzGc84Z/Partners-1.png">
@@ -366,7 +365,7 @@ description: ""
             <br>
             <div class="partners_grid mt-5">
                 <div class="partner_card">
-                    <img src="https://freepnglogo.com/images/all_img/1697562980facebook-logo-transparent.png">
+                    <img src="https://i.ibb.co/5xC1Wdb/Frame-217-1.png">
                 </div>
                 <div class="partner_card">
                     <img src="https://freepnglogo.com/images/all_img/1697562980facebook-logo-transparent.png">
