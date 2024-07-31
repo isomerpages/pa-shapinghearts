@@ -167,6 +167,10 @@ description: ""
 	color: white !important;
 	}
 	
+	.events .button{
+	border: none !important;
+	}
+	
     /* Story */
     .story .canvas {
         width: 80%;
@@ -342,7 +346,7 @@ description: ""
 
     .button:hover {
         background: black;
-        color: white;
+        color: white !important;
     }
 
     .flex {
