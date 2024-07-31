@@ -185,11 +185,7 @@ description: ""
             flex-wrap: wrap;
         }
 
-     /* FAQS */	
-	.FAQS{
-	background: #f5f0e7;
-	}
-	
+     /* FAQS */
     .FAQS .canvas {
     display: flex;
     justify-content: space-between;
@@ -217,6 +213,7 @@ description: ""
   
   .FAQS h1{
     font-size: 1.5rem !important;
+	color: black !important;
   }
 
   .faq-question {
