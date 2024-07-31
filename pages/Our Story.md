@@ -157,6 +157,7 @@ description: ""
 	width: auto !important;
 	border-radius: 10px;
     }
+	
 	.story_card a{
 	position: absolute;
 	bottom:0%;
