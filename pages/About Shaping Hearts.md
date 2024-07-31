@@ -205,7 +205,7 @@ description: ""
     }
 
 	.button a{
-	color: black;
+	color: #ffffff;
 	text-decoration: none;
 	}
 	
@@ -342,7 +342,7 @@ description: ""
     }
 
     .button {
-        background: white;
+        background: #e0125b;
         border: 1.99px solid rgba(0, 0, 0, 1);
         border-radius: 20px;
         padding: 12.5px 30px;
@@ -354,7 +354,7 @@ description: ""
     }
 
     .button:hover {
-        background: black;
+        background: #f04a38;
         color: white !important;
     }
 
