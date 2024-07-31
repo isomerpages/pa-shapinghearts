@@ -50,5 +50,5 @@ sections:
       id: infobar
       description: Shop over 500 artworks from artists with disabilities.
       button: VISIT SHOP
-      url: https://example.com
+      url: https://f0b9ef-e8.myshopify.com/
 ---
