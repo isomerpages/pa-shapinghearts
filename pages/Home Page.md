@@ -173,6 +173,10 @@ description: ""
 	}
 	
     /* Story */
+	.story{
+	background: #f5f0e7 !important;
+	}
+	
     .story .canvas {
         width: 80%;
     }
@@ -226,6 +230,10 @@ description: ""
 
 
     /* FAQS */	
+	.FAQS{
+	background: #f5f0e7;
+	}
+	
     .FAQS .canvas {
     display: flex;
     justify-content: space-between;
