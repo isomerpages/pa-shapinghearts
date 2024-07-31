@@ -402,7 +402,7 @@ color: black !important;
    <img class="story_card" src="https://i.ibb.co/B4dqK81/Alex-Lim.jpg">
 			 <img class="story_card" src="https://i.ibb.co/w7GMVNX/Gary-Chong.jpg">
 					 <img class="story_card" src="https://i.ibb.co/n1HZZGc/Leong-Sijun.png">
-				 <img class="story_card" src="https://i.ibb.co/n1HZZGc/https://i.ibb.co/7gQFvV5/Ng-Jun-Yao.jpg">
+				 <img class="story_card" src="https://i.ibb.co/7gQFvV5/Ng-Jun-Yao.jpg">
 						 <img class="story_card" src="https://i.ibb.co/ZLg3w39/Vincent-Seet.jpg">
 							 <img class="story_card" src="https://i.ibb.co/GVNQWyY/Yap-Jia-Hui.jpg">
 			<div>
