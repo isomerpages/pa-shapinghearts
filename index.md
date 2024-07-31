@@ -1,8 +1,8 @@
 ---
 layout: homepage
-title: Isomer Site
-description: Brief site description here
-image: /images/isomer-logo.svg
+title: Shaping Hearts
+description: Singapore's Largest Inclusive Arts Event
+image: /images/NECDC_Shaping_Hearts__Logo_Full_Colour_RGB_main_logo.jpg
 permalink: /
 notification: ""
 sections:
