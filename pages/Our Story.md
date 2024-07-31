@@ -424,27 +424,27 @@ color: black !important;
     <div class="story_grid">
 			<div class="story_card">
   <img src="https://i.ibb.co/B4dqK81/Alex-Lim.jpg">
-				<a href="https://staging.d2d4qnv3td402n.amplifyapp.com/alex-lim/">Alex Lim</a>
+				<a href="https://staging.d2d4qnv3td402n.amplifyapp.com/alex-lim/">Alex Lim <img style="width: 30px !important" src="https://i.ibb.co/K99VVxJ/Arrow.png"> </a>
 			</div>
 			<div class="story_card">
 			 <img src="https://i.ibb.co/w7GMVNX/Gary-Chong.jpg">
-					<a href="https://staging.d2d4qnv3td402n.amplifyapp.com/gary-chong/">Gary Chong</a>
+					<a href="https://staging.d2d4qnv3td402n.amplifyapp.com/gary-chong/">Gary Chong <img style="width: 30px !important" src="https://i.ibb.co/K99VVxJ/Arrow.png"></a>
 			</div>
 			<div class="story_card">
 					 <img src="https://i.ibb.co/n1HZZGc/Leong-Sijun.png">
-				<a href="https://staging.d2d4qnv3td402n.amplifyapp.com/leong-sijun/">Leong Sijun</a>
+				<a href="https://staging.d2d4qnv3td402n.amplifyapp.com/leong-sijun/">Leong Sijun <img style="width: 30px !important" src="https://i.ibb.co/K99VVxJ/Arrow.png"></a>
 			</div>
 			<div class="story_card">
 				 <img src="https://i.ibb.co/7gQFvV5/Ng-Jun-Yao.jpg">
-				<a href="https://staging.d2d4qnv3td402n.amplifyapp.com/ng-jun-yao/">Ng Jun Yao</a>
+				<a href="https://staging.d2d4qnv3td402n.amplifyapp.com/ng-jun-yao/">Ng Jun Yao <img style="width: 30px !important" src="https://i.ibb.co/K99VVxJ/Arrow.png"></a>
 			</div>
 			<div class="story_card">
 						 <img src="https://i.ibb.co/ZLg3w39/Vincent-Seet.jpg">
-					<a href="https://staging.d2d4qnv3td402n.amplifyapp.com/vincent-seet/">Vincent Seet</a>
+					<a href="https://staging.d2d4qnv3td402n.amplifyapp.com/vincent-seet/">Vincent Seet <img style="width: 30px !important" src="https://i.ibb.co/K99VVxJ/Arrow.png"></a>
 			</div>
 			<div class="story_card">
 							 <img src="https://i.ibb.co/GVNQWyY/Yap-Jia-Hui.jpg">
-				<a href="https://staging.d2d4qnv3td402n.amplifyapp.com/yap-jia-hui/">Yap Jia Hui</a>
+				<a href="https://staging.d2d4qnv3td402n.amplifyapp.com/yap-jia-hui/">Yap Jia Hui <img style="width: 30px !important" src="https://i.ibb.co/K99VVxJ/Arrow.png"></a>
 			</div>
 			<div>
     </div>
