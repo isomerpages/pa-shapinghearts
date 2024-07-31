@@ -194,10 +194,11 @@ description: ""
 <section style="width: 100%">
 	<div class="canvass">
 	<section class="hero">
-		<h1 class="text-center main_heading">Step into the world of  talent artists with disabilities</h1>
-		<img class="hero_img" src="https://i.ibb.co/B4dqK81/Alex-Lim.jpg">
+		<h1 class="text-center main_heading">Alex Lim</h1>
+		<p><img class="hero_img" src="https://i.ibb.co/B4dqK81/Alex-Lim.jpg"></p>
 		<p>
-Experience the artists' works through multiple lenses-an art exhibition, live performances, a charity art auction-and celebrate the diverse talents in our community.
+Alex (@theunskilledboy), a visual artist with autism, creates abstract and pop-art inspired by nature and everyday objects. He uses vibrant colours and shapes and excels in various mediums such as acrylics, ink, oil pastels, and watercolours.</p><p>
+This year, Shaping Hearts 2023 is introducing event-exclusive merchandise, featuring the works of Alex. If his paintings catches your eye, be sure to check out and support the merchandise!
 		</p>
 	</section>
 	</div>
