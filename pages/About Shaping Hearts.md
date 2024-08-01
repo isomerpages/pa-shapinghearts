@@ -13,28 +13,28 @@ description: ""
         box-sizing: border-box;
         font-family: "Inter", sans-serif;
     }
-	
-	html {
-	width: 100% !important;
-	}
-	
-	body{
-	overflow-x:  hidden;
-	}
+    
+    html {
+    width: 100% !important;
+    }
+    
+    body{
+    overflow-x:  hidden;
+    }
 
     .col.is-offset-2,
     .col.is-offset-2-tablet {
         margin-left: 0% !important;
         width: 100% !important;
     }
-	
-	.content h1, .content h2, .content h3, .content h4, .content h5 {
-	color: black !important;
+    
+    .content h1, .content h2, .content h3, .content h4, .content h5 {
+    color: black !important;
 }
 
     .hero {
         display: flex;
-	     display: none;
+         display: none;
         margin-top: -20px !important;
         height: 100vh;
         justify-content: center;
@@ -43,8 +43,8 @@ description: ""
         width: 100%;
         overflow: hidden;
         padding: 20px;
-	background: url("https://i.ibb.co/BznXQFQ/Homepage-1.png") no-repeat;
-	background-position: center;
+    background: url("https://i.ibb.co/BznXQFQ/Homepage-1.png") no-repeat;
+    background-position: center;
     }
 
     .bp-section-pagetitle {
@@ -127,12 +127,12 @@ description: ""
 
 
     /* 2nd section EVents */
-	.events{
-	height: 100%;
-	width: 100%;
-	background: #c5242f;
-	}
-	
+    .events{
+    height: 100%;
+    width: 100%;
+    background: #c5242f;
+    }
+    
     .events_flex {
         display: flex;
         justify-content: space-between;
@@ -143,16 +143,16 @@ description: ""
         width: 34%;
         z-index: 3000;
     }
-	
-	.bp-container{
-	width: 100% !important;
-	max-width: 100% !important;
-	padding: 0px !important;
-	}
-	
-	.has-float-btns{
-	display:none;
-	}
+    
+    .bp-container{
+    width: 100% !important;
+    max-width: 100% !important;
+    padding: 0px !important;
+    }
+    
+    .has-float-btns{
+    display:none;
+    }
 
     .event_left p {
         font-size: 1.1rem;
@@ -168,19 +168,19 @@ description: ""
         margin-top: -10px;
     }
 
-	.events h1{
-	color: white !important;
-	}
-	
-	.events .button{
-	border: none !important;
-	}
-	
+    .events h1{
+    color: white !important;
+    }
+    
+    .events .button{
+    border: none !important;
+    }
+    
     /* Story */
-	.story{
-	background: #f5f0e7 !important;
-	}
-	
+    .story{
+    background: #f5f0e7 !important;
+    }
+    
     .story .canvas {
         width: 80%;
     }
@@ -208,11 +208,11 @@ description: ""
         width: 70%;
     }
 
-	.button a{
-	color: #ffffff;
-	text-decoration: none;
-	}
-	
+    .button a{
+    color: #ffffff;
+    text-decoration: none;
+    }
+    
     .sponsors .sponsors_grid {
         display: flex;
         justify-content: center;
@@ -221,11 +221,11 @@ description: ""
         grid-gap: 30px;
     }
 
-	.sponsors h3{
-	color: black !important;
-	font-weight: bold;
-	}
-	
+    .sponsors h3{
+    color: black !important;
+    font-weight: bold;
+    }
+    
     .sponsors_grid img {
         width: 150px;
         font-weight: bold;
@@ -233,11 +233,11 @@ description: ""
     }
 
 
-    /* FAQS */	
-	.FAQS{
-	background: #f5f0e7;
-	}
-	
+    /* FAQS */  
+    .FAQS{
+    background: #f5f0e7;
+    }
+    
     .FAQS .canvas {
     display: flex;
     justify-content: space-between;
@@ -248,11 +248,11 @@ description: ""
     max-width: 800px;
     margin: 0 auto;
   }
-	
-		.faqs_left,
-	.faqs_right {
-	max-width: 500px;
-	}
+    
+        .faqs_left,
+    .faqs_right {
+    max-width: 500px;
+    }
 
   .faq {
     border-bottom: 1px solid #ccc;
@@ -277,11 +277,11 @@ description: ""
     background: #f1f1f1;
     margin: 0;
   }
-	
-	.navbar .bp-container{
-		width: 1280px !important;
-	max-width: 1280px !important;
-	}
+    
+    .navbar .bp-container{
+        width: 1280px !important;
+    max-width: 1280px !important;
+    }
 
   .faq-answer {
     max-height: 0;
@@ -312,8 +312,8 @@ description: ""
 
     /* General */
     body .canvas {
-       	width: 1280px !important;
-	max-width: 1280px !important;
+        width: 1280px !important;
+    max-width: 1280px !important;
         margin-left: auto;
         margin-right: auto;
     }
@@ -353,8 +353,8 @@ description: ""
         width: 45%;
         transition: 0.2s all ease;
         cursor: pointer;
-	text-decoration: none;
-	color: black;
+    text-decoration: none;
+    color: black;
     }
 
     .button:hover {
@@ -388,28 +388,28 @@ description: ""
     }
 
 
-	@media (max-width: 1280px) {
-	.bp-container{
-	width: 100% !important;
+    @media (max-width: 1280px) {
+    .bp-container{
+    width: 100% !important;
 }
-	}
-	
-	
-	@media (max-width: 1280px){
-	.navbar .bp-container{
-	width: 100% !important;
-	max-width: 100% !important;
-	}
-	}
-	
+    }
+    
+    
+    @media (max-width: 1280px){
+    .navbar .bp-container{
+    width: 100% !important;
+    max-width: 100% !important;
+    }
+    }
+    
     @media (max-width: 700px) {
-	.hero{
-	background: none;
-	}
-	
-	.section{
-	padding: 50px 0px;
-	}
+    .hero{
+    background: none;
+    }
+    
+    .section{
+    padding: 50px 0px;
+    }
         .faqs_left,
         .faqs_right {
             width: 100%;
@@ -490,7 +490,7 @@ description: ""
     }
 </style>
 <section>
-	<section class="hero">
+    <section class="hero">
         <div class="canvas relative">
             <div class="hero_box">
                 <div class="left">
@@ -511,7 +511,7 @@ description: ""
     </section>
 
     <section style="z-index: 4000; position: relative;" class="events">
-			<div class="events_flex canvas">
+            <div class="events_flex canvas">
         <div class="event_left mt-5 section">
             <h1 class="main_heading">
                 SINGAPORE'S LARGEST<br>
@@ -520,14 +520,14 @@ description: ""
             </h1>
             <p>What gives art meaning? Is it the artist behind the art? Is it the way it’s created? Or is it art because it speaks to you? Sometimes, we don’t need to find meaning in art - it’s already there.</p>
             <div class="flex justify-between mt-5">
-							<button class="button bold"><a href="/our-story">Our Story</a></button>
+                            <button class="button bold"><a href="/our-story">Our Story</a></button>
                 <button class="button bold"><a target="_blank" href="https://f0b9ef-e8.myshopify.com/">Shop</a></button>
             </div>
         </div>
         <div style="z-index: 4000; position: relative;" class="event_right section">
             <img style="width: 100%;  display: block;" src="https://i.ibb.co/FBZbLTf/Homepage-Header-Image.png">
         </div>
-			</div>
+            </div>
     </section>
 
     <section class="story relative">
@@ -628,40 +628,4 @@ description: ""
             </div>
         </div>
     </section>
-
-    <section class="FAQS relative">
-        <div style="z-index: 4000; position: relative;" class="canvas section">
-            <div class="faqs_left">
-                <p class="bold">FREQUENTLY ASKED QUESTIONS</p>
-                <h1 style="line-height: normal" class="bold mt-5">
-                  Shaping Hearts celebrate the diverse talents in our community.
-                </h1>
-                <img class="mt-5" style="width: 500px;" src="https://i.ibb.co/F6zc2zJ/Homepage-3.png">
-            </div>
-					<div class="faqs_right">
-      <div class="faq-container">
-        <div class="faq">
-          <input class="faq-input" id="faq1" type="checkbox">
-          <label class="faq-question" for="faq1">What is the Shaping Hearts festival?</label>
-          <div class="faq-answer">
-             Shaping Hearts is Singapore's largest inclusive arts festival organized by the North East Community Development Council (NE CDC). It celebrates the talents of artists with disabilities through art exhibitions, live performances, and an art marketplace, promoting inclusivity and raising awareness about the special needs community.
-          </div>
-        </div>
-        <div class="faq">
-          <input class="faq-input" id="faq2" type="checkbox">
-          <label class="faq-question" for="faq2">What impact does the Shaping Hearts festival have on the community?</label>
-          <div class="faq-answer">
-            The Shaping Hearts festival promotes inclusivity and awareness for the special needs community, supports differently-abled artists financially and socially, and encourages community engagement and compassion through art, creating a more cohesive and supportive society.
-          </div>
-        </div>
-        <div class="faq">
-          <input class="faq-input" id="faq3" type="checkbox">
-          <label class="faq-question" for="faq3">How does the Shaping Hearts festival support artists with disabilities?</label>
-          <div class="faq-answer">
-            The Shaping Hearts festival supports artists with disabilities by providing a platform for them to showcase their talents through art exhibitions and performances. It raises awareness and funds through the sale of artwork, with proceeds going directly to the artists and their supporting social service agencies, helping them gain financial stability and recognition for their work.
-          </div>
-        </div>
-      </div>
-	</div>
-    </div></section>
 </section>
