@@ -266,6 +266,13 @@ description: ""
             border-bottom: 1.99px solid black;
             min-height: 100vh;
         }
+	
+		@media (max-width: 1280px){
+	.navbar .bp-container{
+	width: 100% !important;
+	max-width: 100% !important;
+	}
+	}
 
         @media (max-width: 800px) {
 	.canvass {
