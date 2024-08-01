@@ -93,7 +93,6 @@ description: ""
 	}
 	
 	.VideoPlayer{
-	display: none;
 	padding: 30px 0px;
 	align-items: center;
 	justify-content: center;
@@ -411,7 +410,7 @@ color: black !important;
 	</div>
   	<div class="VideoPlayer relative">
 		<div class="hero_center">
-			<img src="https://www.intermedia-solutions.net/wp-content/uploads/2021/06/video-thumbnail-01.jpg" style="width: 100%">
+	<iframe allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowfullscreen="true" frameborder="0" scrolling="no" style="border:none;overflow:hidden" height="314" width="560" src="https://www.facebook.com/plugins/video.php?height=314&amp;href=https%3A%2F%2Fwww.facebook.com%2FNECDC%2Fvideos%2F246726828232464%2F&amp;show_text=false&amp;width=560&amp;t=0"></iframe>
 		</div>
 	</div>
     <section class="section story bg_gray">
