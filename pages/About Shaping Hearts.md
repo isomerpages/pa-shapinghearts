@@ -361,7 +361,6 @@ VideoPlayer{
 
     .button {
         background: #e0125b;
-        border: 1.99px solid rgba(0, 0, 0, 1);
         border-radius: 20px;
         padding: 12.5px 30px;
         width: 45%;
