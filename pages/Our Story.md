@@ -100,7 +100,7 @@ description: ""
 	
 	.VideoPlayer  iframe{
 	width: 100% !important;
-	min-height: 70 !important;
+	min-height: 70vh !important;
 	}
 	
     .hero_center {
