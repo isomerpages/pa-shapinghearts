@@ -324,7 +324,7 @@ description: ""
         <div class="canvas canvass relative">
             <div class="hero_left">
                 <h1>Meet the Heartists behind the masterpieces.</h1>
-                <p>Every art piece has a story behind it. Stories of triumph, tragedy, strength, failure, hardship, and beauty. See what speaks to you. </p>
+                <p>Every art piece has a story behind it. Stories of triumph, strength, failure, hardship, and beauty. See what speaks to you. </p>
             </div>
             <div class="hero_right">
                 <img src="https://i.ibb.co/gzGc84Z/Partners-1.png">
