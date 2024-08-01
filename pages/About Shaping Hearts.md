@@ -361,6 +361,7 @@ VideoPlayer{
 
     .button {
         background: #e0125b;
+	border: none !important;
         border-radius: 20px;
         padding: 12.5px 30px;
         width: 45%;
