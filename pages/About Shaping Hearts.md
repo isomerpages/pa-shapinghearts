@@ -17,6 +17,10 @@ description: ""
 	html {
 	width: 100% !important;
 	}
+	
+	body{
+	overflow-x:  hidden;
+	}
 
     .col.is-offset-2,
     .col.is-offset-2-tablet {
