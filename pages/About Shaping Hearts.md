@@ -390,6 +390,14 @@ description: ""
 }
 	}
 	
+	
+	@media (max-width: 1280px){
+	.navbar .bp-container{
+	width: 100% !important;
+	max-width: 100% !important;
+	}
+	}
+	
     @media (max-width: 700px) {
 	.hero{
 	background: none;
