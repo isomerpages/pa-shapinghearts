@@ -535,7 +535,8 @@ description: ""
             <div class="text-center">
                 <p class="text-center bold">FOLLOW OUR HEARTS</p>
                 <h1 class="main_heading2 text-center mt-5">Step into the world of talented artists with disabilities and be awed by their art creations at the largest inclusive arts event!</h1>
-                <button style="width: fit-content; background: #e0125b;" class="button bold mt-5"><a target="_blank" href="https://f0b9ef-e8.myshopify.com/">Visit Shop</a></button><a target="_blank" href="https://f0b9ef-e8.myshopify.com/">
+                <button style="width: fit-content; background: #e0125b;" class="button bold mt-5">
+                    <a target="_blank" href="https://f0b9ef-e8.myshopify.com/">Visit Shop</a></button>
                 <br>
                 <br>
 
@@ -573,9 +574,9 @@ description: ""
                         </p>
                     </div>
                 </div>
-            </a></div><a target="_blank" href="https://f0b9ef-e8.myshopify.com/">
-        </a></div><a target="_blank" href="https://f0b9ef-e8.myshopify.com/">
-    </a></section><a target="_blank" href="https://f0b9ef-e8.myshopify.com/">
+            </div>
+        </div>
+   </section>
 
     <section class="sponsors relative">
 
@@ -661,6 +662,6 @@ description: ""
           </div>
         </div>
       </div>
-			</div>
+	</div>
     </div></section>
-</a></section>
+</section>
