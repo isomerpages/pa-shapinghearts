@@ -281,7 +281,7 @@ VideoPlayer{
     
     .team_grid {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(230px, 1fr));
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
     gap: 25px;
     width: 95%;
     margin: auto;
