@@ -4,12 +4,6 @@ permalink: /our-story/
 variant: markdown
 description: ""
 ---
----
-title: Our Story
-permalink: /our-story/
-variant: markdown
-description: ""
----
 <style>
     @import url('https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap');
 	
@@ -493,5 +487,4 @@ color: black !important;
     </div>
   </div>
 </section>
-
     </section>
