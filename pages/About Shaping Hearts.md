@@ -420,6 +420,10 @@ VideoPlayer{
     }
     
     @media (max-width: 700px) {
+	.VideoPlayer iframe{
+	min-height: auto !important;
+	}
+	
     .hero{
     background: none;
     }
