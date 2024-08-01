@@ -372,9 +372,13 @@ VideoPlayer{
     }
 
     .button:hover {
-        background: #f04a38;
+        background: #f04a38 !important;
         color: white !important;
     }
+	
+	.button:hover a{
+	color: white !important;
+	}
 
     .flex {
         display: flex;
