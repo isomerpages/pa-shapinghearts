@@ -202,6 +202,36 @@ description: ""
         margin: 0px;
     }
 
+/*Video */
+VideoPlayer{
+	padding: 30px 0px;
+	align-items: center;
+	justify-content: center;
+	}
+	
+	.VideoPlayer  iframe{
+	width: 100% !important;
+	min-height: 70vh !important;
+	}
+
+    .hero_center {
+    width: 65%;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 50px;
+    padding-bottom: 50px;
+	position: relative;
+	z-index: 3000;
+    }
+        
+        .col.is-offset-2, .col.is-offset-2-tablet{
+        margin-left: 0% !important;
+     width: 100% !important;
+        }
+        
+    .hero_right img {
+    width: 45%;
+    }
 
     /* Sponsors */
     .sponsors .canvas {
@@ -232,83 +262,67 @@ description: ""
         border-radius: 2px;
     }
 
-
-    /* FAQS */  
-    .FAQS{
-    background: #f5f0e7;
-    }
-    
-    .FAQS .canvas {
-    display: flex;
-    justify-content: space-between;
-    flex-wrap: wrap;
-    }
-    
-  .faq-container {
-    max-width: 800px;
-    margin: 0 auto;
-  }
-    
-        .faqs_left,
-    .faqs_right {
-    max-width: 500px;
-    }
-
-  .faq {
-    border-bottom: 1px solid #ccc;
-    margin-bottom: 10px;
-  }
-
-  .faq-input {
-    display: none;
-  }
-  
-  .FAQS h1{
-    font-size: 1.5rem !important;
-  }
-
-  .faq-question {
-    border-top-right-radius: 10px;
-    display: block;
-    padding: 15px 10px;
-    border-top-left-radius: 10px;
-    font-weight: bold;
-    cursor: pointer;
-    background: #f1f1f1;
-    margin: 0;
-  }
-    
     .navbar .bp-container{
         width: 1280px !important;
     max-width: 1280px !important;
     }
 
-  .faq-answer {
-    max-height: 0;
-    overflow: hidden;
-    transition: max-height 0.3s ease-out;
-    background: #fff;
-    padding: 0 15px;
-  }
-
-  .faq-input:checked + .faq-question + .faq-answer {
-    max-height: 200px;
-    padding: 15px 15px;
-  }
-
-  .faq-input:checked + .faq-question {
-    background: #e0e0e0;
-  }
-
-  .faq-question::after {
-    content: '▼';
-    float: right;
-    transition: transform 0.3s ease-out;
-  }
-
-  .faq-input:checked + .faq-question::after {
-    transform: rotate(180deg);
-  }
+     /* STORY */
+	.story{
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	border-radius: 20px;
+	}
+	
+    .story .canvass {
+    width: 80%;
+    }
+    
+    .story_grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 25px;
+    width: 95%;
+    margin: auto;
+    }
+    
+    .story_grid .arrow {
+    font-size: 1.2rem;
+    margin-left: auto;
+        height: 35px;
+        width: 35px;
+        border-radius: 50%;
+	position: absolute;
+	bottom: 20px;
+	right: 20px;
+    }
+    
+	.story_card{
+	position: relative;
+	}
+    
+    .story_card img {
+	width: 100% !important;
+	border-radius: 15px;
+	margin: 0 !important;
+    }
+	
+	.story_card a{
+	position: absolute;
+	bottom:0%;
+	left: 0%;
+	margin-bottom: 0%;
+	width: 100%;
+	color: white !important;
+	text-decoration: none !important;
+	background: #97002b !important;
+	padding: 10px 20px;
+	text-transform: uppercase;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	}
 
     /* General */
     body .canvas {
@@ -577,6 +591,49 @@ description: ""
             </div>
         </div>
    </section>
+   <section>
+    <div class="VideoPlayer relative">
+      <div class="hero_center">
+  <iframe allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowfullscreen="true" frameborder="0" scrolling="no" style="border:none;overflow:hidden" height="314" width="560" src="https://www.facebook.com/plugins/video.php?height=314&amp;href=https%3A%2F%2Fwww.facebook.com%2FNECDC%2Fvideos%2F246726828232464%2F&amp;show_text=false&amp;width=560&amp;t=0"></iframe>
+      </div>
+  </div>
+
+  <section class="section story bg_gray">
+  <div class="canvass">
+  <div class="text-center">
+  <h1 class="main_heading2 bold">MEET OUR HEARTISTS
+  </h1>
+  <br><br>
+  <div class="story_grid">
+          <div class="story_card">
+<img src="https://i.ibb.co/B4dqK81/Alex-Lim.jpg">
+              <a href="https://staging.d2d4qnv3td402n.amplifyapp.com/alex-lim/">Alex Lim <img src="https://i.ibb.co/K99VVxJ/Arrow.png" style="width: 30px !important"> </a>
+          </div>
+          <div class="story_card">
+           <img src="https://i.ibb.co/w7GMVNX/Gary-Chong.jpg">
+                  <a href="https://staging.d2d4qnv3td402n.amplifyapp.com/gary-chong/">Gary Chong <img src="https://i.ibb.co/K99VVxJ/Arrow.png" style="width: 30px !important"></a>
+          </div>
+          <div class="story_card">
+                   <img src="https://i.ibb.co/n1HZZGc/Leong-Sijun.png">
+              <a href="https://staging.d2d4qnv3td402n.amplifyapp.com/leong-sijun/">Leong Sijun <img src="https://i.ibb.co/K99VVxJ/Arrow.png" style="width: 30px !important"></a>
+          </div>
+          <div class="story_card">
+               <img src="https://i.ibb.co/7gQFvV5/Ng-Jun-Yao.jpg">
+              <a href="https://staging.d2d4qnv3td402n.amplifyapp.com/ng-jun-yao/">Ng Jun Yao <img src="https://i.ibb.co/K99VVxJ/Arrow.png" style="width: 30px !important"></a>
+          </div>
+          <div class="story_card">
+                       <img src="https://i.ibb.co/ZLg3w39/Vincent-Seet.jpg">
+                  <a href="https://staging.d2d4qnv3td402n.amplifyapp.com/vincent-seet/">Vincent Seet <img src="https://i.ibb.co/K99VVxJ/Arrow.png" style="width: 30px !important"></a>
+          </div>
+          <div class="story_card">
+                           <img src="https://i.ibb.co/GVNQWyY/Yap-Jia-Hui.jpg">
+              <a href="https://staging.d2d4qnv3td402n.amplifyapp.com/yap-jia-hui/">Yap Jia Hui <img src="https://i.ibb.co/K99VVxJ/Arrow.png" style="width: 30px !important"></a>
+          </div>
+          <div>
+  </div>
+  </div>
+  </div>
+  </div></section>
 
     <section class="sponsors relative">
 
@@ -628,4 +685,4 @@ description: ""
             </div>
         </div>
     </section>
-</section>
+</section></section>
