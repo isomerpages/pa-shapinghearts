@@ -98,6 +98,11 @@ description: ""
 	justify-content: center;
 	}
 	
+	.VideoPlayer  iframe{
+	width: 100% !important;
+	min-height: 70 !important;
+	}
+	
     .hero_center {
     width: 65%;
     margin-left: auto;
