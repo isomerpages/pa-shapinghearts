@@ -155,6 +155,7 @@ description: ""
     .story_card img {
 	width: 100% !important;
 	border-radius: 15px;
+	margin: 0 !important;
     }
 	
 	.story_card a{
