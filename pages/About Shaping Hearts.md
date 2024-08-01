@@ -279,7 +279,7 @@ VideoPlayer{
     width: 80%;
     }
     
-    .story_grid {
+    .team_grid {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(230px, 1fr));
     gap: 25px;
@@ -287,7 +287,7 @@ VideoPlayer{
     margin: auto;
     }
     
-    .story_grid .arrow {
+    .team_grid .arrow {
     font-size: 1.2rem;
     margin-left: auto;
         height: 35px;
@@ -298,17 +298,17 @@ VideoPlayer{
 	right: 20px;
     }
     
-	.story_card{
+	.team_card{
 	position: relative;
 	}
     
-    .story_card img {
+    .team_card img {
 	width: 100% !important;
 	border-radius: 15px;
 	margin: 0 !important;
     }
 	
-	.story_card a{
+	.team_card a{
 	position: absolute;
 	bottom:0%;
 	left: 0%;
@@ -361,7 +361,7 @@ VideoPlayer{
 
     .button {
         background: #e0125b;
-	border: none !important;
+ border: none !important;
         border-radius: 20px;
         padding: 12.5px 30px;
         width: 45%;
@@ -612,28 +612,28 @@ VideoPlayer{
   <h1 class="main_heading2 bold">MEET OUR HEARTISTS
   </h1>
   <br><br>
-  <div class="story_grid">
-          <div class="story_card">
+  <div class="team_grid">
+          <div class="team_card">
 <img src="https://i.ibb.co/B4dqK81/Alex-Lim.jpg">
               <a href="https://staging.d2d4qnv3td402n.amplifyapp.com/alex-lim/">Alex Lim <img src="https://i.ibb.co/K99VVxJ/Arrow.png" style="width: 30px !important"> </a>
           </div>
-          <div class="story_card">
+          <div class="team_card">
            <img src="https://i.ibb.co/w7GMVNX/Gary-Chong.jpg">
                   <a href="https://staging.d2d4qnv3td402n.amplifyapp.com/gary-chong/">Gary Chong <img src="https://i.ibb.co/K99VVxJ/Arrow.png" style="width: 30px !important"></a>
           </div>
-          <div class="story_card">
+          <div class="team_card">
                    <img src="https://i.ibb.co/n1HZZGc/Leong-Sijun.png">
               <a href="https://staging.d2d4qnv3td402n.amplifyapp.com/leong-sijun/">Leong Sijun <img src="https://i.ibb.co/K99VVxJ/Arrow.png" style="width: 30px !important"></a>
           </div>
-          <div class="story_card">
+          <div class="team_card">
                <img src="https://i.ibb.co/7gQFvV5/Ng-Jun-Yao.jpg">
               <a href="https://staging.d2d4qnv3td402n.amplifyapp.com/ng-jun-yao/">Ng Jun Yao <img src="https://i.ibb.co/K99VVxJ/Arrow.png" style="width: 30px !important"></a>
           </div>
-          <div class="story_card">
+          <div class="team_card">
                        <img src="https://i.ibb.co/ZLg3w39/Vincent-Seet.jpg">
                   <a href="https://staging.d2d4qnv3td402n.amplifyapp.com/vincent-seet/">Vincent Seet <img src="https://i.ibb.co/K99VVxJ/Arrow.png" style="width: 30px !important"></a>
           </div>
-          <div class="story_card">
+          <div class="team_card">
                            <img src="https://i.ibb.co/GVNQWyY/Yap-Jia-Hui.jpg">
               <a href="https://staging.d2d4qnv3td402n.amplifyapp.com/yap-jia-hui/">Yap Jia Hui <img src="https://i.ibb.co/K99VVxJ/Arrow.png" style="width: 30px !important"></a>
           </div>
