@@ -2,7 +2,6 @@ collections:
   partners:
     output: true
     order:
-      - Singapore Association of the Visually Handicapped.md
       - APSN.md
       - AWWA School.md
       - Artdis (Singapore) Ltd.md
@@ -21,5 +20,6 @@ collections:
       - MINDS.md
       - Pathlight School.md
       - Singapore Association for Mental Health (SAMH).md
+      - Singapore Association of the Visually Handicapped.md
       - THK Homes for Disabled.md
       - TOUCH Community Services.md
