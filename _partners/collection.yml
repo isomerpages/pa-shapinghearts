@@ -2,23 +2,23 @@ collections:
   partners:
     output: true
     order:
+      - APSN.md
+      - AWWA School.md
+      - ARTDIS (SINGAPORE) LTD.md
+      - Bizlink Centre Singapore.md
+      - Bethesda Care Centre.md
+      - Cerebral Palsy Alliance Singapore (CPAS School).md
+      - Christian Outreach to the Handicapped.md
+      - Down Syndrome Association (Singapore).md
+      - Extraordinary People Limited.md
+      - Friends of the Disabled Society (FDS).md
+      - Handicaps Welfare Association.md
       - LOVE, NILS.md
-      - Pathlight School.md
-      - THK Homes for Disabled.md
       - Metta Welfare Association.md
       - Muscular Dystrophy Association (Singapore).md
       - Mouth & Foot Painting Artists Pte Ltd.md
       - MINDS.md
-      - Handicaps Welfare Association.md
-      - Bethesda Care Centre.md
+      - Pathlight School.md
       - Singapore Association for Mental Health (SAMH).md
-      - Friends of the Disabled Society (FDS).md
-      - ARTDIS (SINGAPORE) LTD.md
+      - THK Homes for Disabled.md
       - TOUCH Community Services.md
-      - Extraordinary People Limited.md
-      - Down Syndrome Association (Singapore).md
-      - Christian Outreach to the Handicapped.md
-      - Cerebral Palsy Alliance Singapore (CPAS School).md
-      - Bizlink Centre Singapore.md
-      - AWWA School.md
-      - APSN.md
