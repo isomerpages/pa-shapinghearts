@@ -4,3 +4,4 @@ permalink: /minds/
 variant: tiptap
 description: ""
 ---
+<p></p>
