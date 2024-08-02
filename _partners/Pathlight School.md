@@ -7,7 +7,7 @@ description: ""
 <h3>About Pathlight School</h3>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 20%;" height="auto" width="100%" alt="" src="/images/APSN_Katong_School.png">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/pathlight_2.png">
 </div>
 <p>Pathlight School is the first autism-focused school in Singapore to offer
 the national curriculum together with life readiness skills. It caters
