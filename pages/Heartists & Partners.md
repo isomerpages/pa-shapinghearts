@@ -5,500 +5,497 @@ variant: markdown
 description: ""
 ---
 <style>
-  @import url('https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap');
-
-  * {
-      margin: 0%;
-      padding: 0;
-      box-sizing: border-box;
-      font-family: "Inter", sans-serif;
+    @import url('https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap');
+  
+    * {
+        margin: 0%;
+        padding: 0;
+        box-sizing: border-box;
+        font-family: "Inter", sans-serif;
+    }
+  .bp-section-pagetitle{
+  display: none;
   }
-.bp-section-pagetitle{
-display: none;
-}
-
-  .hero {
-    /* border-top: 1.99px solid rgba(0, 0, 0, 0.7);*/
-margin-top: -20px;
-  }
-
-  .hero .canvas {
+  
+    .hero {
+      /* border-top: 1.99px solid rgba(0, 0, 0, 0.7);*/
+  margin-top: -20px;
+    }
+  
+    .hero .canvas {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        padding: 40px 0px;
+    }
+  
+    .hero_left,
+    .hero_right {
+        width: 45%;
+    }
+  
+    .hero_right{
+        text-align: end;
+    }
+  
+    .hero_right img{
+        width: 90%;
+    }
+  
+    .hero_left h1 {
+        font-size: 3rem;
+  font-weight: bold;
+  line-height: 1.4;
+  color: black !important;
+    }
+  
+    .hero_left p {
+        margin-top: 10px;
+    }
+  
+         /* STORY */
+      .story{
       display: flex;
-      justify-content: space-between;
       align-items: center;
-      padding: 40px 0px;
-  }
-
-  .hero_left,
-  .hero_right {
-      width: 45%;
-  }
-
-  .hero_right{
-      text-align: end;
-  }
-
-  .hero_right img{
-      width: 90%;
-  }
-
-  .hero_left h1 {
-      font-size: 3rem;
-font-weight: bold;
-line-height: 1.4;
-color: black !important;
-  }
-
-  .hero_left p {
-      margin-top: 10px;
-  }
-
-       /* STORY */
-	.story{
-	display: flex;
-	align-items: center;
-	justify-content: center;
-	border-radius: 20px;
-	}
-	
-    .story .canvass {
-    width: 80%;
-    }
-    
-    .team_grid {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-    gap: 25px;
-    width: 95%;
-    margin: auto;
-    }
-    
-    .team_grid .arrow {
-    font-size: 1.2rem;
-    margin-left: auto;
-        height: 35px;
-        width: 35px;
-        border-radius: 50%;
-	position: absolute;
-	bottom: 20px;
-	right: 20px;
-    }
-    
-	.team_card{
-	position: relative;
-	}
-    
-    .team_card img {
-	width: 100% !important;
-	border-radius: 15px;
-	margin: 0 !important;
-    }
-	
-	.team_card a{
-	position: absolute;
-	bottom:0%;
-	left: 0%;
-	margin-bottom: 0%;
-	width: 100%;
-	color: white !important;
-	text-decoration: none !important;
-	background: #97002b !important;
-	padding: 10px 20px;
-	text-transform: uppercase;
-	display: flex;
-	justify-content: space-between;
-	align-items: center;
-	}
-
-    
-  /* HEARTS */
-  .hearts_grid {
-      display: grid;
-      grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
-      gap: 40px;
-  }
-
-  .heart_card p:last-child {
-      color: rgb(85, 85, 85);
-  }
-
-.heart_card p{
-margin: 0% !important;
-}
-
-  .heart_card img {
-      width: 100%;
-      border-top-left-radius: 25px;
-      border-bottom-right-radius: 25px;
-
-  }
-
-  /* Partners */
-  .partners_grid {
-      display: grid;
-      grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
-      gap: 40px;
-  }
-
-  .partner_card {
-      display: flex;
       justify-content: center;
-      align-items: center;
-      padding: 20px;
-      border-radius: 15px;
-      height: 200px;
-  }
-
-  .partner_card img {
-      width: 100%;
-  }
-
-
-  /* General */
-  .canvas {
-      width: 100%;
-      margin-left: auto;
-      margin-right: auto;
-  }
-
-.col.is-offset-2, .col.is-offset-2-tablet{
-width: 100%;
-margin-left: 0%;
-}
-
-  .relative {
-      position: relative;
-  }
-
-  .text-end {
-      text-align: end;
-  }
-
-  .text-center {
-      text-align: center;
-  }
-
-  .main_heading {
-      font-size: 3rem;
-      line-height: 1.4;
-font-weight: bold;
-  }
-
-  .main_heading2 {
-      font-size: 3rem;
-font-weight: bold;
-color: black !important;
-  }
-
-  .section {
-      padding: 50px 0px;
-  }
-
-.text-center{
-text-align: center;
-}
-
-  .button {
-      background: transparent;
-      border: 1.99px solid rgba(0, 0, 0, 1);
       border-radius: 20px;
-      padding: 12.5px 30px;
-      width: 45%;
-      transition: 0.2s all ease;
-      cursor: pointer;
-  }
-
-  .button:hover {
-      background: black;
-      color: white;
-  }
-
-  .flex {
+      }
+      
+      .story .canvass {
+      width: 80%;
+      }
+      
+      .team_grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+      gap: 25px;
+      width: 95%;
+      margin: auto;
+      }
+      
+      .team_grid .arrow {
+      font-size: 1.2rem;
+      margin-left: auto;
+          height: 35px;
+          width: 35px;
+          border-radius: 50%;
+      position: absolute;
+      bottom: 20px;
+      right: 20px;
+      }
+      
+      .team_card{
+      position: relative;
+      }
+      
+      .team_card img {
+      width: 100% !important;
+      border-radius: 15px;
+      margin: 0 !important;
+      }
+      
+      .team_card a{
+      position: absolute;
+      bottom:0%;
+      left: 0%;
+      margin-bottom: 0%;
+      width: 100%;
+      color: white !important;
+      text-decoration: none !important;
+      background: #97002b !important;
+      padding: 10px 20px;
+      text-transform: uppercase;
       display: flex;
-  }
-
-  .justify-between {
       justify-content: space-between;
+      align-items: center;
+      }
+  
+      
+    /* HEARTS */
+    .hearts_grid {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
+        gap: 40px;
+    }
+  
+    .heart_card p:last-child {
+        color: rgb(85, 85, 85);
+    }
+  
+  .heart_card p{
+  margin: 0% !important;
   }
-
-  .bold {
-      font-weight: bold;
+  
+    .heart_card img {
+        width: 100%;
+        border-top-left-radius: 25px;
+        border-bottom-right-radius: 25px;
+  
+    }
+  
+    /* Partners */
+    .partners_grid {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+        gap: 40px;
+    }
+  
+    .partner_card {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        padding: 20px;
+        border-radius: 15px;
+        height: 200px;
+    }
+  
+    .partner_card img {
+        width: 100%;
+    }
+  
+  
+    /* General */
+    .canvas {
+        width: 100%;
+        margin-left: auto;
+        margin-right: auto;
+    }
+  
+  .col.is-offset-2, .col.is-offset-2-tablet{
+  width: 100%;
+  margin-left: 0%;
   }
-
-  .mt-5 {
-      margin-top: 20px;
+  
+    .relative {
+        position: relative;
+    }
+  
+    .text-end {
+        text-align: end;
+    }
+  
+    .text-center {
+        text-align: center;
+    }
+  
+    .main_heading {
+        font-size: 3rem;
+        line-height: 1.4;
+  font-weight: bold;
+    }
+  
+    .main_heading2 {
+        font-size: 3rem;
+  font-weight: bold;
+  color: black !important;
+    }
+  
+    .section {
+        padding: 50px 0px;
+    }
+  
+  .text-center{
+  text-align: center;
   }
-
-
-  .bg_gray {
-      background-color: rgba(244, 244, 244, 1);
+  
+    .button {
+        background: transparent;
+        border: 1.99px solid rgba(0, 0, 0, 1);
+        border-radius: 20px;
+        padding: 12.5px 30px;
+        width: 45%;
+        transition: 0.2s all ease;
+        cursor: pointer;
+    }
+  
+    .button:hover {
+        background: black;
+        color: white;
+    }
+  
+    .flex {
+        display: flex;
+    }
+  
+    .justify-between {
+        justify-content: space-between;
+    }
+  
+    .bold {
+        font-weight: bold;
+    }
+  
+    .mt-5 {
+        margin-top: 20px;
+    }
+  
+  
+    .bg_gray {
+        background-color: rgba(244, 244, 244, 1);
+    }
+  
+    .text-gray {
+        color: rgb(78, 78, 78);
+    }
+  
+  
+    .flex-wrap{
+        flex-wrap: wrap;
+    }
+  
+  /* FAQS */
+  .FAQS .canvas {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
   }
-
-  .text-gray {
-      color: rgb(78, 78, 78);
+  
+  .faq-container {
+  max-width: 800px;
+  margin: 0 auto;
   }
-
-
-  .flex-wrap{
-      flex-wrap: wrap;
-  }
-
-/* FAQS */
-.FAQS .canvas {
-display: flex;
-justify-content: space-between;
-flex-wrap: wrap;
-}
-
-.faq-container {
-max-width: 800px;
-margin: 0 auto;
-}
-
-.faqs_left,
-.faqs_right {
-max-width: 500px;
-}
-
-.faq {
-border-bottom: 1px solid #ccc;
-margin-bottom: 10px;
-}
-
-.faq-input {
-display: none;
-}
-
-.FAQS h1{
-font-size: 1.5rem !important;
-color: black !important;
-}
-
-.faq-question {
-border-top-right-radius: 10px;
-display: block;
-padding: 15px 10px;
-border-top-left-radius: 10px;
-font-weight: bold;
-cursor: pointer;
-background: #f1f1f1;
-margin: 0;
-}
-
-.navbar .bp-container{
-width: 1280px !important;
-max-width: 1280px !important;
-}
-
-.faq-answer {
-max-height: 0;
-overflow: hidden;
-transition: max-height 0.3s ease-out;
-background: #fff;
-padding: 0 15px;
-}
-
-.faq-input:checked + .faq-question + .faq-answer {
-max-height: 200px;
-padding: 15px 15px;
-}
-
-.faq-input:checked + .faq-question {
-background: #e0e0e0;
-}
-
-.faq-question::after {
-content: '▼';
-float: right;
-transition: transform 0.3s ease-out;
-}
-
-.faq-input:checked + .faq-question::after {
-transform: rotate(180deg);
-}
-
-
-  /* youtube_section */
-  .youtube_section {
-      border-top: 2px solid gainsboro;
-      border-bottom: 1.99px solid black;
-      min-height: 100vh;
-  }
-
-@media (max-width: 1280px){
-.navbar .bp-container{
-width: 100% !important;
-max-width: 100% !important;
-}
-}
-
-  @media (max-width: 800px) {
-.canvass {
-width: 90% !important;
-margin-left: auto;
-margin-right: auto;
-}
-   .faqs_left,
+  
+  .faqs_left,
   .faqs_right {
-      width: 100%;
-      max-width: 100%;
-      text-align: center;
+  max-width: 500px;
   }
-
-  .faqs_left img {
-      width: 100%;
+  
+  .faq {
+  border-bottom: 1px solid #ccc;
+  margin-bottom: 10px;
   }
-
-
-      .hero .canvas {
-          flex-direction: column-reverse;
-      }
-
-      .hero_left {
-          margin-top: 30px;
-          width: 100%;
-      }
-
-      .hero_right {
-          width: 100%;
-      }
-
-      .hero_right img {
-          width: 100%;
-      }
-
-      .youtubeVid{
-          width: 100% !important;
-      }
+  
+  .faq-input {
+  display: none;
   }
-
-.bp-section{
-padding: 0px !important;
-}
-</style>
-
-<section>
-<section class="hero">
-  <div class="canvas canvass relative">
-      <div class="hero_left">
-          <h1>Meet the Heartists behind the masterpieces.</h1>
-          <p>Every art piece has a story behind it. Stories of triumph, strength, failure, hardship, and beauty. See what speaks to you. </p>
-      </div>
-      <div class="hero_right">
-          <img src="https://i.ibb.co/gzGc84Z/Partners-1.png">
-      </div>
-  </div>
-</section>
-
-<section class="section story bg_gray">
-    <div class="canvass">
-    <div class="text-center">
-    <h1 class="main_heading2 bold">MEET OUR HEARTISTS
-    </h1>
-    <br><br>
-    <div class="team_grid">
-            <div class="team_card">
-  <img src="https://i.ibb.co/B4dqK81/Alex-Lim.jpg">
-                <a href="https://staging.d2d4qnv3td402n.amplifyapp.com/alex-lim/">Alex Lim <img src="https://i.ibb.co/K99VVxJ/Arrow.png" style="width: 30px !important"> </a>
-            </div>
-            <div class="team_card">
-             <img src="https://i.ibb.co/w7GMVNX/Gary-Chong.jpg">
-                    <a href="https://staging.d2d4qnv3td402n.amplifyapp.com/gary-chong/">Gary Chong <img src="https://i.ibb.co/K99VVxJ/Arrow.png" style="width: 30px !important"></a>
-            </div>
-            <div class="team_card">
-                     <img src="https://i.ibb.co/n1HZZGc/Leong-Sijun.png">
-                <a href="https://staging.d2d4qnv3td402n.amplifyapp.com/leong-sijun/">Leong Sijun <img src="https://i.ibb.co/K99VVxJ/Arrow.png" style="width: 30px !important"></a>
-            </div>
-            <div class="team_card">
-                 <img src="https://i.ibb.co/7gQFvV5/Ng-Jun-Yao.jpg">
-                <a href="https://staging.d2d4qnv3td402n.amplifyapp.com/ng-jun-yao/">Ng Jun Yao <img src="https://i.ibb.co/K99VVxJ/Arrow.png" style="width: 30px !important"></a>
-            </div>
-            <div class="team_card">
-                         <img src="https://i.ibb.co/ZLg3w39/Vincent-Seet.jpg">
-                    <a href="https://staging.d2d4qnv3td402n.amplifyapp.com/vincent-seet/">Vincent Seet <img src="https://i.ibb.co/K99VVxJ/Arrow.png" style="width: 30px !important"></a>
-            </div>
-            <div class="team_card">
-                             <img src="https://i.ibb.co/GVNQWyY/Yap-Jia-Hui.jpg">
-                <a href="https://staging.d2d4qnv3td402n.amplifyapp.com/yap-jia-hui/">Yap Jia Hui <img src="https://i.ibb.co/K99VVxJ/Arrow.png" style="width: 30px !important"></a>
-            </div>
-            <div>
+  
+  .FAQS h1{
+  font-size: 1.5rem !important;
+  color: black !important;
+  }
+  
+  .faq-question {
+  border-top-right-radius: 10px;
+  display: block;
+  padding: 15px 10px;
+  border-top-left-radius: 10px;
+  font-weight: bold;
+  cursor: pointer;
+  background: #f1f1f1;
+  margin: 0;
+  }
+  
+  .navbar .bp-container{
+  width: 1280px !important;
+  max-width: 1280px !important;
+  }
+  
+  .faq-answer {
+  max-height: 0;
+  overflow: hidden;
+  transition: max-height 0.3s ease-out;
+  background: #fff;
+  padding: 0 15px;
+  }
+  
+  .faq-input:checked + .faq-question + .faq-answer {
+  max-height: 200px;
+  padding: 15px 15px;
+  }
+  
+  .faq-input:checked + .faq-question {
+  background: #e0e0e0;
+  }
+  
+  .faq-question::after {
+  content: '▼';
+  float: right;
+  transition: transform 0.3s ease-out;
+  }
+  
+  .faq-input:checked + .faq-question::after {
+  transform: rotate(180deg);
+  }
+  
+  
+    /* youtube_section */
+    .youtube_section {
+        border-top: 2px solid gainsboro;
+        border-bottom: 1.99px solid black;
+        min-height: 100vh;
+    }
+  
+  @media (max-width: 1280px){
+  .navbar .bp-container{
+  width: 100% !important;
+  max-width: 100% !important;
+  }
+  }
+  
+    @media (max-width: 800px) {
+  .canvass {
+  width: 90% !important;
+  margin-left: auto;
+  margin-right: auto;
+  }
+     .faqs_left,
+    .faqs_right {
+        width: 100%;
+        max-width: 100%;
+        text-align: center;
+    }
+  
+    .faqs_left img {
+        width: 100%;
+    }
+  
+  
+        .hero .canvas {
+            flex-direction: column-reverse;
+        }
+  
+        .hero_left {
+            margin-top: 30px;
+            width: 100%;
+        }
+  
+        .hero_right {
+            width: 100%;
+        }
+  
+        .hero_right img {
+            width: 100%;
+        }
+  
+        .youtubeVid{
+            width: 100% !important;
+        }
+    }
+  
+  .bp-section{
+  padding: 0px !important;
+  }
+  </style>
+  
+  <section>
+  <section class="hero">
+    <div class="canvas canvass relative">
+        <div class="hero_left">
+            <h1>Meet the Heartists behind the masterpieces.</h1>
+            <p>Every art piece has a story behind it. Stories of triumph, strength, failure, hardship, and beauty. See what speaks to you. </p>
+        </div>
+        <div class="hero_right">
+            <img src="https://i.ibb.co/gzGc84Z/Partners-1.png">
+        </div>
     </div>
-    </div>
-    </div>
-    </div></section>
-
-<section class="section partners">
-  <div class="canvass canvas">
-      <h1 class="main_heading2">Our Partners</h1>
-      <br>
-      <div class="partners_grid mt-5">
-          <div class="partner_card">
-              <img src="https://i.ibb.co/5xC1Wdb/Frame-217-1.png">
-          </div>
-          <div class="partner_card">
-              <img src="https://i.ibb.co/YDJPN5d/AWWA.png">
-          </div>
-          <div class="partner_card">
-              <img src="https://i.ibb.co/5Wwy12d/Bizlink-Centre-Singapore.png">
-          </div>
-          <div class="partner_card">
-              <img src="https://i.ibb.co/t3qhTZ9/Cerebral-Palsy-Alliance-Singapore-CPAS-School.png">
-          </div>
-          <div class="partner_card">
-              <img src="https://i.ibb.co/25GsqMX/Christian-outreach.png">
-          </div>
-          <div class="partner_card">
-              <img src="https://i.ibb.co/bJ7vD0Q/Down-Syndrome-Association-Singapore.png">
-          </div>
-          <div class="partner_card">
-              <img src="https://i.ibb.co/MZWSKDp/Extra-Ordinary-People.png">
-          </div>
-          <div class="partner_card">
-              <img src="https://i.ibb.co/6WJ1KjY/Frame-206.png">
-          </div>
-          <div class="partner_card">
-              <img src="https://i.ibb.co/ssmZ13q/Frame-217.png">
-          </div>
-          <div class="partner_card">
-              <img src="https://i.ibb.co/nbddZ6y/Friends-of-the-Disabled-Society-FDS.png">
-          </div>
-          <div class="partner_card">
-              <img src="https://i.ibb.co/Fhhkgrk/Group-4171.png">
-          </div>
-          <div class="partner_card">
-              <img src="https://i.ibb.co/Qr6gBxt/Group-7270-1.png">
-          </div>
-          <div class="partner_card">
-              <img src="https://i.ibb.co/XXfLxp8/Group-7270-2.png">
-          </div>
-          <div class="partner_card">
-              <img src="https://i.ibb.co/YbdG585/Handicapped-Welfare-Association.png">
-          </div>
-          <div class="partner_card">
-              <img src="https://i.ibb.co/qN9gnTs/MINDS.png">
-          </div>
-          <div class="partner_card">
-              <img src="https://i.ibb.co/Nx0KgW4/Mouth-Foot-Painting-Artists-Pte-Ltd-1.png">
-          </div>
-          <div class="partner_card">
-              <img src="https://i.ibb.co/QnNXmv3/Muscular-Dystrophy-Association-Singapore.png">
-          </div>
-          <div class="partner_card">
-              <img src="https://i.ibb.co/FHt66wn/Partners-metta.png">
-          </div>
-          <div class="partner_card">
-              <img src="https://i.ibb.co/D7Zzxrz/Rainbow-Centre.png">
-          </div>
-          <div class="partner_card">
-              <img src="https://i.ibb.co/89Wx44M/Singapore-Association-for-Mental-Health-SAMH.png">
-          </div>
-          <div class="partner_card">
-              <img src="https://i.ibb.co/C9TC495/Singapore-cheshire-home.png">
-          </div>
-          <div class="partner_card">
-              <img src="https://i.ibb.co/fS7jGNx/SPD.png">
-          </div>
+  </section>
+  
+  <section class="section story bg_gray">
+      <div class="canvass">
+      <div class="text-center">
+      <h1 class="main_heading2 bold">MEET OUR HEARTISTS
+      </h1>
+      <br><br>
+      <div class="team_grid">
+              <div class="team_card">
+    <img src="https://i.ibb.co/B4dqK81/Alex-Lim.jpg">
+                  <a href="https://staging.d2d4qnv3td402n.amplifyapp.com/alex-lim/">Alex Lim <img src="https://i.ibb.co/K99VVxJ/Arrow.png" style="width: 30px !important"> </a>
+              </div>
+              <div class="team_card">
+               <img src="https://i.ibb.co/w7GMVNX/Gary-Chong.jpg">
+                      <a href="https://staging.d2d4qnv3td402n.amplifyapp.com/gary-chong/">Gary Chong <img src="https://i.ibb.co/K99VVxJ/Arrow.png" style="width: 30px !important"></a>
+              </div>
+              <div class="team_card">
+                       <img src="https://i.ibb.co/n1HZZGc/Leong-Sijun.png">
+                  <a href="https://staging.d2d4qnv3td402n.amplifyapp.com/leong-sijun/">Leong Sijun <img src="https://i.ibb.co/K99VVxJ/Arrow.png" style="width: 30px !important"></a>
+              </div>
+              <div class="team_card">
+                   <img src="https://i.ibb.co/7gQFvV5/Ng-Jun-Yao.jpg">
+                  <a href="https://staging.d2d4qnv3td402n.amplifyapp.com/ng-jun-yao/">Ng Jun Yao <img src="https://i.ibb.co/K99VVxJ/Arrow.png" style="width: 30px !important"></a>
+              </div>
+              <div class="team_card">
+                           <img src="https://i.ibb.co/ZLg3w39/Vincent-Seet.jpg">
+                      <a href="https://staging.d2d4qnv3td402n.amplifyapp.com/vincent-seet/">Vincent Seet <img src="https://i.ibb.co/K99VVxJ/Arrow.png" style="width: 30px !important"></a>
+              </div>
+              <div class="team_card">
+                               <img src="https://i.ibb.co/GVNQWyY/Yap-Jia-Hui.jpg">
+                  <a href="https://staging.d2d4qnv3td402n.amplifyapp.com/yap-jia-hui/">Yap Jia Hui <img src="https://i.ibb.co/K99VVxJ/Arrow.png" style="width: 30px !important"></a>
+              </div>
+              <div>
       </div>
-  </div>
-</section>
-</section>
+      </div>
+      </div>
+      </div></section>
+  
+  <section class="section partners">
+    <div class="canvass canvas">
+        <h1 class="main_heading2">Our Partners</h1>
+        <br>
+        <div class="partners_grid mt-5">
+            <div class="partner_card">
+                <img src="https://i.ibb.co/5xC1Wdb/Frame-217-1.png">
+            </div>
+            <div class="partner_card">
+                <img src="https://i.ibb.co/YDJPN5d/AWWA.png">
+            </div>
+            <div class="partner_card">
+                <img src="https://i.ibb.co/5Wwy12d/Bizlink-Centre-Singapore.png">
+            </div>
+            <div class="partner_card">
+                <img src="https://i.ibb.co/t3qhTZ9/Cerebral-Palsy-Alliance-Singapore-CPAS-School.png">
+            </div>
+            <div class="partner_card">
+                <img src="https://i.ibb.co/25GsqMX/Christian-outreach.png">
+            </div>
+            <div class="partner_card">
+                <img src="https://i.ibb.co/bJ7vD0Q/Down-Syndrome-Association-Singapore.png">
+            </div>
+            <div class="partner_card">
+                <img src="https://i.ibb.co/MZWSKDp/Extra-Ordinary-People.png">
+            </div>
+            <div class="partner_card">
+                <img src="https://i.ibb.co/6WJ1KjY/Frame-206.png">
+            </div>
+            <div class="partner_card">
+                <img src="https://i.ibb.co/ssmZ13q/Frame-217.png">
+            </div>
+            <div class="partner_card">
+                <img src="https://i.ibb.co/nbddZ6y/Friends-of-the-Disabled-Society-FDS.png">
+            </div>
+            <div class="partner_card">
+                <img src="https://i.ibb.co/Fhhkgrk/Group-4171.png">
+            </div>
+            <div class="partner_card">
+                <img src="https://i.ibb.co/Qr6gBxt/Group-7270-1.png">
+            </div>
+            <div class="partner_card">
+                <img src="https://i.ibb.co/YbdG585/Handicapped-Welfare-Association.png">
+            </div>
+            <div class="partner_card">
+                <img src="https://i.ibb.co/qN9gnTs/MINDS.png">
+            </div>
+            <div class="partner_card">
+                <img src="https://i.ibb.co/Nx0KgW4/Mouth-Foot-Painting-Artists-Pte-Ltd-1.png">
+            </div>
+            <div class="partner_card">
+                <img src="https://i.ibb.co/QnNXmv3/Muscular-Dystrophy-Association-Singapore.png">
+            </div>
+            <div class="partner_card">
+                <img src="https://i.ibb.co/FHt66wn/Partners-metta.png">
+            </div>
+            <div class="partner_card">
+                <img src="https://i.ibb.co/89Wx44M/Singapore-Association-for-Mental-Health-SAMH.png">
+            </div>
+            <div class="partner_card">
+                <img src="https://i.ibb.co/mb1MSWS/thye-hua-trp.png">
+            </div>
+            <div class="partner_card">
+                <img src="https://i.ibb.co/92YfPh7/love-nils-trp.png">
+            </div>
+            <div class="partner_card">
+                <img src="https://i.ibb.co/dGp4NyQ/pathlight-trp.png">
+            </div>
+        </div>
+    </div>
+  </section>
+  </section>
