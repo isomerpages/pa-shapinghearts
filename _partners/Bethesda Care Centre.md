@@ -6,8 +6,9 @@ description: ""
 ---
 <h3>About Bethesda Care Centre</h3>
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 20%;" height="auto" width="100%" alt="" src="/images/APSN_Katong_School.png">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Group_7270_1.png">
 </div>
 <p>Bethesda CARE Centre (BCARE) is a social service agency registered with
 the Registry of Societies in 1996 and as a charity under the Charities
