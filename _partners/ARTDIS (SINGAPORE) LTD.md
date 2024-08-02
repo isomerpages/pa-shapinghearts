@@ -7,7 +7,7 @@ description: ""
 <h3>About Artdis (Singapore) Ltd)</h3>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 20%;" height="auto" width="100%" alt="" src="/images/APSN_Katong_School.png">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Frame_217.png">
 </div>
 <p>ARTDIS (Singapore) Ltd, formerly known as Very Special Arts Singapore,
 is a leading charity dedicated to create learning and livelihood opportunities
