@@ -2,6 +2,7 @@ collections:
   partners:
     output: true
     order:
+      - Bethesda Care Centre.md
       - Singapore Association for Mental Health (SAMH).md
       - Friends of the Disabled Society (FDS).md
       - ARTDIS (SINGAPORE) LTD.md
