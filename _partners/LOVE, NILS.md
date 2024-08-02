@@ -6,8 +6,9 @@ description: ""
 ---
 <h3>About Love, Nils</h3>
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 20%;" height="auto" width="100%" alt="" src="/images/APSN_Katong_School.png">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/love_nils_2.png">
 </div>
 <p>Write-Up of SSA/individual:</p>
 <p>LOVE, NILS is a dedicated social service agency committed to making a
