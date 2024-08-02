@@ -7,7 +7,7 @@ description: ""
 <h3>About Friends of the Disabled Society (FDS)</h3>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 20%;" height="auto" width="100%" alt="" src="/images/APSN_Katong_School.png">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Friends_of_the_Disabled_Society_FDS.png">
 </div>
 <p>Friends of the Disabled Society (FDS) is a Social Service Agency that
 aims to meet the physical, social and emotional needs of the disabled through
