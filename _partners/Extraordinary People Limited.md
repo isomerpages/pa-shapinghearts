@@ -7,7 +7,7 @@ description: ""
 <h3>About Extraordinary People Limited</h3>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 20%;" height="auto" width="100%" alt="" src="/images/APSN_Katong_School.png">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Extra_Ordinary_People.png">
 </div>
 <p>Extraordinary People Limited is a charity and Institute of Public Character
 established in July 2017 that aims to support persons with special needs
