@@ -249,7 +249,8 @@ VideoPlayer{
         justify-content: center;
         align-items: center;
         flex-wrap: wrap;
-        grid-gap: 30px;
+        grid-column-gap: 60px;
+	grid-row-gap: 30px;
     }
 
     .sponsors h3{
@@ -261,6 +262,7 @@ VideoPlayer{
         width: 150px;
         font-weight: bold;
         border-radius: 2px;
+	margin: 0 !important;
     }
 
     .navbar .bp-container{
@@ -422,6 +424,9 @@ VideoPlayer{
     }
     
     @media (max-width: 700px) {
+	.sponsors .sponsors_grid {
+	grid-row-gap: 30px;
+	}
 	.VideoPlayer iframe{
 	min-height: auto !important;
 	}
