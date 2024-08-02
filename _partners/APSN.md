@@ -6,8 +6,9 @@ description: ""
 ---
 <h3>About APSN</h3>
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 20%;" height="auto" width="100%" alt="" src="/images/APSN_Katong_School.png">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/apsn.png">
 </div>
 <p>Katong School (KS) is the first school established by the Association
 for Persons with Special Needs (APSN) and opened its doors to 110 students
