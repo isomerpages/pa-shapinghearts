@@ -193,6 +193,7 @@ description: ""
 
     .story_card h1 {
         font-size: 3rem;
+        color: #c5242f;
         font-weight: bold;
         margin: 0px;
     }
@@ -509,6 +510,7 @@ VideoPlayer{
         .main_heading2 {
             font-size: 2rem;
         }
+
     }
 </style>
 <section>
@@ -564,34 +566,30 @@ VideoPlayer{
                 <div class="story_grid mt-5">
                     <div class="story_card">
                         <p class="text-gray">Over</p>
-                        <h1>150</h1>
+                        <h1>200</h1>
                         <p class="text-gray">
-                            Participating Artists
-                            with Disabilities
+                            artists
                         </p>
                     </div>
                     <div class="story_card">
                         <p class="text-gray">More than</p>
-                        <h1>350</h1>
+                        <h1>500</h1>
                         <p class="text-gray">
-                            Exhibited Paintings
+                            paintings
                         </p>
                     </div>
                     <div class="story_card">
                         <p class="text-gray">Over</p>
                         <h1>30</h1>
                         <p class="text-gray">
-                            Participating Social
-                            Service Agencies
-                            and Partners
+                            SSAs and agencies
                         </p>
                     </div>
                     <div class="story_card">
                         <p class="text-gray">More than</p>
-                        <h1>2.8M</h1>
+                        <h1>4 million</h1>
                         <p class="text-gray">
-                            Public Engagements
-                            on Social Media
+                            public engagements
                         </p>
                     </div>
                 </div>
@@ -646,32 +644,18 @@ VideoPlayer{
 
         <div style="z-index: 4000; position: relative;" class="canvas section">
             <div class="text-center mt-5">
-                <h3>PLATINUM SPONSORS</h3>
+                <h3>PLATINUM SPONSOR</h3>
                 <div class="sponsors_grid mt-5">
                     <img src="https://i.ibb.co/DfppnNY/PLATINUM-Neo-Group-Logo.png">
-                    <img src="https://i.ibb.co/jwd4skW/Rigel-Logo-Horizontalnew-004.png">
-                    <img src="https://i.ibb.co/vqPKFGQ/PLATINUM-SP-55th-Horizontal-Logo-2.png">
                 </div>
                 <br>
 
                 <div class="text-center mt-5">
-                    <h3>SILVER SPONSORS</h3>
-                    <div class="sponsors_grid mt-5">
-                        <img src="https://i.ibb.co/kSyrgzb/Myck.jpg">
-                        <img src="https://i.ibb.co/kSyrgzb/Myck.jpg">
-                    </div>
-                </div>
-                <br>
-
-                <div class="text-center mt-5">
-                    <h3>BRONZE SPONSORS</h3>
+                    <h3>BRONZE SPONSOR</h3>
                     <div class="sponsors_grid mt-5">
                         <img src="https://i.ibb.co/Fgs9HfR/global-indian.png">
-                        <img src="https://i.ibb.co/ByfhfkD/Logo-Jean-Yip-Group.png">
-                        <img src="https://i.ibb.co/qkbc2gw/RICO-002-scaled.jpg">
-                        <img src="https://i.ibb.co/SBrd86x/OUE.jpg">
-                        <img style="width: 100px;" src="https://i.ibb.co/XttB1jx/BRONZE-P-G-Logo-RGB.png">
-                        <img src="https://i.ibb.co/gg1Xk9j/LOGO-NEW-JULY-MULTIPLE-TRANSPARENT-new-extend-40.png">
+                        <h2>Mr Jason Tang</h2>
+                        <h2>Mr Stephen Lee</h2>
                     </div>
                 </div>
                 <br>
