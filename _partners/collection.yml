@@ -2,6 +2,7 @@ collections:
   partners:
     output: true
     order:
+      - Singapore Association of the Visually Handicapped.md
       - APSN.md
       - AWWA School.md
       - Artdis (Singapore) Ltd.md
