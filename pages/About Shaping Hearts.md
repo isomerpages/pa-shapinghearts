@@ -657,7 +657,7 @@ VideoPlayer{
 
                 <div class="text-center mt-5">
                     <h3>BRONZE SPONSOR</h3>
-                    <div class="sponsors_grid mt-5">
+                    <div class="sponsors_grid">
                         <img src="https://i.ibb.co/Fgs9HfR/global-indian.png">
                         <h2>Mr Jason Tang</h2>
                         <h2>Mr Stephen Lee</h2>
