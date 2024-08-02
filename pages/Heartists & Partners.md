@@ -433,13 +433,19 @@ description: ""
         <br>
         <div class="partners_grid mt-5">
             <div class="partner_card">
-                <img src="https://i.ibb.co/5xC1Wdb/Frame-217-1.png">
+                <img alt="APSN" src="https://i.ibb.co/5xC1Wdb/Frame-217-1.png">
             </div>
             <div class="partner_card">
                 <img src="https://i.ibb.co/YDJPN5d/AWWA.png">
             </div>
             <div class="partner_card">
+                <img alt="artdis" src="https://i.ibb.co/ssmZ13q/Frame-217.png">
+            </div>
+            <div class="partner_card">
                 <img src="https://i.ibb.co/5Wwy12d/Bizlink-Centre-Singapore.png">
+            </div>
+            <div class="partner_card">
+                <img alt="bethesda" src="https://i.ibb.co/Qr6gBxt/Group-7270-1.png">
             </div>
             <div class="partner_card">
                 <img src="https://i.ibb.co/t3qhTZ9/Cerebral-Palsy-Alliance-Singapore-CPAS-School.png">
@@ -454,46 +460,40 @@ description: ""
                 <img src="https://i.ibb.co/MZWSKDp/Extra-Ordinary-People.png">
             </div>
             <div class="partner_card">
-                <img src="https://i.ibb.co/6WJ1KjY/Frame-206.png">
-            </div>
-            <div class="partner_card">
-                <img src="https://i.ibb.co/ssmZ13q/Frame-217.png">
-            </div>
-            <div class="partner_card">
                 <img src="https://i.ibb.co/nbddZ6y/Friends-of-the-Disabled-Society-FDS.png">
-            </div>
-            <div class="partner_card">
-                <img src="https://i.ibb.co/Fhhkgrk/Group-4171.png">
-            </div>
-            <div class="partner_card">
-                <img src="https://i.ibb.co/Qr6gBxt/Group-7270-1.png">
             </div>
             <div class="partner_card">
                 <img src="https://i.ibb.co/YbdG585/Handicapped-Welfare-Association.png">
             </div>
             <div class="partner_card">
-                <img src="https://i.ibb.co/qN9gnTs/MINDS.png">
-            </div>
-            <div class="partner_card">
-                <img src="https://i.ibb.co/Nx0KgW4/Mouth-Foot-Painting-Artists-Pte-Ltd-1.png">
-            </div>
-            <div class="partner_card">
-                <img src="https://i.ibb.co/QnNXmv3/Muscular-Dystrophy-Association-Singapore.png">
+                <img src="https://i.ibb.co/92YfPh7/love-nils-trp.png">
             </div>
             <div class="partner_card">
                 <img src="https://i.ibb.co/FHt66wn/Partners-metta.png">
             </div>
             <div class="partner_card">
+                <img src="https://i.ibb.co/QnNXmv3/Muscular-Dystrophy-Association-Singapore.png">
+            </div>
+            <div class="partner_card">
+                <img src="https://i.ibb.co/Nx0KgW4/Mouth-Foot-Painting-Artists-Pte-Ltd-1.png">
+            </div>
+            <div class="partner_card">
+                <img src="https://i.ibb.co/qN9gnTs/MINDS.png">
+            </div>
+            <div class="partner_card">
+                <img src="https://i.ibb.co/dGp4NyQ/pathlight-trp.png">
+            </div>
+            <div class="partner_card">
                 <img src="https://i.ibb.co/89Wx44M/Singapore-Association-for-Mental-Health-SAMH.png">
+            </div>
+            <div class="partner_card">
+                <img alt="savh" src="https://i.ibb.co/Fhhkgrk/Group-4171.png">
             </div>
             <div class="partner_card">
                 <img src="https://i.ibb.co/mb1MSWS/thye-hua-trp.png">
             </div>
             <div class="partner_card">
-                <img src="https://i.ibb.co/92YfPh7/love-nils-trp.png">
-            </div>
-            <div class="partner_card">
-                <img src="https://i.ibb.co/dGp4NyQ/pathlight-trp.png">
+                <img alt="Journey by Touch" src="https://i.ibb.co/6WJ1KjY/Frame-206.png">
             </div>
         </div>
     </div>
