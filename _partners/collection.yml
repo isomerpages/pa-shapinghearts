@@ -2,6 +2,7 @@ collections:
   partners:
     output: true
     order:
+      - LOVE, NILS.md
       - Pathlight School.md
       - THK Homes for Disabled.md
       - Metta Welfare Association.md
