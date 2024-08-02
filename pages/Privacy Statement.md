@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 ---
 <h4><strong>Privacy Statement</strong></h4>
-<h3><strong>Government of Singapore Privacy Statement</strong></h3>
+<h4><strong>Government of Singapore Privacy Statement</strong></h4>
 <ol>
 <li>
 <p>This is a Government Agency digital service. We adopt the same principles
