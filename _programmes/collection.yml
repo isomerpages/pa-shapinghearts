@@ -2,6 +2,6 @@ collections:
   programmes:
     output: true
     order:
-      - Heartist Fair.md
-      - Stage Performance.md
       - Art Exhibition.md
+      - Stage Performance.md
+      - Heartist Fair.md
