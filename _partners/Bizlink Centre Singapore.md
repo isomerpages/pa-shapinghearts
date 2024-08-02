@@ -6,8 +6,9 @@ description: ""
 ---
 <h3>About Bizlink Centre Singapore</h3>
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 20%;" height="auto" width="100%" alt="" src="/images/APSN_Katong_School.png">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Bizlink_Centre_Singapore.png">
 </div>
 <p>Bizlink Centre is a non-profit organization dedicated to serving the disadvantaged
 individuals, in particular persons with disabilities, through training
