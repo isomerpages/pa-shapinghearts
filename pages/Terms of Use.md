@@ -4,7 +4,7 @@ permalink: /terms-of-use/
 variant: tiptap
 description: ""
 ---
-<h3><strong>General Terms and Conditions on the Use of the Isomer Pages website </strong></h3>
+<h3><strong>General Terms and Conditions on the Use of the Isomer Pages website</strong></h3>
 <p><strong>General</strong>
 </p>
 <p>Thank you for visiting the Web Site. By accessing the Web Site and any
