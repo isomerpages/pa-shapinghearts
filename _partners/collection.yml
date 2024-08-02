@@ -2,6 +2,7 @@ collections:
   partners:
     output: true
     order:
+      - Extraordinary People Limited.md
       - Down Syndrome Association (Singapore).md
       - Christian Outreach to the Handicapped.md
       - Cerebral Palsy Alliance Singapore (CPAS School).md
