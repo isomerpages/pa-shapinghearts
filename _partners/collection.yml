@@ -2,6 +2,7 @@ collections:
   partners:
     output: true
     order:
+      - Muscular Dystrophy Association (Singapore).md
       - Mouth & Foot Painting Artists Pte Ltd.md
       - MINDS.md
       - Handicaps Welfare Association.md
