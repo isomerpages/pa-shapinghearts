@@ -4,6 +4,7 @@ permalink: /privacy/
 variant: tiptap
 description: ""
 ---
+<h4><strong>Privacy Statement</strong></h4>
 <h3><strong>Government of Singapore Privacy Statement</strong></h3>
 <ol>
 <li>
