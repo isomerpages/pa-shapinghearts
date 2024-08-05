@@ -1,15 +1,10 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
-logo: /images/isomer-logo.svg
-
+logo: /images/NECDC_Shaping_Hearts__Logo_Full_Colour_RGB_main_logo.jpg
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
-  - title: Example Folder
-    collection: example-folder
+  - title: About Shaping Hearts
+    url: /about-shaping-hearts
+  - title: Heartists & Partners
+    url: /heartists-and-partners
+  - title: Programmes
+    collection: programmes
+  - title: Shop
+    url: https://f0b9ef-e8.myshopify.com/

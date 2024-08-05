@@ -1,0 +1,7 @@
+collections:
+  programmes:
+    output: true
+    order:
+      - Art Exhibition.md
+      - Stage Performance.md
+      - Heartist Fair.md
