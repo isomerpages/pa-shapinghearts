@@ -4,8 +4,7 @@ permalink: /art-exhibition/
 variant: tiptap
 description: ""
 ---
-<p><strong>Shaping Hearts is back bigger and greater than ever! Over 500 paintings by talented artists with disabilities will be displayed at the following venues:</strong>
-</p>
+<h4><strong>Shaping Hearts is back bigger and greater than ever! Over 500 paintings by talented artists with disabilities will be displayed at the following venues:</strong></h4>
 <h4><strong>MAIN EXHIBITION:</strong></h4>
 <p><strong>Our Tampines Hub, 19 October to 3 November, 10am to 9pm</strong>
 </p>
