@@ -4,7 +4,7 @@ permalink: /cerebral-palsy-alliance-singapore-cpas-school/
 variant: tiptap
 description: ""
 ---
-<h3>About Cerebral Palsy Alliance Singapore (CPAS School)</h3>
+<h3>About Cerebral Palsy Alliance Singapore (CPAS)</h3>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
