@@ -28,8 +28,7 @@ sections:
       subtitle: ABOUT SHAPING HEARTS
       id: infopic
       description: At Shaping Hearts, art by disabled artists is inherently
-        meaningful. Celebrate their talents and find the art that speaks to you;
-        its meaning is already there.
+        meaningful. Celebrate their talents and find the art that speaks to you.
       button: Learn more about Shaping hearts
       url: /about-shaping-hearts
       image: /images/Infopic_1.png
@@ -39,7 +38,7 @@ sections:
       subtitle: HEARTISTS & PARTNERS
       id: infopic
       description: What gives art meaning? Is it the artist behind the art? Is it the
-        way it’s created? Or is it art because it speaks to you?
+        way it’s created? Or is it meaningful because it speaks to you?
       button: DISCOVER OUR HEARTISTS
       url: /heartists-and-partners/
       image: /images/Infopic_2_1.png
@@ -50,5 +49,5 @@ sections:
       id: infobar
       description: Shop over 500 artworks from artists with disabilities.
       button: VISIT SHOP
-      url: https://f0b9ef-e8.myshopify.com/
+      url: shop.shapinghearts.sg
 ---
