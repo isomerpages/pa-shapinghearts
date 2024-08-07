@@ -1,10 +1,10 @@
 ---
-title: Artdis (Singapore) Ltd
+title: ARTDIS (Singapore) Ltd
 permalink: /artdis-singapore-ltd/
 variant: tiptap
 description: ""
 ---
-<h3>About Artdis (Singapore) Ltd)</h3>
+<h3>About ARTDIS (Singapore) Ltd</h3>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Frame_217.png">

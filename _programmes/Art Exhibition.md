@@ -4,24 +4,22 @@ permalink: /art-exhibition/
 variant: tiptap
 description: ""
 ---
-<p><strong>Shaping Hearts is back bigger and greater than ever! Over 500 paintings by talented artists with disabilities will be displayed at the following venues:</strong>
-</p>
+<h4><strong>Shaping Hearts is back bigger and greater than ever! Over 500 paintings by talented artists with disabilities will be displayed at the following venues:</strong></h4>
 <h4><strong>MAIN EXHIBITION:</strong></h4>
-<p>Our Tampines Hub, 19 October to 3 November, 10am to 9pm</p>
+<p><strong>Our Tampines Hub, 19 October to 3 November, 10am to 9pm</strong>
+</p>
 <h4><strong>ROVING EXHIBITION:</strong></h4>
-<blockquote>
 <p><strong>NDP Heartlands Celebration in North East @ Punggol Field, 10 August, 4pm to 9pm</strong>
 </p>
 <p><strong>Sengkang Grand Mall, 29 August - 1 September, 10am to 9pm</strong>
 </p>
 <p><strong>Suntec City, 23 September - 29 September, 10am to 9pm</strong>
 </p>
-</blockquote>
 <p>Join us to appreciate and support the works of artists with disabilities.
 Engage in experiential activities that simulate disabilities, fostering
 a deeper understanding of their world. Proceeds from the sale of paintings
-goes to a good cause of supporting participating Social Service Agencies
-and Artists of Shaping Hearts.</p>
+goes to a good cause of supporting participating He<em>artists</em> and
+Social Service Agencies.</p>
 <hr>
 <p></p>
 <table style="minWidth: 75px">
