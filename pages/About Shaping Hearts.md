@@ -549,7 +549,7 @@ VideoPlayer{
             </h1>
             <p>What gives art meaning? Is it the artist behind the art? Is it the way it’s created? Or is it meaningful because it speaks to you? Sometimes, we don’t need to find meaning in art - it’s already there.</p>
             <div class="flex justify-between mt-5">
-                <button class="button bold"><a target="_blank" href="https://f0b9ef-e8.myshopify.com/">Shop</a></button>
+                <button class="button bold"><a target="_blank" href="https://shop.shapinghearts.sg/">Shop</a></button>
             </div>
         </div>
         <div style="z-index: 4000; position: relative;" class="event_right section">
@@ -564,7 +564,7 @@ VideoPlayer{
                 <p class="text-center bold">FOLLOW OUR HEARTS</p>
                 <h1 class="main_heading2 text-center mt-5">Step into the world of talented artists with disabilities and be awed by their art creations at the largest inclusive arts event!</h1>
                 <button style="width: fit-content; background: #e0125b;" class="button bold mt-5">
-                    <a target="_blank" href="https://f0b9ef-e8.myshopify.com/">Visit Shop</a></button>
+                    <a target="_blank" href="https://shop.shapinghearts.sg/">Visit Shop</a></button>
                 <br>
                 <br>
 
