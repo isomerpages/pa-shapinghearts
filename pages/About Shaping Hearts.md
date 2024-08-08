@@ -651,23 +651,26 @@ VideoPlayer{
             <div class="text-center mt-5">
                 <h3>PLATINUM SPONSOR</h3>
                 <div class="sponsors_grid mt-5">
-                    <img src="https://i.ibb.co/DfppnNY/PLATINUM-Neo-Group-Logo.png">
+                    <img src="https://i.ibb.co/z6V9cRD/Logo-Sg-Pools-4-C-Hi-Res-Horizontal.jpg">
                 </div>
                 <br>
-
                 <div class="text-center mt-5">
                     <h3>BRONZE SPONSOR</h3>
                     <div class="sponsors_grid">
-                        <img src="https://i.ibb.co/Fgs9HfR/global-indian.png">
-                        <h2>Mr Jason Tang</h2>
-                        <h2>Mr Stephen Lee</h2>
+                        <img src="https://i.ibb.co/XJNP4QL/BRONZE-GIIS-logo.jpg">
+                        <img src="https://i.ibb.co/QMDJ9D4/Builders-Mart-Logo-DEC-2011.png">
+                        <img src="https://i.ibb.co/ZGF4vQx/KKPL.png">
+                        <img src="https://i.ibb.co/CV8KMmJ/serial.png">
+                        <h2>Jason Tang</h2>
+                        <h2>Dr Doreen Tan</h2>
+                        <h2>Stephen Lee Ching Yen</h2>
                     </div>
                 </div>
                 <br>
                 <div class="text-center mt-5">
                     <h3>TECH SPONSORS</h3>
                     <div class="sponsors_grid mt-5">
-                        <img src="https://i.ibb.co/FJy3P94/HW-POS-RGB-Horizontal-300ppi-002.png">
+                        <img src="https://i.ibb.co/0rHJmvX/Avertek-Enterprises-Pte-Ltd.png">
                     </div>
                 </div>
                 <br>
