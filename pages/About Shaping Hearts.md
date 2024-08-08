@@ -547,7 +547,7 @@ VideoPlayer{
                 INCLUSIVE<br>
                 ARTS FESTIVAL
             </h1>
-            <p>What gives art meaning? Is it the artist behind the art? Is it the way it’s created? Or is it art because it speaks to you? Sometimes, we don’t need to find meaning in art - it’s already there.</p>
+            <p>What gives art meaning? Is it the artist behind the art? Is it the way it’s created? Or is it meaningful because it speaks to you? Sometimes, we don’t need to find meaning in art - it’s already there.</p>
             <div class="flex justify-between mt-5">
                 <button class="button bold"><a target="_blank" href="https://f0b9ef-e8.myshopify.com/">Shop</a></button>
             </div>
