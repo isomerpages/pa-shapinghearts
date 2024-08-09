@@ -34,7 +34,7 @@ sections:
       image: /images/Infopic_1.png
       alt: Image alt text
   - infopic:
-      title: Artwork that tells a thousand stories
+      title: Art that tells a thousand stories
       subtitle: HEARTISTS & PARTNERS
       id: infopic
       description: What gives art meaning? Is it the artist behind the art? Is it the
