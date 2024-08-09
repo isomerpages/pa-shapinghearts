@@ -702,9 +702,9 @@ VideoPlayer{
                 <br>
             <div class="text-center mt-5">
                     <div class="sponsors_grid">
-                        <h3>Mr Jason Tang</h3>
+                        <h3>Jason Tang</h3>
                         <h3>Dr Doreen Tan</h3>
-                        <h3>Mr Stephen Lee</h3>
+                        <h3>Stephen Lee</h3>
                     </div>
             </div>
                 <br><br>
