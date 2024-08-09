@@ -194,11 +194,13 @@ description: ""
 <section style="width: 100%">
 	<div class="canvass">
 	<section class="hero">
-		<h1 class="text-center main_heading">Hi! I'm a Heartist<br>Moy</h1>
-		<p><img class="hero_img" src="https://i.ibb.co/D7pQyBy/Shaping-Hearts-Artist-Moy-01.jpg"></p>
-<p>In 2018, Moy’s life took an unexpected turn when glaucoma left her with just 15% tunnel vision in her left eye and complete blindness in her right. Despite this, her passion for art never dimmed.</p>
-<p>Joining the Touch Art programme by SAVH in 2023, she was given a new avenue to express her creativity. Specialising in acrylic painting, Moy’s hands have become her eyes</p>
-<p>Bringing her visions to life on canvas, her works radiate life, hope and exuberance, mirroring her resilient spirit. Beyond painting, her love for the art extends to handicrafts, writing poems and playing musical instruments like the harp and tambourine.</p>
+		<h1 class="text-center main_heading">Hi! I'm a Heartist<br>Henry</h1>
+		<p><img class="hero_img" src="https://i.ibb.co/7NwkbGS/Shaping-Hearts-Artist-Henry-07.jpg"></p>
+<p>Henry is a 25-year-old artist with Cerebral Palsy, and has a special love for drawing people and animals, especially dogs, inspired by his neighbour's cherished pet. 🐶💕 His favourite character, Doraemon, also frequently appears in his artworks. </p>
+
+<p>Henry’s notable piece “The Singapore River”, was featured in NDP 2021, and was created in collaboration with two other members. The artwork promotes inclusivity, illustrating the unique perspective of each artist with disabilities and what they see as the ‘Singapore Spirit’”. </p>
+
+<p>Sharpening his skills in colour mixing, contrast, and various handicraft projects, Henry is a member of the GROW artist program by the Cerebral Palsy Alliance Singapore (CPAS), where he continues to hone his craft. </p>
 		</section>
 	</div>
 </section>
