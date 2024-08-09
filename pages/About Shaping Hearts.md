@@ -682,7 +682,7 @@ VideoPlayer{
             <div class="text-center mt-5">
                     <h3>GOLD SPONSOR</h3>
                     <div class="sponsors_grid mt-5">
-                        <h2>Mr Chaley Mah (Surbana Jurong)</h2>
+                        <h2 class="normal">Mr Chaley Mah (Surbana Jurong)</h2>
                     </div>
             </div>
                 <br><br>
@@ -697,9 +697,9 @@ VideoPlayer{
                 <br>
             <div class="text-center mt-5">
                     <div class="sponsors_grid">
-                        <h2>Mr Jason Tang</h2>
-                        <h2>Dr Doreen Tan</h2>
-                        <h2>Mr Stephen Lee</h2>
+                        <h2 class="normal">Mr Jason Tang</h2>
+                        <h2 class="normal">Dr Doreen Tan</h2>
+                        <h2 class="normal">Mr Stephen Lee</h2>
                     </div>
             </div>
                 <br><br>
