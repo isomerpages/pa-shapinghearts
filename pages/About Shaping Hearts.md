@@ -653,45 +653,45 @@ VideoPlayer{
                 <div class="sponsors_grid mt-5">
                     <img src="https://i.ibb.co/z6V9cRD/Logo-Sg-Pools-4-C-Hi-Res-Horizontal.jpg">
                 </div>
+            </div>
                 <br><br>
-                <div class="text-center mt-5">
+            <div class="text-center mt-5">
                     <h3>GOLD SPONSOR</h3>
                     <div class="sponsors_grid mt-5">
                         <h2>Mr Chaley Mah (Surbana Jurong)</h2>
                     </div>
-                </div>
+            </div>
                 <br><br>
-                <div class="text-center mt-5">
+            <div class="text-center mt-5">
                     <h3>BRONZE SPONSORS</h3>
                     <div class="sponsors_grid">
                         <img src="https://i.ibb.co/XJNP4QL/BRONZE-GIIS-logo.jpg">
                         <img src="https://i.ibb.co/QMDJ9D4/Builders-Mart-Logo-DEC-2011.png">
                         <img src="https://i.ibb.co/ZGF4vQx/KKPL.png">
                         <img src="https://i.ibb.co/CV8KMmJ/serial.png">
-                </div>
+            </div>
                 <br>
-                <div class="text-center mt-5">
+            <div class="text-center mt-5">
                     <div class="sponsors_grid">
                         <h2>Mr Jason Tang</h2>
                         <h2>Dr Doreen Tan</h2>
                         <h2>Mr Stephen Lee Ching Yen</h2>
                     </div>
-                </div>
+            </div>
                 <br><br>
-                <div class="text-center mt-5">
+            <div class="text-center mt-5">
                     <h3>TECH SPONSOR</h3>
                     <div class="sponsors_grid mt-5">
                         <img src="https://i.ibb.co/0rHJmvX/Avertek-Enterprises-Pte-Ltd.png">
                     </div>
-                </div>
+            </div>
                 <br>
-                <div class="text-center mt-5">
+            <div class="text-center mt-5">
                     <h3>ART PATRON</h3>
                     <div class="sponsors_grid mt-5">
                         <img src="https://i.ibb.co/FnZzsFC/Appliedlogo-blue-102021-002.png">
                         <img src="https://i.ibb.co/mXdQQPR/SSIA-Logo-CMYK-002.jpg">
                     </div>
-                </div>
             </div>
         </div>
     </div></section>
