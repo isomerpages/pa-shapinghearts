@@ -49,5 +49,5 @@ sections:
       id: infobar
       description: Shop over 500 artworks from artists with disabilities.
       button: VISIT SHOP
-      url: shop.shapinghearts.sg
+      url: https://shop.shapinghearts.sg/
 ---
