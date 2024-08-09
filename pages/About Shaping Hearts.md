@@ -616,7 +616,7 @@ VideoPlayer{
   <section class="section story bg_gray">
   <div class="canvass">
   <div class="text-center">
-  <h1 class="main_heading2 bold">MEET OUR HEARTISTS
+  <h1 class="main_heading2 bold">Our Heartists
   </h1>
   <br><br>
   <div class="team_grid">
