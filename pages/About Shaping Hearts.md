@@ -639,7 +639,31 @@ VideoPlayer{
                            <img src="https://i.ibb.co/B2SjLLT/Shaping-Hearts-Artist-Simeon-04.jpg">
               <a href="/simeon/">Simeon <img src="https://i.ibb.co/K99VVxJ/Arrow.png" style="width: 30px !important"></a>
           </div>
-          <div>
+          <div class="team_card">
+            <img src="https://i.ibb.co/B4dqK81/Alex-Lim.jpg">
+                 <a href="https://staging.d2d4qnv3td402n.amplifyapp.com/alex-lim/">Alex Lim <img src="https://i.ibb.co/K99VVxJ/Arrow.png" style="width: 30px !important"> </a>
+           </div>
+           <div class="team_card">
+              <img src="https://i.ibb.co/w7GMVNX/Gary-Chong.jpg">
+                     <a href="https://staging.d2d4qnv3td402n.amplifyapp.com/gary-chong/">Gary Chong <img src="https://i.ibb.co/K99VVxJ/Arrow.png" style="width: 30px !important"></a>
+           </div>
+           <div class="team_card">
+                      <img src="https://i.ibb.co/n1HZZGc/Leong-Sijun.png">
+                 <a href="https://staging.d2d4qnv3td402n.amplifyapp.com/leong-sijun/">Leong Sijun <img src="https://i.ibb.co/K99VVxJ/Arrow.png" style="width: 30px !important"></a>
+           </div>
+           <div class="team_card">
+                  <img src="https://i.ibb.co/7gQFvV5/Ng-Jun-Yao.jpg">
+                 <a href="https://staging.d2d4qnv3td402n.amplifyapp.com/ng-jun-yao/">Ng Jun Yao <img src="https://i.ibb.co/K99VVxJ/Arrow.png" style="width: 30px !important"></a>
+           </div>
+           <div class="team_card">
+                          <img src="https://i.ibb.co/ZLg3w39/Vincent-Seet.jpg">
+                     <a href="https://staging.d2d4qnv3td402n.amplifyapp.com/vincent-seet/">Vincent Seet <img src="https://i.ibb.co/K99VVxJ/Arrow.png" style="width: 30px !important"></a>
+           </div>
+           <div class="team_card">
+                              <img src="https://i.ibb.co/GVNQWyY/Yap-Jia-Hui.jpg">
+                 <a href="https://staging.d2d4qnv3td402n.amplifyapp.com/yap-jia-hui/">Yap Jia Hui <img src="https://i.ibb.co/K99VVxJ/Arrow.png" style="width: 30px !important"></a>
+           </div>   
+    <div>
   </div>
   </div>
   </div>
