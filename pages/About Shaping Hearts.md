@@ -675,7 +675,7 @@ VideoPlayer{
                     <div class="sponsors_grid">
                         <h2>Mr Jason Tang</h2>
                         <h2>Dr Doreen Tan</h2>
-                        <h2>Mr Stephen Lee Ching Yen</h2>
+                        <h2>Mr Stephen Lee</h2>
                     </div>
             </div>
                 <br><br>
