@@ -254,6 +254,11 @@ VideoPlayer{
     }
 
     .sponsors h3{
+    color: #c5242f !important;
+    font-weight: bold;
+    }
+
+    .sponsors h2{
     color: black !important;
     font-weight: bold;
     }
@@ -682,7 +687,7 @@ VideoPlayer{
             <div class="text-center mt-5">
                     <h3>GOLD SPONSOR</h3>
                     <div class="sponsors_grid mt-5">
-                        <h2>Mr Chaley Mah (Surbana Jurong)</h2>
+                        <h3>Mr Chaley Mah (Surbana Jurong)</h3>
                     </div>
             </div>
                 <br><br>
@@ -697,9 +702,9 @@ VideoPlayer{
                 <br>
             <div class="text-center mt-5">
                     <div class="sponsors_grid">
-                        <h2>Mr Jason Tang</h2>
-                        <h2>Dr Doreen Tan</h2>
-                        <h2>Mr Stephen Lee</h2>
+                        <h3>Jason Tang</h3>
+                        <h3>Dr Doreen Tan</h3>
+                        <h3>Stephen Lee</h3>
                     </div>
             </div>
                 <br><br>
