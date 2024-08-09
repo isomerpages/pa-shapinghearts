@@ -629,7 +629,7 @@ VideoPlayer{
           </div>
           <div class="team_card">
                <img src="https://i.ibb.co/D7pQyBy/Shaping-Hearts-Artist-Moy-01.jpg">
-              <a href="/moy/">Moy <img src="https://i.ibb.co/K99VVxJ/Arrow.png" style="width: 30px !important"></a>
+              <a href="/moy-saw-han/">Moy <img src="https://i.ibb.co/K99VVxJ/Arrow.png" style="width: 30px !important"></a>
           </div>
           <div class="team_card">
                        <img src="https://i.ibb.co/z2xhm8f/Shaping-Hearts-Artist-Samuel.jpgg">
@@ -674,7 +674,7 @@ VideoPlayer{
                     <div class="sponsors_grid">
                         <h2>Mr Jason Tang</h2>
                         <h2>Dr Doreen Tan</h2>
-                        <h2>Mr Stephen Lee Ching Yen<br><small>(GMT Investments)</small></h2>
+                        <h2>Mr Stephen Lee Ching Yen</h2>
                     </div>
                 </div>
                 <br><br>
