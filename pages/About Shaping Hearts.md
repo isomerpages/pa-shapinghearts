@@ -547,9 +547,9 @@ VideoPlayer{
                 INCLUSIVE<br>
                 ARTS FESTIVAL
             </h1>
-            <p>What gives art meaning? Is it the artist behind the art? Is it the way it’s created? Or is it art because it speaks to you? Sometimes, we don’t need to find meaning in art - it’s already there.</p>
+            <p>What gives art meaning? Is it the artist behind the art? Is it the way it’s created? Or is it meaningful because it speaks to you? Sometimes, we don’t need to find meaning in art - it’s already there.</p>
             <div class="flex justify-between mt-5">
-                <button class="button bold"><a target="_blank" href="https://f0b9ef-e8.myshopify.com/">Shop</a></button>
+                <button class="button bold"><a target="_blank" href="https://shop.shapinghearts.sg/">Shop</a></button>
             </div>
         </div>
         <div style="z-index: 4000; position: relative;" class="event_right section">
@@ -564,7 +564,7 @@ VideoPlayer{
                 <p class="text-center bold">FOLLOW OUR HEARTS</p>
                 <h1 class="main_heading2 text-center mt-5">Step into the world of talented artists with disabilities and be awed by their art creations at the largest inclusive arts event!</h1>
                 <button style="width: fit-content; background: #e0125b;" class="button bold mt-5">
-                    <a target="_blank" href="https://f0b9ef-e8.myshopify.com/">Visit Shop</a></button>
+                    <a target="_blank" href="https://shop.shapinghearts.sg/">Visit Shop</a></button>
                 <br>
                 <br>
 
@@ -616,28 +616,28 @@ VideoPlayer{
   <br><br>
   <div class="team_grid">
           <div class="team_card">
-<img src="https://i.ibb.co/B4dqK81/Alex-Lim.jpg">
-              <a href="https://staging.d2d4qnv3td402n.amplifyapp.com/alex-lim/">Alex Lim <img src="https://i.ibb.co/K99VVxJ/Arrow.png" style="width: 30px !important"> </a>
+           <img src="https://i.ibb.co/jTgGjSr/Shaping-Hearts-Artist-Ashley-01.jpg">
+              <a href="/ashley/">Ashley <img src="https://i.ibb.co/K99VVxJ/Arrow.png" style="width: 30px !important"> </a>
           </div>
           <div class="team_card">
-           <img src="https://i.ibb.co/w7GMVNX/Gary-Chong.jpg">
-                  <a href="https://staging.d2d4qnv3td402n.amplifyapp.com/gary-chong/">Gary Chong <img src="https://i.ibb.co/K99VVxJ/Arrow.png" style="width: 30px !important"></a>
+           <img src="https://i.ibb.co/hZrXVkH/Shaping-Hearts-Artist-EZRA-01.jpg">
+                  <a href="/ezra/">Ezra <img src="https://i.ibb.co/K99VVxJ/Arrow.png" style="width: 30px !important"></a>
           </div>
           <div class="team_card">
-                   <img src="https://i.ibb.co/n1HZZGc/Leong-Sijun.png">
-              <a href="https://staging.d2d4qnv3td402n.amplifyapp.com/leong-sijun/">Leong Sijun <img src="https://i.ibb.co/K99VVxJ/Arrow.png" style="width: 30px !important"></a>
+                   <img src="https://i.ibb.co/7NwkbGS/Shaping-Hearts-Artist-Henry-07.jpg">
+              <a href="/henry/">Henry <img src="https://i.ibb.co/K99VVxJ/Arrow.png" style="width: 30px !important"></a>
           </div>
           <div class="team_card">
-               <img src="https://i.ibb.co/7gQFvV5/Ng-Jun-Yao.jpg">
-              <a href="https://staging.d2d4qnv3td402n.amplifyapp.com/ng-jun-yao/">Ng Jun Yao <img src="https://i.ibb.co/K99VVxJ/Arrow.png" style="width: 30px !important"></a>
+               <img src="https://i.ibb.co/D7pQyBy/Shaping-Hearts-Artist-Moy-01.jpg">
+              <a href="/moy-saw-han/">Moy <img src="https://i.ibb.co/K99VVxJ/Arrow.png" style="width: 30px !important"></a>
           </div>
           <div class="team_card">
-                       <img src="https://i.ibb.co/ZLg3w39/Vincent-Seet.jpg">
-                  <a href="https://staging.d2d4qnv3td402n.amplifyapp.com/vincent-seet/">Vincent Seet <img src="https://i.ibb.co/K99VVxJ/Arrow.png" style="width: 30px !important"></a>
+                       <img src="https://i.ibb.co/z2xhm8f/Shaping-Hearts-Artist-Samuel.jpgg">
+                  <a href="/samuel/">Samuel <img src="https://i.ibb.co/K99VVxJ/Arrow.png" style="width: 30px !important"></a>
           </div>
           <div class="team_card">
-                           <img src="https://i.ibb.co/GVNQWyY/Yap-Jia-Hui.jpg">
-              <a href="https://staging.d2d4qnv3td402n.amplifyapp.com/yap-jia-hui/">Yap Jia Hui <img src="https://i.ibb.co/K99VVxJ/Arrow.png" style="width: 30px !important"></a>
+                           <img src="https://i.ibb.co/B2SjLLT/Shaping-Hearts-Artist-Simeon-04.jpg">
+              <a href="/simeon/">Simeon <img src="https://i.ibb.co/K99VVxJ/Arrow.png" style="width: 30px !important"></a>
           </div>
           <div>
   </div>
@@ -651,34 +651,48 @@ VideoPlayer{
             <div class="text-center mt-5">
                 <h3>PLATINUM SPONSOR</h3>
                 <div class="sponsors_grid mt-5">
-                    <img src="https://i.ibb.co/DfppnNY/PLATINUM-Neo-Group-Logo.png">
+                    <img src="https://i.ibb.co/z6V9cRD/Logo-Sg-Pools-4-C-Hi-Res-Horizontal.jpg">
                 </div>
-                <br>
-
-                <div class="text-center mt-5">
-                    <h3>BRONZE SPONSOR</h3>
+            </div>
+                <br><br>
+            <div class="text-center mt-5">
+                    <h3>GOLD SPONSOR</h3>
+                    <div class="sponsors_grid mt-5">
+                        <h2>Mr Chaley Mah (Surbana Jurong)</h2>
+                    </div>
+            </div>
+                <br><br>
+            <div class="text-center mt-5">
+                    <h3>BRONZE SPONSORS</h3>
                     <div class="sponsors_grid">
-                        <img src="https://i.ibb.co/Fgs9HfR/global-indian.png">
+                        <img src="https://i.ibb.co/XJNP4QL/BRONZE-GIIS-logo.jpg">
+                        <img src="https://i.ibb.co/QMDJ9D4/Builders-Mart-Logo-DEC-2011.png">
+                        <img src="https://i.ibb.co/ZGF4vQx/KKPL.png">
+                        <img src="https://i.ibb.co/CV8KMmJ/serial.png">
+            </div>
+                <br>
+            <div class="text-center mt-5">
+                    <div class="sponsors_grid">
                         <h2>Mr Jason Tang</h2>
+                        <h2>Dr Doreen Tan</h2>
                         <h2>Mr Stephen Lee</h2>
                     </div>
-                </div>
-                <br>
-                <div class="text-center mt-5">
-                    <h3>TECH SPONSORS</h3>
+            </div>
+                <br><br>
+            <div class="text-center mt-5">
+                    <h3>TECH SPONSOR</h3>
                     <div class="sponsors_grid mt-5">
-                        <img src="https://i.ibb.co/FJy3P94/HW-POS-RGB-Horizontal-300ppi-002.png">
+                        <img src="https://i.ibb.co/0rHJmvX/Avertek-Enterprises-Pte-Ltd.png">
                     </div>
-                </div>
+            </div>
                 <br>
-                <div class="text-center mt-5">
+            <div class="text-center mt-5">
                     <h3>ART PATRON</h3>
                     <div class="sponsors_grid mt-5">
                         <img src="https://i.ibb.co/FnZzsFC/Appliedlogo-blue-102021-002.png">
                         <img src="https://i.ibb.co/mXdQQPR/SSIA-Logo-CMYK-002.jpg">
                     </div>
-                </div>
             </div>
         </div>
-    </section>
+    </div></section>
 </section></section>
