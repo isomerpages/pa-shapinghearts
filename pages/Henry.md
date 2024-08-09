@@ -196,7 +196,7 @@ description: ""
 	<section class="hero">
 		<h1 class="text-center main_heading">Hi! I'm a Heartist<br>Henry</h1>
 		<p><img class="hero_img" src="https://i.ibb.co/7NwkbGS/Shaping-Hearts-Artist-Henry-07.jpg"></p>
-<p>Henry is a 25-year-old artist with Cerebral Palsy, and has a special love for drawing people and animals, especially dogs, inspired by his neighbour's cherished pet. 🐶💕 His favourite character, Doraemon, also frequently appears in his artworks. </p>
+<p>Henry is a 25-year-old artist with Cerebral Palsy, and has a special love for drawing people and animals, especially dogs, inspired by his neighbour's cherished pet. His favourite character, Doraemon, also frequently appears in his artworks. </p>
 
 <p>Henry’s notable piece “The Singapore River”, was featured in NDP 2021, and was created in collaboration with two other members. The artwork promotes inclusivity, illustrating the unique perspective of each artist with disabilities and what they see as the ‘Singapore Spirit’”. </p>
 
