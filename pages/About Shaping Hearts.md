@@ -254,7 +254,7 @@ VideoPlayer{
     }
 
     .sponsors h3{
-    color: black !important;
+    color: #c5242f !important;
     font-weight: bold;
     }
 
