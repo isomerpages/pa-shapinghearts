@@ -16,7 +16,7 @@ sections:
           url: /about-shaping-hearts
         - title: SHOP FOR ART
           description: Paintings & Merchandise
-          url: https://f0b9ef-e8.myshopify.com/
+          url: https://shop.shapinghearts.sg/
         - title: PARTNERS & HEARTISTS
           description: Discover the Talents
           url: /heartists-and-partners/
