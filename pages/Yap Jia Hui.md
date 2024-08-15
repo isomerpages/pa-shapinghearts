@@ -197,7 +197,7 @@ description: ""
 		<h1 class="text-center main_heading">Hi! I'm a Heartist<br>Yap Jia Hui</h1>
 		<img class="hero_img" src="https://i.ibb.co/GVNQWyY/Yap-Jia-Hui.jpg">
 		<p>
-Jia Hui is a young artist who likeseverything cute, lovely, and pink! With her distinctive crayon techniques and bold colour choices, her style is one of the most iconic and refreshing out of all of our apprentices!
+Jia Hui is a young artist who likes everything cute, lovely, and pink! With her distinctive crayon techniques and bold colour choices, her style is one of the most iconic and refreshing out of all of our apprentices!
 		</p>
 	</section>
 	</div>
