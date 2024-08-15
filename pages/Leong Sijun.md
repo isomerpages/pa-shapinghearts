@@ -197,7 +197,7 @@ description: ""
 		<h1 class="text-center main_heading">Hi! I'm a Heartist<br>Leong Sijun</h1>
 		<img class="hero_img" src="https://i.ibb.co/n1HZZGc/Leong-Sijun.png">
 		<p>
-Sijun was born with Down Syndrome and had been challenging the deterioration of his eyesight and muscles in the past decade. He would paint very slowly stroke by stroke to fill up the whole canvas. He loves cars and paintings; if given a choice, he would want to become a car designer or an Interior Designer. He is a cheerful boy, like his paintings, colourful and bright; he feels happy with colours and sunshine.
+Sijun, born with Down Syndrome, has encountered challenges with deteriorating eyesight and muscle strength over the past decade. Despite these obstacles, he paints meticulously, stroke-by-stroke, to fill up the entire canvas. He harbors a deep passion for cars and paintings, aspiring to become a car designer or an interior designer if given the choice. Sijun's cheerful disposition mirrors the vibrancy of his paintings, as he finds joy in colors and sunshine.
 		</p>
 	</section>
 	</div>
