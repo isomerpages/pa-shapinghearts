@@ -194,7 +194,7 @@ description: ""
 <section style="width: 100%">
 	<div class="canvass">
 	<section class="hero">
-		<h1 class="text-center main_heading">Hi! I'm a Heartist<br>Vincent Seet</h1>
+		<h1 class="text-center main_heading">Hi! I'm a Heartist<br>Seet Kie Hong (Vincent Seet)</h1>
 		<img class="hero_img" src="https://i.ibb.co/ZLg3w39/Vincent-Seet.jpg">
 		<p>
 Vincent is a two-time stroke survivor and educator turned artist. He believed that every painting is "a dream come true" and every artwork can be a "hope for peace and harmony in the world". Over the years, Vincent has supported various charity institutions locally as well as across the region. He also conducted art workshops for residents of a mental health home on volunteering basis.
