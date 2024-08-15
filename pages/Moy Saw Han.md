@@ -196,9 +196,9 @@ description: ""
 	<section class="hero">
 		<h1 class="text-center main_heading">Hi! I'm a Heartist<br>Moy</h1>
 		<p><img class="hero_img" src="https://i.ibb.co/D7pQyBy/Shaping-Hearts-Artist-Moy-01.jpg"></p>
-<p>In 2018, Moy’s life took an unexpected turn when glaucoma left her with just 15% tunnel vision in her left eye and complete blindness in her right. Despite this, her passion for art never dimmed.</p>
-<p>Joining the Touch Art programme by SAVH in 2023, she was given a new avenue to express her creativity. Specialising in acrylic painting, Moy’s hands have become her eyes</p>
-<p>Bringing her visions to life on canvas, her works radiate life, hope and exuberance, mirroring her resilient spirit. Beyond painting, her love for the art extends to handicrafts, writing poems and playing musical instruments like the harp and tambourine.</p>
+<p>Saw Han lost most of her vision in 2018 due to glaucoma, leaving her with only 15% tunnel vision in her left eye and completely blind in her right eye.</p>
+<p>In March 2023, she enrolled in the Touch Art program by SAVH and has since immersed herself in various forms of creative expression. Saw Han has a profound passion for creating with her hands, including painting, handicrafts, poetry writing, baking, massage, and playing melodies on the harp, tambourine, and autoharp.</p>
+<p>Through her paintings, she aims to evoke themes of life, hope, and exuberance.</p>
 		</section>
 	</div>
 </section>
