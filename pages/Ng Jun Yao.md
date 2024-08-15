@@ -197,8 +197,7 @@ description: ""
 		<h1 class="text-center main_heading">Hi! I'm a Heartist<br>Ng Jun Yao</h1>
 		<img class="hero_img" src="https://i.ibb.co/7gQFvV5/Ng-Jun-Yao.jpg">
 		<p>
-Jun Yao has been fond of observing the expression and movement of animals since young. His fondness for animals translates into paintings of uniquely charming animal cartoon characters. His parents enrolled him in art classes when he was 8 years old to nurture his interest and talent. Over the years, his artworks were exhibited in various art exhibitions and printed on merchandise e.g. bags &amp; and pouches. In 2015, his artwork was selected by Uniqlo to be one of the prints on t-shirts. He was diagnosed with autism at the age of 4 and graduated from AWWA Special School in 2018.
-		</p>
+Jun Yao was diagnosed with Autism at the age of 4 and is a graduate of AWWA Special School. He has been fond of observing the expression and movement of animals since young. His fondness for animals translates into paintings of uniquely charming animal cartoon characters. Over the years, his artworks were exhibited in various art exhibitions and printed on merchandises. He enjoys using oil painting because of the vibrant colours and is able to make corrections easily if he makes any mistakes.</p>
 	</section>
 	</div>
 
