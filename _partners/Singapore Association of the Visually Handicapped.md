@@ -4,7 +4,7 @@ permalink: /singapore-association-of-the-visually-handicapped/
 variant: tiptap
 description: ""
 ---
-<h3>About Singapore Association for Mental Health (SAMH)</h3>
+<h3>About Singapore Association of the Visually Handicapped (SAVH)</h3>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Group_4171.png">
