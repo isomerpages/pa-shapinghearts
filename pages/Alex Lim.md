@@ -197,8 +197,8 @@ description: ""
 		<h1 class="text-center main_heading">Hi! I'm a Heartist<br>Alex Lim</h1>
 		<p><img class="hero_img" src="https://i.ibb.co/B4dqK81/Alex-Lim.jpg"></p>
 		<p>
-Alex (@theunskilledboy), a visual artist with autism, creates abstract and pop-art inspired by nature and everyday objects. He uses vibrant colours and shapes and excels in various mediums such as acrylics, ink, oil pastels, and watercolours.</p><p>
-This year, Shaping Hearts 2023 is introducing event-exclusive merchandise, featuring the works of Alex. If his paintings catches your eye, be sure to check out and support the merchandise!
+Alex (@theunskilledboy) is a 19-year-old visual artist with autism, known for creating vibrant abstract and pop-art pieces inspired by nature and everyday objects. His work showcases various mediums, including acrylics, ink, oil pastels, and watercolours.</p><p>
+Despite his young age, Alex has honed his skills by learning classical techniques from art teachers in Singapore and Germany through online platforms. He draws inspiration from everyday life, finding beauty in the details and often infusing his creations with a touch of humour.
 		</p>
 	</section>
 	</div>
