@@ -12,7 +12,7 @@ description: ""
 <p>Arts@Metta was initiated in 2007 by Metta Welfare Association to actively
 seek to increase employment opportunities for graduated Metta School Youths
 diagnosed with mild disability and/or autism through a comprehensive training
-and development in the visual arts. We strive to empower them with life
+and development in the visual arts. They strive to empower them with life
 skills that promote integration, independence and socialisation.</p>
 <p></p>
 <p></p>
