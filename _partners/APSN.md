@@ -18,7 +18,7 @@ Road, KS moved to the present location in 2007.&nbsp;</p>
 offers programmes to students at both the primary (7 – 12 years old) and
 secondary (13-16 years old) levels. As at March 2023, KS serves a total
 of 288 students with mild intellectual disability (MID – IQ 50-70) as well
-as students with comorbidity of mild to moderate Autism Spectrum Disorder
+as students with comorbidities of mild to moderate Autism Spectrum Disorder
 (ASD).</p>
 <p></p>
 <p></p>
