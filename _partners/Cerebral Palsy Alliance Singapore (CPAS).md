@@ -14,6 +14,6 @@ description: ""
 care and services for children and adults with cerebral palsy or multiple
 disabilities. CPAS was founded in 1957 and provides early intervention,
 special education, therapy rehabilitation and clinics, day activity centre
-programmes, vocational training, a</p>
-<p></p>
+programmes, vocational training, and sheltered employment for over 700
+children and adults.</p>
 <p></p>
