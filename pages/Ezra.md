@@ -196,11 +196,11 @@ description: ""
 	<section class="hero">
 		<h1 class="text-center main_heading">Hi! I'm a Heartist<br>Ezra</h1>
 		<p><img class="hero_img" src="https://i.ibb.co/hZrXVkH/Shaping-Hearts-Artist-EZRA-01.jpg"></p>
-		<p>Erza, a 24-year-old artist with Autism, has a remarkable talent for bringing joy and colour into the world with his work. During his time at Pathlight School, he won the 34th UOB Painting of the Year “Most Promising Artist of the Year” Award in the Emerging Artist Category at just age 15.</p>
+		<p>Ezra Chan Yi, an exceptional artist diagnosed with mild autism, has made significant strides in the art world. At just 15, he earned the prestigious 34th UOB POY "Most Promising Artist of the Year" Award.</p>
 
-<p>Possessing a flair for vibrant and expressive art, Ezra’s love for colours shines through in every piece he creates. From everyday simplicities to abstract designs, each piece is a reflection of his boundless imagination.</p>
+<p>He is also a recipient of The Lee Kuan Yew Exemplary Student Award and the NE CDC Shining Hearts Award. With distinctions in multiple Fine Art Certificates from NAFA, Ezra's versatile and innovative style has been celebrated at prominent events like the Purple Parade and National Day. </p>
 
-<p>Through his art, Ezra hopes to inspire everyone to lead colourful and joyful lives, just like his paintings. </p>
+<p>His talent has also attracted commissions from esteemed organizations such as Woh Hup, JTC, MOE, SMRT, UOB, and Frasers. This year, his artwork will be featured at Art Prize in Michigan, USA, further cementing his reputation as a rising star in the art community. </p>
 		</section>
 	</div>
 </section>
