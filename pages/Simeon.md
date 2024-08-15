@@ -196,11 +196,12 @@ description: ""
 	<section class="hero">
 		<h1 class="text-center main_heading">Hi! I'm a Heartist<br>Simeon</h1>
 		<p><img class="hero_img" src="https://i.ibb.co/B2SjLLT/Shaping-Hearts-Artist-Simeon-04.jpg"></p>
-<p>Diagnosed with Autism at age two, Simeon’s artistic journey began at Pathlight School, where his mother discovered his flair for art. His works are known for their intricate, realistic details, bold colours and sweeping lines. His paintings often feature his interests: robots, technology, mythology and manga. </p>
+<p>Meet Simeon, a passionate artist with Autism who constantly seeks opportunities to explore his strength in various arts mediums.</p>
 
-<p>His pieces are more than just visual appeal. Each piece invites you into his world, often vibrantly colourful and wildly imaginative, from hybrid animals to dynamic mecha action.</p>
+<p>With a paintbrush in one hand and clay in the other, Simeon brings fantastical worlds to life through his art, often incorporating robots, sci-fic characters, animals, fantasy, and mythology with vibrant colours and sweeping line work. Finding solace in clay is Simeon’s way to unwind and to find his balance.</p>
 
-<p>After graduating from Pathlight School, Simeon pursued further education in the arts, earning the NAFA CLE certificate in Visual Arts in 2021. He continues to chase his dream of becoming a professional artist, creating mesmerising compositions.</p>
+<p>His participation in exhibitions and visual art programmes at Pathlight and ARTDIS has provided invaluable experiences and exposures in his learning journey. Simeon further obtained a distinction at NAFA CLE Certificate in Visual Arts in 2021.
+</p>
 		</section>
 	</div>
 </section>
