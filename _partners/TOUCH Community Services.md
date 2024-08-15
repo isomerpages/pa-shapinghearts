@@ -16,7 +16,8 @@ Through this platform, the artworks of artists with special needs from
 TOUCH are recognised and shared with a wider public as well as corporates.</p>
 <p>JOURNEY currently supports some 70 artists who will earn an income from
 the sale of their art, and gain access to opportunities for collaborations
-that showcase their talent and tenacity. JOURNEY was conferred the Enabling
-Innovation Award by SG Enable at the 2023 Enabling Mark Awards Ceremony
-for its innovative efforts to provide sustainable employment for its artists
-and collaborations with stakeholders to increase its reach.</p>
+that showcase their talent and tenacity.</p>
+<p>JOURNEY was conferred the Enabling Innovation Award by SG Enable at the
+2023 Enabling Mark Awards Ceremony for its innovative efforts to provide
+sustainable employment for its artists and collaborations with stakeholders
+to increase its reach.</p>
