@@ -14,8 +14,8 @@ description: ""
 the Registry of Societies in 1996 and as a charity under the Charities
 Act and a member of the National Council of Social Services since 2002.
 BCARE provides an extensive range of programmes and services for the individual
-person as well as families in the community. In addition, we have also
-established a niche in the mental health sector through our programmes
+person as well as families in the community. In addition, they have also
+established a niche in the mental health sector through their programmes
 catered specially for people with mental health conditions.</p>
 <p></p>
 <p></p>
