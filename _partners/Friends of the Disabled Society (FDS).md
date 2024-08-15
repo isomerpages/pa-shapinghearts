@@ -11,11 +11,11 @@ description: ""
 </div>
 <p>Friends of the Disabled Society (FDS) is a Social Service Agency that
 aims to meet the physical, social and emotional needs of the disabled through
-our Social Interaction Program, Home Visitation Program and the Skills
-and Entrepreneurship Program. Our Social Interaction Program aims to meet
-their social needs by providing avenues for them to interact among themselves
-and with able-bodied persons. The Home Visitation Program serves those
-who are severely disabled and homebound. The Skills and Entrepreneurship
+their Social Interaction Program, Home Visitation Program and the Skills
+and Entrepreneurship Program. Their Social Interaction Program aims to
+meet their social needs by providing avenues for them to interact among
+themselves and with able-bodied persons. The Home Visitation Program serves
+those who are severely disabled and homebound. The Skills and Entrepreneurship
 Program encourages independence by providing them with job opportunities.</p>
 <p></p>
 <p></p>
