@@ -11,7 +11,7 @@ description: ""
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Down_Syndrome_Association_Singapore.png">
 </div>
 <p>Down Syndrome Association (Singapore) was founded in 1996 to support persons
-with Down Syndrome and their families. It is committed to provide holistic
+with Down Syndrome and their families. It is committed to providing holistic
 support for families and caregivers, facilitating persons with Down Syndrome
 to attain his or her full potential, and enabling them to contribute back
 to the society. The variety of enrichment programmes available in the areas
