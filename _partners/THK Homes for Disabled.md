@@ -12,7 +12,7 @@ description: ""
 <p>THK Disability Services aims to enhance the quality of life for individuals
 with disabilities through active community engagement and the development
 of essential skill sets.</p>
-<p>Through Art Exploration programme, our residents have been exposed to
+<p>Through Art Exploration programme, their residents have been exposed to
 express themselves through different modes of Art.</p>
 <p></p>
 <p></p>

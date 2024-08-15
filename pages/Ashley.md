@@ -196,9 +196,9 @@ description: ""
 	<section class="hero">
 		<h1 class="text-center main_heading">Hi! I'm a Heartist<br>Ashley</h1>
 		<p><img class="hero_img" src="https://i.ibb.co/jTgGjSr/Shaping-Hearts-Artist-Ashley-01.jpg"></p>
-		<p>Diagnosed with Autism Spectrum Disorder at a young age of 16, Ashley got an early start to hone her skills as an artist at Pathlight School.</p>
-<p>Finding calmness by focusing on the process of art making, Ashley learns to cope with different sensory inputs from the environment like loud noises and bright lights that may be overwhelming and anxiety inducing for one living with Autism.</p>
-<p>Using a unique combination of acrylic and sand, she pours the love encapsulated in her into her pieces. When asked about her art style, Ashley quipped that her love for animals inspires her.</p>
+		<p>Ashley, diagnosed with Autism Spectrum Disorder, currently attends Pathlight School.</p>
+<p>She is passionate about animals and most of her artworks depict the animals she loves and paints them in her own unique way. Her subject characters are usually friendly, candid and sweet. She works with pencils, pen and acrylic on canvas.</p>
+<p></p>
 	</section>
 	</div>
 </section>

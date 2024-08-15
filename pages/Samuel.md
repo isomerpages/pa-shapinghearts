@@ -196,8 +196,9 @@ description: ""
 	<section class="hero">
 		<h1 class="text-center main_heading">Hi! I'm a Heartist<br>Samuel</h1>
 		<p><img class="hero_img" src="https://i.ibb.co/z2xhm8f/Shaping-Hearts-Artist-Samuel.jpg"></p>
-<p>At the age of 5, Samuel was diagnosed with Autism Spectrum Disorder (ASD) Level 3. Although he faces challenges in handling daily tasks and requires significant support, Samuel found beauty and excitement through painting.</p>
-<p>Several years ago, Samuel picked up his oil pastels and has never looked back since. His favourite creations are rainbows, as mixing different vibrant colours and discovering new and exciting shades brings him immense joy.</p>
+<p>At the age of 5, Samuel was diagnosed with Autism Spectrum Disorder (ASD) Level 3, indicating a need for substantial support in his daily activities and learning.</p>
+<p>Several years ago, he discovered his passion for painting, particularly enjoying creating rainbows with water colours and oil pastels. Painting rainbows repeatedly brings him joy, and he also delights in experimenting with color mixing to discover new hues.
+</p>
 		</section>
 	</div>
 </section>

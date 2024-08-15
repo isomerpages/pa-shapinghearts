@@ -11,8 +11,8 @@ description: ""
 </div>
 <p>Founded in March 2000, the Muscular Dystrophy Association (Singapore)
 is a non-profit social service agency, committed towards uplifting the
-lives of persons with Muscular Dystrophy and their families. Through our
-programmes and services, the Association empowers our beneficiaries to
+lives of persons with Muscular Dystrophy and their families. Through their
+programmes and services, the Association empowers their beneficiaries to
 lead a life beyond their limitations. These include life skills training,
 enrichment, sports, health education, counselling, physiotherapy, respite
 care, wheelchair accessible transport and financial related assistance.</p>
