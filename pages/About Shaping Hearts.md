@@ -261,6 +261,7 @@ VideoPlayer{
     .sponsors h2{
 		margin-top: 3.75rem !important;
 	margin-bottom: 0.75rem;
+	font-size: 18px;
     }
     
     .sponsors_grid img {
@@ -702,9 +703,9 @@ VideoPlayer{
                 <br>
             <div class="text-center mt-5">
                     <div class="sponsors_grid">
-                        <h3><span style="color:#000; font-size:18px">Dr Doreen Tan, PBM</span></h3>
-                        <h3><span style="color:#000; font-size:18px">Jason Tang</span></h3>
-                        <h3><span style="color:#000; font-size:18px">Stephen Lee Ching Yen</span></h3>
+                        <h2><span style="color:#000; font-size:18px">Dr Doreen Tan, PBM</span></h2>
+                        <h2><span style="color:#000; font-size:18px">Jason Tang</span></h2>
+                        <h2><span style="color:#000; font-size:18px">Stephen Lee Ching Yen</span></h2>
                     </div>
             </div>
                 <br><br>
