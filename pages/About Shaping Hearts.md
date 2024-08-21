@@ -404,7 +404,11 @@ VideoPlayer{
         margin-top: 20px;
     }
 
-
+.sg2 .content h3:first-child{
+	margin-top: 3.75rem;
+	margin-bottom: 0.75rem;
+	}
+	
     .bg_gray {
         background-color: rgba(244, 244, 244, 1);
     }
