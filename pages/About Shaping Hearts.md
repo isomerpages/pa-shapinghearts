@@ -616,8 +616,7 @@ VideoPlayer{
   <section class="section story bg_gray">
   <div class="canvass">
   <div class="text-center">
-  <h1 class="main_heading2 bold">Our Heartists
-  </h1>
+  <h1 class="main_heading2 bold">Our Heartists</h1>
   <br><br>
   <div class="team_grid">
           <div class="team_card">
@@ -677,34 +676,36 @@ VideoPlayer{
     <section class="sponsors relative">
 
         <div style="z-index: 4000; position: relative;" class="canvas section">
+            <h1 class="main_heading2 bold text-center">Our Sponsors</h1>
+            <br><br>
             <div class="text-center mt-5">
-                <h3>PLATINUM SPONSOR</h3>
+                <h3>PLATINUM</h3>
                 <div class="sponsors_grid mt-5">
                     <img src="https://i.ibb.co/z6V9cRD/Logo-Sg-Pools-4-C-Hi-Res-Horizontal.jpg">
                 </div>
             </div>
                 <br><br>
             <div class="text-center mt-5">
-                    <h3>GOLD SPONSOR</h3>
+                    <h3>GOLD</h3>
                     <div class="sponsors_grid mt-5">
                         <img src="https://i.ibb.co/sQMB8Ny/SJ-Lockup-RGB-Blue.png">
                     </div>
             </div>
                 <br><br>
             <div class="text-center mt-5">
-                    <h3>BRONZE SPONSORS</h3><br>
+                    <h3>BRONZE</h3><br>
                     <div class="sponsors_grid">
-                        <img src="https://i.ibb.co/XJNP4QL/BRONZE-GIIS-logo.jpg">
                         <img src="https://i.ibb.co/QMDJ9D4/Builders-Mart-Logo-DEC-2011.png">
+                        <img src="https://i.ibb.co/XJNP4QL/BRONZE-GIIS-logo.jpg">
                         <img src="https://i.ibb.co/ZGF4vQx/KKPL.png">
                         <img src="https://i.ibb.co/CV8KMmJ/serial.png">
             </div>
                 <br>
             <div class="text-center mt-5">
                     <div class="sponsors_grid">
+                        <h3><span style="color:#000; font-size:18px">Dr Doreen Tan, PBM</span></h3>
                         <h3><span style="color:#000; font-size:18px">Jason Tang</span></h3>
-                        <h3><span style="color:#000; font-size:18px">Dr Doreen Tan</span></h3>
-                        <h3><span style="color:#000; font-size:18px">Stephen Lee</span></h3>
+                        <h3><span style="color:#000; font-size:18px">Stephen Lee Ching Yen</span></h3>
                     </div>
             </div>
                 <br><br>
@@ -712,6 +713,7 @@ VideoPlayer{
                     <h3>TECH SPONSOR</h3>
                     <div class="sponsors_grid mt-5">
                         <img src="https://i.ibb.co/0rHJmvX/Avertek-Enterprises-Pte-Ltd.png">
+                        <img src="https://i.ibb.co/BVf1PH6/HW-POS-CMYK-Horizontal-300ppi.jpg">
                     </div>
             </div>
                 <br>
