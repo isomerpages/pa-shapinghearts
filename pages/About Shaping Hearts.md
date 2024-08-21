@@ -262,6 +262,7 @@ VideoPlayer{
 		margin-top: 3.75rem !important;
 	margin-bottom: 0.75rem;
 	font-size: 18px;
+	font-weight: bold;
     }
     
     .sponsors_grid img {
