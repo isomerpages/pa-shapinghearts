@@ -706,7 +706,7 @@ VideoPlayer{
             </div>
                 <br>
             <div class="text-center mt-5">
-                    <div class="sponsors_grid">
+                    <div class="sponsors_grid sg2">
                         <h3><span style="color:#000; font-size:18px">Dr Doreen Tan, PBM</span></h3>
                         <h3><span style="color:#000; font-size:18px">Jason Tang</span></h3>
                         <h3><span style="color:#000; font-size:18px">Stephen Lee Ching Yen</span></h3>
