@@ -381,8 +381,8 @@ description: ""
   <section class="hero">
     <div class="canvas canvass relative">
         <div class="hero_left">
-            <h1>Meet the Heartists behind the masterpieces.</h1>
-            <p>Every art piece has a story behind it. You will find stories of triumph, strength, failure, hardship, and beauty.</p>
+            <h1>Meet our Heartists and Partners.</h1>
+            <p>Discover the talented Heartists behind the masterpieces and the dedicated partners who have collaborated and supported their journey. Each piece of art they create tells a profound story—a tale of hardship, resilience, triumph, and hope.</p>
         </div>
         <div class="hero_right">
             <img src="https://i.ibb.co/gzGc84Z/Partners-1.png">
