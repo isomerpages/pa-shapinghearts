@@ -255,14 +255,12 @@ VideoPlayer{
 
     .sponsors h3{
     color: #c5242f !important;
-    font-weight: bold;
-		margin-top: 3.75rem;
-	margin-bottom: 0.75rem;
+    font-weight: bold
     }
 
     .sponsors h2{
-    color: black !important;
-    font-weight: bold;
+		margin-top: 3.75rem !important;
+	margin-bottom: 0.75rem;
     }
     
     .sponsors_grid img {
