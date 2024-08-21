@@ -249,8 +249,8 @@ VideoPlayer{
         justify-content: center;
         align-items: center;
         flex-wrap: wrap;
-        grid-column-gap: 60px;
-	grid-row-gap: 30px;
+        grid-column-gap: 80px;
+	    grid-row-gap: 40px;
     }
 
     .sponsors h3{
@@ -687,12 +687,12 @@ VideoPlayer{
             <div class="text-center mt-5">
                     <h3>GOLD SPONSOR</h3>
                     <div class="sponsors_grid mt-5">
-                        <h3><span style="color:#000">Mr Chaley Mah (Surbana Jurong)</span></h3>
+                        <img src="https://i.ibb.co/sQMB8Ny/SJ-Lockup-RGB-Blue.png">
                     </div>
             </div>
                 <br><br>
             <div class="text-center mt-5">
-                    <h3>BRONZE SPONSORS</h3>
+                    <h3>BRONZE SPONSORS</h3><br>
                     <div class="sponsors_grid">
                         <img src="https://i.ibb.co/XJNP4QL/BRONZE-GIIS-logo.jpg">
                         <img src="https://i.ibb.co/QMDJ9D4/Builders-Mart-Logo-DEC-2011.png">
@@ -702,9 +702,9 @@ VideoPlayer{
                 <br>
             <div class="text-center mt-5">
                     <div class="sponsors_grid">
-                        <h3><span style="color:#000">Jason Tang</span></h3>
-                        <h3><span style="color:#000">Dr Doreen Tan</span></h3>
-                        <h3><span style="color:#000">Stephen Lee</span></h3>
+                        <h3><span style="color:#000; font-size:18px">Jason Tang</span></h3>
+                        <h3><span style="color:#000; font-size:18px">Dr Doreen Tan</span></h3>
+                        <h3><span style="color:#000; font-size:18px">Stephen Lee</span></h3>
                     </div>
             </div>
                 <br><br>
@@ -715,13 +715,6 @@ VideoPlayer{
                     </div>
             </div>
                 <br>
-            <div class="text-center mt-5">
-                    <h3>ART PATRON</h3>
-                    <div class="sponsors_grid mt-5">
-                        <img src="https://i.ibb.co/FnZzsFC/Appliedlogo-blue-102021-002.png">
-                        <img src="https://i.ibb.co/mXdQQPR/SSIA-Logo-CMYK-002.jpg">
-                    </div>
-            </div>
         </div>
     </div></section>
 </section></section>
