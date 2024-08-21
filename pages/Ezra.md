@@ -196,11 +196,7 @@ description: ""
 	<section class="hero">
 		<h1 class="text-center main_heading">Hi! I'm a Heartist<br>Ezra</h1>
 		<p><img class="hero_img" src="https://i.ibb.co/hZrXVkH/Shaping-Hearts-Artist-EZRA-01.jpg"></p>
-		<p>Ezra Chan Yi, an exceptional artist diagnosed with mild autism, has made significant strides in the art world. At just 15, he earned the prestigious 34th UOB POY "Most Promising Artist of the Year" Award.</p>
-
-<p>He is also a recipient of The Lee Kuan Yew Exemplary Student Award and the NE CDC Shining Hearts Award. With distinctions in multiple Fine Art Certificates from NAFA, Ezra's versatile and innovative style has been celebrated at prominent events like the Purple Parade and National Day. </p>
-
-<p>His talent has also attracted commissions from esteemed organizations such as Woh Hup, JTC, MOE, SMRT, UOB, and Frasers. This year, his artwork will be featured at Art Prize in Michigan, USA, further cementing his reputation as a rising star in the art community. </p>
+		<p>Ezra Chan Yi, an exceptional artist diagnosed with mild autism, has made significant strides in the art world. At just 15, he earned the prestigious 34th UOB POY "Most Promising Artist of the Year" Award. He is also a recipient of The Lee Kuan Yew Exemplary Student Award and the NE CDC Shining Hearts Award. With distinctions in multiple Fine Art Certificates from NAFA, Ezra's versatile and innovative style has been celebrated at prominent events like the Purple Parade and National Day. His talent has also attracted commissions from esteemed organizations such as Woh Hup, JTC, MOE, SMRT, UOB, and Frasers. This year, his artwork will be featured at Art Prize in Michigan, USA, further cementing his reputation as a rising star in the art community.</p>
 		</section>
 	</div>
 </section>

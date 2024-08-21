@@ -196,9 +196,7 @@ description: ""
 	<section class="hero">
 		<h1 class="text-center main_heading">Hi! I'm a Heartist<br>Henry</h1>
 		<p><img class="hero_img" src="https://i.ibb.co/7NwkbGS/Shaping-Hearts-Artist-Henry-07.jpg"></p>
-<p>Henry, diagnosed with Cerebral Palsy, finds joy in expressing his emotions through art. </p>
-
-<p>As a GROW artist, he has mastered color mixing and contrast techniques. Beyond drawing, Henry excels in handicraft projects and finds fulfillment when his artwork is purchased for charity purposes.</p>
+<p>Henry, diagnosed with Cerebral Palsy, finds joy in expressing his emotions through art. As a GROW artist, he has mastered color mixing and contrast techniques. Beyond drawing, Henry excels in handicraft projects and finds fulfillment when his artwork is purchased for charity purposes.</p>
 		</section>
 	</div>
 </section>

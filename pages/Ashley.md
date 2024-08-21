@@ -196,8 +196,7 @@ description: ""
 	<section class="hero">
 		<h1 class="text-center main_heading">Hi! I'm a Heartist<br>Ashley</h1>
 		<p><img class="hero_img" src="https://i.ibb.co/jTgGjSr/Shaping-Hearts-Artist-Ashley-01.jpg"></p>
-		<p>Ashley, diagnosed with Autism Spectrum Disorder, currently attends Pathlight School.</p>
-<p>She is passionate about animals and most of her artworks depict the animals she loves and paints them in her own unique way. Her subject characters are usually friendly, candid and sweet. She works with pencils, pen and acrylic on canvas.</p>
+		<p>Ashley, diagnosed with Autism Spectrum Disorder, currently attends Pathlight School. She is passionate about animals and most of her artworks depict the animals she loves and paints them in her own unique way. Her subject characters are usually friendly, candid and sweet. She works with pencils, pen and acrylic on canvas.</p>
 <p></p>
 	</section>
 	</div>

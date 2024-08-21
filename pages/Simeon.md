@@ -196,11 +196,7 @@ description: ""
 	<section class="hero">
 		<h1 class="text-center main_heading">Hi! I'm a Heartist<br>Simeon</h1>
 		<p><img class="hero_img" src="https://i.ibb.co/B2SjLLT/Shaping-Hearts-Artist-Simeon-04.jpg"></p>
-<p>Meet Simeon, a passionate artist with Autism who constantly seeks opportunities to explore his strength in various arts mediums.</p>
-
-<p>With a paintbrush in one hand and clay in the other, Simeon brings fantastical worlds to life through his art, often incorporating robots, sci-fic characters, animals, fantasy, and mythology with vibrant colours and sweeping line work. Finding solace in clay is Simeon’s way to unwind and to find his balance.</p>
-
-<p>His participation in exhibitions and visual art programmes at Pathlight and ARTDIS has provided invaluable experiences and exposures in his learning journey. Simeon further obtained a distinction at NAFA CLE Certificate in Visual Arts in 2021.
+<p>Meet Simeon, a passionate artist with Autism who constantly seeks opportunities to explore his strength in various arts mediums. With a paintbrush in one hand and clay in the other, Simeon brings fantastical worlds to life through his art, often incorporating robots, sci-fic characters, animals, fantasy, and mythology with vibrant colours and sweeping line work. Finding solace in clay is Simeon’s way to unwind and to find his balance. His participation in exhibitions and visual art programmes at Pathlight and ARTDIS has provided invaluable experiences and exposures in his learning journey. Simeon further obtained a distinction at NAFA CLE Certificate in Visual Arts in 2021.
 </p>
 		</section>
 	</div>

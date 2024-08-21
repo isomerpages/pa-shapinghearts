@@ -196,16 +196,12 @@ description: ""
 	<section class="hero">
 		<h1 class="text-center main_heading">Gary Chong</h1>
 		<img class="hero_img" src="https://i.ibb.co/w7GMVNX/Gary-Chong.jpg">
-		<p>
-Gary, diagnosed with Intellectual Disability, is a 27-year-old with a unique set of abilities. He has a passion for painting and finds solace in swimming and dance. His cheerful demeanor is infectious, bringing joy to those around him.</p><p>
-Gary has a remarkable talent for expressing himself through art and uses his creativity to showcase his perspective of the world. His determination to pursue his passions and interests is truly inspiring. Despite facing challenges, he approaches life with a positive attitude and unwavering spirit. Gary's artistic abilities and love for swimming are just a few of the qualities that make him a remarkable individual.
-		</p>
+		<p>Gary, diagnosed with Intellectual Disability, is a 27-year-old with a unique set of abilities. He has a passion for painting and finds solace in swimming and dance. His cheerful demeanor is infectious, bringing joy to those around him. Gary has a remarkable talent for expressing himself through art and uses his creativity to showcase his perspective of the world. His determination to pursue his passions and interests is truly inspiring. Despite facing challenges, he approaches life with a positive attitude and unwavering spirit. Gary's artistic abilities and love for swimming are just a few of the qualities that make him a remarkable individual.</p>
 	</section>
 	</div>
-	
-	<div class="canvass">
+
 <div class="images_grid">
 	</div>
-	</div>
+	
 	
 </section>
