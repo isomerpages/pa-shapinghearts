@@ -693,6 +693,11 @@ VideoPlayer{
                     </div>
             </div>
                 <br><br>
+					<div class="text-center mt-5">
+										<h3>SILVER</h3><br>
+										<div class="sponsors_grid">
+												<img src="https://i.ibb.co/JH1k3qJ/IMG-3520.png">
+						</div>
             <div class="text-center mt-5">
                     <h3>BRONZE</h3><br>
                     <div class="sponsors_grid">
@@ -719,5 +724,5 @@ VideoPlayer{
             </div>
                 <br>
         </div>
-    </div></section>
+    </div></div></section>
 </section></section>
