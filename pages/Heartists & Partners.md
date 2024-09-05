@@ -441,10 +441,6 @@ description: ""
                            <img src="https://i.ibb.co/ZLg3w39/Vincent-Seet.jpg">
                       <a href="https://staging.d2d4qnv3td402n.amplifyapp.com/vincent-seet/">Vincent Seet <img src="https://i.ibb.co/K99VVxJ/Arrow.png" style="width: 30px !important"></a>
             </div>
-            <div class="team_card">
-                               <img src="https://i.ibb.co/GVNQWyY/Yap-Jia-Hui.jpg">
-                  <a href="https://staging.d2d4qnv3td402n.amplifyapp.com/yap-jia-hui/">Yap Jia Hui <img src="https://i.ibb.co/K99VVxJ/Arrow.png" style="width: 30px !important"></a>
-            </div> 
         <div>
       </div>
       </div>
