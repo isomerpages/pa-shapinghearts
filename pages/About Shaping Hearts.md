@@ -683,6 +683,13 @@ VideoPlayer{
             </div>
                 <br><br>
             <div class="text-center mt-5">
+                <h3>PLATINUM E-LITE</h3>
+                <div class="sponsors_grid mt-5">
+                    <img src="https://i.ibb.co/M2RJnK2/Neo-Group-Logo.png">
+                </div>
+            </div>
+                <br><br>
+            <div class="text-center mt-5">
                     <h3>GOLD</h3>
                     <div class="sponsors_grid mt-5">
                         <img src="https://i.ibb.co/sQMB8Ny/SJ-Lockup-RGB-Blue.png">
@@ -701,6 +708,13 @@ VideoPlayer{
                         <img src="https://i.ibb.co/XJNP4QL/BRONZE-GIIS-logo.jpg">
                         <img src="https://i.ibb.co/ZGF4vQx/KKPL.png">
                         <img src="https://i.ibb.co/CV8KMmJ/serial.png">
+            </div>
+                <br>
+            <div class="text-center mt-5">
+                    <div class="sponsors_grid">
+                        <img src="https://i.ibb.co/jLnvwrD/P-G-Logo.png">
+                        <img src="https://i.ibb.co/VC4ddDz/UTAC-Logo.png">
+                    </div>
             </div>
                 <br>
             <div class="text-center mt-5">
