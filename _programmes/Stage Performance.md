@@ -8,9 +8,8 @@ description: ""
 <p>Immerse yourselves in an array of musical performances brought together
 by artists with disabilities at Our Tampines Hub, 19 October 2024: 12pm
 to 1pm.</p>
-<table style="minWidth: 50px">
+<table style="minWidth: 25px">
 <colgroup>
-<col>
 <col>
 </colgroup>
 <tbody>
@@ -25,9 +24,6 @@ of music through drumming, the aim of the Chinese Drum Ensemble is for
 their residents to improve their task concentration, eye-hand coordination, to
 learn discipline and teamwork through the mastery of the instrument.</p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -37,9 +33,6 @@ learn discipline and teamwork through the mastery of the instrument.</p>
 circus-related acts, such as the Chinese diablo, LED staff &amp; poi, plate-spinning,
 and balancing acts. The students, aged 7 to 17, have mild intellectual
 disabilities and autism spectrum disorder.&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 </tbody>
