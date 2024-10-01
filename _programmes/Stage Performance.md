@@ -6,9 +6,38 @@ description: ""
 ---
 <h2><strong>Be dazzled by the talent</strong></h2>
 <p>Immerse yourselves in an array of musical performances brought together
-by artists with disabilities at Our Tampines Hub.</p>
-<p><strong>More details will be updated soon.</strong>
+by artists with disabilities at Our Tampines Hub, 19 October 2024: 12pm
+to 1pm.</p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong><u>Chinese Drum Ensemble by THK Homes for Disabled&nbsp;</u></strong>
 </p>
+<p>Chinese Drum Ensemble first started in 2018, consisting of residents from
+THK Home / Hostel for Disabled @ Eunos. The programme has also been extended
+to residents in THK Children Disability Home. On top of developing an appreciation
+of music through drumming, the aim of the Chinese Drum Ensemble is for
+their residents to improve their task concentration, eye-hand coordination, to
+learn discipline and teamwork through the mastery of the instrument.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong><u>Circus Arts Performance by APSN Katong&nbsp;</u></strong>
+</p>
+<p>Circus Arts CCA by APSN Katong is an arts performance that showcases various
+circus-related acts, such as the Chinese diablo, LED staff &amp; poi, plate-spinning,
+and balancing acts. The students, aged 7 to 17, have mild intellectual
+disabilities and autism spectrum disorder.&nbsp;</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
 <hr>
 <p></p>
 <table style="minWidth: 75px">
