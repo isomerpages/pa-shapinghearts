@@ -37,8 +37,7 @@ disabilities and autism spectrum disorder.&nbsp;</p>
 </tr>
 </tbody>
 </table>
-<p><strong>More details will be updated soon.</strong>
-</p>
+<p></p>
 <hr>
 <p></p>
 <table style="minWidth: 75px">
