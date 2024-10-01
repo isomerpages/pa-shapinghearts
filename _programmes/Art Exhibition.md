@@ -4,7 +4,7 @@ permalink: /art-exhibition/
 variant: tiptap
 description: ""
 ---
-<h4><strong>Shaping Hearts is back bigger and greater than ever! Join us to appreciate and support the works of artists with disabilities. Engage in experiential activities that simulate disabilities, fostering a deeper understanding of their world. Proceeds from the sale of paintings goes to a good cause of supporting artists with disabilities. Over 500 paintings will be displayed at the following venue</strong></h4>
+<h4><strong>Shaping Hearts is back bigger and greater than ever!</strong> Join us to appreciate and support the works of artists with disabilities. Engage in experiential activities that simulate disabilities, fostering a deeper understanding of their world. Proceeds from the sale of paintings goes to a good cause of supporting artists with disabilities.<strong> </strong>Explore over 500 paintings, also available for purchase here.</h4>
 <h4><strong>MAIN EXHIBITION:</strong></h4>
 <p><strong>Our Tampines Hub, 19 October to 3 November, 10am to 9pm</strong>
 </p>
