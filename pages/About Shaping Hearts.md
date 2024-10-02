@@ -539,6 +539,15 @@ body .content .isomer-timeline-section .timeline-title {
   font-size: 36px;
 	color: white !important;
 }
+	
+	
+	body .content .isomer-timeline-section .isomer-timeline .timeline-title {
+  text-align: center;
+  margin-bottom: 50px;
+  font-size: 26px;
+	color: white !important;
+}
+
 
 .isomer-timeline {
   position: relative;
@@ -586,7 +595,7 @@ body .content .isomer-timeline-section .timeline-title {
 }
 
 .timeline-container.right-container::after {
-  left: -16px;
+  left: -13px;
 }
 
 .timeline-content {
@@ -829,7 +838,7 @@ body .content .isomer-timeline-section .timeline-title {
 </section>
 
 <section class="isomer-timeline-section">
-  <h1 class="timeline-title">Shapinghearts Timeline</h1>
+  <h1 class="timeline-title">Shaping hearts Timeline</h1>
 
   <div class="isomer-timeline">
     <div class="timeline-container left-container">
