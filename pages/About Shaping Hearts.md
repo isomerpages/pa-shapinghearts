@@ -525,10 +525,10 @@ VideoPlayer{
     }
 	
 	
-	/* Ensuring timeline-specific styles won't interfere with other sections */
+	/* TIMELINE*/
 .isomer-timeline-section {
   font-family: Arial, sans-serif;
-  background-color: #0b3c56;
+  background-color: #c5242f;
   color: white;
   padding: 20px;
 }
@@ -537,6 +537,7 @@ VideoPlayer{
   text-align: center;
   margin-bottom: 50px;
   font-size: 36px;
+	color: white;
 }
 
 .isomer-timeline {
@@ -552,7 +553,7 @@ VideoPlayer{
   background-color: #ff6f61;
   top: 0;
   bottom: 0;
-  left: 50%;
+  left: calc(50% - 6px);
   margin-left: -3px;
 }
 
@@ -604,7 +605,7 @@ VideoPlayer{
 }
 
 .timeline-date {
-  font-size: 12px;
+  font-size: 14px;
   color: #ffffff80;
   margin-bottom: 5px;
 }
