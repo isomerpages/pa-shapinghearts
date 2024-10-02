@@ -533,7 +533,7 @@ VideoPlayer{
   padding: 20px;
 }
 
-.timeline-title {
+body .content .isomer-timeline-section .timeline-title {
   text-align: center;
   margin-bottom: 50px;
   font-size: 36px;
