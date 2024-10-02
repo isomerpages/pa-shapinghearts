@@ -575,19 +575,22 @@ body .content .isomer-timeline-section .isomer-timeline .timeline-title {
 /* Make all containers right-aligned on small screens */
 @media (max-width: 768px) {
   .timeline-container {
-    width: 100%; /* Full width on small screens */
-    left: 0; /* Align to the left */
-    padding-left: 20px; /* Optional padding for aesthetics */
+    width: 100% !important;
+    left: 0;
+    padding-left: 20px;
   }
 
   .isomer-timeline::after {
-    left: 0; /* Move the line to the left */
+    left: 0; 
   }
 
   .timeline-container.right-container::after {
-    left: 20px; /* Adjust dot position */
-    right: auto; /* Remove default right positioning */
+    left: 20px;
+    right: auto;
   }
+	.timeline-container.right-container .timeline-content{
+	margin-left: 0px;
+	}
 }
 
 .timeline-container.left-container {
