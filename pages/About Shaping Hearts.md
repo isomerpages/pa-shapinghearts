@@ -598,11 +598,10 @@ body .content .isomer-timeline-section .isomer-timeline .timeline-title {
 	right: 0%;
 	left: -13px;
 }
-
+}
 .timeline-container.left-container {
   left: 0;
 }
-
 .timeline-container.right-container {
   left: 50%;
 }
