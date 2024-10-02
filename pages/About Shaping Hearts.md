@@ -523,6 +523,97 @@ VideoPlayer{
         }
 
     }
+	
+	
+	/* Ensuring timeline-specific styles won't interfere with other sections */
+.isomer-timeline-section {
+  font-family: Arial, sans-serif;
+  background-color: #0b3c56;
+  color: white;
+  padding: 20px;
+}
+
+.timeline-title {
+  text-align: center;
+  margin-bottom: 50px;
+  font-size: 36px;
+}
+
+.isomer-timeline {
+  position: relative;
+  max-width: 800px;
+  margin: auto;
+}
+
+.isomer-timeline::after {
+  content: '';
+  position: absolute;
+  width: 6px;
+  background-color: #ff6f61;
+  top: 0;
+  bottom: 0;
+  left: 50%;
+  margin-left: -3px;
+}
+
+.timeline-container {
+  padding: 10px 40px;
+  position: relative;
+  background-color: inherit;
+  width: 50%;
+}
+
+.timeline-container.left-container {
+  left: 0;
+}
+
+.timeline-container.right-container {
+  left: 50%;
+}
+
+.timeline-container::after {
+  content: '';
+  position: absolute;
+  width: 25px;
+  height: 25px;
+  right: -17px;
+  background-color: #ff6f61;
+  border: 4px solid #ff6f61;
+  top: 15px;
+  border-radius: 50%;
+  z-index: 1;
+}
+
+.timeline-container.right-container::after {
+  left: -16px;
+}
+
+.timeline-content {
+  padding: 20px;
+  background-color: #034a6a;
+  position: relative;
+  border-radius: 6px;
+}
+
+.timeline-container.left-container .timeline-content {
+  margin-left: 0;
+}
+
+.timeline-container.right-container .timeline-content {
+  margin-left: 40px;
+}
+
+.timeline-date {
+  font-size: 12px;
+  color: #ffffff80;
+  margin-bottom: 5px;
+}
+
+.timeline-title {
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
 </style>
 <section>
     <section class="hero">
@@ -735,4 +826,48 @@ VideoPlayer{
                 <br>
         </div>
     </div></div></section>
-</section></section>
+</section>
+
+<section class="isomer-timeline-section">
+  <h1 class="timeline-title">Lifestyle Timeline</h1>
+
+  <div class="isomer-timeline">
+    <div class="timeline-container left-container">
+      <div class="timeline-content">
+        <p class="timeline-date">2017-2018</p>
+        <p class="timeline-title">Gym</p>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad cumque exercitationem maiores alias.</p>
+      </div>
+    </div>
+    <div class="timeline-container right-container">
+      <div class="timeline-content">
+        <p class="timeline-date">2018 - present</p>
+        <p class="timeline-title">Fitness</p>
+        <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Praesentium quas voluptatum ea culpa repellendus.</p>
+      </div>
+    </div>
+    <div class="timeline-container left-container">
+      <div class="timeline-content">
+        <p class="timeline-date">2015-2017</p>
+        <p class="timeline-title">Zumba</p>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequatur, unde.</p>
+      </div>
+    </div>
+    <div class="timeline-container right-container">
+      <div class="timeline-content">
+        <p class="timeline-date">2013-2015</p>
+        <p class="timeline-title">Aerobic</p>
+        <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Voluptate nemo, accusantium libero eligendi.</p>
+      </div>
+    </div>
+    <div class="timeline-container left-container">
+      <div class="timeline-content">
+        <p class="timeline-date">2011-2013</p>
+        <p class="timeline-title">Healthy</p>
+        <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Voluptate nemo, accusantium libero eligendi.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+</section>
