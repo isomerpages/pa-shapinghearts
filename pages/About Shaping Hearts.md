@@ -537,7 +537,7 @@ VideoPlayer{
   text-align: center;
   margin-bottom: 50px;
   font-size: 36px;
-	color: white;
+	color: white !important;
 }
 
 .isomer-timeline {
