@@ -834,39 +834,42 @@ body .content .isomer-timeline-section .timeline-title {
   <div class="isomer-timeline">
     <div class="timeline-container left-container">
       <div class="timeline-content">
-        <p class="timeline-date">2017-2018</p>
-        <p class="timeline-title">Gym</p>
-        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad cumque exercitationem maiores alias.</p>
+        <p class="timeline-title">2019 “Art Market @ North East”</p>
+        <p>46 paintings by 25 artists from 11 SSAs. The event raised $31,260 in total.</p>
       </div>
     </div>
     <div class="timeline-container right-container">
       <div class="timeline-content">
-        <p class="timeline-date">2018 - present</p>
-        <p class="timeline-title">Fitness</p>
-        <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Praesentium quas voluptatum ea culpa repellendus.</p>
+        <p class="timeline-title">2020 “Articulate @ North East”</p>
+        <p>&nbsp;Over 100 artists from 12 SSAs, more than 120 pieces of artworks. Raised $36,640</p>
       </div>
     </div>
     <div class="timeline-container left-container">
       <div class="timeline-content">
-        <p class="timeline-date">2015-2017</p>
-        <p class="timeline-title">Zumba</p>
-        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequatur, unde.</p>
+        <p class="timeline-title">2021 “Shaping Hearts”</p>
+        <p>110 paintings on showcase, over 150 visual and performing artists. 21 SSAs. Raised $284,010</p>
       </div>
     </div>
     <div class="timeline-container right-container">
       <div class="timeline-content">
-        <p class="timeline-date">2013-2015</p>
-        <p class="timeline-title">Aerobic</p>
-        <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Voluptate nemo, accusantium libero eligendi.</p>
+        <p class="timeline-title">2022 “Shaping Hearts”</p>
+        <p>over 270 paintings, more than 150 artists. 22 SSAs. Raised $570,000</p>
       </div>
     </div>
     <div class="timeline-container left-container">
       <div class="timeline-content">
-        <p class="timeline-date">2011-2013</p>
-        <p class="timeline-title">Healthy</p>
-        <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Voluptate nemo, accusantium libero eligendi.</p>
+        <p class="timeline-title">2023 “Shaping Hearts”</p>
+        <p>over 350 paintings, more than 150 artists. 28 Community Partners. Raised $490,586</p>
       </div>
     </div>
+		
+		  <div class="timeline-container right-container">
+      <div class="timeline-content">
+        <p class="timeline-title">2024 “Shaping Hearts”</p>
+        <p>more than 500 paintings, over 200 artists. 30+ partners.</p>
+      </div>
+    </div>
+		
   </div>
 </section>
 
