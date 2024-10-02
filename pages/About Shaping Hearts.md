@@ -590,7 +590,9 @@ body .content .isomer-timeline-section .isomer-timeline .timeline-title {
   }
 	.timeline-container.right-container .timeline-content{
 	margin-left: 0px !important;
-	padding: 5px 20px !important;
+	}
+	.timeline-content{
+		padding: 5px 20px !important;
 	}
 	body .content .isomer-timeline-section .isomer-timeline .timeline-title{
 	text-align: start;
