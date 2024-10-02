@@ -535,7 +535,7 @@ VideoPlayer{
 }
 
 body .content .isomer-timeline-section .timeline-title {
-  text-align: center;
+  text-align: start;
   margin-bottom: 50px;
   font-size: 36px;
   color: white !important;
@@ -566,7 +566,7 @@ body .content .isomer-timeline-section .isomer-timeline .timeline-title {
 }
 
 .timeline-container {
-  padding: 10px 40px;
+  padding: 10px 30px;
   position: relative;
   background-color: inherit;
   width: 50%;
