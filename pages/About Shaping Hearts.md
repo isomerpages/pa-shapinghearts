@@ -553,7 +553,7 @@ VideoPlayer{
   background-color: #ff6f61;
   top: 0;
   bottom: 0;
-  left: calc(50% - 6px);
+  left: 50%;
   margin-left: -3px;
 }
 
