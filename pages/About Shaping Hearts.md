@@ -526,6 +526,7 @@ VideoPlayer{
 	
 	
 	/* TIMELINE*/
+/* TIMELINE */
 .isomer-timeline-section {
   font-family: Arial, sans-serif;
   background-color: #c5242f;
@@ -537,17 +538,15 @@ body .content .isomer-timeline-section .timeline-title {
   text-align: center;
   margin-bottom: 50px;
   font-size: 36px;
-	color: white !important;
+  color: white !important;
 }
-	
-	
-	body .content .isomer-timeline-section .isomer-timeline .timeline-title {
+
+body .content .isomer-timeline-section .isomer-timeline .timeline-title {
   text-align: center;
   margin-bottom: 50px;
   font-size: 26px;
-	color: white !important;
+  color: white !important;
 }
-
 
 .isomer-timeline {
   position: relative;
@@ -571,6 +570,24 @@ body .content .isomer-timeline-section .timeline-title {
   position: relative;
   background-color: inherit;
   width: 50%;
+}
+
+/* Make all containers right-aligned on small screens */
+@media (max-width: 768px) {
+  .timeline-container {
+    width: 100%; /* Full width on small screens */
+    left: 0; /* Align to the left */
+    padding-left: 20px; /* Optional padding for aesthetics */
+  }
+
+  .isomer-timeline::after {
+    left: 0; /* Move the line to the left */
+  }
+
+  .timeline-container.right-container::after {
+    left: 20px; /* Adjust dot position */
+    right: auto; /* Remove default right positioning */
+  }
 }
 
 .timeline-container.left-container {
@@ -622,6 +639,7 @@ body .content .isomer-timeline-section .timeline-title {
   font-weight: bold;
   margin-bottom: 10px;
 }
+
 
 </style>
 <section>
