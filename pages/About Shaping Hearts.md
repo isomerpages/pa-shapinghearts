@@ -535,14 +535,14 @@ VideoPlayer{
 }
 
 body .content .isomer-timeline-section .timeline-title {
-  text-align: start;
+  text-align: center;
   margin-bottom: 50px;
   font-size: 36px;
   color: white !important;
 }
 
 body .content .isomer-timeline-section .isomer-timeline .timeline-title {
-  text-align: center;
+  text-align: start;
   margin-bottom: 50px;
   font-size: 26px;
   color: white !important;
