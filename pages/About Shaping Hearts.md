@@ -527,7 +527,8 @@ VideoPlayer{
 	
 	/* TIMELINE*/
 .isomer-timeline-section {
-  font-family: Arial, sans-serif
+  font-family: Arial, sans-serif;
+  background-color: #c5242f;
   color: white;
   padding: 20px;
 }
@@ -590,7 +591,6 @@ VideoPlayer{
 
 .timeline-content {
   padding: 20px;
-  background-color: #034a6a;
   position: relative;
   border-radius: 6px;
 }
