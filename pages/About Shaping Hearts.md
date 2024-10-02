@@ -577,7 +577,7 @@ body .content .isomer-timeline-section .timeline-title {
   position: absolute;
   width: 25px;
   height: 25px;
-  right: -17px;
+  right: -13px;
   background-color: #ff6f61;
   border: 4px solid #ff6f61;
   top: 15px;
@@ -829,7 +829,7 @@ body .content .isomer-timeline-section .timeline-title {
 </section>
 
 <section class="isomer-timeline-section">
-  <h1 class="timeline-title">Lifestyle Timeline</h1>
+  <h1 class="timeline-title">Shapinghearts Timeline</h1>
 
   <div class="isomer-timeline">
     <div class="timeline-container left-container">
