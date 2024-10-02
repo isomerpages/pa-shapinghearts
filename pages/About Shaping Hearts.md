@@ -591,6 +591,12 @@ body .content .isomer-timeline-section .isomer-timeline .timeline-title {
 	.timeline-container.right-container .timeline-content{
 	margin-left: 0px;
 	}
+	body .content .isomer-timeline-section .isomer-timeline .timeline-title{
+	text-align: start;
+	}
+	.timeline-container::after{
+	right: 0%;
+	left: 13px;
 }
 
 .timeline-container.left-container {
