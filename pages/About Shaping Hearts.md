@@ -589,7 +589,7 @@ body .content .isomer-timeline-section .isomer-timeline .timeline-title {
     right: auto;
   }
 	.timeline-container.right-container .timeline-content{
-	margin-left: 0px;
+	margin-left: 0px !important;
 	}
 	body .content .isomer-timeline-section .isomer-timeline .timeline-title{
 	text-align: start;
