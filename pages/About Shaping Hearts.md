@@ -572,7 +572,7 @@ body .content .isomer-timeline-section .isomer-timeline .timeline-title {
   width: 50%;
 }
 
-/* Make all containers right-aligned on small screens */
+
 @media (max-width: 768px) {
   .timeline-container {
     width: 100% !important;
@@ -596,7 +596,7 @@ body .content .isomer-timeline-section .isomer-timeline .timeline-title {
 	}
 	.timeline-container::after{
 	right: 0%;
-	left: 13px;
+	left: -13px;
 }
 
 .timeline-container.left-container {
