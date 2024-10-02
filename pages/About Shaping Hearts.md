@@ -523,6 +523,9 @@ VideoPlayer{
         }
 
     }
+	
+	
+	h1 { text-align: center; margin-bottom: 50px; font-size: 36px; } .timeline { position: relative; max-width: 800px; margin: auto; } .timeline::after { content: ''; position: absolute; width: 6px; background-color: #ff6f61; top: 0; bottom: 0; left: 50%; margin-left: -3px; } .container { padding: 10px 40px; position: relative; background-color: inherit; width: 50%; } .container.left { left: 0; } .container.right { left: 50%; } .container::after { content: ''; position: absolute; width: 25px; height: 25px; right: -17px; background-color: #ff6f61; border: 4px solid #ff6f61; top: 15px; border-radius: 50%; z-index: 1; } .container.right::after { left: -16px; } .content { padding: 20px; background-color: #034a6a; position: relative; border-radius: 6px; } .container.left .content { margin-left: 0; } .container.right .content { margin-left: 40px; } .date { font-size: 12px; color: #ffffff80; margin-bottom: 5px; } .title { font-weight: bold; margin-bottom: 10px; }
 </style>
 <section>
     <section class="hero">
@@ -735,4 +738,46 @@ VideoPlayer{
                 <br>
         </div>
     </div></div></section>
-</section></section>
+</section>
+
+<h1>Lifestyle Timeline</h1>
+
+  <div class="timeline">
+    <div class="container left">
+      <div class="content">
+        <p class="date">2017-2018</p>
+        <p class="title">Gym</p>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad cumque exercitationem maiores alias.</p>
+      </div>
+    </div>
+    <div class="container right">
+      <div class="content">
+        <p class="date">2018 - present</p>
+        <p class="title">Fitness</p>
+        <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Praesentium quas voluptatum ea culpa repellendus.</p>
+      </div>
+    </div>
+    <div class="container left">
+      <div class="content">
+        <p class="date">2015-2017</p>
+        <p class="title">Zumba</p>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequatur, unde.</p>
+      </div>
+    </div>
+    <div class="container right">
+      <div class="content">
+        <p class="date">2013-2015</p>
+        <p class="title">Aerobic</p>
+        <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Voluptate nemo, accusantium libero eligendi.</p>
+      </div>
+    </div>
+    <div class="container left">
+      <div class="content">
+        <p class="date">2011-2013</p>
+        <p class="title">Healthy</p>
+        <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Voluptate nemo, accusantium libero eligendi.</p>
+      </div>
+    </div>
+  </div>
+	
+</section>
