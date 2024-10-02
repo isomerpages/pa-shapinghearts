@@ -527,8 +527,7 @@ VideoPlayer{
 	
 	/* TIMELINE*/
 .isomer-timeline-section {
-  font-family: Arial, sans-serif;
-  background-color: #c5242f;
+  font-family: Arial, sans-serif
   color: white;
   padding: 20px;
 }
