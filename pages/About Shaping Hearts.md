@@ -576,7 +576,7 @@ body .content .isomer-timeline-section .isomer-timeline .timeline-title {
 @media (max-width: 768px) {
   .timeline-container {
     width: 100% !important;
-    left: 0;
+    left: 0 !important;
     padding-left: 20px;
   }
 
