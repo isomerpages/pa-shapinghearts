@@ -806,16 +806,16 @@ body .content .isomer-timeline-section .isomer-timeline .timeline-title {
             <h1 class="main_heading2 bold text-center">Our Sponsors</h1>
             <br><br>
             <div class="text-center mt-5">
-                <h3>PLATINUM</h3>
+                <h3>PLATINUM ELITE</h3>
                 <div class="sponsors_grid mt-5">
-                    <img src="https://i.ibb.co/z6V9cRD/Logo-Sg-Pools-4-C-Hi-Res-Horizontal.jpg">
+                    <img src="https://i.ibb.co/M2RJnK2/Neo-Group-Logo.png">
                 </div>
             </div>
                 <br><br>
             <div class="text-center mt-5">
-                <h3>PLATINUM E-LITE</h3>
+                <h3>PLATINUM</h3>
                 <div class="sponsors_grid mt-5">
-                    <img src="https://i.ibb.co/M2RJnK2/Neo-Group-Logo.png">
+                    <img src="https://i.ibb.co/z6V9cRD/Logo-Sg-Pools-4-C-Hi-Res-Horizontal.jpg">
                 </div>
             </div>
                 <br><br>
