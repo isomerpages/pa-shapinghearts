@@ -523,6 +523,136 @@ VideoPlayer{
         }
 
     }
+	
+	
+	/* TIMELINE*/
+/* TIMELINE */
+.isomer-timeline-section {
+  font-family: Arial, sans-serif;
+  background-color: #c5242f;
+  color: white;
+  padding: 20px;
+}
+
+body .content .isomer-timeline-section .timeline-title {
+  text-align: center;
+  margin-bottom: 50px;
+  font-size: 36px;
+  color: white !important;
+}
+
+body .content .isomer-timeline-section .isomer-timeline .timeline-title {
+  text-align: start;
+  margin-bottom: 50px;
+  font-size: 26px;
+  color: white !important;
+}
+
+.isomer-timeline {
+  position: relative;
+  max-width: 800px;
+  margin: auto;
+}
+
+.isomer-timeline::after {
+  content: '';
+  position: absolute;
+  width: 6px;
+  background-color: #ff6f61;
+  top: 0;
+  bottom: 0;
+  left: 50%;
+  margin-left: -3px;
+}
+
+.timeline-container {
+  padding: 10px 30px;
+  position: relative;
+  background-color: inherit;
+  width: 50%;
+}
+
+
+@media (max-width: 768px) {
+  .timeline-container {
+    width: 100% !important;
+    left: 0 !important;
+    padding-left: 20px;
+  }
+
+  .isomer-timeline::after {
+    left: 0; 
+  }
+
+  .timeline-container.right-container::after {
+    left: 20px;
+    right: auto;
+  }
+	.timeline-container.right-container .timeline-content{
+	margin-left: 0px !important;
+	}
+	.timeline-content{
+		padding: 5px 20px !important;
+	}
+	body .content .isomer-timeline-section .isomer-timeline .timeline-title{
+	text-align: start;
+	margin-bottom: 40px;
+	}
+	.timeline-container::after{
+	right: 0%;
+	left: -13px;
+}
+}
+.timeline-container.left-container {
+  left: 0;
+}
+.timeline-container.right-container {
+  left: 50%;
+}
+
+.timeline-container::after {
+  content: '';
+  position: absolute;
+  width: 25px;
+  height: 25px;
+  right: -13px;
+  background-color: #ff6f61;
+  border: 4px solid #ff6f61;
+  top: 15px;
+  border-radius: 50%;
+  z-index: 1;
+}
+
+.timeline-container.right-container::after {
+  left: -13px;
+}
+
+.timeline-content {
+  padding: 20px;
+  position: relative;
+  border-radius: 6px;
+}
+
+.timeline-container.left-container .timeline-content {
+  margin-left: 0;
+}
+
+.timeline-container.right-container .timeline-content {
+  margin-left: 40px;
+}
+
+.timeline-date {
+  font-size: 14px;
+  color: #ffffff80;
+  margin-bottom: 5px;
+}
+
+.timeline-title {
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+
 </style>
 <section>
     <section class="hero">
@@ -676,16 +806,16 @@ VideoPlayer{
             <h1 class="main_heading2 bold text-center">Our Sponsors</h1>
             <br><br>
             <div class="text-center mt-5">
-                <h3>PLATINUM</h3>
+                <h3>PLATINUM ELITE</h3>
                 <div class="sponsors_grid mt-5">
-                    <img src="https://i.ibb.co/z6V9cRD/Logo-Sg-Pools-4-C-Hi-Res-Horizontal.jpg">
+                    <img src="https://i.ibb.co/M2RJnK2/Neo-Group-Logo.png">
                 </div>
             </div>
                 <br><br>
             <div class="text-center mt-5">
-                <h3>PLATINUM E-LITE</h3>
+                <h3>PLATINUM</h3>
                 <div class="sponsors_grid mt-5">
-                    <img src="https://i.ibb.co/M2RJnK2/Neo-Group-Logo.png">
+                    <img src="https://i.ibb.co/z6V9cRD/Logo-Sg-Pools-4-C-Hi-Res-Horizontal.jpg">
                 </div>
             </div>
                 <br><br>
@@ -735,4 +865,51 @@ VideoPlayer{
                 <br>
         </div>
     </div></div></section>
-</section></section>
+</section>
+
+<section class="isomer-timeline-section">
+  <h1 class="timeline-title">Shaping hearts Timeline</h1>
+
+  <div class="isomer-timeline">
+    <div class="timeline-container left-container">
+      <div class="timeline-content">
+        <p class="timeline-title">2019 “Art Market @ North East”</p>
+        <p>46 paintings by 25 artists from 11 SSAs. The event raised $31,260 in total.</p>
+      </div>
+    </div>
+    <div class="timeline-container right-container">
+      <div class="timeline-content">
+        <p class="timeline-title">2020 “Articulate @ North East”</p>
+        <p>&nbsp;Over 100 artists from 12 SSAs, more than 120 pieces of artworks. Raised $36,640</p>
+      </div>
+    </div>
+    <div class="timeline-container left-container">
+      <div class="timeline-content">
+        <p class="timeline-title">2021 “Shaping Hearts”</p>
+        <p>110 paintings on showcase, over 150 visual and performing artists. 21 SSAs. Raised $284,010</p>
+      </div>
+    </div>
+    <div class="timeline-container right-container">
+      <div class="timeline-content">
+        <p class="timeline-title">2022 “Shaping Hearts”</p>
+        <p>over 270 paintings, more than 150 artists. 22 SSAs. Raised $570,000</p>
+      </div>
+    </div>
+    <div class="timeline-container left-container">
+      <div class="timeline-content">
+        <p class="timeline-title">2023 “Shaping Hearts”</p>
+        <p>over 350 paintings, more than 150 artists. 28 Community Partners. Raised $490,586</p>
+      </div>
+    </div>
+		
+		  <div class="timeline-container right-container">
+      <div class="timeline-content">
+        <p class="timeline-title">2024 “Shaping Hearts”</p>
+        <p>more than 500 paintings, over 200 artists. 30+ partners.</p>
+      </div>
+    </div>
+		
+  </div>
+</section>
+
+</section>
