@@ -205,15 +205,15 @@ description: ""
 
 /*Video */
 VideoPlayer{
-	padding: 30px 0px;
-	align-items: center;
-	justify-content: center;
-	}
-	
-	.VideoPlayer  iframe{
-	width: 100% !important;
-	min-height: 70vh !important;
-	}
+    padding: 30px 0px;
+    align-items: center;
+    justify-content: center;
+    }
+    
+    .VideoPlayer  iframe{
+    width: 100% !important;
+    min-height: 70vh !important;
+    }
 
     .hero_center {
     width: 65%;
@@ -221,8 +221,8 @@ VideoPlayer{
     margin-right: auto;
     padding-top: 50px;
     padding-bottom: 50px;
-	position: relative;
-	z-index: 3000;
+    position: relative;
+    z-index: 3000;
     }
         
         .col.is-offset-2, .col.is-offset-2-tablet{
@@ -250,7 +250,7 @@ VideoPlayer{
         align-items: center;
         flex-wrap: wrap;
         grid-column-gap: 80px;
-	    grid-row-gap: 40px;
+        grid-row-gap: 40px;
     }
 
     .sponsors h3{
@@ -259,17 +259,17 @@ VideoPlayer{
     }
 
     .sponsors h2{
-		margin-top: 3.75rem !important;
-	margin-bottom: 0.75rem;
-	font-size: 18px;
-	font-weight: bold;
+        margin-top: 3.75rem !important;
+    margin-bottom: 0.75rem;
+    font-size: 18px;
+    font-weight: bold;
     }
     
     .sponsors_grid img {
         width: 150px;
         font-weight: bold;
         border-radius: 2px;
-	margin: 0 !important;
+    margin: 0 !important;
     }
 
     .navbar .bp-container{
@@ -278,13 +278,13 @@ VideoPlayer{
     }
 
      /* STORY */
-	.story{
-	display: flex;
-	align-items: center;
-	justify-content: center;
-	border-radius: 20px;
-	}
-	
+    .story{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 20px;
+    }
+    
     .story .canvass {
     width: 80%;
     }
@@ -303,36 +303,36 @@ VideoPlayer{
         height: 35px;
         width: 35px;
         border-radius: 50%;
-	position: absolute;
-	bottom: 20px;
-	right: 20px;
+    position: absolute;
+    bottom: 20px;
+    right: 20px;
     }
     
-	.team_card{
-	position: relative;
-	}
+    .team_card{
+    position: relative;
+    }
     
     .team_card img {
-	width: 100% !important;
-	border-radius: 15px;
-	margin: 0 !important;
+    width: 100% !important;
+    border-radius: 15px;
+    margin: 0 !important;
     }
-	
-	.team_card a{
-	position: absolute;
-	bottom:0%;
-	left: 0%;
-	margin-bottom: 0%;
-	width: 100%;
-	color: white !important;
-	text-decoration: none !important;
-	background: #97002b !important;
-	padding: 10px 20px;
-	text-transform: uppercase;
-	display: flex;
-	justify-content: space-between;
-	align-items: center;
-	}
+    
+    .team_card a{
+    position: absolute;
+    bottom:0%;
+    left: 0%;
+    margin-bottom: 0%;
+    width: 100%;
+    color: white !important;
+    text-decoration: none !important;
+    background: #97002b !important;
+    padding: 10px 20px;
+    text-transform: uppercase;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    }
 
     /* General */
     body .canvas {
@@ -385,10 +385,10 @@ VideoPlayer{
         background: #f04a38 !important;
         color: white !important;
     }
-	
-	.button:hover a{
-	color: white !important;
-	}
+    
+    .button:hover a{
+    color: white !important;
+    }
 
     .flex {
         display: flex;
@@ -430,13 +430,13 @@ VideoPlayer{
     }
     
     @media (max-width: 700px) {
-	.sponsors .sponsors_grid {
-	grid-row-gap: 30px;
-	}
-	.VideoPlayer iframe{
-	min-height: auto !important;
-	}
-	
+    .sponsors .sponsors_grid {
+    grid-row-gap: 30px;
+    }
+    .VideoPlayer iframe{
+    min-height: auto !important;
+    }
+    
     .hero{
     background: none;
     }
@@ -523,136 +523,7 @@ VideoPlayer{
         }
 
     }
-	
-	
-	/* TIMELINE*/
-/* TIMELINE */
-.isomer-timeline-section {
-  font-family: Arial, sans-serif;
-  background-color: #c5242f;
-  color: white;
-  padding: 20px;
-}
-
-body .content .isomer-timeline-section .timeline-title {
-  text-align: center;
-  margin-bottom: 50px;
-  font-size: 36px;
-  color: white !important;
-}
-
-body .content .isomer-timeline-section .isomer-timeline .timeline-title {
-  text-align: start;
-  margin-bottom: 50px;
-  font-size: 26px;
-  color: white !important;
-}
-
-.isomer-timeline {
-  position: relative;
-  max-width: 800px;
-  margin: auto;
-}
-
-.isomer-timeline::after {
-  content: '';
-  position: absolute;
-  width: 6px;
-  background-color: #ff6f61;
-  top: 0;
-  bottom: 0;
-  left: 50%;
-  margin-left: -3px;
-}
-
-.timeline-container {
-  padding: 10px 30px;
-  position: relative;
-  background-color: inherit;
-  width: 50%;
-}
-
-
-@media (max-width: 768px) {
-  .timeline-container {
-    width: 100% !important;
-    left: 0 !important;
-    padding-left: 20px;
-  }
-
-  .isomer-timeline::after {
-    left: 0; 
-  }
-
-  .timeline-container.right-container::after {
-    left: 20px;
-    right: auto;
-  }
-	.timeline-container.right-container .timeline-content{
-	margin-left: 0px !important;
-	}
-	.timeline-content{
-		padding: 5px 20px !important;
-	}
-	body .content .isomer-timeline-section .isomer-timeline .timeline-title{
-	text-align: start;
-	margin-bottom: 40px;
-	}
-	.timeline-container::after{
-	right: 0%;
-	left: -13px;
-}
-}
-.timeline-container.left-container {
-  left: 0;
-}
-.timeline-container.right-container {
-  left: 50%;
-}
-
-.timeline-container::after {
-  content: '';
-  position: absolute;
-  width: 25px;
-  height: 25px;
-  right: -13px;
-  background-color: #ff6f61;
-  border: 4px solid #ff6f61;
-  top: 15px;
-  border-radius: 50%;
-  z-index: 1;
-}
-
-.timeline-container.right-container::after {
-  left: -13px;
-}
-
-.timeline-content {
-  padding: 20px;
-  position: relative;
-  border-radius: 6px;
-}
-
-.timeline-container.left-container .timeline-content {
-  margin-left: 0;
-}
-
-.timeline-container.right-container .timeline-content {
-  margin-left: 40px;
-}
-
-.timeline-date {
-  font-size: 14px;
-  color: #ffffff80;
-  margin-bottom: 5px;
-}
-
-.timeline-title {
-  font-weight: bold;
-  margin-bottom: 10px;
-}
-
-
+    
 </style>
 <section>
     <section class="hero">
@@ -794,6 +665,10 @@ body .content .isomer-timeline-section .isomer-timeline .timeline-title {
                           <img src="https://i.ibb.co/ZLg3w39/Vincent-Seet.jpg">
                      <a href="https://staging.d2d4qnv3td402n.amplifyapp.com/vincent-seet/">Vincent Seet <img src="https://i.ibb.co/K99VVxJ/Arrow.png" style="width: 30px !important"></a>
            </div>  
+           <div class="team_card">
+                          <img src="https://i.ibb.co/YRhbDcZ/randy-wah.jpg">
+                     <a href="https://staging.d2d4qnv3td402n.amplifyapp.com/randy-wah/">Randy Wah <img src="https://i.ibb.co/K99VVxJ/Arrow.png" style="width: 30px !important"></a>
+           </div>  
     <div>
   </div>
   </div>
@@ -823,14 +698,15 @@ body .content .isomer-timeline-section .isomer-timeline .timeline-title {
                     <h3>GOLD</h3>
                     <div class="sponsors_grid mt-5">
                         <img src="https://i.ibb.co/sQMB8Ny/SJ-Lockup-RGB-Blue.png">
+                        <img src="https://i.ibb.co/2859Xy9/rigel.png">                        
                     </div>
             </div>
                 <br><br>
-					<div class="text-center mt-5">
-										<h3>SILVER</h3><br>
-										<div class="sponsors_grid">
-												<img src="https://i.ibb.co/JH1k3qJ/IMG-3520.png">
-						</div>
+                    <div class="text-center mt-5">
+                                        <h3>SILVER</h3><br>
+                                        <div class="sponsors_grid">
+                                                <img src="https://i.ibb.co/JH1k3qJ/IMG-3520.png">
+                        </div>
             <div class="text-center mt-5">
                     <h3>BRONZE</h3><br>
                     <div class="sponsors_grid">
@@ -866,50 +742,4 @@ body .content .isomer-timeline-section .isomer-timeline .timeline-title {
         </div>
     </div></div></section>
 </section>
-
-<section class="isomer-timeline-section">
-  <h1 class="timeline-title">Shaping hearts Timeline</h1>
-
-  <div class="isomer-timeline">
-    <div class="timeline-container left-container">
-      <div class="timeline-content">
-        <p class="timeline-title">2019 “Art Market @ North East”</p>
-        <p>46 paintings by 25 artists from 11 SSAs. The event raised $31,260 in total.</p>
-      </div>
-    </div>
-    <div class="timeline-container right-container">
-      <div class="timeline-content">
-        <p class="timeline-title">2020 “Articulate @ North East”</p>
-        <p>&nbsp;Over 100 artists from 12 SSAs, more than 120 pieces of artworks. Raised $36,640</p>
-      </div>
-    </div>
-    <div class="timeline-container left-container">
-      <div class="timeline-content">
-        <p class="timeline-title">2021 “Shaping Hearts”</p>
-        <p>110 paintings on showcase, over 150 visual and performing artists. 21 SSAs. Raised $284,010</p>
-      </div>
-    </div>
-    <div class="timeline-container right-container">
-      <div class="timeline-content">
-        <p class="timeline-title">2022 “Shaping Hearts”</p>
-        <p>over 270 paintings, more than 150 artists. 22 SSAs. Raised $570,000</p>
-      </div>
-    </div>
-    <div class="timeline-container left-container">
-      <div class="timeline-content">
-        <p class="timeline-title">2023 “Shaping Hearts”</p>
-        <p>over 350 paintings, more than 150 artists. 28 Community Partners. Raised $490,586</p>
-      </div>
-    </div>
-		
-		  <div class="timeline-container right-container">
-      <div class="timeline-content">
-        <p class="timeline-title">2024 “Shaping Hearts”</p>
-        <p>more than 500 paintings, over 200 artists. 30+ partners.</p>
-      </div>
-    </div>
-		
-  </div>
-</section>
-
 </section>
