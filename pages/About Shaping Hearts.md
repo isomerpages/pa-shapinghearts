@@ -698,6 +698,7 @@ VideoPlayer{
                     <h3>GOLD</h3>
                     <div class="sponsors_grid mt-5">
                         <img src="https://i.ibb.co/sQMB8Ny/SJ-Lockup-RGB-Blue.png">
+                        <img src="https://i.ibb.co/2859Xy9/rigel.png">                        
                     </div>
             </div>
                 <br><br>
