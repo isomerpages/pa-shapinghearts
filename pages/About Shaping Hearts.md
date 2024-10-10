@@ -555,7 +555,7 @@ VideoPlayer{
 
     .isomer-timeline {
         position: relative;
-        max-width: 1150px;
+        max-width: 1200px;
         margin: auto;
     }
 
