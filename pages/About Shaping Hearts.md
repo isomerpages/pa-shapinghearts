@@ -415,6 +415,301 @@ VideoPlayer{
     }
 
 
+	    /\* TIMELINE \*/
+
+  
+
+    .isomer-timeline-section {
+
+        font-family: Arial, sans-serif;
+
+        background-color: #c5242f;
+
+        color: white;
+
+        padding: 20px;
+
+    }
+
+  
+
+    body .content .isomer-timeline-section .timeline-title {
+
+        text-align: center;
+
+        margin-bottom: 50px;
+
+        font-size: 36px;
+
+        color: white !important;
+
+    }
+
+  
+
+    body .content .isomer-timeline-section .isomer-timeline .timeline-title {
+
+        text-align: start;
+
+        margin-bottom: 50px;
+
+        font-size: 26px;
+
+        color: white !important;
+
+    }
+
+  
+
+    .timeline-desc {
+
+        width: 80%;
+
+        margin: auto;
+
+    }
+
+  
+
+    .isomer-timeline {
+
+        position: relative;
+
+        max-width: 1000px;
+
+        margin: auto;
+
+    }
+
+  
+
+    .isomer-timeline::after {
+
+        content: '';
+
+        position: absolute;
+
+        width: 6px;
+
+        background-color: #ff6f61;
+
+        top: 0;
+
+        bottom: 0;
+
+        left: 50%;
+
+        margin-left: \-3px;
+
+    }
+
+  
+
+    .timeline-container {
+
+        padding: 10px;
+
+        position: relative;
+
+        background-color: inherit;
+
+        width: 50%;
+
+    }
+
+  
+  
+
+    @media (max-width: 768px) {
+
+        .timeline-content {
+
+            flex-direction: column;
+
+        }
+
+  
+
+        .timeline-container {
+
+            width: 100% !important;
+
+            left: 0 !important;
+
+            padding-left: 20px;
+
+        }
+
+  
+
+        .isomer-timeline::after {
+
+            left: 0;
+
+        }
+
+  
+
+        .timeline-container.right-container::after {
+
+            left: 20px;
+
+            right: auto;
+
+        }
+
+  
+
+        .timeline-container.right-container .timeline-content {
+
+            margin-left: 0px !important;
+
+        }
+
+  
+
+        .timeline-content {
+
+            padding: 5px 20px !important;
+
+        }
+
+  
+
+        body .content .isomer-timeline-section .isomer-timeline .timeline-title {
+
+            text-align: start;
+
+            margin-bottom: 40px;
+
+        }
+
+  
+
+        .timeline-container::after {
+
+            right: 0%;
+
+            left: \-13px;
+
+        }
+
+  
+
+        .timeline-desc {
+
+            width: 100%;
+
+        }
+
+    }
+
+  
+
+    .timeline-container.left-container {
+
+        left: 0;
+
+    }
+
+  
+
+    .timeline-container.right-container {
+
+        left: 50%;
+
+    }
+
+  
+
+    .timeline-container::after {
+
+        content: '';
+
+        position: absolute;
+
+        width: 25px;
+
+        height: 25px;
+
+        right: \-17px;
+
+        background-color: #ff6f61;
+
+        border: 4px solid #ff6f61;
+
+        top: 15px;
+
+        border-radius: 50%;
+
+        z-index: 1;
+
+    }
+
+  
+
+    .timeline-container.right-container::after {
+
+        left: \-17px;
+
+    }
+
+  
+
+    .timeline-content {
+
+        padding: 20px 5px;
+
+        position: relative;
+
+        border-radius: 6px;
+
+        display: flex;
+
+        align-items: center;
+
+        column-gap: 10px;
+
+    }
+
+  
+
+    .timeline-container.left-container .timeline-content {
+
+        margin-left: 0;
+
+    }
+
+  
+
+    .timeline-container.right-container .timeline-content {
+
+        margin-left: 30px;
+
+    }
+
+  
+
+    .timeline-date {
+
+        font-size: 14px;
+
+        color: #ffffff80;
+
+        margin-bottom: 5px;
+
+    }
+
+  
+
+    .timeline-title {
+
+        font-weight: bold;
+
+        margin-bottom: 10px;
+
+    }
+	
     @media (max-width: 1280px) {
     .bp-container{
     width: 100% !important;
@@ -742,4 +1037,105 @@ VideoPlayer{
         </div>
     </div></div></section>
 </section>
+	
+	<section class="isomer-timeline-section">
+        <h1 class="timeline-title">GROWTH OF SHAPING HEARTS</h1>
+        <p class="timeline-desc" style="text-align: center;">
+            Initiated by North East CDC in 2019, Shaping Hearts was envisioned as a annual platform where persons with
+            disabilites could build their future through art. Each artwork represents a step towards independence and
+            recognition, showcasing talents that might otherwise go unnoticed. As Shaping Hearts has grown, so has our
+            community's understanding of inclusion We're creating a space in Singapore where art opens doors, improves
+            lives, and enables everyone to contribute. Today Shaping Hearts is Singapore's largest inclusive arts
+            festival
+        </p>
+
+        <br>
+        <div class="isomer-timeline">
+            <div class="timeline-container left-container">
+                <div class="timeline-content">
+                    <img style="border-radius: 20px;" width="250" src="https://i.ibb.co/mN4ttcM/5IMG195.jpg">
+                    <div class="">
+                        <p class="timeline-title">2019 “Art Market @ North East”</p>
+                        
+                        <p>46 paintings<br> 25 artists <br> 12 SSAs
+                        </p>
+                        <p style="margin-top: 5px; width: fit-content; background: #ffca50; color: white; color: #97002b; font-weight: bold; padding: 10px; border-radius: 10px;">
+                            Raised $31,260
+                        </p>
+
+                    </div>
+                </div>
+            </div>
+            <div class="timeline-container right-container">
+                <div class="timeline-content">
+                    <img style="border-radius: 20px;" width="200" src="https://i.ibb.co/d0NKQSS/ART-Auction1.jpg">
+                    <div class="">
+                        <p class="timeline-title">2020 “Articulate @ North East”</p>
+                        
+                        <p>120 paintings<br> 100 artists <br> 12 SSAs</p>
+                        <p style="margin-top: 5px; width: fit-content; background: #ffca50; color: white; color: #97002b; font-weight: bold; padding: 10px; border-radius: 10px;">
+                            Raised $36,640
+                        </p>
+                    </div>
+                </div>
+            </div>
+            <div class="timeline-container left-container">
+                <div class="timeline-content">
+                    <img style="border-radius: 20px;" width="250" src="https://i.ibb.co/PgMM71N/26-NOV-SHAPING-HEARTS-25-min.jpg">
+                    <div class="">
+
+                        <p class="timeline-title">2021 “Shaping Hearts”</p>
+                        
+                        <p>110 paintings<br> 150 artists <br> 21 SSAs</p>
+                        <p style="margin-top: 5px; width: fit-content; background: #ffca50; color: white; color: #97002b; font-weight: bold; padding: 10px; border-radius: 10px;">
+                            Raised $284,010
+                        </p>
+                    </div>
+                </div>
+            </div>
+            <div class="timeline-container right-container">
+                <div class="timeline-content">
+                    <img style="border-radius: 20px;" width="250" src="https://i.ibb.co/88tBHvt/DSC-8633.jpg">
+                    <div class="">
+
+                        <p class="timeline-title">2022 “Shaping Hearts”</p>
+                        
+                        <p>270 paintings<br> 150 artists <br> 22 SSAs</p>
+                        <p style="margin-top: 5px; width: fit-content; background: #ffca50; color: white; color: #97002b; font-weight: bold; padding: 10px; border-radius: 10px;">
+                            Raised $570,000
+                        </p>
+                    </div>
+                </div>
+            </div>
+            <div class="timeline-container left-container">
+                <div class="timeline-content">
+                    <img style="border-radius: 20px;" width="250" src="https://i.ibb.co/cCvB0VT/OTH8832-min.jpg">
+                    <div class="">
+
+                        <p class="timeline-title">2023 “Shaping Hearts”</p>
+                        
+                        <p>350 paintings<br> 150 artists <br> 28 Comunity Partners</p>
+                        <p style="margin-top: 5px; width: fit-content; background: #ffca50; color: white; color: #97002b; font-weight: bold; padding: 10px; border-radius: 10px;">
+                            Raised $490,586
+                        </p>
+                    </div>
+                </div>
+            </div>
+
+            <div class="timeline-container right-container">
+                <div class="timeline-content">
+                    <img style="border-radius: 20px;" width="250" src="https://i.ibb.co/h2JKLFc/OTH8857-min.jpg">
+                    <div class="">
+
+                        <p class="timeline-title">2024 “Shaping Hearts”</p>
+                        
+                        <p>500 paintings<br> 200 artists <br> 27 Sponsors &amp; Partners <br> 22 SSAs</p>
+                    </div>
+                    
+                </div>
+            </div>
+
+        </div>
+    </section>
+	
 </section>
