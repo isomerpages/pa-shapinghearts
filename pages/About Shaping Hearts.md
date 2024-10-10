@@ -576,6 +576,10 @@ VideoPlayer{
         background-color: inherit;
         width: 50%;
     }
+	
+	.timeline-content img{
+	width: 250px;
+	}
 
 
     @media (max-width: 768px) {
