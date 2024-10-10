@@ -579,12 +579,14 @@ VideoPlayer{
 	
 	.timeline-content img{
 	width: 250px;
+	margin: 0;
 	}
 
 
     @media (max-width: 768px) {
         .timeline-content {
             flex-direction: column;
+	align-items: start;
         }
 
         .timeline-container {
@@ -592,6 +594,10 @@ VideoPlayer{
             left: 0 !important;
             padding-left: 20px;
         }
+	
+	.timeline-desc{
+	width: 100%;
+	}
 
         .isomer-timeline::after {
             left: 0;
