@@ -612,7 +612,7 @@ VideoPlayer{
 
         body .content .isomer-timeline-section .isomer-timeline .timeline-title {
             text-align: start;
-            margin-bottom: 40px;
+            margin-bottom: 10px;
         }
 
         .timeline-container::after {
