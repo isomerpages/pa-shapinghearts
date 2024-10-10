@@ -543,8 +543,8 @@ VideoPlayer{
 
     body .content .isomer-timeline-section .isomer-timeline .timeline-title {
         text-align: start;
-        margin-bottom: 50px;
-        font-size: 26px;
+        margin-bottom: 0px;
+        font-size: 22px;
         color: white !important;
     }
 
@@ -916,7 +916,7 @@ VideoPlayer{
                     <div class="">
                         <p class="timeline-title">2019 “Art Market @ North East”</p>
                         
-                        <p>46 paintings<br> 25 artists <br> 12 SSAs
+                        <p style="margin: 0px !important">46 paintings<br> 25 artists <br> 12 SSAs
                         </p>
                         <p style="margin-top: 5px; width: fit-content; background: #ffca50; color: white; color: #97002b; font-weight: bold; padding: 10px; border-radius: 10px;">
                             Raised $31,260
@@ -931,7 +931,7 @@ VideoPlayer{
                     <div class="">
                         <p class="timeline-title">2020 “Articulate @ North East”</p>
                         
-                        <p>120 paintings<br> 100 artists <br> 12 SSAs</p>
+                        <p style="margin: 0px !important">120 paintings<br> 100 artists <br> 12 SSAs</p>
                         <p style="margin-top: 5px; width: fit-content; background: #ffca50; color: white; color: #97002b; font-weight: bold; padding: 10px; border-radius: 10px;">
                             Raised $36,640
                         </p>
@@ -945,7 +945,7 @@ VideoPlayer{
 
                         <p class="timeline-title">2021 “Shaping Hearts”</p>
                         
-                        <p>110 paintings<br> 150 artists <br> 21 SSAs</p>
+                        <p style="margin: 0px !important">110 paintings<br> 150 artists <br> 21 SSAs</p>
                         <p style="margin-top: 5px; width: fit-content; background: #ffca50; color: white; color: #97002b; font-weight: bold; padding: 10px; border-radius: 10px;">
                             Raised $284,010
                         </p>
@@ -959,7 +959,7 @@ VideoPlayer{
 
                         <p class="timeline-title">2022 “Shaping Hearts”</p>
                         
-                        <p>270 paintings<br> 150 artists <br> 22 SSAs</p>
+                        <p style="margin: 0px !important">270 paintings<br> 150 artists <br> 22 SSAs</p>
                         <p style="margin-top: 5px; width: fit-content; background: #ffca50; color: white; color: #97002b; font-weight: bold; padding: 10px; border-radius: 10px;">
                             Raised $570,000
                         </p>
@@ -973,7 +973,7 @@ VideoPlayer{
 
                         <p class="timeline-title">2023 “Shaping Hearts”</p>
                         
-                        <p>350 paintings<br> 150 artists <br> 28 Comunity Partners</p>
+                        <p style="margin: 0px !important">350 paintings<br> 150 artists <br> 28 Comunity Partners</p>
                         <p style="margin-top: 5px; width: fit-content; background: #ffca50; color: white; color: #97002b; font-weight: bold; padding: 10px; border-radius: 10px;">
                             Raised $490,586
                         </p>
@@ -988,7 +988,7 @@ VideoPlayer{
 
                         <p class="timeline-title">2024 “Shaping Hearts”</p>
                         
-                        <p>500 paintings<br> 200 artists <br> 27 Sponsors &amp; Partners <br> 22 SSAs</p>
+                        <p style="margin: 0px !important">500 paintings<br> 200 artists <br> 27 Sponsors &amp; Partners <br> 22 SSAs</p>
                     </div>
                     
                 </div>
