@@ -897,7 +897,7 @@ VideoPlayer{
     </div></div></section>
 </section>
 	
-	 <section class="isomer-timeline-section">
+		 <section class="isomer-timeline-section">
         <h1 class="timeline-title">GROWTH OF SHAPING HEARTS</h1>
         <p class="timeline-desc" style="text-align: center;">
             Initiated by North East CDC in 2019, Shaping Hearts was envisioned as a annual platform where persons with
@@ -918,7 +918,7 @@ VideoPlayer{
                         
                         <p style="margin: 0px !important">46 paintings<br> 25 artists <br> 12 SSAs
                         </p>
-                        <p style="margin-top: 5px; width: fit-content; background: #ffca50; color: white; color: #97002b; font-weight: bold; padding: 10px; border-radius: 10px;">
+                        <p style="margin-top: 5px; width: fit-content; background: #ffca50; color: white; color: #97002b; font-weight: bold; padding: 10px; border-radius: 10px; font-size: 17px">
                             Raised $31,260
                         </p>
 
@@ -932,7 +932,7 @@ VideoPlayer{
                         <p class="timeline-title">2020 “Articulate @ North East”</p>
                         
                         <p style="margin: 0px !important">120 paintings<br> 100 artists <br> 12 SSAs</p>
-                        <p style="margin-top: 5px; width: fit-content; background: #ffca50; color: white; color: #97002b; font-weight: bold; padding: 10px; border-radius: 10px;">
+                        <p style="margin-top: 5px; width: fit-content; background: #ffca50; color: white; color: #97002b; font-weight: bold; padding: 10px; border-radius: 10px; font-size: 17px">
                             Raised $36,640
                         </p>
                     </div>
@@ -946,7 +946,7 @@ VideoPlayer{
                         <p class="timeline-title">2021 “Shaping Hearts”</p>
                         
                         <p style="margin: 0px !important">110 paintings<br> 150 artists <br> 21 SSAs</p>
-                        <p style="margin-top: 5px; width: fit-content; background: #ffca50; color: white; color: #97002b; font-weight: bold; padding: 10px; border-radius: 10px;">
+                        <p style="margin-top: 5px; width: fit-content; background: #ffca50; color: white; color: #97002b; font-weight: bold; padding: 10px; border-radius: 10px; font-size: 17px">
                             Raised $284,010
                         </p>
                     </div>
@@ -960,7 +960,7 @@ VideoPlayer{
                         <p class="timeline-title">2022 “Shaping Hearts”</p>
                         
                         <p style="margin: 0px !important">270 paintings<br> 150 artists <br> 22 SSAs</p>
-                        <p style="margin-top: 5px; width: fit-content; background: #ffca50; color: white; color: #97002b; font-weight: bold; padding: 10px; border-radius: 10px;">
+                        <p style="margin-top: 5px; width: fit-content; background: #ffca50; color: white; color: #97002b; font-weight: bold; padding: 10px; border-radius: 10px; font-size: 17px">
                             Raised $570,000
                         </p>
                     </div>
@@ -974,7 +974,7 @@ VideoPlayer{
                         <p class="timeline-title">2023 “Shaping Hearts”</p>
                         
                         <p style="margin: 0px !important">350 paintings<br> 150 artists <br> 28 Comunity Partners</p>
-                        <p style="margin-top: 5px; width: fit-content; background: #ffca50; color: white; color: #97002b; font-weight: bold; padding: 10px; border-radius: 10px;">
+                        <p style="margin-top: 5px; width: fit-content; background: #ffca50; color: white; color: #97002b; font-weight: bold; padding: 10px; border-radius: 10px; font-size: 17px">
                             Raised $490,586
                         </p>
                     </div>
