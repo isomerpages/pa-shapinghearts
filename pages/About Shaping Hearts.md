@@ -644,7 +644,7 @@ VideoPlayer{
         position: absolute;
         width: 25px;
         height: 25px;
-        right: -17px;
+        right: -13px;
         background-color: #ff6f61;
         border: 4px solid #ff6f61;
         top: 15px;
@@ -653,7 +653,7 @@ VideoPlayer{
     }
 
     .timeline-container.right-container::after {
-        left: -17px;
+        left: -13px;
     }
 
     .timeline-content {
