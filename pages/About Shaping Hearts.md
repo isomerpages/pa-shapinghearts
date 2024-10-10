@@ -629,6 +629,9 @@ VideoPlayer{
         .timeline-desc {
             width: 100%;
         }
+	.timeline-content{
+	align-items: start !important;
+	}
     }
 
     .timeline-container.left-container {
