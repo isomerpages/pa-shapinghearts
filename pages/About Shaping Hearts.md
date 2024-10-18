@@ -566,6 +566,7 @@ description: ""
 	.insta{
 	display: flex;
 	justify-content: space-between;
+	flex-wrap: wrap;
 	align-items: center;
 	gap:  20px;
 	}
