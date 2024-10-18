@@ -567,7 +567,7 @@ description: ""
 	display: flex;
 	justify-content: space-between;
 	align-items: center;
-	gap:  10px;
+	gap:  20px;
 	}
 	
 </style>
