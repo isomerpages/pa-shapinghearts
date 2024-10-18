@@ -535,6 +535,7 @@ description: ""
     /* TIMELINE */
     .isomer-timeline-section {
         background-color: #e80a4d;
+	padding-top: 20px;
     }
 
     body .content .isomer-timeline-section .timeline-title {
@@ -548,8 +549,7 @@ description: ""
 
     body .content .isomer-timeline-section .isomer-timeline .timeline-title {
         text-align: start;
-        margin-bottom: 0px;
-	margin-top: 20px;
+        margin-bottom: 0px
         font-size: 22px;
         color: white !important;
     }
