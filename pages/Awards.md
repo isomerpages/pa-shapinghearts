@@ -6,7 +6,7 @@ description: ""
 ---
 # SUPPORTING AND RECOGNISING ARTISTIC EXCELLENCE
 
-At North East CDC, we are committed to celebrate and uplift artists with disabilities. We introduced two prestigious awards: one recognising overall artistic achievement, and another honouring excellence in painting.&nbsp;
+At North East CDC, we are committed to celebrate and uplift artists with disabilities. We introduced two prestigious awards: one recognising overall artistic achievement, and another honouring excellence in painting.
 
 **North East HeARTS Award**
 
@@ -16,4 +16,63 @@ This award supports persons with disabilities (PWDs) by providing opportunities 
 
 The Neo Kah Kiat Arts Awards recognise artistic excellence among artists with disabilities. This award celebrates diverse talents across various art disciplines, showcasing exceptional work by persons with disabilities and promotes inclusivity. By honouring these achievements, we aim to elevate the visibility of artists with disabilities and their valuable contributions to the arts community.
 
-<table style="color: rgb(34, 34, 34); font-family: Arial, Helvetica, sans-serif; font-size: small; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; width: 300.5pt; margin-left: 35.2pt; border-collapse: collapse;" width="401" cellpadding="0" cellspacing="0" border="0"><tbody><tr style="height: 40.2pt;"><td style="margin: 0px; width: 205.55pt; border: 1pt solid white; background: rgb(225, 209, 204); padding: 0.4pt 0.4pt 0in; height: 40.2pt;" width="274"><p style="margin: 0in; font-size: 12pt; font-family: Aptos, sans-serif;" class="m_5134494464862196722xmsonormal"><b><span style="font-size: 11pt; color: black;">&nbsp;Neo Kah Kiat Arts Award</span></b><u></u><u></u></p></td><td style="margin: 0px; width: 94.95pt; border-top: 1pt solid white; border-right: 1pt solid white; border-bottom: 1pt solid white; border-image: initial; border-left: none; background: rgb(225, 209, 204); padding: 0.4pt 0.4pt 0in; height: 40.2pt;" width="127"><p style="margin: 0in; font-size: 12pt; font-family: Aptos, sans-serif;" class="m_5134494464862196722xmsonormal"><b><span style="font-size: 11pt; color: black;">Prize &nbsp;</span></b><u></u><u></u></p></td></tr><tr style="height: 18.8pt;"><td style="margin: 0px; width: 205.55pt; border-right: 1pt solid white; border-bottom: 1pt solid white; border-left: 1pt solid white; border-image: initial; border-top: none; background: rgb(252, 240, 232); padding: 0.4pt 0.4pt 0in; height: 18.8pt;" width="274"><p style="margin: 0in; font-size: 12pt; font-family: Aptos, sans-serif;" class="m_5134494464862196722xmsonormal"><b><span style="font-size: 11pt; color: black;">NKK Painting of the Year</span></b><u></u><u></u></p></td><td style="margin: 0px; width: 94.95pt; border-top: none; border-left: none; border-bottom: 1pt solid white; border-right: 1pt solid white; background: rgb(252, 240, 232); padding: 0.4pt 0.4pt 0in; height: 18.8pt;" width="127"><p style="margin: 0in; font-size: 12pt; font-family: Aptos, sans-serif;" class="m_5134494464862196722xmsonormal"><span style="font-size: 11pt; color: black;">$&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 20,000</span><u></u><u></u></p></td></tr><tr style="height: 18.8pt;"><td style="margin: 0px; width: 205.55pt; border-right: 1pt solid white; border-bottom: 1pt solid white; border-left: 1pt solid white; border-image: initial; border-top: none; background: rgb(252, 240, 232); padding: 0.4pt 0.4pt 0in; height: 18.8pt;" width="274"><p style="margin: 0in; font-size: 12pt; font-family: Aptos, sans-serif;" class="m_5134494464862196722xmsonormal"><b><span style="font-size: 11pt; color: black;">NKK Arts Award – Gold</span></b><u></u><u></u></p></td><td style="margin: 0px; width: 94.95pt; border-top: none; border-left: none; border-bottom: 1pt solid white; border-right: 1pt solid white; background: rgb(252, 240, 232); padding: 0.4pt 0.4pt 0in; height: 18.8pt;" width="127"><p style="margin: 0in; font-size: 12pt; font-family: Aptos, sans-serif;" class="m_5134494464862196722xmsonormal"><span style="font-size: 11pt; color: black;">$&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 10,000</span><u></u><u></u></p></td></tr><tr style="height: 18.8pt;"><td style="margin: 0px; width: 205.55pt; border-right: 1pt solid white; border-bottom: 1pt solid white; border-left: 1pt solid white; border-image: initial; border-top: none; background: rgb(252, 240, 232); padding: 0.4pt 0.4pt 0in; height: 18.8pt;" width="274"><p style="margin: 0in; font-size: 12pt; font-family: Aptos, sans-serif;" class="m_5134494464862196722xmsonormal"><b><span style="font-size: 11pt; color: black;">NKK Arts Award – Silver</span></b><u></u><u></u></p></td><td style="margin: 0px; width: 94.95pt; border-top: none; border-left: none; border-bottom: 1pt solid white; border-right: 1pt solid white; background: rgb(252, 240, 232); padding: 0.4pt 0.4pt 0in; height: 18.8pt;" width="127"><p style="margin: 0in; font-size: 12pt; font-family: Aptos, sans-serif;" class="m_5134494464862196722xmsonormal"><span style="font-size: 11pt; color: black;">$&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 8,000</span><u></u><u></u></p></td></tr><tr style="height: 18.8pt;"><td style="margin: 0px; width: 205.55pt; border-right: 1pt solid white; border-bottom: 1pt solid white; border-left: 1pt solid white; border-image: initial; border-top: none; background: rgb(252, 240, 232); padding: 0.4pt 0.4pt 0in; height: 18.8pt;" width="274"><p style="margin: 0in; font-size: 12pt; font-family: Aptos, sans-serif;" class="m_5134494464862196722xmsonormal"><b><span style="font-size: 11pt; color: black;">NKK Arts Award - Bronze</span></b><u></u><u></u></p></td><td style="margin: 0px; width: 94.95pt; border-top: none; border-left: none; border-bottom: 1pt solid white; border-right: 1pt solid white; background: rgb(252, 240, 232); padding: 0.4pt 0.4pt 0in; height: 18.8pt;" width="127"><p style="margin: 0in; font-size: 12pt; font-family: Aptos, sans-serif;" class="m_5134494464862196722xmsonormal"><span style="font-size: 11pt; color: black;">$&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 5,000</span><u></u><u></u></p></td></tr><tr style="height: 24.85pt;"><td style="margin: 0px; width: 205.55pt; border-right: 1pt solid white; border-bottom: 1pt solid white; border-left: 1pt solid white; border-image: initial; border-top: none; background: rgb(252, 240, 232); padding: 0.6pt 0.6pt 0in; height: 24.85pt;" width="274"><p style="margin: 0in; font-size: 12pt; font-family: Aptos, sans-serif;" class="m_5134494464862196722xmsonormal"><b><span style="font-size: 11pt; color: black;" lang="EN-US">NKK Most Popular Painting of the Year</span></b><u></u><u></u></p></td><td style="margin: 0px; width: 94.95pt; border-top: none; border-left: none; border-bottom: 1pt solid white; border-right: 1pt solid white; background: rgb(252, 240, 232); padding: 0.4pt 0.4pt 0in; height: 24.85pt;" width="127"><p style="margin: 0in; font-size: 12pt; font-family: Aptos, sans-serif;" class="m_5134494464862196722xmsonormal"><span style="font-size: 11pt; color: black;">$&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2,800</span><u></u><u></u></p></td></tr><tr style="height: 24.85pt;"><td style="margin: 0px; width: 205.55pt; border-right: 1pt solid white; border-bottom: 1pt solid white; border-left: 1pt solid white; border-image: initial; border-top: none; background: rgb(252, 240, 232); padding: 0.6pt 0.6pt 0in; height: 24.85pt;" width="274"><p style="margin: 0in; font-size: 12pt; font-family: Aptos, sans-serif;" class="m_5134494464862196722xmsonormal"><b><span style="font-size: 11pt; color: black;" lang="EN-US">NKK New Artist of the Year</span></b><u></u><u></u></p></td><td style="margin: 0px; width: 94.95pt; border-top: none; border-left: none; border-bottom: 1pt solid white; border-right: 1pt solid white; background: rgb(252, 240, 232); padding: 0.4pt 0.4pt 0in; height: 24.85pt;" width="127"><p style="margin: 0in; font-size: 12pt; font-family: Aptos, sans-serif;" class="m_5134494464862196722xmsonormal"><span style="font-size: 11pt; color: black;">$&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2,000</span></p></td></tr></tbody></table>
+<table style="margin: auto; color: rgb(34, 34, 34); font-family: Arial, Helvetica, sans-serif; font-size: small; background-color: rgb(255, 255, 255);" width="600" cellpadding="0" cellspacing="0" border="0">
+    <tbody>
+        <tr style="height: 40.2pt;">
+            <td style="border: 1pt solid white; background: rgb(225, 209, 204); padding: 0.4pt; height: 40.2pt;" width="400">
+                <p style="margin: 0; font-size: 12pt; font-family: Aptos, sans-serif;"><b><span style="font-size: 11pt; color: black;">&nbsp;Neo Kah Kiat Arts Award</span></b></p>
+            </td>
+            <td style="border: 1pt solid white; background: rgb(225, 209, 204); padding: 0.4pt; height: 40.2pt;" width="200">
+                <p style="margin: 0; font-size: 12pt; font-family: Aptos, sans-serif;"><b><span style="font-size: 11pt; color: black;">Prize &nbsp;</span></b></p>
+            </td>
+        </tr>
+        <tr style="height: 18.8pt;">
+            <td style="border-right: 1pt solid white; border-bottom: 1pt solid white; background: rgb(252, 240, 232); padding: 0.4pt; height: 18.8pt;" width="400">
+                <p style="margin: 0; font-size: 12pt; font-family: Aptos, sans-serif;"><b><span style="font-size: 11pt; color: black;">NKK Painting of the Year</span></b></p>
+            </td>
+            <td style="border-bottom: 1pt solid white; background: rgb(252, 240, 232); padding: 0.4pt; height: 18.8pt;" width="200">
+                <p style="margin: 0; font-size: 12pt; font-family: Aptos, sans-serif;"><span style="font-size: 11pt; color: black;">$&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 20,000</span></p>
+            </td>
+        </tr>
+        <tr style="height: 18.8pt;">
+            <td style="border-right: 1pt solid white; border-bottom: 1pt solid white; background: rgb(252, 240, 232); padding: 0.4pt; height: 18.8pt;" width="400">
+                <p style="margin: 0; font-size: 12pt; font-family: Aptos, sans-serif;"><b><span style="font-size: 11pt; color: black;">NKK Arts Award – Gold</span></b></p>
+            </td>
+            <td style="border-bottom: 1pt solid white; background: rgb(252, 240, 232); padding: 0.4pt; height: 18.8pt;" width="200">
+                <p style="margin: 0; font-size: 12pt; font-family: Aptos, sans-serif;"><span style="font-size: 11pt; color: black;">$&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 10,000</span></p>
+            </td>
+        </tr>
+        <tr style="height: 18.8pt;">
+            <td style="border-right: 1pt solid white; border-bottom: 1pt solid white; background: rgb(252, 240, 232); padding: 0.4pt; height: 18.8pt;" width="400">
+                <p style="margin: 0; font-size: 12pt; font-family: Aptos, sans-serif;"><b><span style="font-size: 11pt; color: black;">NKK Arts Award – Silver</span></b></p>
+            </td>
+            <td style="border-bottom: 1pt solid white; background: rgb(252, 240, 232); padding: 0.4pt; height: 18.8pt;" width="200">
+                <p style="margin: 0; font-size: 12pt; font-family: Aptos, sans-serif;"><span style="font-size: 11pt; color: black;">$&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 8,000</span></p>
+            </td>
+        </tr>
+        <tr style="height: 18.8pt;">
+            <td style="border-right: 1pt solid white; border-bottom: 1pt solid white; background: rgb(252, 240, 232); padding: 0.4pt; height: 18.8pt;" width="400">
+                <p style="margin: 0; font-size: 12pt; font-family: Aptos, sans-serif;"><b><span style="font-size: 11pt; color: black;">NKK Arts Award - Bronze</span></b></p>
+            </td>
+            <td style="border-bottom: 1pt solid white; background: rgb(252, 240, 232); padding: 0.4pt; height: 18.8pt;" width="200">
+                <p style="margin: 0; font-size: 12pt; font-family: Aptos, sans-serif;"><span style="font-size: 11pt; color: black;">$&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 5,000</span></p>
+            </td>
+        </tr>
+        <tr style="height: 24.85pt;">
+            <td style="border-right: 1pt solid white; border-bottom: 1pt solid white; background: rgb(252, 240, 232); padding: 0.6pt; height: 24.85pt;" width="400">
+                <p style="margin: 0; font-size: 12pt; font-family: Aptos, sans-serif;"><b><span style="font-size: 11pt; color: black;" lang="EN-US">NKK Most Popular Painting of the Year</span></b></p>
+            </td>
+            <td style="border-bottom: 1pt solid white; background: rgb(252, 240, 232); padding: 0.4pt; height: 24.85pt;" width="200">
+                <p style="margin: 0; font-size: 12pt; font-family: Aptos, sans-serif;"><span style="font-size: 11pt; color: black;">$&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2,800</span></p>
+            </td>
+        </tr>
+        <tr style="height: 24.85pt;">
+            <td style="border-right: 1pt solid white; border-bottom: 1pt solid white; background: rgb(252, 240, 232); padding: 0.6pt; height: 24.85pt;" width="400">
+                <p style="margin: 0; font-size: 12pt; font-family: Aptos, sans-serif;"><b><span style="font-size: 11pt; color: black;" lang="EN-US">NKK New Artist of the Year</span></b></p>
+            </td>
+            <td style="border-bottom: 1pt solid white; background: rgb(252, 240, 232); padding: 0.4pt; height: 24.85pt;" width="200">
+                <p style="margin: 0; font-size: 12pt; font-family: Aptos, sans-serif;"><span style="font-size: 11pt; color: black;">$&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2,000</span></p>
+            </td>
+        </tr>
+    </tbody>
+</table>
