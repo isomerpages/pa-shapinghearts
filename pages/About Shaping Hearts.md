@@ -532,7 +532,7 @@ body	.insta{
             font-size: 2rem;
         }
 .isomer-timeline-section{
-	padding: 20px;
+	padding: 20px !important;
 	}
     }
 
