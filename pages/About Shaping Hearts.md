@@ -537,7 +537,7 @@ body	.insta{
 
     /* TIMELINE */
     .isomer-timeline-section {
-        background-color: #e80a4d;
+        background-color: #c7212e;
 	padding-top: 20px;
     }
 
@@ -846,7 +846,7 @@ body	.insta{
 
         <br>
         <div class="isomer-timeline">
-            <img alt="" style="margin: auto; display: block; width: fit-content" src="https://i.ibb.co/PgTbGMr/Timeline-Large-01.png">
+            <img alt="" style="margin: auto; display: block; width: fit-content" src="https://i.ibb.co/dbgJdJP/timeline-ske.png">
         </div>
     </section>
 
