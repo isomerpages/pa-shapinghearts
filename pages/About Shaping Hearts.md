@@ -592,6 +592,7 @@ description: ""
                     there.</p>
                 <div class="flex justify-between mt-5">
                     <button class="button bold"><a target="_blank" href="https://shop.shapinghearts.sg/">Shop</a></button>
+									     <button class="button bold"><a target="_blank" href="https://shapinghearts.cdc.gov.sg/art-exhibition/">Visit Event</a></button>
                 </div>
             </div>
             <div style="z-index: 4000; position: relative;" class="event_right section">
