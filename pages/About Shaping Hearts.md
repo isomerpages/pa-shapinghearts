@@ -538,7 +538,7 @@ body	.insta{
     /* TIMELINE */
     .isomer-timeline-section {
         background-color: #c7212e;
-	padding: 0px 20px;
+	padding: 20px 0px ;
     }
 
     body .content .isomer-timeline-section .timeline-title {
