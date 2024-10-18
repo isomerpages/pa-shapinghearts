@@ -563,7 +563,7 @@ body	.insta{
 	color: white;
 	width: 90%;
 	margin: auto;
-	margin-top: 5px;
+	margin-top: 5px !important;
 	}
 	
 	.insta{
