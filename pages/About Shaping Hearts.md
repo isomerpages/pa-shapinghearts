@@ -818,7 +818,7 @@ description: ""
 
         <br>
         <div class="isomer-timeline">
-            <img alt="" style="margin: auto; display: block; width: auto" src="https://i.ibb.co/rd2BFhH/Timeline-Large-01-181024.png">
+            <img alt="" style="margin: auto; display: block; width: auto" src="https://i.ibb.co/pywYFjM/11.png">
         </div>
     </section>
 
