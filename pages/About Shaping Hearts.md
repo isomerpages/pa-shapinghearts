@@ -543,7 +543,7 @@ body	.insta{
 
     body .content .isomer-timeline-section .timeline-title {
         text-align: center;
-        margin-bottom: 50px;
+        margin-bottom: 20px;
         font-size: 36px;
         color: white !important;
 		width: 90%;
