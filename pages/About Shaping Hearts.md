@@ -435,6 +435,9 @@ description: ""
     }
 
     @media (max-width: 700px) {
+	.insta{
+	justify-content: center;
+	}
         .sponsors .sponsors_grid {
             grid-row-gap: 30px;
         }
