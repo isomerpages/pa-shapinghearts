@@ -543,6 +543,8 @@ description: ""
         margin-bottom: 50px;
         font-size: 36px;
         color: white !important;
+		width: 90%;
+	margin: auto;
     }
 
     body .content .isomer-timeline-section .isomer-timeline .timeline-title {
@@ -556,6 +558,9 @@ description: ""
     }
 	.timeline-desc{
 	color: white;
+	width: 90%;
+	margin: auto;
+	margin-top: 5px;
 	}
 </style>
 <section>
