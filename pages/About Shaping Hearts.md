@@ -780,6 +780,13 @@ description: ""
                                 <img src="https://i.ibb.co/BVf1PH6/HW-POS-CMYK-Horizontal-300ppi.jpg">
                             </div>
                         </div>
+											<div class="text-center mt-5">
+                            <h3>ART ADVOCATES</h3>
+                            <div class="sponsors_grid mt-5">
+                                <img src="https://i.ibb.co/k3K4QZQ/Appliedlogo-blue-102021-002.png">
+                                <img src="https://i.ibb.co/HP8t2rr/SSIA-Logo-CMYK-002.jpg">
+                            </div>
+                        </div>
                         <br>
                     </div>
                 </div>
