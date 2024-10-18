@@ -573,7 +573,10 @@ body	.insta{
 	align-items: center;
 	gap:  20px;
 	}
-	
+	.insta iframe{
+	width: 300px !important;
+	min-width: 300px !important;
+	}
 </style>
 <section>
     <section class="hero">
@@ -843,7 +846,7 @@ body	.insta{
 
         <br>
         <div class="isomer-timeline">
-            <img alt="" style="margin: auto; display: block; width: 100%" src="https://i.ibb.co/PgTbGMr/Timeline-Large-01.png">
+            <img alt="" style="margin: auto; display: block; width: fit-content" src="https://i.ibb.co/PgTbGMr/Timeline-Large-01.png">
         </div>
     </section>
 
