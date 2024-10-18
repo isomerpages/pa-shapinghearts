@@ -1,6 +1,0 @@
-collections:
-  about:
-    output: true
-    order:
-      - Our Journey.md
-      - Our Stories.md
