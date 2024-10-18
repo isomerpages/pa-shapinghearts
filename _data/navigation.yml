@@ -1,10 +1,12 @@
 logo: /images/NECDC_Shaping_Hearts__Logo_Full_Colour_RGB_main_logo.jpg
 links:
   - title: About Shaping Hearts
-    url: /about-shaping-hearts
+    collection: about
   - title: Our Heartists & Partners
     url: /heartists-and-partners
   - title: Programmes
     collection: programmes
+  - title: Awards
+    url: /awards
   - title: Shop
     url: https://shop.shapinghearts.sg
