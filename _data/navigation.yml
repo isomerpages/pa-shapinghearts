@@ -1,7 +1,7 @@
 logo: /images/NECDC_Shaping_Hearts__Logo_Full_Colour_RGB_main_logo.jpg
 links:
   - title: About Shaping Hearts
-    collection: about
+    url: /about-shaping-hearts
   - title: Our Heartists & Partners
     url: /heartists-and-partners
   - title: Programmes
