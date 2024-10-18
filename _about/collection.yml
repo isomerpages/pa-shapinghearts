@@ -2,5 +2,5 @@ collections:
   about:
     output: true
     order:
-      - About Shaping Hearts.md
+      - Our Journey.md
       - Our Stories.md
