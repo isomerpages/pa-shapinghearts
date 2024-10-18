@@ -549,6 +549,7 @@ description: ""
     body .content .isomer-timeline-section .isomer-timeline .timeline-title {
         text-align: start;
         margin-bottom: 0px;
+	margin-top: 20px;
         font-size: 22px;
         color: white !important;
     }
