@@ -535,7 +535,6 @@ description: ""
     /* TIMELINE */
     .isomer-timeline-section {
         background-color: #e80a4d;
-	padding: 20px;
     }
 
     body .content .isomer-timeline-section .timeline-title {
