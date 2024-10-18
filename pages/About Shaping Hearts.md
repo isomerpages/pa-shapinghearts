@@ -787,6 +787,22 @@ description: ""
                                 <img src="https://i.ibb.co/HP8t2rr/SSIA-Logo-CMYK-002.jpg">
                             </div>
                         </div>
+											
+											
+												<div class="text-center mt-5">
+                            <h3>SUPPORTING PARTNERS</h3>
+                            <div class="sponsors_grid mt-5">
+                                <img src="https://i.ibb.co/T2X587q/Buangkok-CCMC-1.png">
+                                <img src="https://i.ibb.co/wMZcjh9/Central-CDC-Logo.png">
+															 <img src="https://i.ibb.co/VwrfxzK/North-West-CDC-Logo.jpg">
+																	 <img src="https://i.ibb.co/YjtwKby/SMRT-Trains-Logo200-Pantone-180205-01-01.png">
+																 <img src="https://i.ibb.co/m57HM19/South-East-CDC-Logo.jpg">
+																	 <img src="https://i.ibb.co/cr63yc8/South-West-Logo.jpg">
+																	 <img src="https://i.ibb.co/xsLpn5r/Stellar-Ace-logo.png">
+																 <img src="https://i.ibb.co/F5FRwbB/Temasek-Polytechnic.png">
+                            </div>
+                        </div>
+											
                         <br>
                     </div>
                 </div>
