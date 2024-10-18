@@ -531,7 +531,9 @@ body	.insta{
         .main_heading2 {
             font-size: 2rem;
         }
-
+.isomer-timeline-section{
+	padding: 20px;
+	}
     }
 
 
