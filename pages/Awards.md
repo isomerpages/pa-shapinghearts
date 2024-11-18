@@ -14,6 +14,11 @@ The Kiat Lim-Shaping Hearts Award is designed to nurture artists with disabiliti
 
 Application for 2025 Awards opens now till 31 Jan 2025:
 
+| **Grant Type** | **Kiat Lim-Shaping Hearts Shining Awards** | **Kiat Lim-Shaping Hearts Encouraging Awards** |
+| -------- | -------- | -------- |
+| Description     | Text     | Text     |
+
+
 **Neo Kah Kiat Arts Award**
 
 The Neo Kah Kiat Arts Awards recognise artistic excellence among artists with disabilities. This award celebrates diverse talents across various art disciplines, showcasing exceptional work by persons with disabilities and promotes inclusivity. By honouring these achievements, we aim to elevate the visibility of artists with disabilities and their valuable contributions to the arts community.
