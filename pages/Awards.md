@@ -14,9 +14,6 @@ The Kiat Lim-Shaping Hearts Award is designed to nurture artists with disabiliti
 
 Application for 2025 Awards opens now till 31 Jan 2025:
 
-| **Grant Type** | **Kiat Lim-Shaping Hearts Shining Awards** | **Kiat Lim-Shaping Hearts Encouraging Awards** |
-| -------- | -------- | -------- |
-| Description     | Text     | Text     |
 
 
 **Neo Kah Kiat Arts Award**
