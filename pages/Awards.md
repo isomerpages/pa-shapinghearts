@@ -8,13 +8,9 @@ description: ""
 
 At North East CDC, we are committed to celebrate and uplift artists with disabilities. We introduced two prestigious awards: one recognising overall artistic achievement, and another honouring excellence in painting.
 
-**North East HeARTS Award**
+### Neo Kah Kiat Arts Awards
 
-This award supports persons with disabilities (PWDs) by providing opportunities for creative expression and personal growth in the visual arts. It recognises their artistic achievements and aims to make art education more accessible, especially for those facing financial constraints.
-
-**Neo Kah Kiat Arts Award**
-
-The Neo Kah Kiat Arts Awards recognise artistic excellence among artists with disabilities. This award celebrates diverse talents across various art disciplines, showcasing exceptional work by persons with disabilities and promotes inclusivity. By honouring these achievements, we aim to elevate the visibility of artists with disabilities and their valuable contributions to the arts community.
+The Neo Kah Kiat Arts Awards recognise artistic excellence among artists with disabilities. This award celebrates diverse talents across various art disciplines, showcasing exceptional work by persons with disabilities and promotes inclusivity. By honouring these achievements, we aim to elevate the visibility of artists with disabilities and their valuable contributions to the arts community. 
 
 <table style="margin: auto; color: rgb(34, 34, 34); font-family: Arial, Helvetica, sans-serif; font-size: small; background-color: rgb(255, 255, 255);" width="600" cellpadding="0" cellspacing="0" border="0">
     <tbody>
@@ -76,3 +72,80 @@ The Neo Kah Kiat Arts Awards recognise artistic excellence among artists with di
         </tr>
     </tbody>
 </table>
+
+### Kiat Lim-Shaping Hearts Awards
+
+The Kiat Lim-Shaping Hearts Award is designed to nurture artists with disabilities throughout their artistic journey, from early education to professional development. The award consists of a scholarship, bursary and early intervention grant category to provide financial assistance for persons with disabilities to pursue art. It recognises the artistic achievements of persons with disabilities (PWDs) and aims to make art education more accessible, especially for those facing financial constraints. The award is supported by a S$1,000,000 commitment over five years from Kiat Lim, a new patron of Shaping Hearts. The funds ensure that PWDs can access opportunities to facilitate their artistic pursuits, empowering them to explore their creativity and develop essential skills for personal growth and development.
+
+Application for 2025 Awards opens now till 31 Jan 2025: go.gov.sg/neheartsaward.
+
+<table style="border-collapse: collapse; width: 100%; font-family: Arial, sans-serif; font-size: 14px;">
+  <tbody><tr style="background-color: #E8D8D8;">
+    <th style="border: 1px solid #D3D3D3; padding: 12px 8px; text-align: left;">Grant Type</th>
+    <th style="border: 1px solid #D3D3D3; padding: 12px 8px; text-align: left;">Kiat Lim-Shaping Hearts<br>Shining Award</th>
+    <th style="border: 1px solid #D3D3D3; padding: 12px 8px; text-align: left;">Kiat Lim-Shaping Hearts<br>Encouraging Award</th>
+    <th style="border: 1px solid #D3D3D3; padding: 12px 8px; text-align: left;">Kiat Lim-Shaping Hearts<br>Budding Award</th>
+  </tr>
+  <tr style="background-color: #FFF5EE;">
+    <td rowspan="2" style="border: 1px solid #D3D3D3; padding: 12px 8px; vertical-align: top;"><strong>Description</strong></td>
+    <td style="border: 1px solid #D3D3D3; padding: 12px 8px; vertical-align: top;">
+      For beneficiaries (7 years old and above) who have attained a good level of art proficiency and will like to further develop their skills professionally, including but not limited to:
+      <ul style="margin: 8px 0; padding-left: 20px; font-size: 14px;">
+        <li>Learning a new art medium</li>
+        <li>• Engaging a professional mentor/tutor to improve their current skills</li>
+      </ul>
+    </td>
+    <td style="border: 1px solid #D3D3D3; padding: 12px 8px; vertical-align: top;">
+      For beneficiaries (7 years old and above) who use art as a foundation in their daily living to express themselves and for personal development, including but not limited to:
+      <ul style="margin: 8px 0; padding-left: 20px; font-size: 14px;">
+        <li>Using art as a means of communication</li>
+        <li>Developing fine and gross motor skills</li>
+        <li>Developing social skills</li>
+      </ul>
+    </td>
+    <td style="border: 1px solid #D3D3D3; padding: 12px 8px; vertical-align: top;">
+      For beneficiaries (below 7 years old) who use art for early intervention to develop important daily living skills including but not limited to:
+      <ul style="margin: 8px 0; padding-left: 20px; font-size: 14px;">
+        <li>Developing fine and gross motor skills</li>
+        <li>Developing social skills</li>
+      </ul>
+    </td>
+  </tr>
+  <tr style="background-color: #FFF5EE;">
+    <td style="border: 1px solid #D3D3D3; padding: 12px 8px;">Each successful applicant is only allowed to apply for the Kiat Lim-Shaping Hearts Shining Award once in their lifetime.</td>
+    <td colspan="2" style="border: 1px solid #D3D3D3; padding: 12px 8px;">Successful applicants for North East Hearts Awards and Kiat Lim-Shaping Hearts Encouraging and Budding Awards are eligible to apply for the Encouragement / Budding Award once every 24 months.</td>
+  </tr>
+  <tr style="background-color: #FFF5EE;">
+    <td rowspan="2" style="border: 1px solid #D3D3D3; padding: 12px 8px; vertical-align: top;"><strong>Eligibility Criteria<strong></strong></strong></td>
+    <td style="border: 1px solid #D3D3D3; padding: 12px 8px;">N.A</td>
+    <td style="border: 1px solid #D3D3D3; padding: 12px 8px;" colspan="2">Gross Per Capita Income of $1,500 and below</td>
+  </tr>
+  <tr style="background-color: #FFF5EE;">
+    <td style="border: 1px solid #D3D3D3; padding: 12px 8px;" colspan="3">
+      <ol style="margin: 0; padding-left: 25px; font-size: 14px;">
+        <li>Applicant must be a participant of Shaping Hearts <strong><u>OR</u></strong> residing in the North East district.</li>
+        <li>Applicant should be a Singapore Citizen <strong><u>OR</u></strong> Permanent Resident (must have at least 1 Singapore Citizen family member in the household) <strong><u>AND</u></strong> certified to have a permanent disability*. This includes any one of the following:</li>
+      </ol>
+      <ul style="margin: 8px 0; padding-left: 45px; font-size: 14px;">
+        <li>Physical Disability</li>
+        <li>Visual Impairment</li>
+        <li>Deafness</li>
+        <li>Autism Spectrum Disorder</li>
+        <li>Intellectual Disability</li>
+      </ul>
+      <p style="margin: 0; font-style: italic; font-size: 14px;">*Any other conditions not listed will be considered on a case-by-case basis.</p>
+    </td>
+  </tr>
+  <tr style="background-color: #FFF5EE;">
+		<td style="border: 1px solid #D3D3D3; padding: 12px 8px;"><strong>Award Quantum</strong></td>
+    <td style="border: 1px solid #D3D3D3; padding: 12px 8px;">$5,000</td>
+    <td style="border: 1px solid #D3D3D3; padding: 12px 8px;">$2,000</td>
+    <td style="border: 1px solid #D3D3D3; padding: 12px 8px;">$1,000</td>
+  </tr>
+  <tr style="background-color: #FFF5EE;">
+		<td style="border: 1px solid #D3D3D3; padding: 12px 8px;"><strong>Recipients</strong></td>
+    <td style="border: 1px solid #D3D3D3; padding: 12px 8px;">Up to 10 pax per year</td>
+    <td style="border: 1px solid #D3D3D3; padding: 12px 8px;">Up to 50 pax per year</td>
+    <td style="border: 1px solid #D3D3D3; padding: 12px 8px;">Up to 50 pax per year</td>
+  </tr>
+</tbody></table>
