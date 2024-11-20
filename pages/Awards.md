@@ -80,72 +80,74 @@ The Kiat Lim-Shaping Hearts Award is designed to nurture artists with disabiliti
 Application for 2025 Awards opens now till 31 Jan 2025: go.gov.sg/neheartsaward.
 
 <table style="border-collapse: collapse; width: 100%; font-family: Arial, sans-serif; font-size: 14px;">
-  <tbody><tr style="background-color: #E8D8D8;">
-    <th style="border: 1px solid #D3D3D3; padding: 12px 8px; text-align: left;">Grant Type</th>
-    <th style="border: 1px solid #D3D3D3; padding: 12px 8px; text-align: left;">Kiat Lim-Shaping Hearts<br>Shining Award</th>
-    <th style="border: 1px solid #D3D3D3; padding: 12px 8px; text-align: left;">Kiat Lim-Shaping Hearts<br>Encouraging Award</th>
-    <th style="border: 1px solid #D3D3D3; padding: 12px 8px; text-align: left;">Kiat Lim-Shaping Hearts<br>Budding Award</th>
+  <tbody>
+  <tr style="background-color: #E8D8D8;">
+    <th style="border: 1px solid #D3D3D3; padding: 12px 8px; text-align: left; font-size: 14px;">Grant Type</th>
+    <th style="border: 1px solid #D3D3D3; padding: 12px 8px; text-align: left; font-size: 14px;">Kiat Lim-Shaping Hearts<br>Shining Award</th>
+    <th style="border: 1px solid #D3D3D3; padding: 12px 8px; text-align: left; font-size: 14px;">Kiat Lim-Shaping Hearts<br>Encouraging Award</th>
+    <th style="border: 1px solid #D3D3D3; padding: 12px 8px; text-align: left; font-size: 14px;">Kiat Lim-Shaping Hearts<br>Budding Award</th>
   </tr>
   <tr style="background-color: #FFF5EE;">
-    <td rowspan="2" style="border: 1px solid #D3D3D3; padding: 12px 8px; vertical-align: top;"><strong>Description</strong></td>
-    <td style="border: 1px solid #D3D3D3; padding: 12px 8px; vertical-align: top;">
+    <td rowspan="2" style="border: 1px solid #D3D3D3; padding: 12px 8px; vertical-align: top; font-size: 14px;"><strong>Description</strong></td>
+    <td style="border: 1px solid #D3D3D3; padding: 12px 8px; vertical-align: top; font-size: 14px;">
       For beneficiaries (7 years old and above) who have attained a good level of art proficiency and will like to further develop their skills professionally, including but not limited to:
-      <ul style="margin: 8px 0; padding-left: 20px; font-size: 14px;">
-        <li>Learning a new art medium</li>
-        <li>• Engaging a professional mentor/tutor to improve their current skills</li>
+      <ul style="margin: 8px 0; padding-left: 20px;">
+        <li style="font-size: 14px;">Learning a new art medium</li>
+        <li style="font-size: 14px;">• Engaging a professional mentor/tutor to improve their current skills</li>
       </ul>
     </td>
-    <td style="border: 1px solid #D3D3D3; padding: 12px 8px; vertical-align: top;">
+    <td style="border: 1px solid #D3D3D3; padding: 12px 8px; vertical-align: top; font-size: 14px;">
       For beneficiaries (7 years old and above) who use art as a foundation in their daily living to express themselves and for personal development, including but not limited to:
-      <ul style="margin: 8px 0; padding-left: 20px; font-size: 14px;">
-        <li>Using art as a means of communication</li>
-        <li>Developing fine and gross motor skills</li>
-        <li>Developing social skills</li>
+      <ul style="margin: 8px 0; padding-left: 20px;">
+        <li style="font-size: 14px;">Using art as a means of communication</li>
+        <li style="font-size: 14px;">Developing fine and gross motor skills</li>
+        <li style="font-size: 14px;">Developing social skills</li>
       </ul>
     </td>
-    <td style="border: 1px solid #D3D3D3; padding: 12px 8px; vertical-align: top;">
+    <td style="border: 1px solid #D3D3D3; padding: 12px 8px; vertical-align: top; font-size: 14px;">
       For beneficiaries (below 7 years old) who use art for early intervention to develop important daily living skills including but not limited to:
-      <ul style="margin: 8px 0; padding-left: 20px; font-size: 14px;">
-        <li>Developing fine and gross motor skills</li>
-        <li>Developing social skills</li>
+      <ul style="margin: 8px 0; padding-left: 20px;">
+        <li style="font-size: 14px;">Developing fine and gross motor skills</li>
+        <li style="font-size: 14px;">Developing social skills</li>
       </ul>
     </td>
   </tr>
   <tr style="background-color: #FFF5EE;">
-    <td style="border: 1px solid #D3D3D3; padding: 12px 8px;">Each successful applicant is only allowed to apply for the Kiat Lim-Shaping Hearts Shining Award once in their lifetime.</td>
-    <td colspan="2" style="border: 1px solid #D3D3D3; padding: 12px 8px;">Successful applicants for North East Hearts Awards and Kiat Lim-Shaping Hearts Encouraging and Budding Awards are eligible to apply for the Encouragement / Budding Award once every 24 months.</td>
+    <td style="border: 1px solid #D3D3D3; padding: 12px 8px; font-size: 14px;">Each successful applicant is only allowed to apply for the Kiat Lim-Shaping Hearts Shining Award once in their lifetime.</td>
+    <td colspan="2" style="border: 1px solid #D3D3D3; padding: 12px 8px; font-size: 14px;">Successful applicants for North East Hearts Awards and Kiat Lim-Shaping Hearts Encouraging and Budding Awards are eligible to apply for the Encouragement / Budding Award once every 24 months.</td>
   </tr>
   <tr style="background-color: #FFF5EE;">
-    <td rowspan="2" style="border: 1px solid #D3D3D3; padding: 12px 8px; vertical-align: top;"><strong>Eligibility Criteria<strong></strong></strong></td>
-    <td style="border: 1px solid #D3D3D3; padding: 12px 8px;">N.A</td>
-    <td style="border: 1px solid #D3D3D3; padding: 12px 8px;" colspan="2">Gross Per Capita Income of $1,500 and below</td>
+    <td rowspan="2" style="border: 1px solid #D3D3D3; padding: 12px 8px; vertical-align: top; font-size: 14px;"><strong>Eligibility<br>Criteria</strong></td>
+    <td style="border: 1px solid #D3D3D3; padding: 12px 8px; font-size: 14px;">N.A</td>
+    <td style="border: 1px solid #D3D3D3; padding: 12px 8px; font-size: 14px;" colspan="2">Gross Per Capita Income of $1,500 and below</td>
   </tr>
   <tr style="background-color: #FFF5EE;">
-    <td style="border: 1px solid #D3D3D3; padding: 12px 8px;" colspan="3">
-      <ol style="margin: 0; padding-left: 25px; font-size: 14px;">
-        <li>Applicant must be a participant of Shaping Hearts <strong><u>OR</u></strong> residing in the North East district.</li>
-        <li>Applicant should be a Singapore Citizen <strong><u>OR</u></strong> Permanent Resident (must have at least 1 Singapore Citizen family member in the household) <strong><u>AND</u></strong> certified to have a permanent disability*. This includes any one of the following:</li>
+    <td style="border: 1px solid #D3D3D3; padding: 12px 8px; font-size: 14px;" colspan="3">
+      <ol style="margin: 0; padding-left: 25px;">
+        <li style="font-size: 14px;">Applicant must be a participant of Shaping Hearts OR residing in the North East district.</li>
+        <li style="font-size: 14px;">Applicant should be a Singapore Citizen OR Permanent Resident (must have at least 1 Singapore Citizen family member in the household) AND certified to have a permanent disability*. This includes any one of the following:</li>
       </ol>
-      <ul style="margin: 8px 0; padding-left: 45px; font-size: 14px;">
-        <li>Physical Disability</li>
-        <li>Visual Impairment</li>
-        <li>Deafness</li>
-        <li>Autism Spectrum Disorder</li>
-        <li>Intellectual Disability</li>
+      <ul style="margin: 8px 0; padding-left: 45px;">
+        <li style="font-size: 14px;">Physical Disability</li>
+        <li style="font-size: 14px;">Visual Impairment</li>
+        <li style="font-size: 14px;">Deafness</li>
+        <li style="font-size: 14px;">Autism Spectrum Disorder</li>
+        <li style="font-size: 14px;">Intellectual Disability</li>
       </ul>
       <p style="margin: 0; font-style: italic; font-size: 14px;">*Any other conditions not listed will be considered on a case-by-case basis.</p>
     </td>
   </tr>
   <tr style="background-color: #FFF5EE;">
-		<td style="border: 1px solid #D3D3D3; padding: 12px 8px;"><strong>Award Quantum</strong></td>
-    <td style="border: 1px solid #D3D3D3; padding: 12px 8px;">$5,000</td>
-    <td style="border: 1px solid #D3D3D3; padding: 12px 8px;">$2,000</td>
-    <td style="border: 1px solid #D3D3D3; padding: 12px 8px;">$1,000</td>
+    <td style="border: 1px solid #D3D3D3; padding: 12px 8px; font-size: 14px;"><strong>Award<br>Quantum</strong></td>
+    <td style="border: 1px solid #D3D3D3; padding: 12px 8px; font-size: 14px;">$5,000</td>
+    <td style="border: 1px solid #D3D3D3; padding: 12px 8px; font-size: 14px;">$2,000</td>
+    <td style="border: 1px solid #D3D3D3; padding: 12px 8px; font-size: 14px;">$1,000</td>
   </tr>
   <tr style="background-color: #FFF5EE;">
-		<td style="border: 1px solid #D3D3D3; padding: 12px 8px;"><strong>Recipients</strong></td>
-    <td style="border: 1px solid #D3D3D3; padding: 12px 8px;">Up to 10 pax per year</td>
-    <td style="border: 1px solid #D3D3D3; padding: 12px 8px;">Up to 50 pax per year</td>
-    <td style="border: 1px solid #D3D3D3; padding: 12px 8px;">Up to 50 pax per year</td>
+    <td style="border: 1px solid #D3D3D3; padding: 12px 8px; font-size: 14px;"><strong>Recipients</strong></td>
+    <td style="border: 1px solid #D3D3D3; padding: 12px 8px; font-size: 14px;">Up to 10 pax per year</td>
+    <td style="border: 1px solid #D3D3D3; padding: 12px 8px; font-size: 14px;">Up to 50 pax per year</td>
+    <td style="border: 1px solid #D3D3D3; padding: 12px 8px; font-size: 14px;">Up to 50 pax per year</td>
   </tr>
-</tbody></table>
+  </tbody>
+</table>
