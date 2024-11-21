@@ -12,7 +12,7 @@ At North East CDC, we are committed to celebrate and uplift artists with disabil
 
 The Kiat Lim-Shaping Hearts Award is designed to nurture artists with disabilities throughout their artistic journey, from early education to professional development. The award consists of a scholarship, bursary and early intervention grant category to provide financial assistance for persons with disabilities to pursue art. It recognises the artistic achievements of persons with disabilities (PWDs) and aims to make art education more accessible, especially for those facing financial constraints. The award is supported by a S$1,000,000 commitment over five years from Kiat Lim, a new patron of Shaping Hearts. The funds ensure that PWDs can access opportunities to facilitate their artistic pursuits, empowering them to explore their creativity and develop essential skills for personal growth and development.
 
-Application for 2025 Awards opens now till 31 Jan 2025: [go.gov.sg/neheartsaward](https://go.gov.sg/neheartsaward).
+Application for 2025 Awards opens now till 31 Jan 2025: [go.gov.sg/klsha25](https://Go.gov.sg/klsha25).
 
 <table style="border-collapse: collapse; width: 100%; font-family: Arial, sans-serif; font-size: 14px;">
   <tbody>
@@ -151,4 +151,3 @@ The Neo Kah Kiat Arts Awards recognise artistic excellence among artists with di
         </tr>
     </tbody>
 </table>
-
