@@ -406,14 +406,6 @@ description: ""
                    <a href="/ezra/">Ezra <img src="https://i.ibb.co/K99VVxJ/Arrow.png" style="width: 30px !important"></a>
            </div>
            <div class="team_card">
-                    <img src="https://i.ibb.co/7NwkbGS/Shaping-Hearts-Artist-Henry-07.jpg">
-               <a href="/henry/">Henry <img src="https://i.ibb.co/K99VVxJ/Arrow.png" style="width: 30px !important"></a>
-           </div>
-           <div class="team_card">
-                <img src="https://i.ibb.co/D7pQyBy/Shaping-Hearts-Artist-Moy-01.jpg">
-               <a href="/moy-saw-han/">Moy <img src="https://i.ibb.co/K99VVxJ/Arrow.png" style="width: 30px !important"></a>
-           </div>
-           <div class="team_card">
                         <img src="https://i.ibb.co/z2xhm8f/Shaping-Hearts-Artist-Samuel.jpgg">
                    <a href="/samuel/">Samuel <img src="https://i.ibb.co/K99VVxJ/Arrow.png" style="width: 30px !important"></a>
            </div>
@@ -443,7 +435,39 @@ description: ""
             </div>
              <div class="team_card">
                            <img src="https://i.ibb.co/YRhbDcZ/randy-wah.jpg">
-                      <a href="https://staging.d2d4qnv3td402n.amplifyapp.com/randy-way/">Randy Wah <img src="https://i.ibb.co/K99VVxJ/Arrow.png" style="width: 30px !important"></a>
+                      <a href="https://staging.d2d4qnv3td402n.amplifyapp.com/randy-wah/">Randy Wah <img src="https://i.ibb.co/K99VVxJ/Arrow.png" style="width: 30px !important"></a>
+            </div>
+             <div class="team_card">
+                           <img src="https://i.ibb.co/jG8vzVP/Christopher-Daniel-Widjaja.jpg">
+                      <a href="https://staging.d2d4qnv3td402n.amplifyapp.com/christopher-daniel-widjaja/">Christopher Daniel Widjaja <img src="https://i.ibb.co/K99VVxJ/Arrow.png" style="width: 30px !important"></a>
+            </div>
+             <div class="team_card">
+                       <img src="https://i.ibb.co/ChhYSQB/Christopher-Tey-Rui-Fang.jpg">
+                  <a href="https://staging.d2d4qnv3td402n.amplifyapp.com/christopher-tey-rui-fang/">Christopher Tey Rui Fang <img src="https://i.ibb.co/K99VVxJ/Arrow.png" style="width: 30px !important"></a>
+            </div>
+            <div class="team_card">
+                <img src="https://i.ibb.co/g9LG697/Elijah-Goh.jpg">
+                <a href="https://staging.d2d4qnv3td402n.amplifyapp.com/elijah-goh/">Elijah Goh <img src="https://i.ibb.co/K99VVxJ/Arrow.png" style="width: 30px !important"></a>
+            </div>
+            <div class="team_card">
+                <img src="https://i.ibb.co/MPxbNvj/Evan-Goh.jpg">
+                <a href="https://staging.d2d4qnv3td402n.amplifyapp.com/evan-goh/">Evan Goh <img src="https://i.ibb.co/K99VVxJ/Arrow.png" style="width: 30px !important"></a>
+            </div>
+            <div class="team_card">
+                <img src="https://i.ibb.co/Wt4hcT8/Isabella-Grace-Wilfred.jpg">
+                <a href="https://staging.d2d4qnv3td402n.amplifyapp.com/isabella-grace-wilfred-izzy/">Isabella Grace Wilfred (Izzy) <img src="https://i.ibb.co/K99VVxJ/Arrow.png" style="width: 30px !important"></a>
+            </div>
+            <div class="team_card">
+                <img src="https://i.ibb.co/yyMX5w5/Joshua-Wang.jpg">
+                <a href="https://staging.d2d4qnv3td402n.amplifyapp.com/joshua-wang-yu-hui/">Joshua Wang Yu Hui <img src="https://i.ibb.co/K99VVxJ/Arrow.png" style="width: 30px !important"></a>
+            </div>
+            <div class="team_card">
+                <img src="https://i.ibb.co/FDGzwp8/Linda-Wong.jpg">
+                <a href="https://staging.d2d4qnv3td402n.amplifyapp.com/linda-wong-pui-see/">Linda Wong Pui See <img src="https://i.ibb.co/K99VVxJ/Arrow.png" style="width: 30px !important"></a>
+            </div>
+            <div class="team_card">
+                <img src="https://i.ibb.co/D89KsF6/Rayden-Yeow.jpg">
+                <a href="https://staging.d2d4qnv3td402n.amplifyapp.com/rayden-yeow/">Rayden Yeow <img src="https://i.ibb.co/K99VVxJ/Arrow.png" style="width: 30px !important"></a>
             </div>
         <div>
       </div>
