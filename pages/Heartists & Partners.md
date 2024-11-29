@@ -396,60 +396,84 @@ description: ""
       <h1 class="main_heading2 bold">Our Heartists
       </h1>
       <br><br>
-      <div class="team_grid">
+<div class="team_grid">
         <div class="team_card">
             <img src="https://i.ibb.co/jTgGjSr/Shaping-Hearts-Artist-Ashley-01.jpg">
-               <a href="/ashley/">Ashley <img src="https://i.ibb.co/K99VVxJ/Arrow.png" style="width: 30px !important"> </a>
-           </div>
-           <div class="team_card">
+            <a href="/ashley/">Ashley <img src="https://i.ibb.co/K99VVxJ/Arrow.png" style="width: 30px !important"> </a>
+        </div>
+        <div class="team_card">
             <img src="https://i.ibb.co/hZrXVkH/Shaping-Hearts-Artist-EZRA-01.jpg">
-                   <a href="/ezra/">Ezra <img src="https://i.ibb.co/K99VVxJ/Arrow.png" style="width: 30px !important"></a>
-           </div>
-           <div class="team_card">
-                    <img src="https://i.ibb.co/7NwkbGS/Shaping-Hearts-Artist-Henry-07.jpg">
-               <a href="/henry/">Henry <img src="https://i.ibb.co/K99VVxJ/Arrow.png" style="width: 30px !important"></a>
-           </div>
-           <div class="team_card">
-                <img src="https://i.ibb.co/D7pQyBy/Shaping-Hearts-Artist-Moy-01.jpg">
-               <a href="/moy-saw-han/">Moy <img src="https://i.ibb.co/K99VVxJ/Arrow.png" style="width: 30px !important"></a>
-           </div>
-           <div class="team_card">
-                        <img src="https://i.ibb.co/z2xhm8f/Shaping-Hearts-Artist-Samuel.jpgg">
-                   <a href="/samuel/">Samuel <img src="https://i.ibb.co/K99VVxJ/Arrow.png" style="width: 30px !important"></a>
-           </div>
-           <div class="team_card">
-                            <img src="https://i.ibb.co/B2SjLLT/Shaping-Hearts-Artist-Simeon-04.jpg">
-               <a href="/simeon/">Simeon <img src="https://i.ibb.co/K99VVxJ/Arrow.png" style="width: 30px !important"></a>
-           </div>
-           <div class="team_card">
-             <img src="https://i.ibb.co/B4dqK81/Alex-Lim.jpg">
-                  <a href="https://staging.d2d4qnv3td402n.amplifyapp.com/alex-lim/">Alex Lim <img src="https://i.ibb.co/K99VVxJ/Arrow.png" style="width: 30px !important"> </a>
-            </div>
-            <div class="team_card">
-               <img src="https://i.ibb.co/w7GMVNX/Gary-Chong.jpg">
-                      <a href="https://staging.d2d4qnv3td402n.amplifyapp.com/gary-chong/">Gary Chong <img src="https://i.ibb.co/K99VVxJ/Arrow.png" style="width: 30px !important"></a>
-            </div>
-            <div class="team_card">
-                       <img src="https://i.ibb.co/n1HZZGc/Leong-Sijun.png">
-                  <a href="https://staging.d2d4qnv3td402n.amplifyapp.com/leong-sijun/">Leong Sijun <img src="https://i.ibb.co/K99VVxJ/Arrow.png" style="width: 30px !important"></a>
-            </div>
-            <div class="team_card">
-                   <img src="https://i.ibb.co/7gQFvV5/Ng-Jun-Yao.jpg">
-                  <a href="https://staging.d2d4qnv3td402n.amplifyapp.com/ng-jun-yao/">Ng Jun Yao <img src="https://i.ibb.co/K99VVxJ/Arrow.png" style="width: 30px !important"></a>
-            </div>
-            <div class="team_card">
-                           <img src="https://i.ibb.co/ZLg3w39/Vincent-Seet.jpg">
-                      <a href="https://staging.d2d4qnv3td402n.amplifyapp.com/vincent-seet/">Vincent Seet <img src="https://i.ibb.co/K99VVxJ/Arrow.png" style="width: 30px !important"></a>
-            </div>
-             <div class="team_card">
-                           <img src="https://i.ibb.co/YRhbDcZ/randy-wah.jpg">
-                      <a href="https://staging.d2d4qnv3td402n.amplifyapp.com/randy-way/">Randy Wah <img src="https://i.ibb.co/K99VVxJ/Arrow.png" style="width: 30px !important"></a>
-            </div>
-        <div>
+            <a href="/ezra/">Ezra <img src="https://i.ibb.co/K99VVxJ/Arrow.png" style="width: 30px !important"></a>
+        </div>
+        <div class="team_card">
+            <img src="https://i.ibb.co/z2xhm8f/Shaping-Hearts-Artist-Samuel.jpgg">
+            <a href="/samuel/">Samuel <img src="https://i.ibb.co/K99VVxJ/Arrow.png" style="width: 30px !important"></a>
+        </div>
+        <div class="team_card">
+            <img src="https://i.ibb.co/B2SjLLT/Shaping-Hearts-Artist-Simeon-04.jpg">
+            <a href="/simeon/">Simeon <img src="https://i.ibb.co/K99VVxJ/Arrow.png" style="width: 30px !important"></a>
+        </div>
+        <div class="team_card">
+            <img src="https://i.ibb.co/B4dqK81/Alex-Lim.jpg">
+            <a href="/alex-lim/">Alex Lim <img src="https://i.ibb.co/K99VVxJ/Arrow.png" style="width: 30px !important"> </a>
+        </div>
+        <div class="team_card">
+            <img src="https://i.ibb.co/w7GMVNX/Gary-Chong.jpg">
+            <a href="/gary-chong/">Gary Chong <img src="https://i.ibb.co/K99VVxJ/Arrow.png" style="width: 30px !important"></a>
+        </div>
+        <div class="team_card">
+            <img src="https://i.ibb.co/n1HZZGc/Leong-Sijun.png">
+            <a href="/leong-sijun/">Leong Sijun <img src="https://i.ibb.co/K99VVxJ/Arrow.png" style="width: 30px !important"></a>
+        </div>
+        <div class="team_card">
+            <img src="https://i.ibb.co/7gQFvV5/Ng-Jun-Yao.jpg">
+            <a href="/ng-jun-yao/">Ng Jun Yao <img src="https://i.ibb.co/K99VVxJ/Arrow.png" style="width: 30px !important"></a>
+        </div>
+        <div class="team_card">
+            <img src="https://i.ibb.co/ZLg3w39/Vincent-Seet.jpg">
+            <a href="/vincent-seet/">Vincent Seet <img src="https://i.ibb.co/K99VVxJ/Arrow.png" style="width: 30px !important"></a>
+        </div>
+        <div class="team_card">
+            <img src="https://i.ibb.co/YRhbDcZ/randy-wah.jpg">
+            <a href="/randy-wah/">Randy Wah <img src="https://i.ibb.co/K99VVxJ/Arrow.png" style="width: 30px !important"></a>
+        </div>
+        <div class="team_card">
+            <img src="https://i.ibb.co/jG8vzVP/Christopher-Daniel-Widjaja.jpg">
+            <a href="/christopher-daniel-widjaja/">Christopher Daniel Widjaja <img src="https://i.ibb.co/K99VVxJ/Arrow.png" style="width: 30px !important"></a>
+        </div>
+        <div class="team_card">
+            <img src="https://i.ibb.co/ChhYSQB/Christopher-Tey-Rui-Fang.jpg">
+            <a href="/christopher-tey-rui-fang/">Christopher Tey Rui Fang <img src="https://i.ibb.co/K99VVxJ/Arrow.png" style="width: 30px !important"></a>
+        </div>
+        <div class="team_card">
+            <img src="https://i.ibb.co/g9LG697/Elijah-Goh.jpg">
+            <a href="/elijah-goh/">Elijah Goh <img src="https://i.ibb.co/K99VVxJ/Arrow.png" style="width: 30px !important"></a>
+        </div>
+        <div class="team_card">
+            <img src="https://i.ibb.co/MPxbNvj/Evan-Goh.jpg">
+            <a href="/evan-goh/">Evan Goh <img src="https://i.ibb.co/K99VVxJ/Arrow.png" style="width: 30px !important"></a>
+        </div>
+        <div class="team_card">
+            <img src="https://i.ibb.co/Wt4hcT8/Isabella-Grace-Wilfred.jpg">
+            <a href="/isabella-grace-wilfred-izzy/">Isabella Grace Wilfred (Izzy) <img src="https://i.ibb.co/K99VVxJ/Arrow.png" style="width: 30px !important"></a>
+        </div>
+        <div class="team_card">
+            <img src="https://i.ibb.co/yyMX5w5/Joshua-Wang.jpg">
+            <a href="/joshua-wang-yu-hui/">Joshua Wang Yu Hui <img src="https://i.ibb.co/K99VVxJ/Arrow.png" style="width: 30px !important"></a>
+        </div>
+        <div class="team_card">
+            <img src="https://i.ibb.co/FDGzwp8/Linda-Wong.jpg">
+            <a href="/linda-wong-pui-see/">Linda Wong Pui See <img src="https://i.ibb.co/K99VVxJ/Arrow.png" style="width: 30px !important"></a>
+        </div>
+        <div class="team_card">
+            <img src="https://i.ibb.co/D89KsF6/Rayden-Yeow.jpg">
+            <a href="/rayden-yeow/">Rayden Yeow <img src="https://i.ibb.co/K99VVxJ/Arrow.png" style="width: 30px !important"></a>
+        </div>
       </div>
       </div>
       </div>
-      </div></section>
+      
+      </section>
   
   <section class="section partners">
     <div class="canvass canvas">
