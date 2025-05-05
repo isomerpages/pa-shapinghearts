@@ -798,6 +798,7 @@ body    .insta{
                     <h3>SILVER</h3><br>
                     <div class="sponsors_grid">
                         <img src="https://i.ibb.co/JH1k3qJ/IMG-3520.png">
+                        <h2><span style="color:#000; font-size:18px">Mr Kim Wah Boon</span></h2>
                     </div>
                     <div class="text-center mt-5">
                         <h3>BRONZE</h3><br>

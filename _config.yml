@@ -1,5 +1,5 @@
 title: Shaping Hearts
-url: https://shapinghearts.sg
+url: https://shapinghearts.cdc.gov.sg
 favicon: /images/favicon_32x32.png
 colors:
   primary-color: "#c5242f"
@@ -54,5 +54,5 @@ prod: https://master.d2d4qnv3td402n.amplifyapp.com
 facebook-pixel: ""
 shareicon: /images/NECDC_Shaping_Hearts__Logo_Full_Colour_RGB_main_logo.jpg
 is_government: false
-google_analytics_ga4: G-64Y87LJS7H
+google_analytics_ga4: G-GJTMV154KH
 linkedin-insights: ""
