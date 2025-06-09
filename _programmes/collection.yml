@@ -2,6 +2,7 @@ collections:
   programmes:
     output: true
     order:
+      - Art Exhibitions/Suntec City.md
       - Art Exhibitions/.keep
       - Art Exhibitions/Art Exhibition.md
       - Art Exhibitions/Gardens By The Bay.md
