@@ -2,5 +2,4 @@ collections:
   programmes:
     output: true
     order:
-      - Gardens By The Bay/.keep
       - Art Exhibition.md
