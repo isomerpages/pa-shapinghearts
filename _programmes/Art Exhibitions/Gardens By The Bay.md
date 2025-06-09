@@ -101,13 +101,97 @@ third_nav_title: Art Exhibitions
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>24 June 2025, Tuesday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>12;00pm - 01:30pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Tanjong Pagar MRT</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Kok Tuck Chong (MFPA)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>25 June 2025, Wednesday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>12:00pm - 01:30pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Esplanade MRT</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Grace Ong (Artzillions)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>26 June 2025, Thursday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>12:00pm - 01:30pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Esplanade MRT</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Nathan Choy (Artzillions)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>27 June 2025, Friday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>11:00am - 12:30pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Bayfront MRT</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ng Siang Hoi (FDS)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>28 June 2025, Saturday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>11:00am - 12:30pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Bayfront MRT</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Leong Sijun (Artzillions)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>28 June 2025, Saturday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>11:00am - 12:30pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Gardens by The Bay</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Gary Chong (Artzillions)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>29 June 2025, Sunday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>11:00am - 12:30pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Bayfront MRT</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -115,44 +199,16 @@ third_nav_title: Art Exhibitions
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>29 June 2025, Sunday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>11:00am - 12:30pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Gardens by The Bay</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>Moy Saw Han</p>
 </td>
 </tr>
 </tbody>
