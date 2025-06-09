@@ -644,7 +644,7 @@ body    .insta{
                     </div>
                     <div class="story_card">
                         <p class="text-gray">More than</p>
-                        <h1>500</h1>
+                        <h1>600</h1>
                         <p class="text-gray">
                             paintings
                         </p>
@@ -658,7 +658,7 @@ body    .insta{
                     </div>
                     <div class="story_card">
                         <p class="text-gray">More than</p>
-                        <h1>4 million</h1>
+                        <h1>5 million</h1>
                         <p class="text-gray">
                             public engagements
                         </p>
