@@ -2,6 +2,7 @@ collections:
   programmes:
     output: true
     order:
+      - Art Exhibitions/Our Tampines Hub.md
       - Art Exhibitions/NDP Heartlands.md
       - Art Exhibitions/Suntec City.md
       - Art Exhibitions/.keep
