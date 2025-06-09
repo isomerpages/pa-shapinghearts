@@ -2,6 +2,6 @@ collections:
   programmes:
     output: true
     order:
-      - Art Exhibitions/Gardens By The Bay.md
-      - Art Exhibitions/Art Exhibition.md
       - Art Exhibitions/.keep
+      - Art Exhibitions/Art Exhibition.md
+      - Art Exhibitions/Gardens By The Bay.md
