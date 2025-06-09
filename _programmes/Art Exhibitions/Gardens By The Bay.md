@@ -357,10 +357,9 @@ creative expressions.</p>
 <p>Visitors can also explore various fringe activities and merchandise booths,
 with every purchase supporting and empowering our amazing artists with
 disabilities.</p>
-<h4>Fringe Activities</h4>
-<table style="minWidth: 125px">
+<h4>Fringe Activities @ Bayfront MRT</h4>
+<table style="minWidth: 100px">
 <colgroup>
-<col>
 <col>
 <col>
 <col>
@@ -373,9 +372,6 @@ disabilities.</p>
 </th>
 <th rowspan="1" colspan="1">
 <p>Time</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Location</p>
 </th>
 <th rowspan="1" colspan="1">
 <p>Activity</p>
@@ -392,9 +388,6 @@ disabilities.</p>
 <p>11:00am - 05:00pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Bayfront MRT</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Coaster Making</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -409,36 +402,41 @@ disabilities.</p>
 <p>11:00am - 05:00pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Bayfront MRT</p>
+<p>Tote Bag and Mug Printing</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Artzillions</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>22 June, Sunday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>11:00am - 05:00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Coaster Making</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>TOUCH Community</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>22 June, Sunday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>11:00am - 05:00pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Tote Bag and Mug Printing</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Artzillions</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
@@ -465,31 +463,8 @@ disabilities.</p>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
