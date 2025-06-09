@@ -5,29 +5,13 @@ variant: tiptap
 description: ""
 third_nav_title: Art Exhibitions
 ---
-<h4><strong>Shaping Hearts is back bigger and greater than ever!</strong> Join us to appreciate and support the works of artists with disabilities. Engage in experiential activities that simulate disabilities, fostering a deeper understanding of their world. Proceeds from the sale of paintings goes to a good cause of supporting artists with disabilities.<strong> </strong>Explore over 500 paintings at our exhibition, also available for purchase <a href="https://shop.shapinghearts.sg/" rel="noopener nofollow" target="_blank">here</a>.</h4>
-<h4><strong>MAIN EXHIBITION:</strong></h4>
-<p><strong>Our Tampines Hub, 19 October to 3 November, 10am to 9pm</strong>
-</p>
-<p><strong>[Available throughout exhibition]</strong>
-</p>
-<p><strong>Mouth Painting Tryout: </strong>Experience firsthand the challenges
-faced by person with physical disabilities as you create art using your
-mouth, gaining a deeper appreciation of their artistic journey.</p>
-<p><strong>Sensory Pods and Experiential Activities: </strong>Step into an
-immersive environment that helps you understand the sensory experiences
-and challenges people with autism face. Participate in hands-on activities
-to learn how persons with various disabilities navigate their creative
-process.</p>
-<p><strong>[Available on selected days]</strong>
-</p>
-<p><strong>Heartbox by the creators of ARTBOX (19 Oct – 24 Oct, 11am to 9pm): </strong>Support
-our Social Service Agencies (SSAs) and artists with disabilities by purchasing
-unique merchandise and local F&amp;B items. All proceeds will go to support
-participating SSAs and artists with disabilities.</p>
-<p><strong>Art for Everyone: </strong>Enjoy hands-on activities like Nagomi
-Bookmarks, Twist Stick Art, Craft for Kids, Suncatchers, Batik Painting,
-and Towel Handcraft. Refer to activities schedule below.</p>
+<p><strong>Shaping Hearts is back bigger and greater than ever!</strong> Join
+us to appreciate and support the works of artists with disabilities. Engage
+in experiential activities that simulate disabilities, fostering a deeper
+understanding of their world. Explore over 500 paintings at our exhibition,
+also available for purchase here. Proceeds from the sale of paintings go
+to a good cause of supporting artists with disabilities.</p>
+<h4><strong>UPCOMING EXHIBITIONS:</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -78,17 +62,7 @@ and Towel Handcraft. Refer to activities schedule below.</p>
 </tr>
 </tbody>
 </table>
-<p></p>
-<h4><strong>ROVING EXHIBITION:</strong></h4>
-<p><strong>NDP Heartlands Celebration in North East @ Punggol Field, 10 August, 4pm to 9pm</strong>
-</p>
-<p><strong>Sengkang Grand Mall, 29 August - 1 September, 10am to 9pm</strong>
-</p>
-<p><strong>Suntec City, 23 September - 29 September, 10am to 9pm</strong>
-</p>
-<p></p>
-<hr>
-<p></p>
+<h4></h4>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
