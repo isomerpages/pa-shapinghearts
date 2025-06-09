@@ -5,8 +5,12 @@ variant: tiptap
 description: ""
 third_nav_title: Art Exhibitions
 ---
-<p></p>
-<h4>Live Painting Sessions:</h4>
+<p>Experience the first-ever Shaping Hearts exhibition at Gardens by the
+Bay and Bayfront MRT station! This showcase features a stunning collection
+of artworks by artists with disabilities, celebrating their talents and
+creative expressions.</p>
+<p>Watch our artists in action through live painting demonstrations and performances.</p>
+<h4>Live Painting Sessions</h4>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
@@ -194,7 +198,7 @@ third_nav_title: Art Exhibitions
 <p>Bayfront MRT</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Muhammad Naufal (Artzillions)</p>
 </td>
 </tr>
 <tr>
@@ -209,6 +213,115 @@ third_nav_title: Art Exhibitions
 </td>
 <td rowspan="1" colspan="1">
 <p>Moy Saw Han</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h4>Performances</h4>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>Visitors can also explore various fringe activities and merchandise booths,
+with every purchase supporting and empowering our amazing artists with
+disabilities.</p>
+<h4>Fringe Activities</h4>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
