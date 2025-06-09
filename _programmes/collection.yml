@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - Art Exhibitions/.keep
-      - Art Exhibitions/Art Exhibition.md
+      - Art Exhibitions/About.md
       - Art Exhibitions/Gardens By The Bay.md
       - Art Exhibitions/Suntec City.md
       - Art Exhibitions/NDP Heartlands.md
