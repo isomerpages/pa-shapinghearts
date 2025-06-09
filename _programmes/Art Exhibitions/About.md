@@ -36,28 +36,44 @@ and Towel Handcraft. Refer to activities schedule below.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong>Exhibition</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
 <p><strong>Date</strong>
 </p>
 </td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
-<p><strong>Art Activities</strong>
-</p>
+<p>Gardens by The Bay</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>21 - 29 June 2025 | 10am - 9pm</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>19 Oct – 20 Oct</p>
+<p>Suntec City</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>11am – 9pm</p>
+<p>28 July - 3 August 2025 | 10am - 9pm</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>21 Oct – 24 Oct, 26 Oct, 27 Oct, 31 Oct, 2 Nov, 3 Nov</p>
+<p>NDP Heartlands</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>4pm – 8pm</p>
+<p>10 August 2025 | 5pm - 10pm</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Our Tampines Hub</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>13 - 28 September 2025 | 10am - 9pm</p>
 </td>
 </tr>
 </tbody>
