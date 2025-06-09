@@ -9,8 +9,8 @@ third_nav_title: Art Exhibitions
 us to appreciate and support the works of artists with disabilities. Engage
 in experiential activities that simulate disabilities, fostering a deeper
 understanding of their world. Explore over 500 paintings at our exhibitions,
-also available for purchase on-site. Proceeds from the sale of paintings
-go to a good cause of supporting artists with disabilities.</p>
+available for purchase on-site. Proceeds from the sale of paintings go
+to a good cause of supporting artists with disabilities.</p>
 <h4><strong>UPCOMING EXHIBITIONS:</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
