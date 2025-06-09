@@ -68,21 +68,21 @@ third_nav_title: Art Exhibitions
 <p>Bayfront MRT</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Reuel Tan (</p>
+<p>Reuel Tan (Extraordinary People), Katy (SAVH)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>22 June 2025, Sunday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>11:00am - 12:30pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Gardens by The Bay</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Christina Lau (MFPA)</p>
 </td>
 </tr>
 <tr>
