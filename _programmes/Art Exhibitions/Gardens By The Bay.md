@@ -35,7 +35,7 @@ creative expressions.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>21 June 2025, Saturday</p>
+<p>21 June, Saturday</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>11:00am - 12:30pm</p>
@@ -49,7 +49,7 @@ creative expressions.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>21 June 2025, Saturday</p>
+<p>21 June, Saturday</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>11:30am - 01:00pm</p>
@@ -63,7 +63,7 @@ creative expressions.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>22 June 2025, Sunday</p>
+<p>22 June, Sunday</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>11:00am - 12:30pm</p>
@@ -77,7 +77,7 @@ creative expressions.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>22 June 2025, Sunday</p>
+<p>22 June, Sunday</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>11:00am - 12:30pm</p>
@@ -91,7 +91,7 @@ creative expressions.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>23 June 2025, Monday</p>
+<p>23 June, Monday</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>12:00pm - 01:30pm</p>
@@ -105,7 +105,7 @@ creative expressions.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>24 June 2025, Tuesday</p>
+<p>24 June, Tuesday</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>12;00pm - 01:30pm</p>
@@ -119,7 +119,7 @@ creative expressions.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>25 June 2025, Wednesday</p>
+<p>25 June, Wednesday</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>12:00pm - 01:30pm</p>
@@ -133,7 +133,7 @@ creative expressions.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>26 June 2025, Thursday</p>
+<p>26 June, Thursday</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>12:00pm - 01:30pm</p>
@@ -147,7 +147,7 @@ creative expressions.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>27 June 2025, Friday</p>
+<p>27 June, Friday</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>11:00am - 12:30pm</p>
@@ -161,7 +161,7 @@ creative expressions.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>28 June 2025, Saturday</p>
+<p>28 June, Saturday</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>11:00am - 12:30pm</p>
@@ -175,7 +175,7 @@ creative expressions.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>28 June 2025, Saturday</p>
+<p>28 June, Saturday</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>11:00am - 12:30pm</p>
@@ -189,7 +189,7 @@ creative expressions.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>29 June 2025, Sunday</p>
+<p>29 June, Sunday</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>11:00am - 12:30pm</p>
@@ -203,7 +203,7 @@ creative expressions.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>29 June 2025, Sunday</p>
+<p>29 June, Sunday</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>11:00am - 12:30pm</p>
@@ -228,44 +228,128 @@ creative expressions.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p></p>
+<p>Date</p>
 </th>
 <th rowspan="1" colspan="1">
-<p></p>
+<p>Time</p>
 </th>
 <th rowspan="1" colspan="1">
-<p></p>
+<p>Location</p>
 </th>
 <th rowspan="1" colspan="1">
-<p></p>
+<p>Performers</p>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>21 June, Saturday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>11:00am - 11:15am</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Bayfront MRT</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Chalmers Wong and Magdalene Ong</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>21 June, Saturday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>11:45am - 12:30pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Gardens by The Bay</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Cheong Her Ching (ART:DIS)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>22 June, Sunday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>01:00pm - 01:45pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Bayfront MRT</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Suhaime (ART:DIS)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>22 June, Sunday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>10:00am - 10:45am</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Gardens by The Bay</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sky Shen</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>28 June, Saturday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>10:00am - 10:45pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Gardens by The Bay</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ParaBeatz Band - Faith Music Centre</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>28 June, Saturday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>01:00pm - 01:45pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Bayfront MRT</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Daniel Ng (ART:DIS)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>29 June, Sunday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>10:00am - 10:45am</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Gardens by The Bay</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Titus Teo</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>29 June, Sunday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>01:00pm - 01:45pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Bayfront MRT</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Azalea Band - Faith Music Centre</p>
 </td>
 </tr>
 </tbody>
@@ -274,8 +358,9 @@ creative expressions.</p>
 with every purchase supporting and empowering our amazing artists with
 disabilities.</p>
 <h4>Fringe Activities</h4>
-<table style="minWidth: 100px">
+<table style="minWidth: 125px">
 <colgroup>
+<col>
 <col>
 <col>
 <col>
@@ -284,17 +369,54 @@ disabilities.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p></p>
+<p>Date</p>
 </th>
 <th rowspan="1" colspan="1">
-<p></p>
+<p>Time</p>
 </th>
 <th rowspan="1" colspan="1">
-<p></p>
+<p>Location</p>
 </th>
 <th rowspan="1" colspan="1">
-<p></p>
+<p>Activity</p>
 </th>
+<th rowspan="1" colspan="1">
+<p>Social Service Agency</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>21 June, Saturday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>11:00am - 05:00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Bayfront MRT</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Coaster Making</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>TOUCH Community</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>21 June, Saturday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>11:00am - 05:00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Bayfront MRT</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tote Bag and Mug Printing</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -309,8 +431,65 @@ disabilities.</p>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
