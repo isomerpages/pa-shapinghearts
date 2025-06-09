@@ -87,6 +87,62 @@ third_nav_title: Art Exhibitions
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>23 June 2025, Monday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>12:00pm - 01:30pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tanjong Pagar MRT</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Aaron Yeo (MFPA)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
