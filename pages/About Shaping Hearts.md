@@ -651,7 +651,7 @@ body    .insta{
                     </div>
                     <div class="story_card">
                         <p class="text-gray">Over</p>
-                        <h1>30</h1>
+                        <h1>27</h1>
                         <p class="text-gray">
                             SSAs and agencies
                         </p>
