@@ -12,7 +12,7 @@ sections:
   - hero:
       title: SHAPING HEARTS
       subtitle: SINGAPORE'S LARGETS INCLUSIVE ARTS FESTIVAL
-      background: /images/hdr_1.jpg
+      background: /images/SH_2025Website_Header.jpg
       key_highlights:
         - title: ABOUT SHAPING HEARTS
           description: Largest Inclusive Arts Event
@@ -35,7 +35,7 @@ sections:
         struggle into hope, and limitations into creativity.
       button: Learn more about Shaping hearts
       url: /about-shaping-hearts
-      image: /images/Header_Image_3.png
+      image: /images/1_450.png
       alt: Image alt text
   - infopic:
       title: Behind the art
@@ -45,7 +45,7 @@ sections:
         make Singapore’s largest inclusive arts festival possible.
       button: DISCOVER OUR HEARTISTS
       url: /heartists-and-partners/
-      image: /images/Header_Image_2.png
+      image: /images/3_450.png
       alt: Image alt text
   - infobar:
       title: The Largest Inclusive Arts Event in Singapore
