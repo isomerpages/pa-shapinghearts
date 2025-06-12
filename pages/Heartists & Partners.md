@@ -385,7 +385,7 @@ description: ""
             <p>Discover the talented Heartists behind the masterpieces and the dedicated partners who have collaborated and supported their journey. Each piece of art they create tells a profound story—a tale of hardship, resilience, triumph, and hope.</p>
         </div>
         <div class="hero_right">
-            <img src="https://i.ibb.co/gzGc84Z/Partners-1.png">
+            <img src="https://i.ibb.co/B20TdxHH/Header-Image-1.png">
         </div>
     </div>
   </section>
