@@ -5,12 +5,11 @@ variant: tiptap
 description: ""
 third_nav_title: Art Exhibitions
 ---
-<p><strong>Shaping Hearts is back bigger and greater than ever!</strong> Join
-us to appreciate and support the works of artists with disabilities. Engage
-in experiential activities that simulate disabilities, fostering a deeper
-understanding of their world. Explore over 500 paintings at our exhibitions,
-available for purchase on-site. Proceeds from the sale of paintings go
-to a good cause of supporting artists with disabilities.</p>
+<h4><strong>Shaping Hearts is back. Bigger, bolder, and better than ever.</strong></h4>
+<p>Step into Singapore’s largest inclusive arts event and experience the
+remarkable works of artists with disabilities while engaging in immersive
+activities that offer glimpses into their world. All artworks are available
+for purchase, and proceeds go toward supporting artists with disabilities.</p>
 <h4><strong>UPCOMING EXHIBITIONS:</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
@@ -30,34 +29,24 @@ to a good cause of supporting artists with disabilities.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Gardens by The Bay</p>
+<p>Main Exhibition</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>21 - 29 June 2025 | 10am - 9pm</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Suntec City</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>28 July - 3 August 2025 | 10am - 9pm</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>NDP Heartlands</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>10 August 2025 | 5pm - 10pm</p>
-</td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <p>Our Tampines Hub</p>
+<p>13 Sep - 28 Sep 2025</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Roving Exhibition</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>13 - 28 September 2025 | 10am - 9pm</p>
+<p>Bayfront MRT &amp; Gardens by the Bay</p>
+<p>16 June - 28 June 2025</p>
+<p></p>
+<p>Promenade MRT &amp; Suntec City</p>
+<p>28 July - 3 Aug 2025</p>
+<p></p>
 </td>
 </tr>
 </tbody>
