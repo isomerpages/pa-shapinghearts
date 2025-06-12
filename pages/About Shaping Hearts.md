@@ -605,13 +605,11 @@ body    .insta{
         <div class="events_flex canvas">
             <div class="event_left mt-5 section">
                 <h1 class="main_heading">
-                    SINGAPORE'S LARGEST<br>
-                    INCLUSIVE<br>
-                    ARTS FESTIVAL
+                    Singapore's Largest<br>
+                    Inclusive<br>
+                    Arts Festival
                 </h1>
-                <p>What gives art meaning? Is it the artist behind the art? Is it the way it’s created? Or is it
-                    meaningful because it speaks to you? Sometimes, we don’t need to find meaning in art - it’s already
-                    there.</p>
+                <p>Celebrating meaningful art made by artists with disabilities.</p>
                 <div class="flex justify-between mt-5">
                     <button class="button bold"><a target="_blank" href="https://shop.shapinghearts.sg/">Shop</a></button>
                                          <button class="button bold"><a target="_blank" href="https://shapinghearts.cdc.gov.sg/art-exhibition/">Visit Event</a></button>
