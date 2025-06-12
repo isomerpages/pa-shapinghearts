@@ -616,7 +616,7 @@ body    .insta{
                 </div>
             </div>
             <div style="z-index: 4000; position: relative;" class="event_right section">
-                <img style="width: 100%;  display: block;" src="https://i.ibb.co/FBZbLTf/Homepage-Header-Image.png">
+                <img style="width: 100%;  display: block;" src="https://i.ibb.co/5WRj1Gc2/Header-Image-4.png">
             </div>
         </div>
     </section>
