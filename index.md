@@ -12,7 +12,7 @@ sections:
   - hero:
       title: SHAPING HEARTS
       subtitle: SINGAPORE'S LARGETS INCLUSIVE ARTS FESTIVAL
-      background: /images/SH_Website_3.jpg
+      background: /images/SH_2025Website_Header.jpg
       key_highlights:
         - title: ABOUT SHAPING HEARTS
           description: Largest Inclusive Arts Event
@@ -26,25 +26,26 @@ sections:
       variant: image
       alignment: left
       size: md
+      backgroundColor: white
   - infopic:
       title: Discover meaningful art made by people with disabilities
       subtitle: ABOUT SHAPING HEARTS
       id: infopic
-      description: At Shaping Hearts, art by disabled artists is inherently
-        meaningful. Celebrate their talents and find the art that speaks to you.
+      description: Celebrate the strength of artists with disabilities — who turn
+        struggle into hope, and limitations into creativity.
       button: Learn more about Shaping hearts
       url: /about-shaping-hearts
-      image: /images/Infopic_1.png
+      image: /images/1_450.png
       alt: Image alt text
   - infopic:
-      title: Art that tells a thousand stories
+      title: Behind the art
       subtitle: HEARTISTS & PARTNERS
       id: infopic
-      description: What gives art meaning? Is it the artist behind the art? Is it the
-        way it’s created? Or is it meaningful because it speaks to you?
+      description: Meet the faces behind the masterpieces, and the organisations that
+        make Singapore’s largest inclusive arts festival possible.
       button: DISCOVER OUR HEARTISTS
       url: /heartists-and-partners/
-      image: /images/Infopic_2_1.png
+      image: /images/3_450.png
       alt: Image alt text
   - infobar:
       title: The Largest Inclusive Arts Event in Singapore

@@ -2,6 +2,9 @@ collections:
   programmes:
     output: true
     order:
-      - Art Exhibition.md
-      - Stage Performance.md
-      - Heartbox.md
+      - Art Exhibitions/.keep
+      - Art Exhibitions/About.md
+      - Art Exhibitions/Gardens by The Bay.md
+      - Art Exhibitions/Suntec City.md
+      - Art Exhibitions/NDP Heartlands.md
+      - Art Exhibitions/Our Tampines Hub.md
