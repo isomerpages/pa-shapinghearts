@@ -2,6 +2,7 @@ collections:
   partners:
     output: true
     order:
+      - St Andrew's Autism School.md
       - Rainbow Centre Singapore.md
       - MINDSG.md
       - Artzillions.md
