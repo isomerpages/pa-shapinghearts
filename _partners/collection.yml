@@ -2,6 +2,7 @@ collections:
   partners:
     output: true
     order:
+      - Artzillions.md
       - APSN.md
       - AWWA School.md
       - ARTDIS (Singapore) Ltd.md
