@@ -2,6 +2,7 @@ collections:
   heartists:
     output: true
     order:
+      - Archived/Evan Goh.md
       - Archived/Leong Sijun.md
       - Archived/Randy Wah.md
       - Archived/Gary Chong.md
