@@ -60,7 +60,7 @@ description: ""
     /* Layout Components */
     .canvas {
         margin: 0 auto;
-        padding: 0 20px;
+        padding: 0;
     }
     
     .relative {
@@ -195,7 +195,7 @@ description: ""
     .content-container {
         width: 100%;
         margin: 0 auto;
-        padding: 20px;
+        padding: 20px 0;
     }
     
     @media (max-width: 576px) {
