@@ -2,6 +2,7 @@ collections:
   heartists:
     output: true
     order:
+      - Archived/Ezra.md
       - Archived/Ng Jun Yao.md
       - Archived/Moy Saw Han.md
       - Archived/Isabella Grace Wilfred (Izzy).md
