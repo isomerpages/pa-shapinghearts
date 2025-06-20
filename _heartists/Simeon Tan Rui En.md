@@ -1,6 +1,6 @@
 ---
 title: Simeon Tan Rui En
-permalink: /simon-tan-rui-en/
+permalink: /simeon-tan-rui-en/
 variant: markdown
 description: ""
 ---

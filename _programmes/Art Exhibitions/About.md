@@ -41,7 +41,8 @@ for purchase, and proceeds go toward supporting artists with disabilities.</p>
 <p>Roving Exhibition</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Bayfront MRT &amp; Gardens by the Bay</p>
+<p>Bayfront MRT &amp; Gardens by the Bay (Flyer near to Flower Dome Ticket
+Counter)</p>
 <p>16 June - 28 June 2025</p>
 <p></p>
 <p>Promenade MRT &amp; Suntec City</p>

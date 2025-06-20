@@ -59,9 +59,8 @@ description: ""
     
     /* Layout Components */
     .canvas {
-        max-width: 1200px;
         margin: 0 auto;
-        padding: 0 20px;
+        padding: 0;
     }
     
     .relative {
@@ -101,7 +100,7 @@ description: ""
     /* Grid Layout */
     .grid {
         display: grid;
-        grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+        grid-template-columns: repeat(3, 1fr);
         gap: 25px;
         margin-bottom: 60px;
     }
@@ -131,31 +130,6 @@ description: ""
         transition: var(--transition);
     }
     
-    /* Specific positioning for certain images */
-    .card[data-artist="elijah-goh"] img {
-        object-position: center 40%;
-    }
-    
-    .card[data-artist="evan-goh"] img {
-        object-position: center 50%;
-    }
-    
-    .card[data-artist="caden-lee-kai-en"] img {
-        object-position: center 20%;
-    }
-    
-    .card[data-artist="christopher-tey-rui-fang"] img {
-        object-position: center 20%;
-    }
-    
-    .card[data-artist="gabriel-rhed-osea-longid"] img {
-        object-position: center 20%;
-    }
-    
-    .card[data-artist="ling-teck-mong"] img {
-        object-position: center 20%;
-    }
-    
     /* Partner logos should be contained to show the full logo */
     .partners-grid .card img {
         object-fit: contain;
@@ -163,99 +137,12 @@ description: ""
         background-color: var(--white);
     }
     
-    /* Image container for rotated images */
-    .card[data-artist] .img-container {
-        position: relative;
-        height: 300px;
-        overflow: hidden;
-    }
-    
     @media (max-width: 576px) {
         .card[data-artist] .img-container {
             height: 280px;
         }
     }
-    
-    /* Image rotations for specific artists */
-    .card[data-artist="audrey-ang-pei-yu"] .img-container img,
-    .card[data-artist="muhammad-syazwan-bin-rahmat"] .img-container img,
-    .card[data-artist="yap-jia-hui"] .img-container img {
-        transform: rotate(90deg) scale(1.5);
-        object-fit: cover;
-        position: absolute;
-        height: 100%;
-        width: 100%;
-        object-position: center;
-        top: 0;
-        left: 0;
-    }
-    
-    /* General rotation for -90deg images */
-    .card[data-artist="linda-wong-pui-see"] .img-container img,
-    .card[data-artist="simeon-tan-rui-en"] .img-container img {
-        transform: rotate(-90deg) scale(1.5);
-        object-fit: cover;
-        position: absolute;
-        height: 100%;
-        width: 100%;
-        object-position: center 80%;
-        top: 0;
-        left: 0;
-    }
-    
-    /* Special positioning for Linda Wong Pui See - eyes covered by top edge */
-    .card[data-artist="linda-wong-pui-see"] .img-container img {
-        transform: rotate(-90deg) scale(1.1);
-        object-fit: cover;
-        position: absolute;
-        height: 100%;
-        width: 100%;
-        object-position: top center;
-        top: 0;
-        left: 0;
-    }
-    
-    /* Special positioning for Moy Saw Han - eyes covered by top edge */
-    .card[data-artist="moy-saw-han"] .img-container img {
-        transform: rotate(-90deg) scale(1.1);
-        object-fit: cover;
-        position: absolute;
-        height: 100%;
-        width: 100%;
-        object-position: top center;
-        top: 0;
-        left: 0;
-    }
-    
-    /* Special positioning for Muhammad Ridhwan Masli - face covered by top edge */
-    .card[data-artist="muhammad-ridhwan-masli"] .img-container img {
-        transform: rotate(-90deg) scale(1.0);
-        object-fit: cover;
-        position: absolute;
-        height: 100%;
-        width: 100%;
-        object-position: top center;
-        top: 0;
-        left: 0;
-    }
-    
-    /* Special positioning for Simeon Tan Rui En - forehead covered by top edge */
-    .card[data-artist="simeon-tan-rui-en"] .img-container img {
-        object-position: center 40%;
-    }
-    
-    /* Special positioning for Ezra Chan Yi */
-    .card[data-artist="ezra-chan-yi"] .img-container img {
-        transform: rotate(-90deg) scale(1.7);
-        object-fit: cover;
-        position: absolute;
-        height: 100%;
-        width: 100%;
-        object-position: 120% top;
-        top: 0;
-        left: 0;
-    }
-    
+
     .card:hover img {
         filter: brightness(1.05);
     }
@@ -306,47 +193,9 @@ description: ""
     
     /* Content Container */
     .content-container {
-        max-width: 1200px;
+        width: 100%;
         margin: 0 auto;
-        padding: 20px;
-    }
-    
-    /* Responsive Design */
-    @media (max-width: 992px) {
-        h1 {
-            font-size: 2.2rem;
-        }
-        
-        h2 {
-            font-size: 1.8rem;
-        }
-        
-        .grid {
-            grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
-        }
-    }
-    
-    @media (max-width: 768px) {
-        .hero .canvas {
-            flex-direction: column;
-        }
-        
-        .hero_left, .hero_right {
-            width: 100%;
-        }
-        
-        h1 {
-            font-size: 2rem;
-        }
-        
-        h2 {
-            font-size: 1.6rem;
-        }
-        
-        .grid {
-            grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
-            gap: 20px;
-        }
+        padding: 20px 0;
     }
     
     @media (max-width: 576px) {
@@ -359,276 +208,270 @@ description: ""
         }
     }
 </style>
-
 <section class="hero">
-    <div class="canvas relative">
-        <div class="hero_left">
-            <h1>Meet our Heartists and Partners</h1>
-            <p>Discover the talented Heartists behind the masterpieces and the dedicated partners who have collaborated and supported their journey. Each piece of art they create tells a profound story—a tale of hardship, resilience, triumph, and hope.</p>
-        </div>
-        <div class="hero_right">
-            <img alt="Heartists and Partners" src="https://i.ibb.co/B20TdxHH/Header-Image-1.png">
-        </div>
-    </div>
+<div class="canvas relative">
+<div class="hero_left">
+<h1>Meet our Heartists and Partners</h1>
+<p>Discover the talented Heartists behind the masterpieces and the dedicated partners who have collaborated and supported their journey. Each piece of art they create tells a profound story—a tale of hardship, resilience, triumph, and hope.</p>
+</div>
+<div class="hero_right">
+<img src="https://i.ibb.co/B20TdxHH/Header-Image-1.png" alt="Heartists and Partners">
+</div>
+</div>
 </section>
-
 <div class="content-container">
-    <h2 class="section-title">Our Heartists</h2>
-    <div class="grid">
-        <div class="card">
-            <img alt="Aubrey Ang" src="https://i.ibb.co/8n8stPm2/Aubrey-Ang.jpg">
-            <a href="/aubrey-ang/">Aubrey Ang <span class="arrow">→</span></a>
-        </div>
-        <div data-artist="audrey-ang-pei-yu" class="card">
-            <div class="img-container">
-                <img alt="Audrey Ang Pei Yu" src="https://i.ibb.co/nswsmt76/Audrey-Ang-Pei-Yu.jpg">
-            </div>
-            <a href="/audrey-ang-pei-yu/">Audrey Ang Pei Yu <span class="arrow">→</span></a>
-        </div>
-        <div data-artist="caden-lee-kai-en" class="card">
-            <img alt="Caden Lee Kai En" src="https://i.ibb.co/R4Yd728q/Caden-Lee-Kai-En.jpg">
-            <a href="/caden-lee-kai-en/">Caden Lee Kai En <span class="arrow">→</span></a>
-        </div>
-        <div class="card">
-            <img alt="Choy Eu Jun, Julian" src="https://i.ibb.co/398PyJMz/Choy-Eu-Jun-Julian.jpg">
-            <a href="/choy-eu-jun-julian/">Choy Eu Jun, Julian <span class="arrow">→</span></a>
-        </div>
-        <div class="card">
-            <img alt="Christopher Daniel Widjaja" src="https://i.ibb.co/7t5cBn0C/Christopher-Daniel-Widjaja.jpg">
-            <a href="/christopher-daniel-widjaja/">Christopher Daniel Widjaja <span class="arrow">→</span></a>
-        </div>
-        <div data-artist="christopher-tey-rui-fang" class="card">
-            <img alt="Christopher Tey Rui Fang" src="https://i.ibb.co/qMqtP0Lq/Christopher-Tey-Rui-Fang.jpg">
-            <a href="/christopher-tey-rui-fang/">Christopher Tey Rui Fang <span class="arrow">→</span></a>
-        </div>
-        <div data-artist="elijah-goh" class="card">
-            <img alt="Elijah Goh" src="https://i.ibb.co/yBsnfyzt/Elijah-Goh.jpg">
-            <a href="/elijah-goh/">Elijah Goh <span class="arrow">→</span></a>
-        </div>
-        <div data-artist="evan-goh" class="card">
-            <img alt="Evan Goh" src="https://i.ibb.co/ZzrcRr6X/Evan-Goh.jpg">
-            <a href="/evan-goh/">Evan Goh <span class="arrow">→</span></a>
-        </div>
-        <div data-artist="ezra-chan-yi" class="card">
-            <div class="img-container">
-                <img alt="Ezra Chan Yi" src="https://i.ibb.co/TDp8sgCy/Ezra-Chan-Yi.jpg">
-            </div>
-            <a href="/ezra-chan-yi/">Ezra Chan Yi <span class="arrow">→</span></a>
-        </div>
-        <div data-artist="gabriel-rhed-osea-longid" class="card">
-            <img alt="Gabriel Rhed Osea Longid" src="https://i.ibb.co/My6VkYZy/Gabriel-Rhed-Osea-Longid.jpg">
-            <a href="/gabriel-rhed-osea-longid/">Gabriel Rhed Osea Longid <span class="arrow">→</span></a>
-        </div>
-        <div class="card">
-            <img alt="Isabella Grace Wilfred (Izzy)" src="https://i.ibb.co/fc19WHv/Isabella-Grace-Wilfred-Izzy.jpg">
-            <a href="/isabella-grace-wilfred-izzy/">Isabella Grace Wilfred (Izzy) <span class="arrow">→</span></a>
-        </div>
-        <div class="card">
-            <img alt="Janetta Tan" src="https://i.ibb.co/C5v80sjm/Janetta-Tan.jpg">
-            <a href="/janetta-tan/">Janetta Tan <span class="arrow">→</span></a>
-        </div>
-        <div class="card">
-            <img alt="Jonas Teo" src="https://i.ibb.co/v6kbqPpw/Jonas-Teo.jpg">
-            <a href="/jonas-teo/">Jonas Teo <span class="arrow">→</span></a>
-        </div>
-        <div class="card">
-            <img alt="Joshua Wang Yu Hui" src="https://i.ibb.co/67MFHSFn/Joshua-Wang-Yu-Hui.jpg">
-            <a href="/joshua-wang-yu-hui/">Joshua Wang Yu Hui <span class="arrow">→</span></a>
-        </div>
-        <div class="card">
-            <img alt="Alex Lim" src="https://i.ibb.co/7xjHgwYF/Alex-Lim.jpg">
-            <a href="/alex-lim/">Alex Lim <span class="arrow">→</span></a>
-        </div>
-        <div class="card">
-            <img alt="Koh Xin Abraham" src="https://i.ibb.co/DFNSSz0/Koh-Xin-Abraham.jpg">
-            <a href="/koh-xin-abraham/">Koh Xin Abraham <span class="arrow">→</span></a>
-        </div>
-        <div data-artist="linda-wong-pui-see" class="card">
-            <div class="img-container">
-                <img alt="Linda Wong Pui See" src="https://i.ibb.co/sYDstbz/Linda-Wong-Pui-See.jpg">
-            </div>
-            <a href="/linda-wong-pui-see/">Linda Wong Pui See <span class="arrow">→</span></a>
-        </div>
-        <div data-artist="ling-teck-mong" class="card">
-            <img alt="Ling Teck Mong" src="https://i.ibb.co/WvJvp3qT/Ling-Teck-Mong.jpg">
-            <a href="/ling-teck-mong/">Ling Teck Mong <span class="arrow">→</span></a>
-        </div>
-        <div class="card">
-            <img alt="Lucas Teo" src="https://i.ibb.co/WpcCvnZF/Lucas-Teo.jpg">
-            <a href="/lucas-teo/">Lucas Teo <span class="arrow">→</span></a>
-        </div>
-        <div data-artist="moy-saw-han" class="card">
-            <div class="img-container">
-                <img alt="Moy Saw Han" src="https://i.ibb.co/23p34PZP/Moy-Saw-Han.jpg">
-            </div>
-            <a href="/moy-saw-han/">Moy Saw Han <span class="arrow">→</span></a>
-        </div>
-        <div data-artist="muhammad-ridhwan-masli" class="card">
-            <div class="img-container">
-                <img alt="Muhammad Ridhwan Masli" src="https://i.ibb.co/Kcw22L29/Muhammad-Ridhwan-Masli.jpg">
-            </div>
-            <a href="/muhammad-ridhwan-masli/">Muhammad Ridhwan Masli <span class="arrow">→</span></a>
-        </div>
-        <div data-artist="muhammad-syazwan-bin-rahmat" class="card">
-            <div class="img-container">
-                <img alt="Muhammad Syazwan Bin Rahmat" src="https://i.ibb.co/DH3g8TNY/Muhammad-Syazwan-Bin-Rahmat.jpg">
-            </div>
-            <a href="/muhammad-syazwan-bin-rahmat/">Muhammad Syazwan Bin Rahmat <span class="arrow">→</span></a>
-        </div>
-        <div class="card">
-            <img alt="Ng Jun Yao" src="https://i.ibb.co/dsz1pXX9/Ng-Jun-Yao.jpg">
-            <a href="/ng-jun-yao/">Ng Jun Yao <span class="arrow">→</span></a>
-        </div>
-        <div class="card">
-            <img alt="Nur Amalina Binte Rahmat" src="https://i.ibb.co/Zv425CQ/Nur-Amalina-Binte-Rahmat.jpg">
-            <a href="/nur-amalina-binte-rahmat/">Nur Amalina Binte Rahmat <span class="arrow">→</span></a>
-        </div>
-        <div class="card">
-            <img alt="Ong Chee Hwee" src="https://i.ibb.co/6R5wmXxJ/Ong-Chee-Hwee.jpg">
-            <a href="/ong-chee-hwee/">Ong Chee Hwee <span class="arrow">→</span></a>
-        </div>
-        <div class="card">
-            <img alt="Serene Keen" src="https://i.ibb.co/LdnRJtjf/Serene-Keen.jpg">
-            <a href="/serene-keen/">Serene Keen <span class="arrow">→</span></a>
-        </div>
-        <div data-artist="simeon-tan-rui-en" class="card">
-            <div class="img-container">
-                <img alt="Simeon Tan Rui En" src="https://i.ibb.co/Csb3R5XW/Simeon-Tan-Rui-En.jpg">
-            </div>
-            <a href="/simeon-tan-rui-en/">Simeon Tan Rui En <span class="arrow">→</span></a>
-        </div>
-        <div class="card">
-            <img alt="Titus Teo" src="https://i.ibb.co/bj7rFrrH/Titus-Teo.jpg">
-            <a href="/titus-teo/">Titus Teo <span class="arrow">→</span></a>
-        </div>
-        <div class="card">
-            <img alt="Vincent Seet (Seet Kie Hong)" src="https://i.ibb.co/YH4H1bp/Vincent-Seet-Seet-Kie-Hong.jpg">
-            <a href="/vincent-seet-kie-hong/">Vincent Seet (Seet Kie Hong) <span class="arrow">→</span></a>
-        </div>
-        <div data-artist="yap-jia-hui" class="card">
-            <div class="img-container">
-                <img alt="Yap Jia Hui" src="https://i.ibb.co/21vpFrys/Yap-Jia-Hui.jpg">
-            </div>
-            <a href="/yap-jia-hui/">Yap Jia Hui <span class="arrow">→</span></a>
-        </div>
-        <div class="card">
-            <img alt="Zayne Pua" src="https://i.ibb.co/1t4zkSFy/Zayne-Pua.jpg">
-            <a href="/zayne-pua/">Zayne Pua <span class="arrow">→</span></a>
-        </div>
-        <div class="card">
-            <img alt="Stanley Lim Min-Chieh" src="https://i.ibb.co/kV3K6Vgq/Lim-Min-Chieh.jpg">
-            <a href="/stanley-lim-min-chieh/">Stanley Lim Min-Chieh <span class="arrow">→</span></a>
-        </div>
-    </div>
-    <h2 class="section-title">Our Partners</h2>
-    <div class="grid partners-grid">
-        <div class="card">
-            <img alt="APSN Katong School" src="https://i.ibb.co/tMjTRhh4/APSN-Katong-School.jpg">
-            <a href="/apsn-katong-school/">APSN Katong School <span class="arrow">→</span></a>
-        </div>
-        <div class="card">
-            <img alt="ARTDIS Singapore Ltd." src="https://i.ibb.co/dwz4x87d/ARTDIS-Singapore-Ltd.jpg">
-            <a href="/artdis-singapore-ltd/">ARTDIS Singapore Ltd. <span class="arrow">→</span></a>
-        </div>
-        <div class="card">
-            <img alt="Artzillions" src="https://i.ibb.co/99kFS3zR/Artzillions.jpg">
-            <a href="/artzillions/">Artzillions <span class="arrow">→</span></a>
-        </div>
-        <div class="card">
-            <img alt="AWWA School" src="https://i.ibb.co/JjQsbGvH/AWWA-School.jpg">
-            <a href="/awwa-school/">AWWA School <span class="arrow">→</span></a>
-        </div>
-        <div class="card">
-            <img alt="Bethesda CARE Centre" src="https://i.ibb.co/xtqk5Z32/Bethesda-CARE-Centre.jpg">
-            <a href="/bethesda-care-centre/">Bethesda CARE Centre <span class="arrow">→</span></a>
-        </div>
-        <div class="card">
-            <img alt="Bizlink Centre Singapore Ltd" src="https://i.ibb.co/bRsgzVfn/Bizlink-Centre-Singapore-Ltd.jpg">
-            <a href="/bizlink-centre-singapore/">Bizlink Centre Singapore Ltd <span class="arrow">→</span></a>
-        </div>
-        <div class="card">
-            <img alt="Cerebral Palsy Alliance Singapore (CPAS GROW)" src="https://i.ibb.co/qMSPk60B/Cerabral-Palsy-Alliance-Singapore-CPAS-GROW.jpg">
-            <a href="/cerebral-palsy-alliance-singapore-cpas-grow/">Cerebral Palsy Alliance Singapore (CPAS GROW) <span class="arrow">→</span></a>
-        </div>
-        <div class="card">
-            <img alt="Cerebral Palsy Alliance Singapore (CPAS School)" src="https://i.ibb.co/qMSPk60B/Cerabral-Palsy-Alliance-Singapore-CPAS-GROW.jpg">
-            <a href="/cerebral-palsy-alliance-singapore-cpas-school/">Cerebral Palsy Alliance Singapore (CPAS School) <span class="arrow">→</span></a>
-        </div>
-        <div class="card">
-            <img alt="Christian Outreach to the Handicapped" src="https://i.ibb.co/j9wX69s7/Christian-Outreach-to-the-Handicapped.jpg">
-            <a href="/christian-outreach-to-the-handicapped/">Christian Outreach to the Handicapped <span class="arrow">→</span></a>
-        </div>
-        <div class="card">
-            <img alt="Extraordinary People Limited" src="https://i.ibb.co/XZkWJkVT/Extraordinary-People-Limited.jpg">
-            <a href="/extraordinary-people-limited/">Extraordinary People Limited <span class="arrow">→</span></a>
-        </div>
-        <div class="card">
-            <img alt="Friends of the Disabled Society" src="https://i.ibb.co/Z6n36HfD/Friends-of-the-Disabled-Society.jpg">
-            <a href="/friends-of-the-disabled-society/">Friends of the Disabled Society <span class="arrow">→</span></a>
-        </div>
-        <div class="card">
-            <img alt="Handicaps Welfare Association" src="https://i.ibb.co/PGRCRXK9/Handicaps-Welfare-Association.jpg">
-            <a href="/handicaps-welfare-association/">Handicaps Welfare Association <span class="arrow">→</span></a>
-        </div>
-        <div class="card">
-            <img alt="JOURNEY by TOUCH" src="https://i.ibb.co/bjBtqcHV/JOURNEY-by-TOUCH.jpg">
-            <a href="/journey-by-touch/">JOURNEY by TOUCH <span class="arrow">→</span></a>
-        </div>
-        <div class="card">
-            <img alt="Metta Welfare Association (Arts @ Metta)" src="https://i.ibb.co/6R5grX0m/Metta-Welfare-Association-Arts-Metta.jpg">
-            <a href="/metta-welfare-association/">Metta Welfare Association (Arts @ Metta) <span class="arrow">→</span></a>
-        </div>
-        <div class="card">
-            <img alt="Mouth and Foot Painting Artists" src="https://i.ibb.co/gL1Xd3X1/Mouth-and-Foot-Painting-Artists.jpg">
-            <a href="/mouth-and-foot-painting-artists/">Mouth and Foot Painting Artists <span class="arrow">→</span></a>
-        </div>
-        <div class="card">
-            <img alt="MINDS Satellite Hub (Bukit Batok)" src="https://i.ibb.co/dwjT1zKZ/MINDS-Satellite-Hub-Bukit-Batok.jpg">
-            <a href="/minds-satellite-hub-bukit-batok/">MINDS Satellite Hub (Bukit Batok) <span class="arrow">→</span></a>
-        </div>
-        <div class="card">
-            <img alt="MINDS Regional Hub (Hougang)" src="https://i.ibb.co/vCcqbcht/MINDS-Regional-Hub-Hougang.jpg">
-            <a href="/minds-regional-hub-hougang/">MINDS Regional Hub (Hougang) <span class="arrow">→</span></a>
-        </div>
-        <div class="card">
-            <img alt="MINDS Regional Hub (Woodlands)" src="https://i.ibb.co/vCcqbcht/MINDS-Regional-Hub-Hougang.jpg">
-            <a href="/minds-regional-hub-woodlands/">MINDS Regional Hub (Woodlands) <span class="arrow">→</span></a>
-        </div>
-        <div class="card">
-            <img alt="MINDSG" src="https://i.ibb.co/mrXVYMzm/MINDSG.jpg">
-            <a href="/mindsg/">MINDSG <span class="arrow">→</span></a>
-        </div>
-        <div class="card">
-            <img alt="Muscular Dystrophy Association (Singapore)" src="https://i.ibb.co/v6SSDp88/Muscular-Dystrophy-Association-Singapore.jpg">
-            <a href="/muscular-dystrophy-association-singapore/">Muscular Dystrophy Association (Singapore) <span class="arrow">→</span></a>
-        </div>
-        <div class="card">
-            <img alt="Rainbow Centre Singapore" src="https://i.ibb.co/TD2tcWM6/Rainbow-Centre-Singapore.jpg">
-            <a href="/rainbow-centre-singapore/">Rainbow Centre Singapore <span class="arrow">→</span></a>
-        </div>
-        <div class="card">
-            <img alt="Singapore Association for Mental Health" src="https://i.ibb.co/R43DVF6Q/Singapore-Association-for-Mental-Health.jpg">
-            <a href="/singapore-association-for-mental-health/">Singapore Association for Mental Health <span class="arrow">→</span></a>
-        </div>
-        <div class="card">
-            <img alt="Singapore Association of The Visually Handicapped" src="https://i.ibb.co/Jw1Dpzhg/Singapore-Association-of-The-Visually-Handicapped.jpg">
-            <a href="/singapore-association-of-the-visually-handicapped/">Singapore Association of The Visually Handicapped <span class="arrow">→</span></a>
-        </div>
-        <div class="card">
-            <img alt="Singapore Cheshire Home" src="https://i.ibb.co/pv4PJHz9/Singapore-Cheshire-Home.jpg">
-            <a href="/singapore-cheshire-home/">Singapore Cheshire Home <span class="arrow">→</span></a>
-        </div>
-        <div class="card">
-            <img alt="St Andrew's Autism School" src="https://i.ibb.co/hqfnnRK/St-Andrews-Autism-School.jpg">
-            <a href="/st-andrews-autism-school/">St Andrew's Autism School <span class="arrow">→</span></a>
-        </div>
-        <div class="card">
-            <img alt="The Art Faculty" src="https://i.ibb.co/LddB62p9/The-Art-Faculty.png">
-            <a href="/the-art-faculty/">The Art Faculty <span class="arrow">→</span></a>
-        </div>
-        <div class="card">
-            <img alt="Thye Hua Kwan Moral Charities" src="https://i.ibb.co/v4tb8yrh/Thye-Hua-Kwan-Moral-Charities.jpg">
-            <a href="/thye-hua-kwan-moral-charities/">Thye Hua Kwan Moral Charities <span class="arrow">→</span></a>
-        </div>
-    </div>
+<h2 class="section-title">Our Heartists</h2>
+<div class="grid">
+<div class="card">
+<img src="https://i.ibb.co/6JcCLTxw/Aubrey-Ang.jpg" alt="Aubrey Ang">
+<a href="/aubrey-ang/">Aubrey Ang <span class="arrow">→</span></a>
+</div>
+<div data-artist="audrey-ang-pei-yu" class="card">
+<div class="img-container">
+<img src="https://i.ibb.co/4wKcdDvJ/Audrey-Ang-Pei-Yu.jpg" alt="Audrey Ang Pei Yu">
+</div>
+<a href="/audrey-ang-pei-yu/">Audrey Ang Pei Yu <span class="arrow">→</span></a>
+</div>
+<div data-artist="caden-lee-kai-en" class="card">
+<img src="https://i.ibb.co/VpCZc5Zw/Caden-Lee-Kai-En.jpg" alt="Caden Lee Kai En">
+<a href="/caden-lee-kai-en/">Caden Lee Kai En <span class="arrow">→</span></a>
+</div>
+<div class="card">
+<img src="https://i.ibb.co/1t99TnPX/Choy-Eu-Jun-Julian.jpg" alt="Choy Eu Jun, Julian">
+<a href="/choy-eu-jun-julian/">Choy Eu Jun, Julian <span class="arrow">→</span></a>
+</div>
+<div class="card">
+<img src="https://i.ibb.co/0y8rZcs1/Christopher-Daniel-Widjaja.jpg" alt="Christopher Daniel Widjaja">
+<a href="/christopher-daniel-widjaja/">Christopher Daniel Widjaja <span class="arrow">→</span></a>
+</div>
+<div data-artist="christopher-tey-rui-fang" class="card">
+<img src="https://i.ibb.co/7xVP4gR8/Christopher-Tey-Rui-Fang.jpg" alt="Christopher Tey Rui Fang">
+<a href="/christopher-tey-rui-fang/">Christopher Tey Rui Fang <span class="arrow">→</span></a>
+</div>
+<div data-artist="elijah-goh" class="card">
+<img src="https://i.ibb.co/KxzTJGh5/Elijah-Goh.jpg" alt="Elijah Goh">
+<a href="/elijah-goh/">Elijah Goh <span class="arrow">→</span></a>
+</div>
+<div data-artist="evan-goh" class="card">
+<img src="https://i.ibb.co/rK75q4p2/Evan-Goh.jpg" alt="Evan Goh">
+<a href="/evan-goh/">Evan Goh <span class="arrow">→</span></a>
+</div>
+<div data-artist="ezra-chan-yi" class="card">
+<div class="img-container">
+<img src="https://i.ibb.co/YFRDhNW8/Ezra-Chan-Yi.jpg" alt="Ezra Chan Yi">
+</div>
+<a href="/ezra-chan-yi/">Ezra Chan Yi <span class="arrow">→</span></a>
+</div>
+<div data-artist="gabriel-rhed-osea-longid" class="card">
+<img src="https://i.ibb.co/BHjLxgp5/Gabriel-Rhed-Osea-Longid.jpg" alt="Gabriel Rhed Osea Longid">
+<a href="/gabriel-rhed-osea-longid/">Gabriel Rhed Osea Longid <span class="arrow">→</span></a>
+</div>
+<div class="card">
+<img src="https://i.ibb.co/23mzB4FM/Isabella-Grace-Wilfred-Izzy.jpg" alt="Isabella Grace Wilfred (Izzy)">
+<a href="/isabella-grace-wilfred-izzy/">Isabella Grace Wilfred (Izzy) <span class="arrow">→</span></a>
+</div>
+<div class="card">
+<img src="https://i.ibb.co/tpNGQrw3/Janetta-Tan.jpg" alt="Janetta Tan">
+<a href="/janetta-tan/">Janetta Tan <span class="arrow">→</span></a>
+</div>
+<div class="card">
+<img src="https://i.ibb.co/jvZ6ntmk/Jonas-teo.jpg" alt="Jonas Teo">
+<a href="/jonas-teo/">Jonas Teo <span class="arrow">→</span></a>
+</div>
+<div class="card">
+<img src="https://i.ibb.co/dJs4DrY0/Joshua-Wang-Yu-Hui.jpg" alt="Joshua Wang Yu Hui">
+<a href="/joshua-wang-yu-hui/">Joshua Wang Yu Hui <span class="arrow">→</span></a>
+</div>
+<div class="card">
+<img src="https://i.ibb.co/xqtH8pTp/Alex-Lim.jpg" alt="Alex Lim">
+<a href="/alex-lim/">Alex Lim <span class="arrow">→</span></a>
+</div>
+<div class="card">
+<img src="https://i.ibb.co/F4HKrF6W/Koh-Xin-Abraham.jpg" alt="Koh Xin Abraham">
+<a href="/koh-xin-abraham/">Koh Xin Abraham <span class="arrow">→</span></a>
+</div>
+<div data-artist="linda-wong-pui-see" class="card">
+<div class="img-container">
+<img src="https://i.ibb.co/DDSrK4Xt/Linda-Wong-Pui-See.jpg" alt="Linda Wong Pui See">
+</div>
+<a href="/linda-wong-pui-see/">Linda Wong Pui See <span class="arrow">→</span></a>
+</div>
+<div data-artist="ling-teck-mong" class="card">
+<img src="https://i.ibb.co/KzrpWjQ7/Ling-Teck-Mong.jpg" alt="Ling Teck Mong">
+<a href="/ling-teck-mong/">Ling Teck Mong <span class="arrow">→</span></a>
+</div>
+<div class="card">
+<img src="https://i.ibb.co/wNjZWGH0/Lucas-Teo.jpg" alt="Lucas Teo">
+<a href="/lucas-teo/">Lucas Teo <span class="arrow">→</span></a>
+</div>
+<div data-artist="moy-saw-han" class="card">
+<div class="img-container">
+<img src="https://i.ibb.co/XfsxkLSh/Moy-Saw-Han.jpg" alt="Moy Saw Han">
+</div>
+<a href="/moy-saw-han/">Moy Saw Han <span class="arrow">→</span></a>
+</div>
+<div data-artist="muhammad-ridhwan-masli" class="card">
+<div class="img-container">
+<img src="https://i.ibb.co/xtszv4fT/Muhammad-Ridhwan-Masli.jpg" alt="Muhammad Ridhwan Masli">
+</div>
+<a href="/muhammad-ridhwan-masli/">Muhammad Ridhwan Masli <span class="arrow">→</span></a>
+</div>
+<div data-artist="muhammad-syazwan-bin-rahmat" class="card">
+<div class="img-container">
+<img src="https://i.ibb.co/84RMjDxm/Muhammad-Syazwan-Bin-Rahmat.jpg" alt="Muhammad Syazwan Bin Rahmat">
+</div>
+<a href="/muhammad-syazwan-bin-rahmat/">Muhammad Syazwan Bin Rahmat <span class="arrow">→</span></a>
+</div>
+<div class="card">
+<img src="https://i.ibb.co/nsrbcfHK/Ng-Jun-Yao.jpg" alt="Ng Jun Yao">
+<a href="/ng-jun-yao/">Ng Jun Yao <span class="arrow">→</span></a>
+</div>
+<div class="card">
+<img src="https://i.ibb.co/KzRNq9bP/Nur-Amalina-Binte-Rahmat.jpg" alt="Nur Amalina Binte Rahmat">
+<a href="/nur-amalina-binte-rahmat/">Nur Amalina Binte Rahmat <span class="arrow">→</span></a>
+</div>
+<div class="card">
+<img src="https://i.ibb.co/DfKXY89t/Ong-Chee-Hwee.jpg" alt="Ong Chee Hwee">
+<a href="/ong-chee-hwee/">Ong Chee Hwee <span class="arrow">→</span></a>
+</div>
+<div class="card">
+<img src="https://i.ibb.co/bMYjMNXJ/Serene-Keen.jpg" alt="Serene Keen">
+<a href="/serene-keen/">Serene Keen <span class="arrow">→</span></a>
+</div>
+<div data-artist="simeon-tan-rui-en" class="card">
+<div class="img-container">
+<img src="https://i.ibb.co/S4GTwKFD/Simeon-Tan-Rui-En.jpg" alt="Simeon Tan Rui En">
+</div>
+<a href="/simeon-tan-rui-en/">Simeon Tan Rui En <span class="arrow">→</span></a>
+</div>
+<div class="card">
+<img src="https://i.ibb.co/Qj17G4cM/Titus-Teo.jpg" alt="Titus Teo">
+<a href="/titus-teo/">Titus Teo <span class="arrow">→</span></a>
+</div>
+<div class="card">
+<img src="https://i.ibb.co/YH4H1bp/Vincent-Seet-Seet-Kie-Hong.jpg" alt="Vincent Seet (Seet Kie Hong)">
+<a href="/vincent-seet-kie-hong/">Vincent Seet (Seet Kie Hong) <span class="arrow">→</span></a>
+</div>
+<div data-artist="yap-jia-hui" class="card">
+<div class="img-container">
+<img src="https://i.ibb.co/whCbTqNH/Yap-Jia-Hui.jpg" alt="Yap Jia Hui">
+</div>
+<a href="/yap-jia-hui/">Yap Jia Hui <span class="arrow">→</span></a>
+</div>
+<div class="card">
+<img src="https://i.ibb.co/xT8h0tB/Zayne-Pua.jpg" alt="Zayne Pua">
+<a href="/zayne-pua/">Zayne Pua <span class="arrow">→</span></a>
+</div>
+</div>
+<h2 class="section-title">Our Partners</h2>
+<div class="grid partners-grid">
+<div class="card">
+<img src="https://i.ibb.co/tMjTRhh4/APSN-Katong-School.jpg" alt="APSN Katong School">
+<a href="/apsn-katong-school/">APSN Katong School <span class="arrow">→</span></a>
+</div>
+<div class="card">
+<img src="https://i.ibb.co/dwz4x87d/ARTDIS-Singapore-Ltd.jpg" alt="ARTDIS Singapore Ltd.">
+<a href="/artdis-singapore-ltd/">ARTDIS Singapore Ltd. <span class="arrow">→</span></a>
+</div>
+<div class="card">
+<img src="https://i.ibb.co/99kFS3zR/Artzillions.jpg" alt="Artzillions">
+<a href="/artzillions/">Artzillions <span class="arrow">→</span></a>
+</div>
+<div class="card">
+<img src="https://i.ibb.co/JjQsbGvH/AWWA-School.jpg" alt="AWWA School">
+<a href="/awwa-school/">AWWA School <span class="arrow">→</span></a>
+</div>
+<div class="card">
+<img src="https://i.ibb.co/xtqk5Z32/Bethesda-CARE-Centre.jpg" alt="Bethesda CARE Centre">
+<a href="/bethesda-care-centre/">Bethesda CARE Centre <span class="arrow">→</span></a>
+</div>
+<div class="card">
+<img src="https://i.ibb.co/bRsgzVfn/Bizlink-Centre-Singapore-Ltd.jpg" alt="Bizlink Centre Singapore Ltd">
+<a href="/bizlink-centre-singapore/">Bizlink Centre Singapore Ltd <span class="arrow">→</span></a>
+</div>
+<div class="card">
+<img src="https://i.ibb.co/qMSPk60B/Cerabral-Palsy-Alliance-Singapore-CPAS-GROW.jpg" alt="Cerebral Palsy Alliance Singapore (CPAS GROW)">
+<a href="/cerebral-palsy-alliance-singapore-cpas-grow/">Cerebral Palsy Alliance Singapore (CPAS GROW) <span class="arrow">→</span></a>
+</div>
+<div class="card">
+<img src="https://i.ibb.co/qMSPk60B/Cerabral-Palsy-Alliance-Singapore-CPAS-GROW.jpg" alt="Cerebral Palsy Alliance Singapore (CPAS School)">
+<a href="/cerebral-palsy-alliance-singapore-cpas-school/">Cerebral Palsy Alliance Singapore (CPAS School) <span class="arrow">→</span></a>
+</div>
+<div class="card">
+<img src="https://i.ibb.co/j9wX69s7/Christian-Outreach-to-the-Handicapped.jpg" alt="Christian Outreach to the Handicapped">
+<a href="/christian-outreach-to-the-handicapped/">Christian Outreach to the Handicapped <span class="arrow">→</span></a>
+</div>
+<div class="card">
+<img src="https://i.ibb.co/XZkWJkVT/Extraordinary-People-Limited.jpg" alt="Extraordinary People Limited">
+<a href="/extraordinary-people-limited/">Extraordinary People Limited <span class="arrow">→</span></a>
+</div>
+<div class="card">
+<img src="https://i.ibb.co/Z6n36HfD/Friends-of-the-Disabled-Society.jpg" alt="Friends of the Disabled Society">
+<a href="/friends-of-the-disabled-society/">Friends of the Disabled Society <span class="arrow">→</span></a>
+</div>
+<div class="card">
+<img src="https://i.ibb.co/PGRCRXK9/Handicaps-Welfare-Association.jpg" alt="Handicaps Welfare Association">
+<a href="/handicaps-welfare-association/">Handicaps Welfare Association <span class="arrow">→</span></a>
+</div>
+<div class="card">
+<img src="https://i.ibb.co/bjBtqcHV/JOURNEY-by-TOUCH.jpg" alt="JOURNEY by TOUCH">
+<a href="/journey-by-touch/">JOURNEY by TOUCH <span class="arrow">→</span></a>
+</div>
+<div class="card">
+<img src="https://i.ibb.co/6R5grX0m/Metta-Welfare-Association-Arts-Metta.jpg" alt="Metta Welfare Association (Arts @ Metta)">
+<a href="/metta-welfare-association/">Metta Welfare Association (Arts @ Metta) <span class="arrow">→</span></a>
+</div>
+<div class="card">
+<img src="https://i.ibb.co/gL1Xd3X1/Mouth-and-Foot-Painting-Artists.jpg" alt="Mouth and Foot Painting Artists">
+<a href="/mouth-and-foot-painting-artists/">Mouth and Foot Painting Artists <span class="arrow">→</span></a>
+</div>
+<div class="card">
+<img src="https://i.ibb.co/dwjT1zKZ/MINDS-Satellite-Hub-Bukit-Batok.jpg" alt="MINDS Satellite Hub (Bukit Batok)">
+<a href="/minds-satellite-hub-bukit-batok/">MINDS Satellite Hub (Bukit Batok) <span class="arrow">→</span></a>
+</div>
+<div class="card">
+<img src="https://i.ibb.co/vCcqbcht/MINDS-Regional-Hub-Hougang.jpg" alt="MINDS Regional Hub (Hougang)">
+<a href="/minds-regional-hub-hougang/">MINDS Regional Hub (Hougang) <span class="arrow">→</span></a>
+</div>
+<div class="card">
+<img src="https://i.ibb.co/vCcqbcht/MINDS-Regional-Hub-Hougang.jpg" alt="MINDS Regional Hub (Woodlands)">
+<a href="/minds-regional-hub-woodlands/">MINDS Regional Hub (Woodlands) <span class="arrow">→</span></a>
+</div>
+<div class="card">
+<img src="https://i.ibb.co/mrXVYMzm/MINDSG.jpg" alt="MINDSG">
+<a href="/mindsg/">MINDSG <span class="arrow">→</span></a>
+</div>
+<div class="card">
+<img src="https://i.ibb.co/v6SSDp88/Muscular-Dystrophy-Association-Singapore.jpg" alt="Muscular Dystrophy Association (Singapore)">
+<a href="/muscular-dystrophy-association-singapore/">Muscular Dystrophy Association (Singapore) <span class="arrow">→</span></a>
+</div>
+<div class="card">
+<img src="https://i.ibb.co/TD2tcWM6/Rainbow-Centre-Singapore.jpg" alt="Rainbow Centre Singapore">
+<a href="/rainbow-centre-singapore/">Rainbow Centre Singapore <span class="arrow">→</span></a>
+</div>
+<div class="card">
+<img src="https://i.ibb.co/R43DVF6Q/Singapore-Association-for-Mental-Health.jpg" alt="Singapore Association for Mental Health">
+<a href="/singapore-association-for-mental-health/">Singapore Association for Mental Health <span class="arrow">→</span></a>
+</div>
+<div class="card">
+<img src="https://i.ibb.co/Jw1Dpzhg/Singapore-Association-of-The-Visually-Handicapped.jpg" alt="Singapore Association of The Visually Handicapped">
+<a href="/singapore-association-of-the-visually-handicapped/">Singapore Association of The Visually Handicapped <span class="arrow">→</span></a>
+</div>
+<div class="card">
+<img src="https://i.ibb.co/pv4PJHz9/Singapore-Cheshire-Home.jpg" alt="Singapore Cheshire Home">
+<a href="/singapore-cheshire-home/">Singapore Cheshire Home <span class="arrow">→</span></a>
+</div>
+<div class="card">
+<img src="https://i.ibb.co/hqfnnRK/St-Andrews-Autism-School.jpg" alt="St Andrew's Autism School">
+<a href="/st-andrews-autism-school/">St Andrew's Autism School <span class="arrow">→</span></a>
+</div>
+<div class="card">
+<img src="https://i.ibb.co/LddB62p9/The-Art-Faculty.png" alt="The Art Faculty">
+<a href="/the-art-faculty/">The Art Faculty <span class="arrow">→</span></a>
+</div>
+<div class="card">
+<img src="https://i.ibb.co/v4tb8yrh/Thye-Hua-Kwan-Moral-Charities.jpg" alt="Thye Hua Kwan Moral Charities">
+<a href="/thye-hua-kwan-moral-charities/">Thye Hua Kwan Moral Charities <span class="arrow">→</span></a>
+</div>
+</div>
 </div>
