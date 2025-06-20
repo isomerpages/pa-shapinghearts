@@ -86,12 +86,31 @@ description: ""
       
       .team_card{
       position: relative;
+      overflow: hidden; /* Ensures rotated images don't overflow */
       }
       
       .team_card img {
       width: 100% !important;
       border-radius: 15px;
       margin: 0 !important;
+      height: 300px !important; /* Fixed height for consistent aspect ratio */
+      object-fit: cover; /* Ensures the image covers the area without distortion */
+      object-position: center; /* Centers the image */
+      }
+      
+      /* Image rotation classes */
+      .rotate-90 {
+        transform: rotate(90deg) scale(0.8); /* Scale down slightly to fit better */
+        object-fit: contain !important; /* Ensures the entire image is visible */
+        height: 300px !important;
+        transform-origin: center; /* Rotate from the center */
+      }
+      
+      .rotate-neg90 {
+        transform: rotate(-90deg) scale(0.8); /* Scale down slightly to fit better */
+        object-fit: contain !important; /* Ensures the entire image is visible */
+        height: 300px !important;
+        transform-origin: center; /* Rotate from the center */
       }
       
       .team_card a{
@@ -402,7 +421,7 @@ description: ""
             <a href="/aubrey-ang/">Aubrey Ang <img src="https://i.ibb.co/K99VVxJ/Arrow.png" style="width: 30px !important"> </a>
         </div>
         <div class="team_card">
-            <img src="https://i.ibb.co/nswsmt76/Audrey-Ang-Pei-Yu.jpg">
+            <img class="rotate-90" src="https://i.ibb.co/nswsmt76/Audrey-Ang-Pei-Yu.jpg">
             <a href="/audrey-ang-pei-yu/">Audrey Ang Pei Yu <img src="https://i.ibb.co/K99VVxJ/Arrow.png" style="width: 30px !important"> </a>
         </div>
         <div class="team_card">
@@ -430,7 +449,7 @@ description: ""
             <a href="/evan-goh/">Evan Goh <img src="https://i.ibb.co/K99VVxJ/Arrow.png" style="width: 30px !important"> </a>
         </div>
         <div class="team_card">
-            <img src="https://i.ibb.co/TDp8sgCy/Ezra-Chan-Yi.jpg">
+            <img class="rotate-neg90" src="https://i.ibb.co/TDp8sgCy/Ezra-Chan-Yi.jpg">
             <a href="/ezra-chan-yi/">Ezra Chan Yi <img src="https://i.ibb.co/K99VVxJ/Arrow.png" style="width: 30px !important"> </a>
         </div>
         <div class="team_card">
@@ -462,7 +481,7 @@ description: ""
             <a href="/koh-xin-abraham/">Koh Xin Abraham <img src="https://i.ibb.co/K99VVxJ/Arrow.png" style="width: 30px !important"> </a>
         </div>
         <div class="team_card">
-            <img src="https://i.ibb.co/sYDstbz/Linda-Wong-Pui-See.jpg">
+            <img class="rotate-neg90" src="https://i.ibb.co/sYDstbz/Linda-Wong-Pui-See.jpg">
             <a href="/linda-wong-pui-see/">Linda Wong Pui See <img src="https://i.ibb.co/K99VVxJ/Arrow.png" style="width: 30px !important"> </a>
         </div>
         <div class="team_card">
@@ -474,15 +493,15 @@ description: ""
             <a href="/lucas-teo/">Lucas Teo <img src="https://i.ibb.co/K99VVxJ/Arrow.png" style="width: 30px !important"> </a>
         </div>
         <div class="team_card">
-            <img src="https://i.ibb.co/23p34PZP/Moy-Saw-Han.jpg">
+            <img class="rotate-neg90" src="https://i.ibb.co/23p34PZP/Moy-Saw-Han.jpg">
             <a href="/moy-saw-han/">Moy Saw Han <img src="https://i.ibb.co/K99VVxJ/Arrow.png" style="width: 30px !important"> </a>
         </div>
         <div class="team_card">
-            <img src="https://i.ibb.co/Kcw22L29/Muhammad-Ridhwan-Masli.jpg">
+            <img class="rotate-neg90" src="https://i.ibb.co/Kcw22L29/Muhammad-Ridhwan-Masli.jpg">
             <a href="/muhammad-ridhwan-masli/">Muhammad Ridhwan Masli <img src="https://i.ibb.co/K99VVxJ/Arrow.png" style="width: 30px !important"> </a>
         </div>
         <div class="team_card">
-            <img src="https://i.ibb.co/DH3g8TNY/Muhammad-Syazwan-Bin-Rahmat.jpg">
+            <img class="rotate-90" src="https://i.ibb.co/DH3g8TNY/Muhammad-Syazwan-Bin-Rahmat.jpg">
             <a href="/muhammad-syazwan-bin-rahmat/">Muhammad Syazwan Bin Rahmat <img src="https://i.ibb.co/K99VVxJ/Arrow.png" style="width: 30px !important"> </a>
         </div>
         <div class="team_card">
@@ -502,7 +521,7 @@ description: ""
             <a href="/serene-keen/">Serene Keen <img src="https://i.ibb.co/K99VVxJ/Arrow.png" style="width: 30px !important"> </a>
         </div>
         <div class="team_card">
-            <img src="https://i.ibb.co/Csb3R5XW/Simeon-Tan-Rui-En.jpg">
+            <img class="rotate-neg90" src="https://i.ibb.co/Csb3R5XW/Simeon-Tan-Rui-En.jpg">
             <a href="/simeon-tan-rui-en/">Simeon Tan Rui En <img src="https://i.ibb.co/K99VVxJ/Arrow.png" style="width: 30px !important"> </a>
         </div>
         <div class="team_card">
@@ -514,7 +533,7 @@ description: ""
             <a href="/vincent-seet/">Vincent Seet (Seet Kie Hong) <img src="https://i.ibb.co/K99VVxJ/Arrow.png" style="width: 30px !important"> </a>
         </div>
         <div class="team_card">
-            <img src="https://i.ibb.co/21vpFrys/Yap-Jia-Hui.jpg">
+            <img class="rotate-90" src="https://i.ibb.co/21vpFrys/Yap-Jia-Hui.jpg">
             <a href="/yap-jia-hui/">Yap Jia Hui <img src="https://i.ibb.co/K99VVxJ/Arrow.png" style="width: 30px !important"> </a>
         </div>
         <div class="team_card">
