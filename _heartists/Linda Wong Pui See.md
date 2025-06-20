@@ -50,14 +50,18 @@ description: ""
     margin: auto;
     }
     
-    .hero_img{
-    width: 250px !important;
-    height: 250px !important;
+    .hero{
+    width: 100%;
+    }
+        .hero_img{
+    width: 200px !important;
+    height: 200px !important;
     border-radius: 50%;
     object-fit: cover;
     object-position: center;
     display: block;
     margin: 0 auto;
+    transform: rotate(-90deg);
     }
     
     .hero .canvass{
@@ -172,13 +176,14 @@ description: ""
     width: 100%;
     }
         .hero_img{
-    width: 250px !important;
-    height: 250px !important;
+    width: 200px !important;
+    height: 200px !important;
     border-radius: 50%;
     object-fit: cover;
     object-position: center;
     display: block;
     margin: 0 auto;
+    transform: rotate(-90deg);
     }
        body .canvass{
         width: 90% !important;
