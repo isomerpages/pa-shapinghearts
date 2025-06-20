@@ -2,6 +2,7 @@ collections:
   heartists:
     output: true
     order:
+      - Ong Chee Hwee.md
       - Nur Amalina Binte Rahmat.md
       - Ng Yun Yao.md
       - Muhammad Syazwan Bin Rahmat.md
