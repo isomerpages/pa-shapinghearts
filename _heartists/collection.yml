@@ -2,6 +2,7 @@ collections:
   heartists:
     output: true
     order:
+      - Joshua Wang Yu Hui.md
       - Jonas Teo.md
       - Janetta Tan.md
       - Isabella Grace Wilfred (Izzy).md
