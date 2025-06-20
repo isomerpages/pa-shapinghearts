@@ -2,6 +2,7 @@ collections:
   heartists:
     output: true
     order:
+      - Christopher Tey Rui Fang.md
       - Christopher Daniel Widjaja.md
       - Ashley.md
       - Alex Lim.md
