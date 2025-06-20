@@ -305,7 +305,7 @@ description: ""
     
     /* Content Container */
     .content-container {
-        max-width: 1200px;
+        width: 100%;
         margin: 0 auto;
         padding: 20px;
     }
@@ -515,7 +515,7 @@ description: ""
             <a href="/zayne-pua/">Zayne Pua <span class="arrow">→</span></a>
         </div>
     </div>
-    <h2 class="section-title">Our Partners</h2>
+        <h2 class="section-title">Our Partners</h2>
     <div class="grid partners-grid">
         <div class="card">
             <img alt="APSN Katong School" src="https://i.ibb.co/tMjTRhh4/APSN-Katong-School.jpg">
