@@ -2,6 +2,7 @@ collections:
   heartists:
     output: true
     order:
+      - Randy Wah.md
       - Rayden Yeow.md
       - Ng Jun Yao.md
       - Leong Sijun.md
