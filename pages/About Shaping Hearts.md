@@ -683,7 +683,7 @@ description: ""
                     <div style="display: flex; justify-content: center; align-items: center; gap: 30px;" class="sponsors_grid mt-5">
                         <div style="display: flex; align-items: center; justify-content: center;">
                             <img style="margin: 0; vertical-align: middle;" src="https://i.ibb.co/M2RJnK2/Neo-Group-Logo.png">
-                            <span style="color:#000; font-size:18px; margin-left: 30px; display: inline-block; vertical-align: middle;">Kiat Lim</span>
+                            <span style="color:#000; font-size:18px; margin-left: 30px; display: inline-block; vertical-align: middle;">Mr Kiat Lim</span>
                         </div>
                     </div>
                 </div>
