@@ -2,6 +2,7 @@ collections:
   heartists:
     output: true
     order:
+      - Gabriel Rhed Osea Longid.md
       - Ezra Chan Yi.md
       - Evan Goh.md
       - Elijah Goh.md
