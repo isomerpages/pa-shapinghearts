@@ -2,6 +2,7 @@ collections:
   heartists:
     output: true
     order:
+      - Archived/Vincent Seet.md
       - Archived/Simeon.md
       - Archived/Linda Wong Pui See.md
       - Archived/Joshua Wang Yu Hui.md
