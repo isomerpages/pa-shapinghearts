@@ -632,14 +632,14 @@ description: ""
                 <div class="story_grid mt-5">
                     <div class="story_card">
                         <p class="text-gray">Over</p>
-                        <h1>200</h1>
+                        <h1>210</h1>
                         <p class="text-gray">
                             artists
                         </p>
                     </div>
                     <div class="story_card">
                         <p class="text-gray">More than</p>
-                        <h1>600</h1>
+                        <h1>700</h1>
                         <p class="text-gray">
                             paintings
                         </p>

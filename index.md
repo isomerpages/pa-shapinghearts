@@ -51,7 +51,7 @@ sections:
       title: The Largest Inclusive Arts Event in Singapore
       subtitle: SHOP ART & MERCHANDISE
       id: infobar
-      description: Shop over 500 artworks from artists with disabilities.
+      description: Shop over 700 artworks from artists with disabilities.
       button: VISIT SHOP
       url: https://shop.shapinghearts.sg/
 ---
