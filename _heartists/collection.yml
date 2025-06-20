@@ -2,6 +2,7 @@ collections:
   heartists:
     output: true
     order:
+      - Linda Wong Pui See.md
       - Koh Xin Abraham.md
       - Joshua Wang Yu Hui.md
       - Jonas Teo.md
