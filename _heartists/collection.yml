@@ -2,6 +2,7 @@ collections:
   heartists:
     output: true
     order:
+      - Archived/Alex Lim.md
       - Archived/Ashley.md
       - Archived/Evan Goh.md
       - Archived/Leong Sijun.md
