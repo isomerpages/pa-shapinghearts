@@ -1,6 +1,6 @@
 ---
-title: Rayden Yeow
-permalink: /rayden-yeow/
+title: Audrey Ang Pei Yu
+permalink: /audrey-ang-pei-yu/
 variant: markdown
 description: ""
 ---
@@ -39,7 +39,7 @@ description: ""
      margin-left: 0% !important;
     }
 
- body .content h1, body .content h2,body .content h3, body .content h4, body .content h5 {
+ body .content h1, body .content h2,body .content h3, body .content h4, body .content h5 {
  color: black !important;
 }
     
@@ -50,10 +50,15 @@ description: ""
     margin: auto;
     }
     
-    .hero_img{
-    width: 50% !important;
+        .hero_img{
+    width: 200px !important;
+    height: 200px !important;
     border-radius: 50%;
-    height: auto !important;
+    object-fit: cover;
+    object-position: center;
+    display: block;
+    margin: 0 auto;
+    transform: rotate(90deg);
     }
     
     .hero .canvass{
@@ -168,7 +173,14 @@ description: ""
     width: 100%;
     }
         .hero_img{
-    width: 90% !important;
+    width: 200px !important;
+    height: 200px !important;
+    border-radius: 50%;
+    object-fit: cover;
+    object-position: center;
+    display: block;
+    margin: 0 auto;
+    transform: rotate(90deg);
     }
        body .canvass{
         width: 90% !important;
@@ -194,13 +206,9 @@ description: ""
 <section style="width: 100%">
     <div class="canvass">
     <section class="hero">
-        <h1 class="text-center main_heading">Hi! I'm a Heartist<br>Rayden Yeow</h1>
-        <img class="hero_img" src="https://i.ibb.co/D89KsF6/Rayden-Yeow.jpg">
-        <p>
-Rayden, a friendly and always smiling 14-year-old boy, was diagnosed with mild Autism at age 4. His educational journey has been a roller coaster, leading him to leave mainstream school in Primary 2 due to its challenges. Now, a student at Pathlight School, Rayden's confidence has grown, and we celebrate his many small achievements with the excellent support he receives. Despite having learning difficulties, Rayden received multitudes of praises from his music and art teachers.
-        </p>
+        <h1 class="text-center main_heading">Hi! I'm a Heartist<br>Audrey Ang Pei Yu</h1>
+        <img class="hero_img" src="https://i.ibb.co/nswsmt76/Audrey-Ang-Pei-Yu.jpg">
+        <p>While pursuing her path in medicine, Audrey has nurtured a parallel passion for artistic expression that spans multiple creative disciplines. Her self-taught journey in digital art draws particular inspiration from the whimsical rubber hose style of the 1920s. Beyond the digital canvas, she explores her creativity through acrylic painting, pottery, and oil pastels, embracing each medium as an opportunity for growth and discovery. This interplay between her medical career and artistic pursuits offers a unique perspective that enriches both worlds, as she continues to develop her distinctive creative voice.</p>
     </section>
     </div>
-
-    
 </section>

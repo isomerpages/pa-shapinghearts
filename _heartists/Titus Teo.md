@@ -1,6 +1,6 @@
 ---
-title: Elijah Goh
-permalink: /elijah-goh/
+title: Titus Teo
+permalink: /titus-teo/
 variant: markdown
 description: ""
 ---
@@ -39,7 +39,7 @@ description: ""
      margin-left: 0% !important;
     }
 
- body .content h1, body .content h2,body .content h3, body .content h4, body .content h5 {
+ body .content h1, body .content h2,body .content h3, body .content h4, body .content h5 {
  color: black !important;
 }
     
@@ -51,9 +51,13 @@ description: ""
     }
     
     .hero_img{
-    width: 50% !important;
+    width: 250px !important;
+    height: 250px !important;
     border-radius: 50%;
-    height: auto !important;
+    object-fit: cover;
+    object-position: center;
+    display: block;
+    margin: 0 auto;
     }
     
     .hero .canvass{
@@ -168,7 +172,13 @@ description: ""
     width: 100%;
     }
         .hero_img{
-    width: 90% !important;
+    width: 250px !important;
+    height: 250px !important;
+    border-radius: 50%;
+    object-fit: cover;
+    object-position: center;
+    display: block;
+    margin: 0 auto;
     }
        body .canvass{
         width: 90% !important;
@@ -194,13 +204,9 @@ description: ""
 <section style="width: 100%">
     <div class="canvass">
     <section class="hero">
-        <h1 class="text-center main_heading">Hi! I'm a Heartist<br>Elijah Goh</h1>
-        <img class="hero_img" src="https://i.ibb.co/g9LG697/Elijah-Goh.jpg">
-        <p>
-Elijah Goh, diagnosed with Autism Spectrum Disorder.
-        </p>
+        <h1 class="text-center main_heading">Hi! I'm a Heartist<br>Titus Teo</h1>
+        <img class="hero_img" src="https://i.ibb.co/bj7rFrrH/Titus-Teo.jpg">
+        <p>Titus is a young artist living with Immunodeficiency Disorder, requiring lifelong treatment every four weeks, where he spends eight hours in the hospital. Despite the emotional and physical challenges, he uses art as a way to navigate his journey and find strength. Alongside his artistic pursuits, Titus enjoys learning music, currently studying the flute, piano, and Guzheng in his school's CCA program. Through art and music, he expresses himself, finding comfort and hope as he faces the challenges of his condition.</p>
     </section>
     </div>
-
-    
 </section>

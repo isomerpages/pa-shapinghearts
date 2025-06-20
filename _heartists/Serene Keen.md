@@ -1,6 +1,6 @@
 ---
-title: Christopher Tey Rui Fang
-permalink: /christopher-tey-rui-fang/
+title: Serene Keen
+permalink: /serene-keen/
 variant: markdown
 description: ""
 ---
@@ -39,7 +39,7 @@ description: ""
      margin-left: 0% !important;
     }
 
- body .content h1, body .content h2,body .content h3, body .content h4, body .content h5 {
+ body .content h1, body .content h2,body .content h3, body .content h4, body .content h5 {
  color: black !important;
 }
     
@@ -51,9 +51,13 @@ description: ""
     }
     
     .hero_img{
-    width: 50% !important;
+    width: 250px !important;
+    height: 250px !important;
     border-radius: 50%;
-    height: auto !important;
+    object-fit: cover;
+    object-position: center;
+    display: block;
+    margin: 0 auto;
     }
     
     .hero .canvass{
@@ -168,7 +172,13 @@ description: ""
     width: 100%;
     }
         .hero_img{
-    width: 90% !important;
+    width: 250px !important;
+    height: 250px !important;
+    border-radius: 50%;
+    object-fit: cover;
+    object-position: center;
+    display: block;
+    margin: 0 auto;
     }
        body .canvass{
         width: 90% !important;
@@ -194,17 +204,9 @@ description: ""
 <section style="width: 100%">
     <div class="canvass">
     <section class="hero">
-        <h1 class="text-center main_heading">Hi! I'm a Heartist<br>Christopher Tey Rui Fang</h1>
-        <img class="hero_img" src="https://i.ibb.co/ChhYSQB/Christopher-Tey-Rui-Fang.jpg">
-        <p>
-Christopher, a 21-year-old with autism, has discovered a profound passion for painting that has significantly transformed his life over the past seven years. Initially starting with basic shapes, he has progressed to creating intricate acrylic paintings of wildlife on canvas. Art has become more than just a hobby for Christopher; it's a source of relaxation and focus, helping him to slow down, concentrate, and approach tasks with patience and precision. 
- 
-In addition to his artistic endeavors, Christopher is active in both action and speech. He currently works at MINDS, where he showcases his ability to thrive in various aspects of life. He is also involved in training with Soul Food @ Enabling Village, where he works in kitchen operations, preparing food orders, further demonstrating his ability to integrate his skills into practical settings. 
- 
-Christopher excels not only in painting but also in playing tennis and swimming. His journey illustrates the profound impact of art on individuals with autism, highlighting its power to inspire, calm, and transform lives. Through art and his diverse roles, Christopher navigates the world with greater ease and confidence. Follow him on Instagram at @chris.topher_tey
-        </p>
+        <h1 class="text-center main_heading">Hi! I'm a Heartist<br>Serene Keen</h1>
+        <img class="hero_img" src="https://i.ibb.co/LdnRJtjf/Serene-Keen.jpg">
+        <p>Serene Keen (黄金红) is a Calligrapher and Storyteller who weaves her bilingual world—thinking in English and feeling in Chinese—into deeply expressive art. Living in recovery from Schizophrenia, she channels her journey into works that balance order and emotion, echoing the Chinese phrase 序中藏狂 ("wildness within structure"). Serene works with both traditional ink and digital media, exploring themes of connection, nature, and meaning. Mostly self-taught, she is now pursuing formal studies at NAFA and will soon begin a Master's in Arts and Cultural Entrepreneurship at NUS. Through her art and advocacy work at the Singapore Association for Mental Health, Serene continues to inspire others by showing how creativity can be a powerful path to healing and understanding.</p>
     </section>
     </div>
-
-    
 </section>

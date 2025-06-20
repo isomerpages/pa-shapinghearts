@@ -1,6 +1,6 @@
 ---
-title: Evan Goh
-permalink: /evan-goh/
+title: Muhammad Syazwan Bin Rahmat
+permalink: /muhammad-syazwan-bin-rahmat/
 variant: markdown
 description: ""
 ---
@@ -39,7 +39,7 @@ description: ""
      margin-left: 0% !important;
     }
 
- body .content h1, body .content h2,body .content h3, body .content h4, body .content h5 {
+ body .content h1, body .content h2,body .content h3, body .content h4, body .content h5 {
  color: black !important;
 }
     
@@ -51,9 +51,14 @@ description: ""
     }
     
     .hero_img{
-    width: 50% !important;
+    width: 250px !important;
+    height: 250px !important;
     border-radius: 50%;
-    height: auto !important;
+    object-fit: cover;
+    object-position: center;
+    display: block;
+    margin: 0 auto;
+    transform: rotate(90deg);
     }
     
     .hero .canvass{
@@ -168,7 +173,14 @@ description: ""
     width: 100%;
     }
         .hero_img{
-    width: 90% !important;
+    width: 200px !important;
+    height: 200px !important;
+    border-radius: 50%;
+    object-fit: cover;
+    object-position: center;
+    display: block;
+    margin: 0 auto;
+    transform: rotate(90deg);
     }
        body .canvass{
         width: 90% !important;
@@ -194,13 +206,9 @@ description: ""
 <section style="width: 100%">
     <div class="canvass">
     <section class="hero">
-        <h1 class="text-center main_heading">Hi! I'm a Heartist<br>Evan Goh</h1>
-        <img class="hero_img" src="https://i.ibb.co/MPxbNvj/Evan-Goh.jpg">
-        <p>
-Evan Goh, diagnosed with Autism Spectrum Disorder.
-        </p>
+        <h1 class="text-center main_heading">Hi! I'm a Heartist<br>Muhammad Syazwan Bin Rahmat</h1>
+        <img class="hero_img" src="https://i.ibb.co/DH3g8TNY/Muhammad-Syazwan-Bin-Rahmat.jpg">
+        <p>Muhammad Syazwan Bin Rahmat, a 27-year-old home baker of six years, lives with Epilepsy and Major Depressive Disorder (MDD). Aside from baking, he enjoys cooking and singing, which have been his primary creative outlets. Recently, he discovered the therapeutic power of painting, finding it to be a new way to relieve the weight of his challenges. While baking and singing have always been his forms of art, painting offers a unique sense of satisfaction, allowing him to express himself without any "rules." For Syazwan, painting has become another vital tool for healing and personal growth.</p>
     </section>
     </div>
-
-    
 </section>

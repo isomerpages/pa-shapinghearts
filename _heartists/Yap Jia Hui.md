@@ -1,6 +1,6 @@
 ---
-title: Joshua Wang Yu Hui
-permalink: /joshua-wang-yu-hui/
+title: Yap Jia Hui
+permalink: /yap-jia-hui/
 variant: markdown
 description: ""
 ---
@@ -39,7 +39,7 @@ description: ""
      margin-left: 0% !important;
     }
 
- body .content h1, body .content h2,body .content h3, body .content h4, body .content h5 {
+ body .content h1, body .content h2,body .content h3, body .content h4, body .content h5 {
  color: black !important;
 }
     
@@ -50,10 +50,15 @@ description: ""
     margin: auto;
     }
     
-    .hero_img{
-    width: 50% !important;
+        .hero_img{
+    width: 200px !important;
+    height: 200px !important;
     border-radius: 50%;
-    height: auto !important;
+    object-fit: cover;
+    object-position: center;
+    display: block;
+    margin: 0 auto;
+    transform: rotate(90deg);
     }
     
     .hero .canvass{
@@ -168,7 +173,14 @@ description: ""
     width: 100%;
     }
         .hero_img{
-    width: 90% !important;
+    width: 200px !important;
+    height: 200px !important;
+    border-radius: 50%;
+    object-fit: cover;
+    object-position: center;
+    display: block;
+    margin: 0 auto;
+    transform: rotate(90deg);
     }
        body .canvass{
         width: 90% !important;
@@ -194,17 +206,9 @@ description: ""
 <section style="width: 100%">
     <div class="canvass">
     <section class="hero">
-        <h1 class="text-center main_heading">Hi! I'm a Heartist<br>Joshua Wang Yu Hui</h1>
-        <img class="hero_img" src="https://i.ibb.co/yyMX5w5/Joshua-Wang.jpg">
-        <p>
-Joshua is 17 years old. His artistic journey is a powerful testament to transformation and self-expression. Diagnosed with severe autism at the age of 2, he has overcome many challenges to become a talented artist. From a young age, Joshua found his voice through art, with his creativity nurtured by a variety of art teachers, each bringing their unique approach. Over the past three years, his work has evolved remarkably, shifting from dark pencil shading to vibrant shades of blue, his favourite colour. 
- 
-Despite difficulties in cognitive skills, language expression, motor function, eye contact, social interaction, sensory integration, learning, and memory, Joshua has worked tirelessly to overcome these challenges and focus on what he can do to express himself. 
- 
-Joshua’s debut art exhibition in The Oasis at Science Park last October marked a significant milestone, featuring not only his paintings but also merchandise like tote bags and t-shirts printed with his artwork. He is eagerly anticipating the upcoming Shaping Hearts exhibition in November, where he will showcase his latest creations. His film, Joshua Tree, which was nominated for Best Documentary at the London Film Festival and the Berlin Filmhaus Festival in 2023, beautifully captures his artistic evolution and boundless potential. Follow his journey on Instagram at @joshuaaboveautism.
-        </p>
+        <h1 class="text-center main_heading">Hi! I'm a Heartist<br>Yap Jia Hui</h1>
+        <img class="hero_img" src="https://i.ibb.co/21vpFrys/Yap-Jia-Hui.jpg">
+        <p>Living with Autism Spectrum Disorder (ASD), Jia Hui is a young and vibrant artist who finds inspiration in all things cute, lovely, and pink. Known for her distinctive crayon techniques and bold colour choices, her style is both refreshing and unique. Jia Hui's work combines abstract geometric shapes with a modern flair, drawing influence from the Pop Art movement. She creates playful art featuring cute food and objects, often adding quirky expressions to bring them to life.</p>
     </section>
     </div>
-
-    
 </section>

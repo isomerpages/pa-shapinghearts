@@ -1,5 +1,5 @@
 ---
-title: MINDS
+title: MINDS Regional Hub (Hougang)
 permalink: /minds/
 variant: tiptap
 description: ""

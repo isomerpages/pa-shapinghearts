@@ -1,6 +1,6 @@
 ---
-title: Isabella Grace Wilfred (Izzy)
-permalink: /isabella-grace-wilfred-izzy/
+title: Muhammad Ridhwan Masli
+permalink: /muhammad-ridhwan-masli/
 variant: markdown
 description: ""
 ---
@@ -39,7 +39,7 @@ description: ""
      margin-left: 0% !important;
     }
 
- body .content h1, body .content h2,body .content h3, body .content h4, body .content h5 {
+ body .content h1, body .content h2,body .content h3, body .content h4, body .content h5 {
  color: black !important;
 }
     
@@ -50,10 +50,15 @@ description: ""
     margin: auto;
     }
     
-    .hero_img{
-    width: 50% !important;
+        .hero_img{
+    width: 200px !important;
+    height: 200px !important;
     border-radius: 50%;
-    height: auto !important;
+    object-fit: cover;
+    object-position: center;
+    display: block;
+    margin: 0 auto;
+    transform: rotate(-90deg);
     }
     
     .hero .canvass{
@@ -168,7 +173,14 @@ description: ""
     width: 100%;
     }
         .hero_img{
-    width: 90% !important;
+    width: 200px !important;
+    height: 200px !important;
+    border-radius: 50%;
+    object-fit: cover;
+    object-position: center;
+    display: block;
+    margin: 0 auto;
+    transform: rotate(-90deg);
     }
        body .canvass{
         width: 90% !important;
@@ -194,13 +206,9 @@ description: ""
 <section style="width: 100%">
     <div class="canvass">
     <section class="hero">
-        <h1 class="text-center main_heading">Hi! I'm a Heartist<br>Isabella Grace Wilfred (Izzy)</h1>
-        <img class="hero_img" src="https://i.ibb.co/Wt4hcT8/Isabella-Grace-Wilfred.jpg">
-        <p>
-A 17-year-old with Autism Spectrum Disorder/Social Communication Disorder (SCD), Izzy excels as both an artist and musician. With perfect pitch, she plays the piano by ear and studies dance with RAW Moves. Over the past three years, she has honed her art skills, learning to draw and paint with precision in acrylics through weekly lessons.
-        </p>
+        <h1 class="text-center main_heading">Hi! I'm a Heartist<br>Muhammad Ridhwan Masli</h1>
+        <img class="hero_img" src="https://i.ibb.co/Kcw22L29/Muhammad-Ridhwan-Masli.jpg">
+        <p>Born with Pfeiffer Syndrome, Ridhwan began his artistic journey at the age of five with Global Art. His resilience and talent have earned him the Lee Kwan Yew Exemplary Student Award and Most Outstanding Student Award in 2024. Ridhwan's artwork, including the award-winning "Mind Space", which was showcased at the ArtScience Museum, reflects his unique perspective on the world. He has participated in various prestigious competitions and exhibitions, such as UOL X Art:Dis and Shaping Hearts at One Punggol. Through his art, Ridhwan blends creativity and introspection, offering a unique perspective on the world and sharing his journey of self-expression with others.</p>
     </section>
     </div>
-
-    
 </section>

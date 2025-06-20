@@ -4,6 +4,11 @@ permalink: /artzillions/
 variant: tiptap
 description: ""
 ---
+<h3>About Artzillions</h3>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ArtzillionsLogo.png">
+</div>
 <p>Artzillions is a creative platform dedicated to making art accessible,
 enjoyable, and impactful for everyone. They specialise in working with
 individuals with special needs, providing them with opportunities for self-expression,

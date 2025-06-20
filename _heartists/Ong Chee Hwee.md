@@ -1,6 +1,6 @@
 ---
-title: Christopher Daniel Widjaja
-permalink: /christopher-daniel-widjaja/
+title: Ong Chee Hwee
+permalink: /ong-chee-hwee/
 variant: markdown
 description: ""
 ---
@@ -39,7 +39,7 @@ description: ""
      margin-left: 0% !important;
     }
 
- body .content h1, body .content h2,body .content h3, body .content h4, body .content h5 {
+ body .content h1, body .content h2,body .content h3, body .content h4, body .content h5 {
  color: black !important;
 }
     
@@ -51,9 +51,13 @@ description: ""
     }
     
     .hero_img{
-    width: 50% !important;
+    width: 250px !important;
+    height: 250px !important;
     border-radius: 50%;
-    height: auto !important;
+    object-fit: cover;
+    object-position: center;
+    display: block;
+    margin: 0 auto;
     }
     
     .hero .canvass{
@@ -168,7 +172,13 @@ description: ""
     width: 100%;
     }
         .hero_img{
-    width: 90% !important;
+    width: 250px !important;
+    height: 250px !important;
+    border-radius: 50%;
+    object-fit: cover;
+    object-position: center;
+    display: block;
+    margin: 0 auto;
     }
        body .canvass{
         width: 90% !important;
@@ -194,17 +204,9 @@ description: ""
 <section style="width: 100%">
     <div class="canvass">
     <section class="hero">
-        <h1 class="text-center main_heading">Hi! I'm a Heartist<br>Christopher Daniel Widjaja</h1>
-        <img class="hero_img" src="https://i.ibb.co/jG8vzVP/Christopher-Daniel-Widjaja.jpg">
-        <p>
-Daniel, a 19-year-old living with autism, has always harboured a deep passion for animals. His frequent visits to the Singapore Zoo, Bird Paradise, and other animal parks, even during holidays abroad, highlight his dedication. From a young age, Daniel also discovered a love for art, diligently honing his skills through home lessons, online classes, and daily practice. 
- 
-Daniel's commitment has paid off, earning him notable success in art competitions. He won first prize in the youth category of the Building Bonds with Art Competition in 2017 and was selected as a top 10 finalist in #GiveAVoiceSG 2019. His artwork often features motivational quotes, mirroring his family's hope to spread positivity. Art has become a powerful medium for Daniel, helping him channel his thoughts and emotions while inspiring others. 
- 
-As his accolades grew, so did interest in his paintings. A series of his works have been sold at a café in Singapore. Additionally, Daniel sells his hand-painted cards on Instagram under the username @paintwithdaniel, sharing his artistic vision and uplifting messages with a wider audience.
-        </p>
+        <h1 class="text-center main_heading">Hi! I'm a Heartist<br>Ong Chee Hwee</h1>
+        <img class="hero_img" src="https://i.ibb.co/6R5wmXxJ/Ong-Chee-Hwee.jpg">
+        <p>Ong Chee Hwee is a self-taught artist who began painting as a form of therapy and reflection following a stroke in 2020. Despite living with partial body impairment, he found a renewed sense of purpose in art, using it to express his emotions and observations of the world around him. Inspired by nature and life's quiet moments, his works are a testament to resilience and hope. Through his art, Chee Hwee continues to encourage others to find strength, creativity, and meaning in the face of adversity.</p>
     </section>
     </div>
-
-    
 </section>

@@ -1,29 +1,29 @@
 ---
-title: Gary Chong
-permalink: /gary-chong/
+title: Janetta Tan
+permalink: /janetta-tan/
 variant: markdown
 description: ""
 ---
 <style>
     @import url('https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap');
-	
+    
     * {
     margin: 0%;
     padding: 0;
     box-sizing: border-box;
     font-family: "Inter", sans-serif;
     }
-	
-	.bp-container{
-	max-width: 1280px;
-	width: 100%;
-	}
-	
-		.has-float-btns{
-	display:none;
-	}
-	
-	 html {
+    
+    .bp-container{
+    max-width: 1280px;
+    width: 100%;
+    }
+    
+        .has-float-btns{
+    display:none;
+    }
+    
+     html {
  width: 100% !important;
  }
 
@@ -32,33 +32,37 @@ description: ""
  margin-left: 0% !important;
  width: 100% !important;
  }
-	
-	body .col.is-8, 
-	body .col.is-8-tablet{
-	width: 100% !important;
-	 margin-left: 0% !important;
-	}
+    
+    body .col.is-8, 
+    body .col.is-8-tablet{
+    width: 100% !important;
+     margin-left: 0% !important;
+    }
 
- body .content h1, body .content h2,body .content h3, body .content h4, body .content h5 {
+ body .content h1, body .content h2,body .content h3, body .content h4, body .content h5 {
  color: black !important;
 }
-	
+    
     .hero {
     padding: 30px 0px;
     margin-top: -20px;
-	width: 70%;
-	margin: auto;
+    width: 70%;
+    margin: auto;
     }
-	
-	.hero_img{
-	width: 50% !important;
-	border-radius: 50%;
-	height: auto !important;
-	}
-	
-	.hero .canvass{
-	width: 90%;
-	}
+    
+    .hero_img{
+    width: 250px !important;
+    height: 250px !important;
+    border-radius: 50%;
+    object-fit: cover;
+    object-position: center;
+    display: block;
+    margin: 0 auto;
+    }
+    
+    .hero .canvass{
+    width: 90%;
+    }
     
             .bp-section-pagetitle{
         display: none;
@@ -68,18 +72,18 @@ description: ""
         padding: 0px !important;
         }
         
-	
-	.images_grid{
-	 display: grid;
+    
+    .images_grid{
+     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
     gap: 25px;
-	}
+    }
 
-	.images_grid img{
-	width: auto !important;
-	height: auto !important;
-	}
-	
+    .images_grid img{
+    width: auto !important;
+    height: auto !important;
+    }
+    
     /* General */
     body .canvass {
     width: 100%;
@@ -102,13 +106,13 @@ description: ""
     .main_heading {
     font-size: 3.5rem;
     line-height: 1.4;
-	color: black !important;
+    color: black !important;
     }
     
     .main_heading2 {
     font-size: 3rem;
         margin-top: 0 !important;
-	color: black !important;
+    color: black !important;
     }
     
     .section {
@@ -146,10 +150,10 @@ description: ""
     margin-top: 20px;
     }
     
-	.relative{
-	position: relative;
-	}
-	
+    .relative{
+    position: relative;
+    }
+    
     
     .bg_gray {
     background-color: rgba(244, 244, 244, 1);
@@ -160,16 +164,22 @@ description: ""
     }
    
     @media (max-width: 800px) {
-	.images_grid{
-	display: none
-	}
-	
-	.hero{
-	width: 100%;
-	}
-		.hero_img{
-	width: 90% !important;
-	}
+    .images_grid{
+    display: none
+    }
+    
+    .hero{
+    width: 100%;
+    }
+        .hero_img{
+    width: 250px !important;
+    height: 250px !important;
+    border-radius: 50%;
+    object-fit: cover;
+    object-position: center;
+    display: block;
+    margin: 0 auto;
+    }
        body .canvass{
         width: 90% !important;
         margin-left: auto;
@@ -180,28 +190,23 @@ description: ""
     font-size: 2rem;
     }
     }
-	.hero h1{
-	color: black !important;
-	font-weight: bold;
-	}
-	.bp-container .row{
-	width: 100%;
-	margin-left: 0% !important;
-	margin-right: 0% !important;
-	}
-	
+    .hero h1{
+    color: black !important;
+    font-weight: bold;
+    }
+    .bp-container .row{
+    width: 100%;
+    margin-left: 0% !important;
+    margin-right: 0% !important;
+    }
+    
     </style>
 <section style="width: 100%">
-	<div class="canvass">
-	<section class="hero">
-		<h1 class="text-center main_heading">Gary Chong</h1>
-		<img class="hero_img" src="https://i.ibb.co/w7GMVNX/Gary-Chong.jpg">
-		<p>Gary, diagnosed with Intellectual Disability, is a 27-year-old with a unique set of abilities. He has a passion for painting and finds solace in swimming and dance. His cheerful demeanor is infectious, bringing joy to those around him. Gary has a remarkable talent for expressing himself through art and uses his creativity to showcase his perspective of the world. His determination to pursue his passions and interests is truly inspiring. Despite facing challenges, he approaches life with a positive attitude and unwavering spirit. Gary's artistic abilities and love for swimming are just a few of the qualities that make him a remarkable individual.</p>
-	</section>
-	</div>
-
-<div class="images_grid">
-	</div>
-	
-	
+    <div class="canvass">
+    <section class="hero">
+        <h1 class="text-center main_heading">Hi! I'm a Heartist<br>Janetta Tan</h1>
+        <img class="hero_img" src="https://i.ibb.co/C5v80sjm/Janetta-Tan.jpg">
+        <p>Janetta is a mouth painting artist diagnosed with C5/C6 Spinal cord injury after a life-changing car accident in 2010, leaving her paralysed from the chest down. Through mouth painting, she found a way to express herself and regain control. Over time, it has helped her develop patience, precision, and joy, with each stroke of colour symbolising her journey of personal growth and resilience.</p>
+    </section>
+    </div>
 </section>

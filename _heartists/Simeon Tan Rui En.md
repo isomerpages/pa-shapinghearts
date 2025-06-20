@@ -1,6 +1,6 @@
 ---
-title: Linda Wong Pui See
-permalink: /linda-wong-pui-see/
+title: Simeon Tan Rui En
+permalink: /simon-tan-rui-en/
 variant: markdown
 description: ""
 ---
@@ -39,7 +39,7 @@ description: ""
      margin-left: 0% !important;
     }
 
- body .content h1, body .content h2,body .content h3, body .content h4, body .content h5 {
+ body .content h1, body .content h2,body .content h3, body .content h4, body .content h5 {
  color: black !important;
 }
     
@@ -50,10 +50,15 @@ description: ""
     margin: auto;
     }
     
-    .hero_img{
-    width: 50% !important;
+        .hero_img{
+    width: 200px !important;
+    height: 200px !important;
     border-radius: 50%;
-    height: auto !important;
+    object-fit: cover;
+    object-position: center;
+    display: block;
+    margin: 0 auto;
+    transform: rotate(-90deg);
     }
     
     .hero .canvass{
@@ -168,7 +173,14 @@ description: ""
     width: 100%;
     }
         .hero_img{
-    width: 90% !important;
+    width: 200px !important;
+    height: 200px !important;
+    border-radius: 50%;
+    object-fit: cover;
+    object-position: center;
+    display: block;
+    margin: 0 auto;
+    transform: rotate(-90deg);
     }
        body .canvass{
         width: 90% !important;
@@ -194,13 +206,9 @@ description: ""
 <section style="width: 100%">
     <div class="canvass">
     <section class="hero">
-        <h1 class="text-center main_heading">Hi! I'm a Heartist<br>Linda Wong Pui See</h1>
-        <img class="hero_img" src="https://i.ibb.co/FDGzwp8/Linda-Wong.jpg">
-        <p>
-Linda, diagnosed with Autism Spectrum Disorder (ASD), Borderline Personality Disorder (BPD), anxiety disorder, and depression, is a self-taught digital artist using Procreate on an iPad. Art became her means of self-expression and coping during a challenging period, reigniting her passion for drawing and design. Inspired by her dog and personal experiences, especially related to mental health. Linda navigates her own mental health challenges and is on a journey of recovery. She has created artworks for SAMH as their client and established her own brand, HealogyArt, to raise awareness about mental health through modern art and various styles.
-        </p>
+        <h1 class="text-center main_heading">Hi! I'm a Heartist<br>Simeon Tan Rui En</h1>
+        <img class="hero_img" src="https://i.ibb.co/Csb3R5XW/Simeon-Tan-Rui-En.jpg">
+        <p>Meet Simeon Tan Rui En, a talented artist with Autism Spectrum Disorder (ASD), celebrated for his vibrant, imaginative creations that span multiple mediums. Clay, in particular, provides him with a sense of calm and balance. In 2024, Simeon became the proud recipient of the North East CDC Shining Hearts Award, Neo Kah Kiat Arts Award and Liberty Arts Award. A NAFA CLE Visual Arts (2021) graduate with distinction, he has exhibited at Pathlight, ART:DIS and Shaping Hearts 2024. Simeon also left his mark on the Shaping Hearts Placemaking Mural Project in Punggol Digital District. Step into his colourful world of creativity and inspiration!</p>
     </section>
     </div>
-
-    
 </section>
