@@ -59,7 +59,6 @@ description: ""
     
     /* Layout Components */
     .canvas {
-        max-width: 1200px;
         margin: 0 auto;
         padding: 0 20px;
     }
@@ -101,7 +100,7 @@ description: ""
     /* Grid Layout */
     .grid {
         display: grid;
-        grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+        grid-template-columns: repeat(3, 1fr);
         gap: 25px;
         margin-bottom: 60px;
     }
@@ -322,7 +321,7 @@ description: ""
         }
         
         .grid {
-            grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+            grid-template-columns: repeat(3, 1fr);
         }
     }
     
@@ -344,7 +343,7 @@ description: ""
         }
         
         .grid {
-            grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+            grid-template-columns: repeat(3, 1fr);
             gap: 20px;
         }
     }
@@ -516,7 +515,6 @@ description: ""
             <a href="/zayne-pua/">Zayne Pua <span class="arrow">→</span></a>
         </div>
     </div>
-    
     <h2 class="section-title">Our Partners</h2>
     <div class="grid partners-grid">
         <div class="card">
