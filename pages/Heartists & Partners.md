@@ -515,11 +515,8 @@ description: ""
             <img alt="Zayne Pua" src="https://i.ibb.co/1t4zkSFy/Zayne-Pua.jpg">
             <a href="/zayne-pua/">Zayne Pua <span class="arrow">→</span></a>
         </div>
-        <div class="card">
-            <img alt="Stanley Lim Min-Chieh" src="https://i.ibb.co/kV3K6Vgq/Lim-Min-Chieh.jpg">
-            <a href="/stanley-lim-min-chieh/">Stanley Lim Min-Chieh <span class="arrow">→</span></a>
-        </div>
     </div>
+    
     <h2 class="section-title">Our Partners</h2>
     <div class="grid partners-grid">
         <div class="card">
