@@ -2,6 +2,7 @@ collections:
   heartists:
     output: true
     order:
+      - Evan Goh.md
       - Elijah Goh.md
       - Christopher Tey Rui Fang.md
       - Christopher Daniel Widjaja.md
