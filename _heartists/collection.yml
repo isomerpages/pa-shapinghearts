@@ -2,6 +2,7 @@ collections:
   heartists:
     output: true
     order:
+      - Audrey Ang Pei Yu.md
       - Aubrey Ang.md
       - Alex Lim.md
       - Archived/Christopher Daniel Widjaja.md
