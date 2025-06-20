@@ -2,6 +2,7 @@ collections:
   heartists:
     output: true
     order:
+      - Alex Lim.md
       - Archived/Christopher Daniel Widjaja.md
       - Archived/Ezra.md
       - Archived/Ng Jun Yao.md
