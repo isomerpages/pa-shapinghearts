@@ -2,6 +2,7 @@ collections:
   heartists:
     output: true
     order:
+      - Elijah Goh.md
       - Simeon.md
       - Vincent Seet.md
       - Samuel.md
