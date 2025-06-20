@@ -2,6 +2,7 @@ collections:
   heartists:
     output: true
     order:
+      - Joshua Wang Yu Hui.md
       - Moy Saw Han.md
       - Randy Wah.md
       - Rayden Yeow.md
