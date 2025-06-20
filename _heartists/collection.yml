@@ -2,6 +2,7 @@ collections:
   heartists:
     output: true
     order:
+      - Gary Chong.md
       - Joshua Wang Yu Hui.md
       - Moy Saw Han.md
       - Randy Wah.md
