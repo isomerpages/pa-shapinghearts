@@ -2,4 +2,5 @@ collections:
   heartists:
     output: true
     order:
+      - Ashley.md
       - Alex Lim.md
