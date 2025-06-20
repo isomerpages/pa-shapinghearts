@@ -2,6 +2,7 @@ collections:
   heartists:
     output: true
     order:
+      - Simon Tan Rui En.md
       - Serene Keen.md
       - Ong Chee Hwee.md
       - Nur Amalina Binte Rahmat.md
