@@ -2,6 +2,7 @@ collections:
   heartists:
     output: true
     order:
+      - Lucas Teo.md
       - Ling Teck Mong.md
       - Linda Wong Pui See.md
       - Koh Xin Abraham.md
