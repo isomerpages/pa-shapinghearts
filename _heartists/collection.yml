@@ -2,6 +2,7 @@ collections:
   heartists:
     output: true
     order:
+      - Linda Wong Pui See.md
       - Isabella Grace Wilfred (Izzy).md
       - Gary Chong.md
       - Joshua Wang Yu Hui.md
