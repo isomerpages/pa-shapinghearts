@@ -2,5 +2,6 @@ collections:
   heartists:
     output: true
     order:
+      - Christopher Daniel Widjaja.md
       - Ashley.md
       - Alex Lim.md
