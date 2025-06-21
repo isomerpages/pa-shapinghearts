@@ -58,7 +58,7 @@ description: ""
     object-position: center;
     display: block;
     margin: 0 auto;
-    transform: rotate(-90deg);
+    
     }
     
     .hero .canvass{
@@ -74,9 +74,7 @@ description: ""
         }
         
     
-    .images_grid{
-     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    .images_grid{ display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
     gap: 25px;
     }
 
@@ -180,7 +178,7 @@ description: ""
     object-position: center;
     display: block;
     margin: 0 auto;
-    transform: rotate(-90deg);
+    
     }
        body .canvass{
         width: 90% !important;
@@ -202,13 +200,66 @@ description: ""
     margin-right: 0% !important;
     }
     
-    </style>
+    
+    .painting_item {
+    border-radius: 8px;
+    overflow: hidden;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    background: white;
+    }
+    
+    .painting_item:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 6px 12px rgba(0,0,0,0.15);
+    }
+    
+    .painting_item a {
+    text-decoration: none;
+    color: inherit;
+    display: block;
+    }
+    
+    .painting_item img {
+    width: 100% !important;
+    height: 250px !important;
+    object-fit: cover;
+    object-position: center;
+    display: block;
+    }
+    
+    .painting_title {
+    padding: 12px;
+    text-align: center;
+    font-weight: 500;
+    color: #333;
+    margin: 0;
+    }
+</style>
 <section style="width: 100%">
-    <div class="canvass">
-    <section class="hero">
-        <h1 class="text-center main_heading">Hi! I'm a Heartist<br>Simeon Tan Rui En</h1>
-        <img class="hero_img" src="https://i.ibb.co/Csb3R5XW/Simeon-Tan-Rui-En.jpg">
-        <p>Meet Simeon Tan Rui En, a talented artist with Autism Spectrum Disorder (ASD), celebrated for his vibrant, imaginative creations that span multiple mediums. Clay, in particular, provides him with a sense of calm and balance. In 2024, Simeon became the proud recipient of the North East CDC Shining Hearts Award, Neo Kah Kiat Arts Award and Liberty Arts Award. A NAFA CLE Visual Arts (2021) graduate with distinction, he has exhibited at Pathlight, ART:DIS and Shaping Hearts 2024. Simeon also left his mark on the Shaping Hearts Placemaking Mural Project in Punggol Digital District. Step into his colourful world of creativity and inspiration!</p>
-    </section>
-    </div>
+<div class="canvass">
+<section class="hero">
+<h1 class="text-center main_heading">Hi! I'm a Heartist<br>Simeon Tan Rui En</h1>
+<img src="https://i.ibb.co/S4GTwKFD/Simeon-Tan-Rui-En.jpg" class="hero_img">
+<p>Meet Simeon Tan Rui En, a talented artist with Autism Spectrum Disorder (ASD), celebrated for his vibrant, imaginative creations that span multiple mediums. Clay, in particular, provides him with a sense of calm and balance. In 2024, Simeon became the proud recipient of the North East CDC Shining Hearts Award, Neo Kah Kiat Arts Award and Liberty Arts Award. A NAFA CLE Visual Arts (2021) graduate with distinction, he has exhibited at Pathlight, ART:DIS and Shaping Hearts 2024. Simeon also left his mark on the Shaping Hearts Placemaking Mural Project in Punggol Digital District. Step into his colourful world of creativity and inspiration!</p>
+</section>
+<section style="width: 100%; padding-top: 20px;">
+<div class="canvass">
+<h2 class="text-center main_heading2">Paintings for Sale<br></h2>
+<div class="paintings_grid images_grid">
+<div class="painting_item">
+<a target="_blank" href="https://shop.shapinghearts.cdc.gov.sg/products/honey-bee">
+<img title="Lai Lim Kopi!" src="https://i.ibb.co/p8TcgnZ/SIME-001-Lai-Lim-Kopi-460-W-x-630-H-x-15-Dmm.jpg" alt="Lai Lim Kopi!">
+<p class="painting_title">Lai Lim Kopi!</p>
+</a>
+</div><div class="painting_item">
+<a target="_blank" href="https://shop.shapinghearts.cdc.gov.sg/products/reverie-in-singapore-s-garden-city">
+<img title="Reverie in Singapores Garden City" src="https://i.ibb.co/fYyxyKMw/SIME-002-Reverie-in-Singapore-s-Garden-City-630-W-x-460-H-x-15-Dmm.jpg" alt="Reverie in Singapores Garden City">
+<p class="painting_title">Reverie in Singapores Garden City</p>
+</a>
+</div>
+</div>
+</div>
+</section>
+</div>
 </section>
