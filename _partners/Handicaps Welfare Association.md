@@ -8,15 +8,18 @@ description: ""
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Handicapped_Welfare_Association.png">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Handicapped_Welfare_Association.png">
 </div>
-<p>The Handicaps Welfare Association (HWA), founded in 1969, is an organization
-run by people with disabilities for people with disabilities in Singapore.
-Originally registered as the Singapore Handicaps Friendship Club, it became
-the Singapore Association for the Disabled in 1975 and adopted its current
-name in 1976.</p>
-<p>HWA is dedicated to enhancing the quality of life for people with physical
-disabilities, integrating them into mainstream society, and advocating
-for their welfare, education, and employment. The association also raises
-awareness about the needs of people with disabilities and works to secure
-necessary benefits and support for its members.</p>
+<p>Handicaps Welfare Association is dedicated to empowering individuals with
+physical disabilities, and enhancing their quality of life while fostering
+meaningful integration into mainstream society. Through comprehensive support
+programmes, they create pathways for education, employment, and personal
+development, while building a strong community of mutual understanding
+and friendship among members.</p>
+<p>Their initiatives span from providing educational bursaries and rehabilitation
+services to advocating for disability rights and raising public awareness.
+By actively engaging with both the community and government stakeholders,
+they champion the interests of people with disabilities, securing vital
+benefits and creating an inclusive environment that promotes independence
+and dignity for all their members.</p>
+<p></p>
