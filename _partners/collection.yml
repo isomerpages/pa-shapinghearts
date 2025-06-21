@@ -2,7 +2,6 @@ collections:
   partners:
     output: true
     order:
-      - Friends of The Disabled Society.md
       - APSN Katong School.md
       - ARTDIS (Singapore) Ltd.md
       - Artzillions.md
@@ -14,6 +13,7 @@ collections:
       - Cerebral Palsy Alliance Singapore School (CPAS School).md
       - Christian Outreach To The Handicapped.md
       - Extraordinary People Limited.md
+      - Friends of The Disabled Society.md
       - Handicaps Welfare Association.md
       - JOURNEY by TOUCH Community Services.md
       - Muscular Dystrophy Association (Singapore).md
