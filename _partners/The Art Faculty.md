@@ -4,7 +4,7 @@ permalink: /the-art-faculty/
 variant: tiptap
 description: ""
 ---
-<p>The Art Faculty</p>
+<h3>About The Art Faculty</h3>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/the_art_faculty_horz.jpg">
