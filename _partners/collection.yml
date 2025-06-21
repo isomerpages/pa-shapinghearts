@@ -2,8 +2,6 @@ collections:
   partners:
     output: true
     order:
-      - Cerebral Palsy Alliance Singapore School (CPAS School).md
-      - Cerebral Palsy Alliance Singapore (CPAS GROW).md
       - APSN Katong School.md
       - ARTDIS (Singapore) Ltd.md
       - Artzillions.md
@@ -11,6 +9,8 @@ collections:
       - The Art Faculty.md
       - Bethesda Care Centre.md
       - Bizlink Centre Singapore.md
+      - Cerebral Palsy Alliance Singapore (CPAS GROW).md
+      - Cerebral Palsy Alliance Singapore School (CPAS School).md
       - Extraordinary People Limited.md
       - Handicaps Welfare Association.md
       - JOURNEY by TOUCH Community Services.md
