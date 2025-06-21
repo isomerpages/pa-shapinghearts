@@ -73,9 +73,7 @@ description: ""
         }
         
     
-    .images_grid{
-     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    .images_grid{ display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
     gap: 25px;
     }
 
@@ -200,13 +198,70 @@ description: ""
     margin-right: 0% !important;
     }
     
-    </style>
+    
+    .painting_item {
+    border-radius: 8px;
+    overflow: hidden;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    background: white;
+    }
+    
+    .painting_item:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 6px 12px rgba(0,0,0,0.15);
+    }
+    
+    .painting_item a {
+    text-decoration: none;
+    color: inherit;
+    display: block;
+    }
+    
+    .painting_item img {
+    width: 100% !important;
+    height: 250px !important;
+    object-fit: cover;
+    object-position: center;
+    display: block;
+    }
+    
+    .painting_title {
+    padding: 12px;
+    text-align: center;
+    font-weight: 500;
+    color: #333;
+    margin: 0;
+    }
+</style>
 <section style="width: 100%">
-    <div class="canvass">
-    <section class="hero">
-        <h1 class="text-center main_heading">Hi! I'm a Heartist<br>Nur Amalina Binte Rahmat</h1>
-        <img class="hero_img" src="https://i.ibb.co/Zv425CQ/Nur-Amalina-Binte-Rahmat.jpg">
-        <p>Ina, a self-taught artist alias of Nur Amalina, is half-hearing and has been navigating Depression and Anxiety since 2022. Outside of art, she enjoys singing and participates in nightly virtual avatar livestreams to improve her social and communication skills. Ina believes art is a two-way communication, capable of bridging hearts and uniting people. Through her work, she shares the life lessons she's learned on her journey of self-healing, with the mission to show that art can heal and bring society together.</p>
-    </section>
-    </div>
+<div class="canvass">
+<section class="hero">
+<h1 class="text-center main_heading">Hi! I'm a Heartist<br>Nur Amalina Binte Rahmat</h1>
+<img src="https://i.ibb.co/KzRNq9bP/Nur-Amalina-Binte-Rahmat.jpg" class="hero_img">
+<p>Ina, a self-taught artist alias of Nur Amalina, is half-hearing and has been navigating Depression and Anxiety since 2022. Outside of art, she enjoys singing and participates in nightly virtual avatar livestreams to improve her social and communication skills. Ina believes art is a two-way communication, capable of bridging hearts and uniting people. Through her work, she shares the life lessons she's learned on her journey of self-healing, with the mission to show that art can heal and bring society together.</p>
+</section>
+<section style="width: 100%; padding-top: 20px;">
+<div class="canvass">
+<h2 class="text-center main_heading2">Paintings for Sale<br></h2>
+<div class="paintings_grid images_grid">
+<div class="painting_item">
+<a target="_blank" href="https://shop.shapinghearts.cdc.gov.sg/products/blossoming-rims">
+<img title="Blossoming Rims" src="https://i.ibb.co/0jJDRbqh/AMAL-001-Blossoming-Rims-360-W-x-460-H-x-20-Dmm.jpg" alt="Blossoming Rims">
+<p class="painting_title">Blossoming Rims</p>
+</a>
+</div><div class="painting_item">
+<a target="_blank" href="https://shop.shapinghearts.cdc.gov.sg/products/soaked-dreams">
+<img title="Soaked Dreams" src="https://i.ibb.co/3mcNj6n6/AMAL-002-Soaked-Dreams-210-W-x-250-H-x-20-Dmm.jpg" alt="Soaked Dreams">
+<p class="painting_title">Soaked Dreams</p>
+</a>
+</div>
+</div>
+</div>
+</section>
+
+
+
+
+</div>
 </section>
