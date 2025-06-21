@@ -2,8 +2,6 @@ collections:
   partners:
     output: true
     order:
-      - MINDS Satellite Hub (Bukit Batok).md
-      - Mouth and Foot Painting Artists.md
       - APSN Katong School.md
       - ARTDIS (Singapore) Ltd.md
       - Artzillions.md
@@ -19,8 +17,10 @@ collections:
       - Handicaps Welfare Association.md
       - JOURNEY by TOUCH Community Services.md
       - Metta Welfare Association, Arts at Metta.md
-      - Muscular Dystrophy Association (Singapore).md
-      - MINDSG.md
+      - Mouth and Foot Painting Artists.md
+      - MINDS Satellite Hub (Bukit Batok).md
       - MINDS Regional Hub (Hougang).md
+      - MINDSG.md
+      - Muscular Dystrophy Association (Singapore).md
       - Rainbow Centre Singapore.md
       - St Andrew's Autism School.md
