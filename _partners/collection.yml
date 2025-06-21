@@ -3,10 +3,10 @@ collections:
     output: true
     order:
       - APSN.md
-      - Artzillions.md
-      - The Art Faculty.md
-      - AWWA School.md
       - ARTDIS (Singapore) Ltd.md
+      - Artzillions.md
+      - AWWA School.md
+      - The Art Faculty.md
       - Bizlink Centre Singapore.md
       - Bethesda Care Centre.md
       - Extraordinary People Limited.md
