@@ -58,7 +58,7 @@ description: ""
     object-position: center;
     display: block;
     margin: 0 auto;
-    transform: rotate(90deg);
+    
     }
     
     .hero .canvass{
@@ -74,9 +74,7 @@ description: ""
         }
         
     
-    .images_grid{
-     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    .images_grid{ display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
     gap: 25px;
     }
 
@@ -180,7 +178,7 @@ description: ""
     object-position: center;
     display: block;
     margin: 0 auto;
-    transform: rotate(90deg);
+    
     }
        body .canvass{
         width: 90% !important;
@@ -202,13 +200,76 @@ description: ""
     margin-right: 0% !important;
     }
     
-    </style>
+    
+    .painting_item {
+    border-radius: 8px;
+    overflow: hidden;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    background: white;
+    }
+    
+    .painting_item:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 6px 12px rgba(0,0,0,0.15);
+    }
+    
+    .painting_item a {
+    text-decoration: none;
+    color: inherit;
+    display: block;
+    }
+    
+    .painting_item img {
+    width: 100% !important;
+    height: 250px !important;
+    object-fit: cover;
+    object-position: center;
+    display: block;
+    }
+    
+    .painting_title {
+    padding: 12px;
+    text-align: center;
+    font-weight: 500;
+    color: #333;
+    margin: 0;
+    }
+</style>
 <section style="width: 100%">
-    <div class="canvass">
-    <section class="hero">
-        <h1 class="text-center main_heading">Hi! I'm a Heartist<br>Yap Jia Hui</h1>
-        <img class="hero_img" src="https://i.ibb.co/21vpFrys/Yap-Jia-Hui.jpg">
-        <p>Living with Autism Spectrum Disorder (ASD), Jia Hui is a young and vibrant artist who finds inspiration in all things cute, lovely, and pink. Known for her distinctive crayon techniques and bold colour choices, her style is both refreshing and unique. Jia Hui's work combines abstract geometric shapes with a modern flair, drawing influence from the Pop Art movement. She creates playful art featuring cute food and objects, often adding quirky expressions to bring them to life.</p>
-    </section>
-    </div>
+<div class="canvass">
+<section class="hero">
+<h1 class="text-center main_heading">Hi! I'm a Heartist<br>Yap Jia Hui</h1>
+<img src="https://i.ibb.co/whCbTqNH/Yap-Jia-Hui.jpg" class="hero_img">
+<p>Living with Autism Spectrum Disorder (ASD), Jia Hui is a young and vibrant artist who finds inspiration in all things cute, lovely, and pink. Known for her distinctive crayon techniques and bold colour choices, her style is both refreshing and unique. Jia Hui's work combines abstract geometric shapes with a modern flair, drawing influence from the Pop Art movement. She creates playful art featuring cute food and objects, often adding quirky expressions to bring them to life.</p>
+</section>
+<section style="width: 100%; padding-top: 20px;">
+<div class="canvass">
+<h2 class="text-center main_heading2">Paintings for Sale<br></h2>
+<div class="paintings_grid images_grid">
+<div class="painting_item">
+<a target="_blank" href="https://shop.shapinghearts.cdc.gov.sg/products/burgers">
+<img title="Burgers!" src="https://i.ibb.co/MkMgPYK3/JIAHUI-001-Burgers-320-W-x-420-H-x-20-Dmm.jpg" alt="Burgers!">
+<p class="painting_title">Burgers!</p>
+</a>
+</div><div class="painting_item">
+<a target="_blank" href="https://shop.shapinghearts.cdc.gov.sg/products/cactus">
+<img title="Cactus" src="https://i.ibb.co/m53BrKs3/JIAHUI-002-Catus-320-W-x-450-H-x-20-Dmm.jpg" alt="Cactus">
+<p class="painting_title">Cactus</p>
+</a>
+</div><div class="painting_item">
+<a target="_blank" href="https://shop.shapinghearts.cdc.gov.sg/products/girls-toy">
+<img title="Girl's Toy!" src="https://i.ibb.co/nN6BsS9y/JIAHUI-003-Girl-s-Toy-450-W-x-320-H-x-20-Dmm.jpg" alt="Girl's Toy!">
+<p class="painting_title">Girl's Toy!</p>
+</a>
+</div><div class="painting_item">
+<a target="_blank" href="https://shop.shapinghearts.cdc.gov.sg/products/the-leaves">
+<img title="The Leaves" src="https://i.ibb.co/99QPYzYT/JIAHUI-004-The-Leaves-450-W-x-320-H-x-20-Dmm.jpg" alt="The Leaves">
+<p class="painting_title">The Leaves</p>
+</a>
+</div>
+</div>
+</div>
+</section>
+</div>
 </section>
