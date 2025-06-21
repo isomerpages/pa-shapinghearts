@@ -73,9 +73,7 @@ description: ""
         }
         
     
-    .images_grid{
-     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    .images_grid{ display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
     gap: 25px;
     }
 
@@ -200,13 +198,70 @@ description: ""
     margin-right: 0% !important;
     }
     
-    </style>
+    
+    .painting_item {
+    border-radius: 8px;
+    overflow: hidden;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    background: white;
+    }
+    
+    .painting_item:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 6px 12px rgba(0,0,0,0.15);
+    }
+    
+    .painting_item a {
+    text-decoration: none;
+    color: inherit;
+    display: block;
+    }
+    
+    .painting_item img {
+    width: 100% !important;
+    height: 250px !important;
+    object-fit: cover;
+    object-position: center;
+    display: block;
+    }
+    
+    .painting_title {
+    padding: 12px;
+    text-align: center;
+    font-weight: 500;
+    color: #333;
+    margin: 0;
+    }
+</style>
 <section style="width: 100%">
-    <div class="canvass">
-    <section class="hero">
-        <h1 class="text-center main_heading">Hi! I'm a Heartist<br>Titus Teo</h1>
-        <img class="hero_img" src="https://i.ibb.co/bj7rFrrH/Titus-Teo.jpg">
-        <p>Titus is a young artist living with Immunodeficiency Disorder, requiring lifelong treatment every four weeks, where he spends eight hours in the hospital. Despite the emotional and physical challenges, he uses art as a way to navigate his journey and find strength. Alongside his artistic pursuits, Titus enjoys learning music, currently studying the flute, piano, and Guzheng in his school's CCA program. Through art and music, he expresses himself, finding comfort and hope as he faces the challenges of his condition.</p>
-    </section>
-    </div>
+<div class="canvass">
+<section class="hero">
+<h1 class="text-center main_heading">Hi! I'm a Heartist<br>Titus Teo</h1>
+<img src="https://i.ibb.co/Qj17G4cM/Titus-Teo.jpg" class="hero_img">
+<p>Titus is a young artist living with Immunodeficiency Disorder, requiring lifelong treatment every four weeks, where he spends eight hours in the hospital. Despite the emotional and physical challenges, he uses art as a way to navigate his journey and find strength. Alongside his artistic pursuits, Titus enjoys learning music, currently studying the flute, piano, and Guzheng in his school's CCA program. Through art and music, he expresses himself, finding comfort and hope as he faces the challenges of his condition.</p>
+</section>
+<section style="width: 100%; padding-top: 20px;">
+<div class="canvass">
+<h2 class="text-center main_heading2">Paintings for Sale<br></h2>
+<div class="paintings_grid images_grid">
+<div class="painting_item">
+<a target="_blank" href="https://shop.shapinghearts.cdc.gov.sg/products/gardens-by-the-bay">
+<img title="Gardens by The Bay" src="https://i.ibb.co/pj9kCNMn/TITUS-001-Gardens-by-the-Bay-420-W-x-330-H-x-20-Dmm.jpg" alt="Gardens by The Bay">
+<p class="painting_title">Gardens by The Bay</p>
+</a>
+</div><div class="painting_item">
+<a target="_blank" href="https://shop.shapinghearts.cdc.gov.sg/products/teddy-bear-1">
+<img title="Teddy Bear" src="https://i.ibb.co/tp4bzN80/TITUS-002-Teddy-Bear-300-W-x-400-H-x-20-Dmm.jpg" alt="Teddy Bear">
+<p class="painting_title">Teddy Bear</p>
+</a>
+</div>
+</div>
+</div>
+</section>
+
+
+
+
+</div>
 </section>
