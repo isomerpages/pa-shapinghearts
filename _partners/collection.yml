@@ -2,6 +2,7 @@ collections:
   partners:
     output: true
     order:
+      - Cerebral Palsy Alliance Singapore School (CPAS School).md
       - Cerebral Palsy Alliance Singapore (CPAS GROW).md
       - APSN Katong School.md
       - ARTDIS (Singapore) Ltd.md
