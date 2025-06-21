@@ -17,3 +17,7 @@ skill-building, and empowerment through art.</p>
 experiences, and commission projects. They also create beautifully handcrafted
 artisan gifts and customised creations for corporate events, celebrations,
 and personal collections.</p>
+<p>Beyond creativity, they are deeply committed to social impact—every purchase
+directly supports individuals with special needs, helping them earn a living
+and thrive. At Artzillions, every creation tells a story, fosters connection,
+and contributes to a greater purpose.</p>
