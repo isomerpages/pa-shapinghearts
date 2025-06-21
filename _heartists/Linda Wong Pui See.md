@@ -61,7 +61,7 @@ description: ""
     object-position: center;
     display: block;
     margin: 0 auto;
-    transform: rotate(-90deg);
+    
     }
     
     .hero .canvass{
@@ -77,9 +77,7 @@ description: ""
         }
         
     
-    .images_grid{
-     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    .images_grid{ display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
     gap: 25px;
     }
 
@@ -183,7 +181,7 @@ description: ""
     object-position: center;
     display: block;
     margin: 0 auto;
-    transform: rotate(-90deg);
+    
     }
        body .canvass{
         width: 90% !important;
@@ -205,13 +203,86 @@ description: ""
     margin-right: 0% !important;
     }
     
-    </style>
+    
+    .painting_item {
+    border-radius: 8px;
+    overflow: hidden;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    background: white;
+    }
+    
+    .painting_item:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 6px 12px rgba(0,0,0,0.15);
+    }
+    
+    .painting_item a {
+    text-decoration: none;
+    color: inherit;
+    display: block;
+    }
+    
+    .painting_item img {
+    width: 100% !important;
+    height: 250px !important;
+    object-fit: cover;
+    object-position: center;
+    display: block;
+    }
+    
+    .painting_title {
+    padding: 12px;
+    text-align: center;
+    font-weight: 500;
+    color: #333;
+    margin: 0;
+    }
+</style>
 <section style="width: 100%">
-    <div class="canvass">
-    <section class="hero">
-        <h1 class="text-center main_heading">Hi! I'm a Heartist<br>Linda Wong Pui See</h1>
-        <img class="hero_img" src="https://i.ibb.co/sYDstbz/Linda-Wong-Pui-See.jpg">
-        <p>Through her digital art platform HealogyArt, Linda channels personal experiences with Autism Spectrum Disorder (ASD) and mental health into vibrant works of hope and healing. Drawing inspiration from her beloved dog and her own journey of resilience, she creates pieces that speak to the transformative power of creativity. As a self-taught artist, she uses her distinctive style to raise mental health awareness, turning personal challenges into universal messages of strength and understanding.</p>
-    </section>
-    </div>
+<div class="canvass">
+<section class="hero">
+<h1 class="text-center main_heading">Hi! I'm a Heartist<br>Linda Wong Pui See</h1>
+<img src="https://i.ibb.co/DDSrK4Xt/Linda-Wong-Pui-See.jpg" class="hero_img">
+<p>Through her digital art platform HealogyArt, Linda channels personal experiences with Autism Spectrum Disorder (ASD) and mental health into vibrant works of hope and healing. Drawing inspiration from her beloved dog and her own journey of resilience, she creates pieces that speak to the transformative power of creativity. As a self-taught artist, she uses her distinctive style to raise mental health awareness, turning personal challenges into universal messages of strength and understanding.</p>
+</section>
+<section style="width: 100%; padding-top: 20px;">
+<div class="canvass">
+<h2 class="text-center main_heading2">Paintings for Sale<br></h2>
+<div class="paintings_grid images_grid">
+<div class="painting_item">
+<a target="_blank" href="https://shop.shapinghearts.cdc.gov.sg/products/a-moment-of-gratitude">
+<img title="A Moment of Gratitude" src="https://i.ibb.co/dsMqbCXw/LINDA-001-A-Moment-Of-Gratitude-300-W-x-400-Hmm.jpg" alt="A Moment of Gratitude">
+<p class="painting_title">A Moment of Gratitude</p>
+</a>
+</div><div class="painting_item">
+<a target="_blank" href="https://shop.shapinghearts.cdc.gov.sg/products/dare-to-dream">
+<img title="Dare To Dream" src="https://i.ibb.co/C3nCj8r0/LINDA-002-Dare-To-Dream-300-W-x-400-Hmm.jpg" alt="Dare To Dream">
+<p class="painting_title">Dare To Dream</p>
+</a>
+</div><div class="painting_item">
+<a target="_blank" href="https://shop.shapinghearts.cdc.gov.sg/products/grow-with-warmth">
+<img title="Grow With Warmth" src="https://i.ibb.co/99vdZ83T/LINDA-003-Grow-With-Warmth-300-W-x-400-Hmm.jpg" alt="Grow With Warmth">
+<p class="painting_title">Grow With Warmth</p>
+</a>
+</div><div class="painting_item">
+<a target="_blank" href="https://shop.shapinghearts.cdc.gov.sg/products/hope-dream-bond-hdb">
+<img title="Hope.Dream.Bond. (HDB)" src="https://i.ibb.co/9mH21dML/LINDA-004-Hope-Dream-Bond-HDB-400-W-x-400-Hmm.jpg" alt="Hope.Dream.Bond. (HDB)">
+<p class="painting_title">Hope.Dream.Bond. (HDB)</p>
+</a>
+</div><div class="painting_item">
+<a target="_blank" href="https://shop.shapinghearts.cdc.gov.sg/products/magical-cup">
+<img title="Magical Cup" src="https://i.ibb.co/23nJwy0t/LINDA-005-Magical-Cup-300-W-x-400-Hmm.jpg" alt="Magical Cup">
+<p class="painting_title">Magical Cup</p>
+</a>
+</div><div class="painting_item">
+<a target="_blank" href="https://shop.shapinghearts.cdc.gov.sg/products/nurture-and-bloom">
+<img title="Nurture and Bloom" src="https://i.ibb.co/mrFJgycG/LINDA-006-Nurture-and-Bloom-310-W-x-430-Hmm.jpg" alt="Nurture and Bloom">
+<p class="painting_title">Nurture and Bloom</p>
+</a>
+</div>
+</div>
+</div>
+</section>
+</div>
 </section>
