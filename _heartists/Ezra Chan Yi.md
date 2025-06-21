@@ -58,7 +58,7 @@ description: ""
     object-position: center;
     display: block;
     margin: 0 auto;
-    transform: rotate(-90deg);
+    
     }
     
     .hero .canvass{
@@ -210,7 +210,7 @@ description: ""
     object-position: center;
     display: block;
     margin: 0 auto;
-    transform: rotate(-90deg);
+    
     }
        body .canvass{
         width: 90% !important;
@@ -233,70 +233,69 @@ description: ""
     }
     </style>
 <section style="width: 100%">
-    <div class="canvass">
-    <section class="hero">
-        <h1 class="text-center main_heading">Hi! I'm a Heartist<br>Ezra Chan Yi</h1>
-        <img class="hero_img" src="https://i.ibb.co/YFRDhNW8/Ezra-Chan-Yi.jpg">
-        <p>Ezra Chan Yi is an interdisciplinary artist working across digital illustration, animation, drawing, painting, and sculpture. Rooted in memory, narrative, and social reflection, his vivid works are emotionally resonant and conceptually layered. As an artist diagnosed with Autism Spectrum Disorder (ASD), Ezra brings a unique sensitivity and perspective to his practice. He holds Distinctions in NAFA's CLE Certificates in Visual Arts and Fine Art. At 15, he was named Most Promising Artist at UOB's Painting of the Year. His accolades include the Lee Kuan Yew Exemplary Student Award (2021), Shining Hearts Award (2024), Neo Kah Kiat Painting of the Year (2024), and the Painters Online Webinar Award (2025). His work has been exhibited at the TALP Open (2024, Nottingham, UK), ArtPrize (2024, 2025, Grand Rapids, Michigan, USA), and the XXIV Exposición Internacional Museo Virtual MundoArti Nuevo Año 2025 (Valencia, Spain).</p>
-    </section>
-<section style="width: 100%; padding-top: 20px;">
-    <div class="canvass">
-        <h2 class="text-center main_heading2">Paintings for Sale</h2><br>
-        <div class="paintings_grid images_grid">
-            <div class="painting_item">
-                <a target="_blank" href="https://shop.shapinghearts.cdc.gov.sg/products/aspirations">
-                    <img title="Aspirations" alt="Aspirations" src="https://i.ibb.co/prjPyNgZ/EZRA-001-Aspirations-530-W-x-730-H-x-20-Dmm.jpg">
-                    <p class="painting_title">Aspirations</p>
-                </a>
-            </div><div class="painting_item">
-                <a target="_blank" href="https://shop.shapinghearts.cdc.gov.sg/products/flourish">
-                    <img title="Flourish" alt="Flourish" src="https://i.ibb.co/39dGMnDt/EZRA-002-Flourish-510-W-x-410-H-x-20-Dmm.jpg">
-                    <p class="painting_title">Flourish</p>
-                </a>
-            </div><div class="painting_item">
-                <a target="_blank" href="https://shop.shapinghearts.cdc.gov.sg/products/harvest">
-                    <img title="Harvest" alt="Harvest" src="https://i.ibb.co/qF0pg0qx/EZRA-003-Harvest-600-W-x-440-H-x-20-Dmm.jpg">
-                    <p class="painting_title">Harvest</p>
-                </a>
-            </div><div class="painting_item">
-                <a target="_blank" href="https://shop.shapinghearts.cdc.gov.sg/products/home">
-                    <img title="Inclusivity" alt="Inclusivity" src="https://i.ibb.co/206GWWYY/EZRA-010-Inclusivity-122-W-x-910-H-x-20-Dmm.jpg">
-                    <p class="painting_title">Inclusivity</p>
-                </a>
-            </div><div class="painting_item">
-                <a target="_blank" href="https://shop.shapinghearts.cdc.gov.sg/products/resilience">
-                    <img title="Resilience" alt="Resilience" src="https://i.ibb.co/Mx9r3NgK/EZRA-004-Resilience-610-W-x-460-H-x-40-Dmm.jpg">
-                    <p class="painting_title">Resilience</p>
-                </a>
-            </div><div class="painting_item">
-                <a target="_blank" href="https://shop.shapinghearts.cdc.gov.sg/products/sanctuary">
-                    <img title="Sanctuary" alt="Sanctuary" src="https://i.ibb.co/RkmpXhXX/EZRA-005-Sanctuary-410-W-x-510-H-x-20-Dmm.jpg">
-                    <p class="painting_title">Sanctuary</p>
-                </a>
-            </div><div class="painting_item">
-                <a target="_blank" href="https://shop.shapinghearts.cdc.gov.sg/products/sunrise-1">
-                    <img title="Skyline" alt="Skyline" src="https://i.ibb.co/9m3SkqDL/EZRA-006-Skyline-600-W-x-420-H-x-20-Dmm.jpg">
-                    <p class="painting_title">Skyline</p>
-                </a>
-            </div><div class="painting_item">
-                <a target="_blank" href="https://shop.shapinghearts.cdc.gov.sg/products/soaring">
-                    <img title="Soaring" alt="Soaring" src="https://i.ibb.co/gZCbH99V/EZRA-007-Soaring-510-W-x-410-H-x-20-Dmm.jpg">
-                    <p class="painting_title">Soaring</p>
-                </a>
-            </div><div class="painting_item">
-                <a target="_blank" href="https://shop.shapinghearts.cdc.gov.sg/products/animal-kingdom">
-                    <img title="Unity" alt="Unity" src="https://i.ibb.co/VYC1W417/EZRA-008-Unity-600-W-x-430-H-x-20-Dmm.jpg">
-                    <p class="painting_title">Unity</p>
-                </a>
-            </div>
-            <div class="painting_item">
-                <a target="_blank" href="https://shop.shapinghearts.cdc.gov.sg/products/whiskers">
-                    <img title="Whiskers" alt="Whiskers" src="https://i.ibb.co/spJM2LDg/EZRA-009-Whiskers-410-W-x-510-H-x-20-Dmm.jpg">
-                    <p class="painting_title">Whiskers</p>
-                </a>
-            </div>
-        </div>
-    </div>
+<div class="canvass">
+<section class="hero">
+<h1 class="text-center main_heading">Hi! I'm a Heartist<br>Ezra Chan Yi</h1>
+<img src="https://i.ibb.co/YFRDhNW8/Ezra-Chan-Yi.jpg" class="hero_img">
+<p>Ezra Chan Yi is an interdisciplinary artist working across digital illustration, animation, drawing, painting, and sculpture. Rooted in memory, narrative, and social reflection, his vivid works are emotionally resonant and conceptually layered. As an artist diagnosed with Autism Spectrum Disorder (ASD), Ezra brings a unique sensitivity and perspective to his practice. He holds Distinctions in NAFA's CLE Certificates in Visual Arts and Fine Art. At 15, he was named Most Promising Artist at UOB's Painting of the Year. His accolades include the Lee Kuan Yew Exemplary Student Award (2021), Shining Hearts Award (2024), Neo Kah Kiat Painting of the Year (2024), and the Painters Online Webinar Award (2025). His work has been exhibited at the TALP Open (2024, Nottingham, UK), ArtPrize (2024, 2025, Grand Rapids, Michigan, USA), and the XXIV Exposición Internacional Museo Virtual MundoArti Nuevo Año 2025 (Valencia, Spain).</p>
 </section>
-    </div>
+<section style="width: 100%; padding-top: 20px;">
+<div class="canvass">
+<h2 class="text-center main_heading2">Paintings for Sale</h2><br>
+<div class="paintings_grid images_grid">
+<div class="painting_item">
+<a target="_blank" href="https://shop.shapinghearts.cdc.gov.sg/products/aspirations">
+<img title="Aspirations" src="https://i.ibb.co/prjPyNgZ/EZRA-001-Aspirations-530-W-x-730-H-x-20-Dmm.jpg" alt="Aspirations">
+<p class="painting_title">Aspirations</p>
+</a>
+</div><div class="painting_item">
+<a target="_blank" href="https://shop.shapinghearts.cdc.gov.sg/products/flourish">
+<img title="Flourish" src="https://i.ibb.co/39dGMnDt/EZRA-002-Flourish-510-W-x-410-H-x-20-Dmm.jpg" alt="Flourish">
+<p class="painting_title">Flourish</p>
+</a>
+</div><div class="painting_item">
+<a target="_blank" href="https://shop.shapinghearts.cdc.gov.sg/products/harvest">
+<img title="Harvest" src="https://i.ibb.co/qF0pg0qx/EZRA-003-Harvest-600-W-x-440-H-x-20-Dmm.jpg" alt="Harvest">
+<p class="painting_title">Harvest</p>
+</a>
+</div><div class="painting_item">
+<a target="_blank" href="https://shop.shapinghearts.cdc.gov.sg/products/home">
+<img title="Inclusivity" src="https://i.ibb.co/206GWWYY/EZRA-010-Inclusivity-122-W-x-910-H-x-20-Dmm.jpg" alt="Inclusivity">
+<p class="painting_title">Inclusivity</p>
+</a>
+</div><div class="painting_item">
+<a target="_blank" href="https://shop.shapinghearts.cdc.gov.sg/products/resilience">
+<img title="Resilience" src="https://i.ibb.co/Mx9r3NgK/EZRA-004-Resilience-610-W-x-460-H-x-40-Dmm.jpg" alt="Resilience">
+<p class="painting_title">Resilience</p>
+</a>
+</div><div class="painting_item">
+<a target="_blank" href="https://shop.shapinghearts.cdc.gov.sg/products/sanctuary">
+<img title="Sanctuary" src="https://i.ibb.co/RkmpXhXX/EZRA-005-Sanctuary-410-W-x-510-H-x-20-Dmm.jpg" alt="Sanctuary">
+<p class="painting_title">Sanctuary</p>
+</a>
+</div><div class="painting_item">
+<a target="_blank" href="https://shop.shapinghearts.cdc.gov.sg/products/sunrise-1">
+<img title="Skyline" src="https://i.ibb.co/9m3SkqDL/EZRA-006-Skyline-600-W-x-420-H-x-20-Dmm.jpg" alt="Skyline">
+<p class="painting_title">Skyline</p>
+</a>
+</div><div class="painting_item">
+<a target="_blank" href="https://shop.shapinghearts.cdc.gov.sg/products/soaring">
+<img title="Soaring" src="https://i.ibb.co/gZCbH99V/EZRA-007-Soaring-510-W-x-410-H-x-20-Dmm.jpg" alt="Soaring">
+<p class="painting_title">Soaring</p>
+</a>
+</div><div class="painting_item">
+<a target="_blank" href="https://shop.shapinghearts.cdc.gov.sg/products/animal-kingdom">
+<img title="Unity" src="https://i.ibb.co/VYC1W417/EZRA-008-Unity-600-W-x-430-H-x-20-Dmm.jpg" alt="Unity">
+<p class="painting_title">Unity</p>
+</a>
+</div><div class="painting_item">
+<a target="_blank" href="https://shop.shapinghearts.cdc.gov.sg/products/whiskers">
+<img title="Whiskers" src="https://i.ibb.co/spJM2LDg/EZRA-009-Whiskers-410-W-x-510-H-x-20-Dmm.jpg" alt="Whiskers">
+<p class="painting_title">Whiskers</p>
+</a>
+</div>
+</div>
+</div>
+</section>
+</div>
 </section>
