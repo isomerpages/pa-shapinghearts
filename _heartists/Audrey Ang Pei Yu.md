@@ -58,7 +58,7 @@ description: ""
     object-position: center;
     display: block;
     margin: 0 auto;
-    transform: rotate(90deg);
+    
     }
     
     .hero .canvass{
@@ -74,9 +74,7 @@ description: ""
         }
         
     
-    .images_grid{
-     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    .images_grid{ display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
     gap: 25px;
     }
 
@@ -180,7 +178,7 @@ description: ""
     object-position: center;
     display: block;
     margin: 0 auto;
-    transform: rotate(90deg);
+    
     }
        body .canvass{
         width: 90% !important;
@@ -202,13 +200,61 @@ description: ""
     margin-right: 0% !important;
     }
     
-    </style>
+    
+    .painting_item {
+    border-radius: 8px;
+    overflow: hidden;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    background: white;
+    }
+    
+    .painting_item:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 6px 12px rgba(0,0,0,0.15);
+    }
+    
+    .painting_item a {
+    text-decoration: none;
+    color: inherit;
+    display: block;
+    }
+    
+    .painting_item img {
+    width: 100% !important;
+    height: 250px !important;
+    object-fit: cover;
+    object-position: center;
+    display: block;
+    }
+    
+    .painting_title {
+    padding: 12px;
+    text-align: center;
+    font-weight: 500;
+    color: #333;
+    margin: 0;
+    }
+</style>
 <section style="width: 100%">
-    <div class="canvass">
-    <section class="hero">
-        <h1 class="text-center main_heading">Hi! I'm a Heartist<br>Audrey Ang Pei Yu</h1>
-        <img class="hero_img" src="https://i.ibb.co/nswsmt76/Audrey-Ang-Pei-Yu.jpg">
-        <p>While pursuing her path in medicine, Audrey has nurtured a parallel passion for artistic expression that spans multiple creative disciplines. Her self-taught journey in digital art draws particular inspiration from the whimsical rubber hose style of the 1920s. Beyond the digital canvas, she explores her creativity through acrylic painting, pottery, and oil pastels, embracing each medium as an opportunity for growth and discovery. This interplay between her medical career and artistic pursuits offers a unique perspective that enriches both worlds, as she continues to develop her distinctive creative voice.</p>
-    </section>
-    </div>
+<div class="canvass">
+<section class="hero">
+<h1 class="text-center main_heading">Hi! I'm a Heartist<br>Audrey Ang Pei Yu</h1>
+<img src="https://i.ibb.co/4wKcdDvJ/Audrey-Ang-Pei-Yu.jpg" class="hero_img">
+<p>While pursuing her path in medicine, Audrey has nurtured a parallel passion for artistic expression that spans multiple creative disciplines. Her self-taught journey in digital art draws particular inspiration from the whimsical rubber hose style of the 1920s. Beyond the digital canvas, she explores her creativity through acrylic painting, pottery, and oil pastels, embracing each medium as an opportunity for growth and discovery. This interplay between her medical career and artistic pursuits offers a unique perspective that enriches both worlds, as she continues to develop her distinctive creative voice.</p>
+</section>
+<section style="width: 100%; padding-top: 20px;">
+<div class="canvass">
+<h2 class="text-center main_heading2">Paintings for Sale<br></h2>
+<div class="paintings_grid images_grid">
+<div class="painting_item">
+<a target="_blank" href="https://shop.shapinghearts.cdc.gov.sg/products/no-otter-way-to-celebrate-60">
+<img title="No Otter Way to Celebrate 60" src="https://i.ibb.co/1G1L1GjT/AUDR-001-No-otter-way-to-celebrate-60-300-W-x-400-H-x-20-Dmm.jpg" alt="No Otter Way to Celebrate 60">
+<p class="painting_title">No Otter Way to Celebrate 60</p>
+</a>
+</div>
+</div>
+</div>
+</section>
+</div>
 </section>
