@@ -2,7 +2,6 @@ collections:
   partners:
     output: true
     order:
-      - Thye Hua Kwan Moral Charities.md
       - APSN Katong School.md
       - ARTDIS (Singapore) Ltd.md
       - Artzillions.md
@@ -28,3 +27,4 @@ collections:
       - St Andrew's Autism School.md
       - The Art Faculty.md
       - The Singapore Cheshire Home.md
+      - Thye Hua Kwan Moral Charities.md
