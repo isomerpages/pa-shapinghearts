@@ -349,7 +349,7 @@ description: ""
 <a href="/titus-teo/">Titus Teo <span class="arrow">→</span></a>
 </div>
 <div class="card">
-<img src="https://i.ibb.co/YH4H1bp/Vincent-Seet-Seet-Kie-Hong.jpg" alt="Vincent Seet (Seet Kie Hong)">
+<img src="https://i.ibb.co/67JbJ0g7/Vincent-Seet-Kie-Hong.jpg" alt="Vincent Seet (Seet Kie Hong)">
 <a href="/vincent-seet-kie-hong/">Vincent Seet (Seet Kie Hong) <span class="arrow">→</span></a>
 </div>
 <div data-artist="yap-jia-hui" class="card">
@@ -398,7 +398,7 @@ description: ""
 <a href="/cerebral-palsy-alliance-singapore-cpas-school/">Cerebral Palsy Alliance Singapore (CPAS School) <span class="arrow">→</span></a>
 </div>
 <div class="card">
-<img src="https://i.ibb.co/j9wX69s7/Christian-Outreach-to-the-Handicapped.jpg" alt="Christian Outreach to the Handicapped">
+<img src="https://i.ibb.co/0p6MXPTW/christian-outreach.jpg" alt="Christian Outreach to the Handicapped">
 <a href="/christian-outreach-to-the-handicapped/">Christian Outreach to the Handicapped <span class="arrow">→</span></a>
 </div>
 <div class="card">
@@ -466,7 +466,7 @@ description: ""
 <a href="/st-andrews-autism-school/">St Andrew's Autism School <span class="arrow">→</span></a>
 </div>
 <div class="card">
-<img src="https://i.ibb.co/LddB62p9/The-Art-Faculty.png" alt="The Art Faculty">
+<img src="https://i.ibb.co/W4jQ8WWT/the-art-faculty.jpg" alt="The Art Faculty">
 <a href="/the-art-faculty/">The Art Faculty <span class="arrow">→</span></a>
 </div>
 <div class="card">
