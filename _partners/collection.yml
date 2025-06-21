@@ -2,8 +2,6 @@ collections:
   partners:
     output: true
     order:
-      - Singapore Association of the Visually Handicapped.md
-      - Singapore Association for Mental Health.md
       - APSN Katong School.md
       - ARTDIS (Singapore) Ltd.md
       - Artzillions.md
@@ -25,4 +23,6 @@ collections:
       - MINDSG.md
       - Muscular Dystrophy Association (Singapore).md
       - Rainbow Centre Singapore.md
+      - Singapore Association of the Visually Handicapped.md
+      - Singapore Association for Mental Health.md
       - St Andrew's Autism School.md
