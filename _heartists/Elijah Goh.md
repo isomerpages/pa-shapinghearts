@@ -73,9 +73,7 @@ description: ""
         }
         
     
-    .images_grid{
-     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    .images_grid{ display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
     gap: 25px;
     }
 
@@ -200,13 +198,71 @@ description: ""
     margin-right: 0% !important;
     }
     
-    </style>
+    
+    .painting_item {
+    border-radius: 8px;
+    overflow: hidden;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    background: white;
+    }
+    
+    .painting_item:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 6px 12px rgba(0,0,0,0.15);
+    }
+    
+    .painting_item a {
+    text-decoration: none;
+    color: inherit;
+    display: block;
+    }
+    
+    .painting_item img {
+    width: 100% !important;
+    height: 250px !important;
+    object-fit: cover;
+    object-position: center;
+    display: block;
+    }
+    
+    .painting_title {
+    padding: 12px;
+    text-align: center;
+    font-weight: 500;
+    color: #333;
+    margin: 0;
+    }
+</style>
 <section style="width: 100%">
-    <div class="canvass">
-    <section class="hero">
-        <h1 class="text-center main_heading">Hi! I'm a Heartist<br>Elijah Goh</h1>
-        <img class="hero_img" src="https://i.ibb.co/yBsnfyzt/Elijah-Goh.jpg">
-        <p>From his first brushstrokes at age five, Elijah's artistic journey has been one of continuous growth and exploration. Living with Autism Spectrum Disorder (ASD), his dedication did not waver as shown through active participation in art clubs and competitions throughout his school years, where he developed both technique and passion. Through experimenting with various painting styles, he has discovered powerful ways to channel his thoughts and emotions onto canvas. Each piece reflects not only his personal experiences but also his determination to push beyond challenges, creating works that connect deeply with viewers.</p>
-    </section>
-    </div>
+<div class="canvass">
+<section class="hero">
+<h1 class="text-center main_heading">Hi! I'm a Heartist<br>Elijah Goh</h1>
+<img src="https://i.ibb.co/KxzTJGh5/Elijah-Goh.jpg" class="hero_img">
+<p>From his first brushstrokes at age five, Elijah's artistic journey has been one of continuous growth and exploration. Living with Autism Spectrum Disorder (ASD), his dedication did not waver as shown through active participation in art clubs and competitions throughout his school years, where he developed both technique and passion. Through experimenting with various painting styles, he has discovered powerful ways to channel his thoughts and emotions onto canvas. Each piece reflects not only his personal experiences but also his determination to push beyond challenges, creating works that connect deeply with viewers.</p>
+</section>
+<section style="width: 100%; padding-top: 20px;">
+<div class="canvass">
+<h2 class="text-center main_heading2">Paintings for Sale<br></h2>
+<div class="paintings_grid images_grid">
+<div class="painting_item">
+<a target="_blank" href="https://shop.shapinghearts.cdc.gov.sg/products/standing-tall-at-sg60">
+<img title="" src="https://i.ibb.co/jk3M8bvW/ELIJ-001-Standing-Tall-at-SG60-300-W-x-400-H-x-20-Dmm.jpg" alt="">
+<p class="painting_title">"Standing Tall at SG60"</p>
+</a>
+</div><div class="painting_item">
+<a target="_blank" href="https://shop.shapinghearts.cdc.gov.sg/products/breath-of-calm">
+<img title="Breath of Calm" src="https://i.ibb.co/ymJcYZMV/ELIJ-003-Breath-of-Calm-300-W-x-400-H-x-20-Dmm.jpg" alt="Breath of Calm">
+<p class="painting_title">Breath of Calm</p>
+</a>
+</div><div class="painting_item">
+<a target="_blank" href="https://shop.shapinghearts.cdc.gov.sg/products/springtime-symphony">
+<img title="Springtime Symphony" src="https://i.ibb.co/xqnzr0qT/ELIJ-002-Springtime-Symphony-400-W-x-300-H-x-20-Dmm.jpg" alt="Springtime Symphony">
+<p class="painting_title">Springtime Symphony</p>
+</a>
+</div>
+</div>
+</div>
+</section>
+</div>
 </section>
