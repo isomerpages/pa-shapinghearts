@@ -7,7 +7,7 @@ description: ""
 <p>The Art Faculty</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/The_Art_Faculty.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/the_art_faculty_horz.jpg">
 </div>
 <p>A social enterprise by Autism Resource Centre (Singapore), The Art Faculty
 celebrates the abilities of people on the Autism Spectrum. They promote
