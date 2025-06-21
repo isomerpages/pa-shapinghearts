@@ -73,9 +73,7 @@ description: ""
         }
         
     
-    .images_grid{
-     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    .images_grid{ display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
     gap: 25px;
     }
 
@@ -200,13 +198,70 @@ description: ""
     margin-right: 0% !important;
     }
     
-    </style>
+    
+    .painting_item {
+    border-radius: 8px;
+    overflow: hidden;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    background: white;
+    }
+    
+    .painting_item:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 6px 12px rgba(0,0,0,0.15);
+    }
+    
+    .painting_item a {
+    text-decoration: none;
+    color: inherit;
+    display: block;
+    }
+    
+    .painting_item img {
+    width: 100% !important;
+    height: 250px !important;
+    object-fit: cover;
+    object-position: center;
+    display: block;
+    }
+    
+    .painting_title {
+    padding: 12px;
+    text-align: center;
+    font-weight: 500;
+    color: #333;
+    margin: 0;
+    }
+</style>
 <section style="width: 100%">
-    <div class="canvass">
-    <section class="hero">
-        <h1 class="text-center main_heading">Hi! I'm a Heartist<br>Jonas Teo</h1>
-        <img class="hero_img" src="https://i.ibb.co/v6kbqPpw/Jonas-Teo.jpg">
-        <p>Through vibrant artworks filled with rainbows, Mario characters, and pirate adventures, Jonas transforms his unique perspective into colourful expressions of joy. Living with Autism Spectrum Disorder (ASD), he has discovered in art a powerful medium for sharing his imaginative world. His creative journey takes on special meaning within a family where each of three siblings faces distinct challenges, yet his artistic voice rings clear and strong, inspiring others with every piece he creates.</p>
-    </section>
-    </div>
+<div class="canvass">
+<section class="hero">
+<h1 class="text-center main_heading">Hi! I'm a Heartist<br>Jonas Teo</h1>
+<img src="https://i.ibb.co/jvZ6ntmk/Jonas-teo.jpg" class="hero_img">
+<p>Through vibrant artworks filled with rainbows, Mario characters, and pirate adventures, Jonas transforms his unique perspective into colourful expressions of joy. Living with Autism Spectrum Disorder (ASD), he has discovered in art a powerful medium for sharing his imaginative world. His creative journey takes on special meaning within a family where each of three siblings faces distinct challenges, yet his artistic voice rings clear and strong, inspiring others with every piece he creates.</p>
+</section>
+<section style="width: 100%; padding-top: 20px;">
+<div class="canvass">
+<h2 class="text-center main_heading2">Paintings for Sale<br></h2>
+<div class="paintings_grid images_grid">
+<div class="painting_item">
+<a target="_blank" href="https://shop.shapinghearts.cdc.gov.sg/products/rainbow-merlion">
+<img title="Rainbow Merlion" src="https://i.ibb.co/wZshVqSx/JONAS-001-Rainbow-Merlion-340-W-x-430-H-x-15-Dmm.jpg" alt="Rainbow Merlion">
+<p class="painting_title">Rainbow Merlion</p>
+</a>
+</div><div class="painting_item">
+<a target="_blank" href="https://shop.shapinghearts.cdc.gov.sg/products/rainbow-rabbit">
+<img title="Rainbow Rabbit" src="https://i.ibb.co/xK82057x/JONAS-003-Rainbow-Rabbit-300-W-x-440-H-x-20-Dmm.jpg" alt="Rainbow Rabbit">
+<p class="painting_title">Rainbow Rabbit</p>
+</a>
+</div>
+</div>
+</div>
+</section>
+
+
+
+
+</div>
 </section>
