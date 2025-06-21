@@ -73,9 +73,7 @@ description: ""
         }
         
     
-    .images_grid{
-     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    .images_grid{ display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
     gap: 25px;
     }
 
@@ -200,13 +198,95 @@ description: ""
     margin-right: 0% !important;
     }
     
-    </style>
+    
+    .painting_item {
+    border-radius: 8px;
+    overflow: hidden;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    background: white;
+    }
+    
+    .painting_item:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 6px 12px rgba(0,0,0,0.15);
+    }
+    
+    .painting_item a {
+    text-decoration: none;
+    color: inherit;
+    display: block;
+    }
+    
+    .painting_item img {
+    width: 100% !important;
+    height: 250px !important;
+    object-fit: cover;
+    object-position: center;
+    display: block;
+    }
+    
+    .painting_title {
+    padding: 12px;
+    text-align: center;
+    font-weight: 500;
+    color: #333;
+    margin: 0;
+    }
+</style>
 <section style="width: 100%">
-    <div class="canvass">
-    <section class="hero">
-        <h1 class="text-center main_heading">Hi! I'm a Heartist<br>Ong Chee Hwee</h1>
-        <img class="hero_img" src="https://i.ibb.co/6R5wmXxJ/Ong-Chee-Hwee.jpg">
-        <p>Ong Chee Hwee is a self-taught artist who began painting as a form of therapy and reflection following a stroke in 2020. Despite living with partial body impairment, he found a renewed sense of purpose in art, using it to express his emotions and observations of the world around him. Inspired by nature and life's quiet moments, his works are a testament to resilience and hope. Through his art, Chee Hwee continues to encourage others to find strength, creativity, and meaning in the face of adversity.</p>
-    </section>
-    </div>
+<div class="canvass">
+<section class="hero">
+<h1 class="text-center main_heading">Hi! I'm a Heartist<br>Ong Chee Hwee</h1>
+<img src="https://i.ibb.co/DfKXY89t/Ong-Chee-Hwee.jpg" class="hero_img">
+<p>Ong Chee Hwee is a self-taught artist who began painting as a form of therapy and reflection following a stroke in 2020. Despite living with partial body impairment, he found a renewed sense of purpose in art, using it to express his emotions and observations of the world around him. Inspired by nature and life's quiet moments, his works are a testament to resilience and hope. Through his art, Chee Hwee continues to encourage others to find strength, creativity, and meaning in the face of adversity.</p>
+</section>
+<section style="width: 100%; padding-top: 20px;">
+<div class="canvass">
+<h2 class="text-center main_heading2">Paintings for Sale<br></h2>
+<div class="paintings_grid images_grid">
+<div class="painting_item">
+<a target="_blank" href="https://shop.shapinghearts.cdc.gov.sg/products/bukit-timah-steps">
+<img title="Bukit Timah Steps" src="https://i.ibb.co/zh7hXmWg/ONGCH-001-Bukit-Timah-Steps-400-W-x-500-H-x-20-Dmm.jpg" alt="Bukit Timah Steps">
+<p class="painting_title">Bukit Timah Steps</p>
+</a>
+</div><div class="painting_item">
+<a target="_blank" href="https://shop.shapinghearts.cdc.gov.sg/products/coney-island-morning">
+<img title="Coney Island Morning" src="https://i.ibb.co/rG5DtsWP/ONGCH-002-Coney-Island-Morning-500-W-x-400-H-x-20-Dmm.jpg" alt="Coney Island Morning">
+<p class="painting_title">Coney Island Morning</p>
+</a>
+</div><div class="painting_item">
+<a target="_blank" href="https://shop.shapinghearts.cdc.gov.sg/products/end-of-winter">
+<img title="End of Winter" src="https://i.ibb.co/KcdLxYRr/ONGCH-003-End-of-Winter-400-W-x-500-H-x-20-Dmm.jpg" alt="End of Winter">
+<p class="painting_title">End of Winter</p>
+</a>
+</div><div class="painting_item">
+<a target="_blank" href="https://shop.shapinghearts.cdc.gov.sg/products/symphony-of-waves">
+<img title="Symphony of Waves" src="https://i.ibb.co/gMBHt19q/ONGCH-004-Symphony-of-Waves-460-W-x-460-H-x-20-Dmm.jpg" alt="Symphony of Waves">
+<p class="painting_title">Symphony of Waves</p>
+</a>
+</div><div class="painting_item">
+<a target="_blank" href="https://shop.shapinghearts.cdc.gov.sg/products/the-artists-inner-world">
+<img title="The Artist's Inner World" src="https://i.ibb.co/mFBBFG1W/ONGCH-005-The-Artist-s-Inner-World-550-W-x-550-H-x-40-Dmm.jpg" alt="The Artist's Inner World">
+<p class="painting_title">The Artist's Inner World</p>
+</a>
+</div><div class="painting_item">
+<a target="_blank" href="https://shop.shapinghearts.cdc.gov.sg/products/tojinbo-cliffs">
+<img title="Tojinbo Cliffs" src="https://i.ibb.co/hFHF2Th9/ONGCH-006-Tojinbo-Cliffs-400-W-x-500-H-x-20-Dmm.jpg" alt="Tojinbo Cliffs">
+<p class="painting_title">Tojinbo Cliffs</p>
+</a>
+</div><div class="painting_item">
+<a target="_blank" href="https://shop.shapinghearts.cdc.gov.sg/products/way-home-in-winter">
+<img title="Way Home in Winter" src="https://i.ibb.co/0Rk7SPxg/ONGCH-007-Way-Home-in-Winter-500-W-x-400-H-x-20-Dmm.jpg" alt="Way Home in Winter">
+<p class="painting_title">Way Home in Winter</p>
+</a>
+</div>
+</div>
+</div>
+</section>
+
+
+
+
+</div>
 </section>

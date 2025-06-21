@@ -58,7 +58,7 @@ description: ""
     object-position: center;
     display: block;
     margin: 0 auto;
-    transform: rotate(-90deg);
+    
     }
     
     .hero .canvass{
@@ -74,9 +74,7 @@ description: ""
         }
         
     
-    .images_grid{
-     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    .images_grid{ display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
     gap: 25px;
     }
 
@@ -180,7 +178,7 @@ description: ""
     object-position: center;
     display: block;
     margin: 0 auto;
-    transform: rotate(-90deg);
+    
     }
        body .canvass{
         width: 90% !important;
@@ -202,13 +200,76 @@ description: ""
     margin-right: 0% !important;
     }
     
-    </style>
+    
+    .painting_item {
+    border-radius: 8px;
+    overflow: hidden;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    background: white;
+    }
+    
+    .painting_item:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 6px 12px rgba(0,0,0,0.15);
+    }
+    
+    .painting_item a {
+    text-decoration: none;
+    color: inherit;
+    display: block;
+    }
+    
+    .painting_item img {
+    width: 100% !important;
+    height: 250px !important;
+    object-fit: cover;
+    object-position: center;
+    display: block;
+    }
+    
+    .painting_title {
+    padding: 12px;
+    text-align: center;
+    font-weight: 500;
+    color: #333;
+    margin: 0;
+    }
+</style>
 <section style="width: 100%">
-    <div class="canvass">
-    <section class="hero">
-        <h1 class="text-center main_heading">Hi! I'm a Heartist<br>Muhammad Ridhwan Masli</h1>
-        <img class="hero_img" src="https://i.ibb.co/Kcw22L29/Muhammad-Ridhwan-Masli.jpg">
-        <p>Born with Pfeiffer Syndrome, Ridhwan began his artistic journey at the age of five with Global Art. His resilience and talent have earned him the Lee Kwan Yew Exemplary Student Award and Most Outstanding Student Award in 2024. Ridhwan's artwork, including the award-winning "Mind Space", which was showcased at the ArtScience Museum, reflects his unique perspective on the world. He has participated in various prestigious competitions and exhibitions, such as UOL X Art:Dis and Shaping Hearts at One Punggol. Through his art, Ridhwan blends creativity and introspection, offering a unique perspective on the world and sharing his journey of self-expression with others.</p>
-    </section>
-    </div>
+<div class="canvass">
+<section class="hero">
+<h1 class="text-center main_heading">Hi! I'm a Heartist<br>Muhammad Ridhwan Masli</h1>
+<img src="https://i.ibb.co/xtszv4fT/Muhammad-Ridhwan-Masli.jpg" class="hero_img">
+<p>Born with Pfeiffer Syndrome, Ridhwan began his artistic journey at the age of five with Global Art. His resilience and talent have earned him the Lee Kwan Yew Exemplary Student Award and Most Outstanding Student Award in 2024. Ridhwan's artwork, including the award-winning "Mind Space", which was showcased at the ArtScience Museum, reflects his unique perspective on the world. He has participated in various prestigious competitions and exhibitions, such as UOL X Art:Dis and Shaping Hearts at One Punggol. Through his art, Ridhwan blends creativity and introspection, offering a unique perspective on the world and sharing his journey of self-expression with others.</p>
+</section>
+<section style="width: 100%; padding-top: 20px;">
+<div class="canvass">
+<h2 class="text-center main_heading2">Paintings for Sale<br></h2>
+<div class="paintings_grid images_grid">
+<div class="painting_item">
+<a target="_blank" href="https://shop.shapinghearts.cdc.gov.sg/products/city-reflections">
+<img title="City Reflections" src="https://i.ibb.co/LDPR9tRB/RIDH-001-City-Reflections-295-W-x-210-H-mm.jpg" alt="City Reflections">
+<p class="painting_title">City Reflections</p>
+</a>
+</div><div class="painting_item">
+<a target="_blank" href="https://shop.shapinghearts.cdc.gov.sg/products/eruption-of-light">
+<img title="Eruption of Light" src="https://i.ibb.co/N2G32SQ8/KLSHA-003-Eruption-of-Light-550-W-x-430-H-mm-Framed.jpg" alt="Eruption of Light">
+<p class="painting_title">Eruption of Light</p>
+</a>
+</div><div class="painting_item">
+<a target="_blank" href="https://shop.shapinghearts.cdc.gov.sg/products/journey-to-the-sea">
+<img title="Journey to The Sea" src="https://i.ibb.co/vxsQZ81k/RIDH-004-Journey-to-the-Sea-310-W-x-410-H-x-20-Dmm.jpg" alt="Journey to The Sea">
+<p class="painting_title">Journey to The Sea</p>
+</a>
+</div><div class="painting_item">
+<a target="_blank" href="https://shop.shapinghearts.cdc.gov.sg/products/ocean-bloom">
+<img title="Ocean Bloom" src="https://i.ibb.co/b5mZWz3x/KLSHA-004-Ocean-Bloom-300-W-x-400-H-mm.jpg" alt="Ocean Bloom">
+<p class="painting_title">Ocean Bloom</p>
+</a>
+</div>
+</div>
+</div>
+</section>
+</div>
 </section>

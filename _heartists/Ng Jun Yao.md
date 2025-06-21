@@ -73,9 +73,7 @@ description: ""
         }
         
     
-    .images_grid{
-     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    .images_grid{ display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
     gap: 25px;
     }
 
@@ -200,13 +198,65 @@ description: ""
     margin-right: 0% !important;
     }
     
-    </style>
+    
+    .painting_item {
+    border-radius: 8px;
+    overflow: hidden;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    background: white;
+    }
+    
+    .painting_item:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 6px 12px rgba(0,0,0,0.15);
+    }
+    
+    .painting_item a {
+    text-decoration: none;
+    color: inherit;
+    display: block;
+    }
+    
+    .painting_item img {
+    width: 100% !important;
+    height: 250px !important;
+    object-fit: cover;
+    object-position: center;
+    display: block;
+    }
+    
+    .painting_title {
+    padding: 12px;
+    text-align: center;
+    font-weight: 500;
+    color: #333;
+    margin: 0;
+    }
+</style>
 <section style="width: 100%">
-    <div class="canvass">
-    <section class="hero">
-        <h1 class="text-center main_heading">Hi! I'm a Heartist<br>Ng Jun Yao</h1>
-        <img class="hero_img" src="https://i.ibb.co/dsz1pXX9/Ng-Jun-Yao.jpg">
-        <p>Jun Yao is a talented artist with a unique ability to capture the charm of animals in his work. Diagnosed with Autism Spectrum Disorder (ASD) at the age of four, he graduated from AWWA Special School, where he honed his skills. His love for animal expressions led him to create whimsical cartoon characters, and his art has been featured in exhibitions and on merchandise. Specialising in watercolours, Jun Yao's work reflects his creativity, perseverance, and distinctive perspective on the world.</p>
-    </section>
-    </div>
+<div class="canvass">
+<section class="hero">
+<h1 class="text-center main_heading">Hi! I'm a Heartist<br>Ng Jun Yao</h1>
+<img src="https://i.ibb.co/nsrbcfHK/Ng-Jun-Yao.jpg" class="hero_img">
+<p>Jun Yao is a talented artist with a unique ability to capture the charm of animals in his work. Diagnosed with Autism Spectrum Disorder (ASD) at the age of four, he graduated from AWWA Special School, where he honed his skills. His love for animal expressions led him to create whimsical cartoon characters, and his art has been featured in exhibitions and on merchandise. Specialising in watercolours, Jun Yao's work reflects his creativity, perseverance, and distinctive perspective on the world.</p>
+</section>
+<section style="width: 100%; padding-top: 20px;">
+<div class="canvass">
+<h2 class="text-center main_heading2">Paintings for Sale<br></h2>
+<div class="paintings_grid images_grid">
+<div class="painting_item">
+<a target="_blank" href="https://shop.shapinghearts.cdc.gov.sg/products/majulah-our-singapore">
+<img title="Majulah, Our Singapore" src="https://i.ibb.co/k2j8KmcL/JUNY-001-Majulah-Our-Singapore-440-W-x-340-Hmm.jpg" alt="Majulah, Our Singapore">
+<p class="painting_title">Majulah, Our Singapore</p>
+</a>
+</div>
+</div>
+</div>
+</section>
+
+
+
+
+</div>
 </section>

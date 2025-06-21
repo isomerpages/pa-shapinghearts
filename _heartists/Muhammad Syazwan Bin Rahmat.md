@@ -58,7 +58,7 @@ description: ""
     object-position: center;
     display: block;
     margin: 0 auto;
-    transform: rotate(90deg);
+    
     }
     
     .hero .canvass{
@@ -74,9 +74,7 @@ description: ""
         }
         
     
-    .images_grid{
-     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    .images_grid{ display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
     gap: 25px;
     }
 
@@ -180,7 +178,7 @@ description: ""
     object-position: center;
     display: block;
     margin: 0 auto;
-    transform: rotate(90deg);
+    
     }
        body .canvass{
         width: 90% !important;
@@ -202,13 +200,66 @@ description: ""
     margin-right: 0% !important;
     }
     
-    </style>
+    
+    .painting_item {
+    border-radius: 8px;
+    overflow: hidden;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    background: white;
+    }
+    
+    .painting_item:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 6px 12px rgba(0,0,0,0.15);
+    }
+    
+    .painting_item a {
+    text-decoration: none;
+    color: inherit;
+    display: block;
+    }
+    
+    .painting_item img {
+    width: 100% !important;
+    height: 250px !important;
+    object-fit: cover;
+    object-position: center;
+    display: block;
+    }
+    
+    .painting_title {
+    padding: 12px;
+    text-align: center;
+    font-weight: 500;
+    color: #333;
+    margin: 0;
+    }
+</style>
 <section style="width: 100%">
-    <div class="canvass">
-    <section class="hero">
-        <h1 class="text-center main_heading">Hi! I'm a Heartist<br>Muhammad Syazwan Bin Rahmat</h1>
-        <img class="hero_img" src="https://i.ibb.co/DH3g8TNY/Muhammad-Syazwan-Bin-Rahmat.jpg">
-        <p>Muhammad Syazwan Bin Rahmat, a 27-year-old home baker of six years, lives with Epilepsy and Major Depressive Disorder (MDD). Aside from baking, he enjoys cooking and singing, which have been his primary creative outlets. Recently, he discovered the therapeutic power of painting, finding it to be a new way to relieve the weight of his challenges. While baking and singing have always been his forms of art, painting offers a unique sense of satisfaction, allowing him to express himself without any "rules." For Syazwan, painting has become another vital tool for healing and personal growth.</p>
-    </section>
-    </div>
+<div class="canvass">
+<section class="hero">
+<h1 class="text-center main_heading">Hi! I'm a Heartist<br>Muhammad Syazwan Bin Rahmat</h1>
+<img src="https://i.ibb.co/84RMjDxm/Muhammad-Syazwan-Bin-Rahmat.jpg" class="hero_img">
+<p>Muhammad Syazwan Bin Rahmat, a 27-year-old home baker of six years, lives with Epilepsy and Major Depressive Disorder (MDD). Aside from baking, he enjoys cooking and singing, which have been his primary creative outlets. Recently, he discovered the therapeutic power of painting, finding it to be a new way to relieve the weight of his challenges. While baking and singing have always been his forms of art, painting offers a unique sense of satisfaction, allowing him to express himself without any "rules." For Syazwan, painting has become another vital tool for healing and personal growth.</p>
+</section>
+<section style="width: 100%; padding-top: 20px;">
+<div class="canvass">
+<h2 class="text-center main_heading2">Paintings for Sale<br></h2>
+<div class="paintings_grid images_grid">
+<div class="painting_item">
+<a target="_blank" href="https://shop.shapinghearts.cdc.gov.sg/products/ignite">
+<img title="Ignite" src="https://i.ibb.co/5WHvvjsx/SYAZ-002-Ignite-180-W-x-240-H-x-20-Dmm.jpg" alt="Ignite">
+<p class="painting_title">Ignite</p>
+</a>
+</div><div class="painting_item">
+<a target="_blank" href="https://shop.shapinghearts.cdc.gov.sg/products/the-magic-of-aurora-borealis">
+<img title="The Magic of Aurora Borealis" src="https://i.ibb.co/C36j6GhV/SYAZ-001-The-Magic-of-Aurora-Borealis-200-W-x-200-H-x-20-Dmm.jpg" alt="The Magic of Aurora Borealis">
+<p class="painting_title">The Magic of Aurora Borealis</p>
+</a>
+</div>
+</div>
+</div>
+</section>
+</div>
 </section>

@@ -73,9 +73,7 @@ description: ""
         }
         
     
-    .images_grid{
-     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    .images_grid{ display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
     gap: 25px;
     }
 
@@ -200,13 +198,121 @@ description: ""
     margin-right: 0% !important;
     }
     
-    </style>
+    
+    .painting_item {
+    border-radius: 8px;
+    overflow: hidden;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    background: white;
+    }
+    
+    .painting_item:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 6px 12px rgba(0,0,0,0.15);
+    }
+    
+    .painting_item a {
+    text-decoration: none;
+    color: inherit;
+    display: block;
+    }
+    
+    .painting_item img {
+    width: 100% !important;
+    height: 250px !important;
+    object-fit: cover;
+    object-position: center;
+    display: block;
+    }
+    
+    .painting_title {
+    padding: 12px;
+    text-align: center;
+    font-weight: 500;
+    color: #333;
+    margin: 0;
+    }
+</style>
 <section style="width: 100%">
-    <div class="canvass">
-    <section class="hero">
-        <h1 class="text-center main_heading">Hi! I'm a Heartist<br>Vincent Seet (Seet Kie Hong)</h1>
-        <img class="hero_img" src="https://i.ibb.co/YH4H1bp/Vincent-Seet-Seet-Kie-Hong.jpg">
-        <p>Vincent Seet (Seet Kie Hong) is a two-time stroke survivor and former educator who has turned to art as a means of personal healing and self-expression. Believing that every painting is a dream come true, Vincent uses his artwork to inspire peace and harmony. Over the years, he has supported various charitable causes both locally and internationally. He also volunteers his time to teach painting to mental health patients, helping them discover the therapeutic benefits of art and providing an outlet for their emotions.</p>
-    </section>
-    </div>
+<div class="canvass">
+<section class="hero">
+<h1 class="text-center main_heading">Hi! I'm a Heartist<br>Vincent Seet (Seet Kie Hong)</h1>
+<img src="https://i.ibb.co/67JbJ0g7/Vincent-Seet-Kie-Hong.jpg" class="hero_img">
+<p>Vincent Seet (Seet Kie Hong) is a two-time stroke survivor and former educator who has turned to art as a means of personal healing and self-expression. Believing that every painting is a dream come true, Vincent uses his artwork to inspire peace and harmony. Over the years, he has supported various charitable causes both locally and internationally. He also volunteers his time to teach painting to mental health patients, helping them discover the therapeutic benefits of art and providing an outlet for their emotions.</p>
+</section>
+<section style="width: 100%; padding-top: 20px;">
+<div class="canvass">
+<h2 class="text-center main_heading2">Paintings for Sale<br></h2>
+<div class="paintings_grid images_grid">
+<div class="painting_item">
+<a target="_blank" href="https://shop.shapinghearts.cdc.gov.sg/products/butterfly-dreams-singapores-journey-of-transformation-and-harmony">
+<img title="Butterfly Dreams: Singapore's Journey of Transformation and Harmony" src="https://i.ibb.co/tMhMK5sV/VINS-001-Butterfly-Dreams-Singapore-s-Journey-of-Transformation-and-Harmony-610-W-x-460-Hmm.jpg" alt="Butterfly Dreams: Singapore's Journey of Transformation and Harmony">
+<p class="painting_title">Butterfly Dreams: Singapore's Journey of Transformation and Harmony</p>
+</a>
+</div><div class="painting_item">
+<a target="_blank" href="https://shop.shapinghearts.cdc.gov.sg/products/lights-the-path">
+<img title="Celebrating Cultures, Inspiring Art" src="https://i.ibb.co/8DwLY8Nf/VINS-002-Celebrating-Cultures-Inspiring-Art-610-W-x-460-Hmm.jpg" alt="Celebrating Cultures, Inspiring Art">
+<p class="painting_title">Celebrating Cultures, Inspiring Art</p>
+</a>
+</div><div class="painting_item">
+<a target="_blank" href="https://shop.shapinghearts.cdc.gov.sg/products/regeneration-and-renewal">
+<img title="Evolving Flavors: Celebrating Singapore's UNESCO Hawker Heritage" src="https://i.ibb.co/gMYxWqbZ/VINS-003-Evolving-Flavors-Celebrating-Singapore-s-UNESCO-Hawker-Heritage-610-W-x-460-Hmm.jpg" alt="Evolving Flavors: Celebrating Singapore's UNESCO Hawker Heritage">
+<p class="painting_title">Evolving Flavors: Celebrating Singapore's UNESCO Hawker Heritage</p>
+</a>
+</div><div class="painting_item">
+<a target="_blank" href="https://shop.shapinghearts.cdc.gov.sg/products/dance-to-success">
+<img title="From Sepia Shores to Golden Horizons: The Lion City's Ascendancy" src="https://i.ibb.co/F4yXtY84/VINS-004-From-Sepia-Shores-to-Golden-Horizons-The-Lion-City-s-Ascendancy-840-W-x-590-Hmm.jpg" alt="From Sepia Shores to Golden Horizons: The Lion City's Ascendancy">
+<p class="painting_title">From Sepia Shores to Golden Horizons: The Lion City's Ascendancy</p>
+</a>
+</div><div class="painting_item">
+<a target="_blank" href="https://shop.shapinghearts.cdc.gov.sg/products/guiding-light-a-mothers-love-on-tranquil-waters">
+<img title="From Village Roots to Modern Heights l" src="https://i.ibb.co/whJ5687s/VINS-005-From-Village-Roots-to-Modern-Heights-l-510-W-x-410-Hmm.jpg" alt="From Village Roots to Modern Heights l">
+<p class="painting_title">From Village Roots to Modern Heights l</p>
+</a>
+</div><div class="painting_item">
+<a target="_blank" href="https://shop.shapinghearts.cdc.gov.sg/products/colourful-renewal">
+<img title="Harmony in Bloom: A Dance of Cultures in Singapore's Garden" src="https://i.ibb.co/WvLwRS2t/VINS-006-Harmony-in-Bloom-A-Dance-of-Cultures-in-Singapore-s-Garden-850-W-x-590-Hmm.jpg" alt="Harmony in Bloom: A Dance of Cultures in Singapore's Garden">
+<p class="painting_title">Harmony in Bloom: A Dance of Cultures in Singapore's Garden</p>
+</a>
+</div><div class="painting_item">
+<a target="_blank" href="https://shop.shapinghearts.cdc.gov.sg/products/harmony-in-bloom-singapores-journey-of-prosperity-and-sustainability">
+<img title="Harmony in Bloom: Singapore's Journey of Prosperity and Sustainability" src="https://i.ibb.co/hF3TqMyv/VINS-007-Harmony-in-Bloom-Singapore-s-Journey-of-Prosperity-and-Sustainability-920-W-x-610-Hmm.jpg" alt="Harmony in Bloom: Singapore's Journey of Prosperity and Sustainability">
+<p class="painting_title">Harmony in Bloom: Singapore's Journey of Prosperity and Sustainability</p>
+</a>
+</div><div class="painting_item">
+<a target="_blank" href="https://shop.shapinghearts.cdc.gov.sg/products/path-to-everlasting-love">
+<img title="Mascots of Unity: Celebrating SG60 Through Singapore's Icons" src="https://i.ibb.co/VchLb6BZ/VINS-008-Mascots-of-Unity-Celebrating-SG60-Through-Singapore-s-Icons-610-W-x-460-Hmm.jpg" alt="Mascots of Unity: Celebrating SG60 Through Singapore's Icons">
+<p class="painting_title">Mascots of Unity: Celebrating SG60 Through Singapore's Icons</p>
+</a>
+</div><div class="painting_item">
+<a target="_blank" href="https://shop.shapinghearts.cdc.gov.sg/products/mystical-singapore-legends-weaving-through-modern-wonders">
+<img title="Mystical Singapore: Legends Weaving Through Modern Wonders" src="https://i.ibb.co/bj5qXMqs/VINS-009-Mystical-Singapore-Legends-Weaving-Through-Modern-Wonders-610-W-x-460-Hmm.jpg" alt="Mystical Singapore: Legends Weaving Through Modern Wonders">
+<p class="painting_title">Mystical Singapore: Legends Weaving Through Modern Wonders</p>
+</a>
+</div><div class="painting_item">
+<a target="_blank" href="https://shop.shapinghearts.cdc.gov.sg/products/hope-light">
+<img title="Neptune Canopus: A Voyage Through Singapore's Financial Prosperity" src="https://i.ibb.co/Ng8SrBf0/VINS-010-Neptune-Canopus-A-Voyage-Through-Singapore-s-Financial-Prosperity-600-W-x-840-Hmm.jpg" alt="Neptune Canopus: A Voyage Through Singapore's Financial Prosperity">
+<p class="painting_title">Neptune Canopus: A Voyage Through Singapore's Financial Prosperity</p>
+</a>
+</div><div class="painting_item">
+<a target="_blank" href="https://shop.shapinghearts.cdc.gov.sg/products/light-hope">
+<img title="Path to UNESCO - Singapore Botanic Garden" src="https://i.ibb.co/twYsPQtV/VINS-011-Path-to-UNESCO-Singapore-Botanic-Garden-610-W-x-460-Hmm.jpg" alt="Path to UNESCO - Singapore Botanic Garden">
+<p class="painting_title">Path to UNESCO - Singapore Botanic Garden</p>
+</a>
+</div><div class="painting_item">
+<a target="_blank" href="https://shop.shapinghearts.cdc.gov.sg/products/joy-of-light">
+<img title="Together We Built Our Home" src="https://i.ibb.co/Txnpdmq3/VINS-013-Together-We-Built-Our-Home-610-W-x-460-Hmm.jpg" alt="Together We Built Our Home">
+<p class="painting_title">Together We Built Our Home</p>
+</a>
+</div><div class="painting_item">
+<a target="_blank" href="https://shop.shapinghearts.cdc.gov.sg/products/harmonious-growth">
+<img title="Under the Moonlight: The Legacy of the Samsui Women" src="https://i.ibb.co/C3dfhFCT/VINS-012-Under-the-Moonlight-The-Legacy-of-the-Samsui-Women-910-W-x-610-Hmm.jpg" alt="Under the Moonlight: The Legacy of the Samsui Women">
+<p class="painting_title">Under the Moonlight: The Legacy of the Samsui Women</p>
+</a>
+</div>
+</div>
+</div>
+</section>
+</div>
 </section>

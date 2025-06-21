@@ -73,9 +73,7 @@ description: ""
         }
         
     
-    .images_grid{
-     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    .images_grid{ display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
     gap: 25px;
     }
 
@@ -200,13 +198,80 @@ description: ""
     margin-right: 0% !important;
     }
     
-    </style>
+    
+    .painting_item {
+    border-radius: 8px;
+    overflow: hidden;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    background: white;
+    }
+    
+    .painting_item:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 6px 12px rgba(0,0,0,0.15);
+    }
+    
+    .painting_item a {
+    text-decoration: none;
+    color: inherit;
+    display: block;
+    }
+    
+    .painting_item img {
+    width: 100% !important;
+    height: 250px !important;
+    object-fit: cover;
+    object-position: center;
+    display: block;
+    }
+    
+    .painting_title {
+    padding: 12px;
+    text-align: center;
+    font-weight: 500;
+    color: #333;
+    margin: 0;
+    }
+</style>
 <section style="width: 100%">
-    <div class="canvass">
-    <section class="hero">
-        <h1 class="text-center main_heading">Hi! I'm a Heartist<br>Alex Lim</h1>
-        <img class="hero_img" src="https://i.ibb.co/7xjHgwYF/Alex-Lim.jpg">
-        <p>Working under the moniker "The Unskilled Boy," Alex Lim, an artist with Autism Spectrum Disorder (ASD), transforms everyday observations into vibrant, detail-rich compositions. His artistic journey spans multiple mediums and styles, from abstract to pop art, reaching a milestone in 2024 with his 500th painting. Through exhibitions in Singapore, Korea, and soon Barcelona, he shares his unique vision of the world—one where ordinary subjects are playfully reconstructed through intricate arrangements of shapes and colours, each piece reflecting his authentic creative voice.</p>
-    </section>
-    </div>
+<div class="canvass">
+<section class="hero">
+<h1 class="text-center main_heading">Hi! I'm a Heartist<br>Alex Lim</h1>
+<img src="https://i.ibb.co/xqtH8pTp/Alex-Lim.jpg" class="hero_img">
+<p>Working under the moniker "The Unskilled Boy," Alex Lim, an artist with Autism Spectrum Disorder (ASD), transforms everyday observations into vibrant, detail-rich compositions. His artistic journey spans multiple mediums and styles, from abstract to pop art, reaching a milestone in 2024 with his 500th painting. Through exhibitions in Singapore, Korea, and soon Barcelona, he shares his unique vision of the world—one where ordinary subjects are playfully reconstructed through intricate arrangements of shapes and colours, each piece reflecting his authentic creative voice.</p>
+</section>
+<section style="width: 100%; padding-top: 20px;">
+<div class="canvass">
+<h2 class="text-center main_heading2">Paintings for Sale<br></h2>
+<div class="paintings_grid images_grid">
+<div class="painting_item">
+<a target="_blank" href="https://shop.shapinghearts.cdc.gov.sg/products/beacon">
+<img title="Blocks and Blossoms" src="https://i.ibb.co/pBn68TR5/ALEX-001-Blocks-and-Blossoms-510-W-x-510-H-x-20-Dmm.jpg" alt="Blocks and Blossoms">
+<p class="painting_title">Blocks and Blossoms</p>
+</a>
+</div><div class="painting_item">
+<a target="_blank" href="https://shop.shapinghearts.cdc.gov.sg/products/joy">
+<img title="Joy" src="https://i.ibb.co/prRcmnsW/ALEX-002-Joy-410-W-x-510-H-x-20-Dmm.jpg" alt="Joy">
+<p class="painting_title">Joy</p>
+</a>
+</div><div class="painting_item">
+<a target="_blank" href="https://shop.shapinghearts.cdc.gov.sg/products/kampong-of-cluck">
+<img title="Kampong of Cluck" src="https://i.ibb.co/YsZpqTH/ALEX-003-Kampung-of-Cluck-510-W-x-510-H-x-20-Dmm.jpg" alt="Kampong of Cluck">
+<p class="painting_title">Kampong of Cluck</p>
+</a>
+</div><div class="painting_item">
+<a target="_blank" href="https://shop.shapinghearts.cdc.gov.sg/products/the-jungle">
+<img title="The Jungle" src="https://i.ibb.co/SDqJVwtQ/ALEX-005-The-Jungle-510-W-x-510-H-x-20-Dmm.jpg" alt="The Jungle">
+<p class="painting_title">The Jungle</p>
+</a>
+</div>
+</div>
+</div>
+</section>
+
+
+
+
+</div>
 </section>

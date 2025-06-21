@@ -73,9 +73,7 @@ description: ""
         }
         
     
-    .images_grid{
-     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    .images_grid{ display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
     gap: 25px;
     }
 
@@ -200,13 +198,85 @@ description: ""
     margin-right: 0% !important;
     }
     
-    </style>
+    
+    .painting_item {
+    border-radius: 8px;
+    overflow: hidden;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    background: white;
+    }
+    
+    .painting_item:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 6px 12px rgba(0,0,0,0.15);
+    }
+    
+    .painting_item a {
+    text-decoration: none;
+    color: inherit;
+    display: block;
+    }
+    
+    .painting_item img {
+    width: 100% !important;
+    height: 250px !important;
+    object-fit: cover;
+    object-position: center;
+    display: block;
+    }
+    
+    .painting_title {
+    padding: 12px;
+    text-align: center;
+    font-weight: 500;
+    color: #333;
+    margin: 0;
+    }
+</style>
 <section style="width: 100%">
-    <div class="canvass">
-    <section class="hero">
-        <h1 class="text-center main_heading">Hi! I'm a Heartist<br>Serene Keen</h1>
-        <img class="hero_img" src="https://i.ibb.co/LdnRJtjf/Serene-Keen.jpg">
-        <p>Serene Keen (黄金红) is a Calligrapher and Storyteller who weaves her bilingual world—thinking in English and feeling in Chinese—into deeply expressive art. Living in recovery from Schizophrenia, she channels her journey into works that balance order and emotion, echoing the Chinese phrase 序中藏狂 ("wildness within structure"). Serene works with both traditional ink and digital media, exploring themes of connection, nature, and meaning. Mostly self-taught, she is now pursuing formal studies at NAFA and will soon begin a Master's in Arts and Cultural Entrepreneurship at NUS. Through her art and advocacy work at the Singapore Association for Mental Health, Serene continues to inspire others by showing how creativity can be a powerful path to healing and understanding.</p>
-    </section>
-    </div>
+<div class="canvass">
+<section class="hero">
+<h1 class="text-center main_heading">Hi! I'm a Heartist<br>Serene Keen</h1>
+<img src="https://i.ibb.co/bMYjMNXJ/Serene-Keen.jpg" class="hero_img">
+<p>Serene Keen (黄金红) is a Calligrapher and Storyteller who weaves her bilingual world—thinking in English and feeling in Chinese—into deeply expressive art. Living in recovery from Schizophrenia, she channels her journey into works that balance order and emotion, echoing the Chinese phrase 序中藏狂 ("wildness within structure"). Serene works with both traditional ink and digital media, exploring themes of connection, nature, and meaning. Mostly self-taught, she is now pursuing formal studies at NAFA and will soon begin a Master's in Arts and Cultural Entrepreneurship at NUS. Through her art and advocacy work at the Singapore Association for Mental Health, Serene continues to inspire others by showing how creativity can be a powerful path to healing and understanding.</p>
+</section>
+<section style="width: 100%; padding-top: 20px;">
+<div class="canvass">
+<h2 class="text-center main_heading2">Paintings for Sale<br></h2>
+<div class="paintings_grid images_grid">
+<div class="painting_item">
+<a target="_blank" href="https://shop.shapinghearts.cdc.gov.sg/products/civil-snails">
+<img title="Civil Snails" src="https://i.ibb.co/TqxX0dDG/SERE-001-Civil-Snails-580-W-x-470-Hmm.jpg" alt="Civil Snails">
+<p class="painting_title">Civil Snails</p>
+</a>
+</div><div class="painting_item">
+<a target="_blank" href="https://shop.shapinghearts.cdc.gov.sg/products/daily-life">
+<img title="Daily Life" src="https://i.ibb.co/9HkT8LW9/SERE-002-Daily-Life-580-W-x-460-Hmm.jpg" alt="Daily Life">
+<p class="painting_title">Daily Life</p>
+</a>
+</div><div class="painting_item">
+<a target="_blank" href="https://shop.shapinghearts.cdc.gov.sg/products/orangutan-legacy">
+<img title="Orangutan Legacy" src="https://i.ibb.co/XxXHfQnR/SERE-003-Orangutan-Legacy-470-W-x-590-Hmm.jpg" alt="Orangutan Legacy">
+<p class="painting_title">Orangutan Legacy</p>
+</a>
+</div><div class="painting_item">
+<a target="_blank" href="https://shop.shapinghearts.cdc.gov.sg/products/pomfret-blessings">
+<img title="Pomfret Blessings" src="https://i.ibb.co/HfJ6NSd8/SERE-004-Pomfret-Blessings-470-W-x-580-Hmm.jpg" alt="Pomfret Blessings">
+<p class="painting_title">Pomfret Blessings</p>
+</a>
+</div><div class="painting_item">
+<a target="_blank" href="https://shop.shapinghearts.cdc.gov.sg/products/sparrow-friends">
+<img title="Sparrow Friends" src="https://i.ibb.co/PvDQM3pQ/SERE-005-Sparrow-Friends-470-W-x-580-Hmm.jpg" alt="Sparrow Friends">
+<p class="painting_title">Sparrow Friends</p>
+</a>
+</div>
+</div>
+</div>
+</section>
+
+
+
+
+</div>
 </section>

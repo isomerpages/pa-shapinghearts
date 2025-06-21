@@ -73,9 +73,7 @@ description: ""
         }
         
     
-    .images_grid{
-     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    .images_grid{ display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
     gap: 25px;
     }
 
@@ -200,13 +198,90 @@ description: ""
     margin-right: 0% !important;
     }
     
-    </style>
+    
+    .painting_item {
+    border-radius: 8px;
+    overflow: hidden;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    background: white;
+    }
+    
+    .painting_item:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 6px 12px rgba(0,0,0,0.15);
+    }
+    
+    .painting_item a {
+    text-decoration: none;
+    color: inherit;
+    display: block;
+    }
+    
+    .painting_item img {
+    width: 100% !important;
+    height: 250px !important;
+    object-fit: cover;
+    object-position: center;
+    display: block;
+    }
+    
+    .painting_title {
+    padding: 12px;
+    text-align: center;
+    font-weight: 500;
+    color: #333;
+    margin: 0;
+    }
+</style>
 <section style="width: 100%">
-    <div class="canvass">
-    <section class="hero">
-        <h1 class="text-center main_heading">Hi! I'm a Heartist<br>Caden Lee Kai En</h1>
-        <img class="hero_img" src="https://i.ibb.co/R4Yd728q/Caden-Lee-Kai-En.jpg">
-        <p>Twenty-year-old Caden Lee transforms his fascination with urban transport into striking artistic expressions, particularly capturing the MRT system with remarkable precision and skilfully blended details. His creative spirit extends beyond the canvas, finding joy in baking and exploring his surroundings, with a special interest in elevators that adds a unique dimension to his perspective. Homeschooled, he has developed a distinctive artistic voice that celebrates his varied interests, from Disney and Pixar films to his favourite local dish, chicken rice. Living with Autism Spectrum Disorder (ASD), Caden brings together his love for colour, mechanical detail, and everyday experiences, creating pieces that reflect his unique way of seeing the world.</p>
-    </section>
-    </div>
+<div class="canvass">
+<section class="hero">
+<h1 class="text-center main_heading">Hi! I'm a Heartist<br>Caden Lee Kai En</h1>
+<img src="https://i.ibb.co/VpCZc5Zw/Caden-Lee-Kai-En.jpg" class="hero_img">
+<p>Twenty-year-old Caden Lee transforms his fascination with urban transport into striking artistic expressions, particularly capturing the MRT system with remarkable precision and skilfully blended details. His creative spirit extends beyond the canvas, finding joy in baking and exploring his surroundings, with a special interest in elevators that adds a unique dimension to his perspective. Homeschooled, he has developed a distinctive artistic voice that celebrates his varied interests, from Disney and Pixar films to his favourite local dish, chicken rice. Living with Autism Spectrum Disorder (ASD), Caden brings together his love for colour, mechanical detail, and everyday experiences, creating pieces that reflect his unique way of seeing the world.</p>
+</section>
+<section style="width: 100%; padding-top: 20px;">
+<div class="canvass">
+<h2 class="text-center main_heading2">Paintings for Sale<br></h2>
+<div class="paintings_grid images_grid">
+<div class="painting_item">
+<a target="_blank" href="https://shop.shapinghearts.cdc.gov.sg/products/chasing-light-underground-downtown-line-tunnel">
+<img title="Chasing Light Underground Downtown Line Tunnel" src="https://i.ibb.co/SjxzdPS/CADE-001-Chasing-Light-Underground-Downtown-Line-Tunnel-500-W-x-600-H-x-20-Dmm.jpg" alt="Chasing Light Underground Downtown Line Tunnel">
+<p class="painting_title">Chasing Light Underground Downtown Line Tunnel</p>
+</a>
+</div><div class="painting_item">
+<a target="_blank" href="https://shop.shapinghearts.cdc.gov.sg/products/forging-the-future-on-rails-cr151">
+<img title="Forging The Future on Rails CR151" src="https://i.ibb.co/7xJf8PQK/CADE-002-Forging-the-Future-on-Rails-CR151-610-W-x-460-H-x-2-Dmm.jpg" alt="Forging The Future on Rails CR151">
+<p class="painting_title">Forging The Future on Rails CR151</p>
+</a>
+</div><div class="painting_item">
+<a target="_blank" href="https://shop.shapinghearts.cdc.gov.sg/products/gliding-through-the-heartlands-new-sengkang-punggol-lrt">
+<img title="Gliding Through The Heartlands New Sengkang Punggol LRT" src="https://i.ibb.co/TMCtdtnv/CADE-003-Gliding-Through-the-Heartlands-New-Sengkang-Punggol-LRT-610-W-x-460-H-x-20-Dmm.jpg" alt="Gliding Through The Heartlands New Sengkang Punggol LRT">
+<p class="painting_title">Gliding Through The Heartlands New Sengkang Punggol LRT</p>
+</a>
+</div><div class="painting_item">
+<a target="_blank" href="https://shop.shapinghearts.cdc.gov.sg/products/racing-the-city-skyline-c151b-marina-bay-sands">
+<img title="Racing the City Skyline C151B Marina Bay Sands" src="https://i.ibb.co/7JLbk1s7/CADE-004-Racing-the-City-Skyline-C151-B-Marina-Bay-Sands-610-W-x-460-H-x-20-Dmm.jpg" alt="Racing the City Skyline C151B Marina Bay Sands">
+<p class="painting_title">Racing the City Skyline C151B Marina Bay Sands</p>
+</a>
+</div><div class="painting_item">
+<a target="_blank" href="https://shop.shapinghearts.cdc.gov.sg/products/tranquility-jurong-region-line">
+<img title="Tranquility  Jurong Region Line" src="https://i.ibb.co/SZjQg1b/CADE-006-610-W-x-460-H-x-2-Dmm.jpg" alt="Tranquility  Jurong Region Line">
+<p class="painting_title">Tranquility  Jurong Region Line</p>
+</a>
+</div><div class="painting_item">
+<a target="_blank" href="https://shop.shapinghearts.cdc.gov.sg/products/weaving-through-the-neighborhood-c801b-bukit-panjang-lrt">
+<img title="Weaving Through The Neighborhood C801B Bukit Panjang LRT" src="https://i.ibb.co/kgdDxFgh/CADE-005-Weaving-Through-the-Neighborhood-C801-B-Bukit-Panjang-LRT-600-W-x-500-H-x-20-Dmm.jpg" alt="Weaving Through The Neighborhood C801B Bukit Panjang LRT">
+<p class="painting_title">Weaving Through The Neighborhood C801B Bukit Panjang LRT</p>
+</a>
+</div>
+</div>
+</div>
+</section>
+
+
+
+
+</div>
 </section>

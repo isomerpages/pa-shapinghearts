@@ -58,7 +58,7 @@ description: ""
     object-position: center;
     display: block;
     margin: 0 auto;
-    transform: rotate(-90deg);
+    
     }
     
     .hero .canvass{
@@ -74,9 +74,7 @@ description: ""
         }
         
     
-    .images_grid{
-     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    .images_grid{ display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
     gap: 25px;
     }
 
@@ -180,7 +178,7 @@ description: ""
     object-position: center;
     display: block;
     margin: 0 auto;
-    transform: rotate(-90deg);
+    
     }
        body .canvass{
         width: 90% !important;
@@ -202,13 +200,81 @@ description: ""
     margin-right: 0% !important;
     }
     
-    </style>
+    
+    .painting_item {
+    border-radius: 8px;
+    overflow: hidden;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    background: white;
+    }
+    
+    .painting_item:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 6px 12px rgba(0,0,0,0.15);
+    }
+    
+    .painting_item a {
+    text-decoration: none;
+    color: inherit;
+    display: block;
+    }
+    
+    .painting_item img {
+    width: 100% !important;
+    height: 250px !important;
+    object-fit: cover;
+    object-position: center;
+    display: block;
+    }
+    
+    .painting_title {
+    padding: 12px;
+    text-align: center;
+    font-weight: 500;
+    color: #333;
+    margin: 0;
+    }
+</style>
 <section style="width: 100%">
-    <div class="canvass">
-    <section class="hero">
-        <h1 class="text-center main_heading">Hi! I'm a Heartist<br>Moy Saw Han</h1>
-        <img class="hero_img" src="https://i.ibb.co/23p34PZP/Moy-Saw-Han.jpg">
-        <p>Moy Saw Han became visually impaired in 2018 due to Glaucoma, resulting in only 15% tunnel vision in her left eye and complete blindness in her right eye. Despite these challenges, she has a deep passion for creating, whether through painting, handicrafts, writing poetry, baking, or making music with the harp, tambourine, and autoharp. Her artwork aims to inspire life, hope, and joy.</p>
-    </section>
-    </div>
+<div class="canvass">
+<section class="hero">
+<h1 class="text-center main_heading">Hi! I'm a Heartist<br>Moy Saw Han</h1>
+<img src="https://i.ibb.co/XfsxkLSh/Moy-Saw-Han.jpg" class="hero_img">
+<p>Moy Saw Han became visually impaired in 2018 due to Glaucoma, resulting in only 15% tunnel vision in her left eye and complete blindness in her right eye. Despite these challenges, she has a deep passion for creating, whether through painting, handicrafts, writing poetry, baking, or making music with the harp, tambourine, and autoharp. Her artwork aims to inspire life, hope, and joy.</p>
+</section>
+<section style="width: 100%; padding-top: 20px;">
+<div class="canvass">
+<h2 class="text-center main_heading2">Paintings for Sale<br></h2>
+<div class="paintings_grid images_grid">
+<div class="painting_item">
+<a target="_blank" href="https://shop.shapinghearts.cdc.gov.sg/products/blooms">
+<img title="Blooms" src="https://i.ibb.co/zWmnJc3W/KLSHA-011-Blooms-610-W-x-610-H-x-35-D-mm.jpg" alt="Blooms">
+<p class="painting_title">Blooms</p>
+</a>
+</div><div class="painting_item">
+<a target="_blank" href="https://shop.shapinghearts.cdc.gov.sg/products/deep-calls-unto-deep">
+<img title="Deep Calls Unto Deep" src="https://i.ibb.co/7JmMJJxk/KLSHA-012-Deep-Calls-Unto-Deep-610-W-x-610-H-x-35-D-mm.jpg" alt="Deep Calls Unto Deep">
+<p class="painting_title">Deep Calls Unto Deep</p>
+</a>
+</div><div class="painting_item">
+<a target="_blank" href="https://shop.shapinghearts.cdc.gov.sg/products/fireworks">
+<img title="Fireworks" src="https://i.ibb.co/Kx8rbn2X/MOY-001-FIREWORKS-900-W-x-600-H-x-20-Dmm.jpg" alt="Fireworks">
+<p class="painting_title">Fireworks</p>
+</a>
+</div><div class="painting_item">
+<a target="_blank" href="https://shop.shapinghearts.cdc.gov.sg/products/happy-birthday-singapore">
+<img title="Happy Birthday Singapore!" src="https://i.ibb.co/HTYB5q2g/MOY-002-HAPPY-BIRTHDAY-SINGAPORE-900-W-x-600-H-x-20-Dmm.jpg" alt="Happy Birthday Singapore!">
+<p class="painting_title">Happy Birthday Singapore!</p>
+</a>
+</div><div class="painting_item">
+<a target="_blank" href="https://shop.shapinghearts.cdc.gov.sg/products/open-heaven-over-singapore">
+<img title="Open Heaven Over Singapore" src="https://i.ibb.co/SDs1vDxJ/MOY-003-OPEN-HEAVEN-OVER-SINGAPORE-600-W-x-900-H-x-20-Dmm.jpg" alt="Open Heaven Over Singapore">
+<p class="painting_title">Open Heaven Over Singapore</p>
+</a>
+</div>
+</div>
+</div>
+</section>
+</div>
 </section>

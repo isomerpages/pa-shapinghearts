@@ -73,9 +73,7 @@ description: ""
         }
         
     
-    .images_grid{
-     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    .images_grid{ display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
     gap: 25px;
     }
 
@@ -200,13 +198,95 @@ description: ""
     margin-right: 0% !important;
     }
     
-    </style>
+    
+    .painting_item {
+    border-radius: 8px;
+    overflow: hidden;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    background: white;
+    }
+    
+    .painting_item:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 6px 12px rgba(0,0,0,0.15);
+    }
+    
+    .painting_item a {
+    text-decoration: none;
+    color: inherit;
+    display: block;
+    }
+    
+    .painting_item img {
+    width: 100% !important;
+    height: 250px !important;
+    object-fit: cover;
+    object-position: center;
+    display: block;
+    }
+    
+    .painting_title {
+    padding: 12px;
+    text-align: center;
+    font-weight: 500;
+    color: #333;
+    margin: 0;
+    }
+</style>
 <section style="width: 100%">
-    <div class="canvass">
-    <section class="hero">
-        <h1 class="text-center main_heading">Hi! I'm a Heartist<br>Koh Xin Abraham</h1>
-        <img class="hero_img" src="https://i.ibb.co/DFNSSz0/Koh-Xin-Abraham.jpg">
-        <p>Abraham, living with Dysphasia and Central Processing Challenges (CPC), expresses himself through art, finding happiness and fulfilment in his creative process. Inspired by everyday experiences, he explores various mediums such as acrylic, watercolour, charcoal, and ink, creating bold and dynamic works that reflect his curiosity and emotional depth. His art allows him to capture the essence of the world around him, evolving constantly as he experiments with new techniques. Abraham's work has earned recognition, including a Merit Award at the UOL x ART Art Prize 2023 and a mini exhibition, "Out of the Ordinary", in 2024. Together with 3 fellow artists, Abraham also showcased his work during Singapore Art Week 2025 at an exhibition, Turning Point 2.</p>
-    </section>
-    </div>
+<div class="canvass">
+<section class="hero">
+<h1 class="text-center main_heading">Hi! I'm a Heartist<br>Koh Xin Abraham</h1>
+<img src="https://i.ibb.co/F4HKrF6W/Koh-Xin-Abraham.jpg" class="hero_img">
+<p>Abraham, living with Dysphasia and Central Processing Challenges (CPC), expresses himself through art, finding happiness and fulfilment in his creative process. Inspired by everyday experiences, he explores various mediums such as acrylic, watercolour, charcoal, and ink, creating bold and dynamic works that reflect his curiosity and emotional depth. His art allows him to capture the essence of the world around him, evolving constantly as he experiments with new techniques. Abraham's work has earned recognition, including a Merit Award at the UOL x ART Art Prize 2023 and a mini exhibition, "Out of the Ordinary", in 2024. Together with 3 fellow artists, Abraham also showcased his work during Singapore Art Week 2025 at an exhibition, Turning Point 2.</p>
+</section>
+<section style="width: 100%; padding-top: 20px;">
+<div class="canvass">
+<h2 class="text-center main_heading2">Paintings for Sale<br></h2>
+<div class="paintings_grid images_grid">
+<div class="painting_item">
+<a target="_blank" href="https://shop.shapinghearts.cdc.gov.sg/products/a-walk-in-the-wood">
+<img title="A Walk In The Wood" src="https://i.ibb.co/dwNGQKsn/ARTD-045-A-Walk-In-The-Wood-760-W-x-610-H-x-20-Dmm.jpg" alt="A Walk In The Wood">
+<p class="painting_title">A Walk In The Wood</p>
+</a>
+</div><div class="painting_item">
+<a target="_blank" href="https://shop.shapinghearts.cdc.gov.sg/products/destiny">
+<img title="Destiny" src="https://i.ibb.co/nqmBz5Qp/KLSHA-008-Destiny-595-W-x-835-H-x-18-D-mm.jpg" alt="Destiny">
+<p class="painting_title">Destiny</p>
+</a>
+</div><div class="painting_item">
+<a target="_blank" href="https://shop.shapinghearts.cdc.gov.sg/products/out-of-the-rabbit-cage_becoming">
+<img title="Out Of The Rabbit Cage: Becoming" src="https://i.ibb.co/qYvC7YmL/ABRAH-004-Out-Of-The-Rabbit-Cage-Becoming-590-W-x-840-Hmm.jpg" alt="Out Of The Rabbit Cage: Becoming">
+<p class="painting_title">Out Of The Rabbit Cage: Becoming</p>
+</a>
+</div><div class="painting_item">
+<a target="_blank" href="https://shop.shapinghearts.cdc.gov.sg/products/out-of-the-rabbit-cage-conforming">
+<img title="Out Of The Rabbit Cage: Conforming" src="https://i.ibb.co/hRvf9ncd/KLSHA-007-Out-of-the-Rabbit-Cage-Conforming-595-W-x-840-H-x-18-D-mm.jpg" alt="Out Of The Rabbit Cage: Conforming">
+<p class="painting_title">Out Of The Rabbit Cage: Conforming</p>
+</a>
+</div><div class="painting_item">
+<a target="_blank" href="https://shop.shapinghearts.cdc.gov.sg/products/out-of-the-rabbit-cage_discovering">
+<img title="Out Of The Rabbit Cage: Discovering" src="https://i.ibb.co/gMnZBmkJ/ABRAH-003-Out-Of-The-Rabbit-Cage-Discovering-600-W-x-840-Hmm.jpg" alt="Out Of The Rabbit Cage: Discovering">
+<p class="painting_title">Out Of The Rabbit Cage: Discovering</p>
+</a>
+</div><div class="painting_item">
+<a target="_blank" href="https://shop.shapinghearts.cdc.gov.sg/products/singapore-sui-generis-1">
+<img title="Singapore Sui Generis 1" src="https://i.ibb.co/Lz2bCt3D/ABRAH-001-Singapore-Sui-Generis-1-410-W-x-300-Hmm.jpg" alt="Singapore Sui Generis 1">
+<p class="painting_title">Singapore Sui Generis 1</p>
+</a>
+</div><div class="painting_item">
+<a target="_blank" href="https://shop.shapinghearts.cdc.gov.sg/products/singapore-sui-generis-2">
+<img title="Singapore Sui Generis 2" src="https://i.ibb.co/NgPwTL3T/ABRAH-002-Singapore-Sui-Generis-2-400-W-x-300-H-x-20-Dmm.jpg" alt="Singapore Sui Generis 2">
+<p class="painting_title">Singapore Sui Generis 2</p>
+</a>
+</div>
+</div>
+</div>
+</section>
+
+
+
+
+</div>
 </section>
