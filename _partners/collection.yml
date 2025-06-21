@@ -2,12 +2,10 @@ collections:
   partners:
     output: true
     order:
-      - The Singapore Cheshire Home.md
       - APSN Katong School.md
       - ARTDIS (Singapore) Ltd.md
       - Artzillions.md
       - AWWA School.md
-      - The Art Faculty.md
       - Bethesda Care Centre.md
       - Bizlink Centre Singapore.md
       - Cerebral Palsy Alliance Singapore (CPAS GROW).md
@@ -27,3 +25,5 @@ collections:
       - Singapore Association of the Visually Handicapped.md
       - Singapore Association for Mental Health.md
       - St Andrew's Autism School.md
+      - The Art Faculty.md
+      - The Singapore Cheshire Home.md
