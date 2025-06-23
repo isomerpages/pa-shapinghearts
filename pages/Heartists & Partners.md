@@ -223,6 +223,10 @@ description: ""
 <h2 class="section-title">Our Heartists</h2>
 <div class="grid">
 <div class="card">
+<img src="https://i.ibb.co/xqtH8pTp/Alex-Lim.jpg" alt="Alex Lim">
+<a href="/alex-lim/">Alex Lim <span class="arrow">→</span></a>
+</div>
+<div class="card">
 <img src="https://i.ibb.co/6JcCLTxw/Aubrey-Ang.jpg" alt="Aubrey Ang">
 <a href="/aubrey-ang/">Aubrey Ang <span class="arrow">→</span></a>
 </div>
@@ -281,10 +285,6 @@ description: ""
 <div class="card">
 <img src="https://i.ibb.co/dJs4DrY0/Joshua-Wang-Yu-Hui.jpg" alt="Joshua Wang Yu Hui">
 <a href="/joshua-wang-yu-hui/">Joshua Wang Yu Hui <span class="arrow">→</span></a>
-</div>
-<div class="card">
-<img src="https://i.ibb.co/xqtH8pTp/Alex-Lim.jpg" alt="Alex Lim">
-<a href="/alex-lim/">Alex Lim <span class="arrow">→</span></a>
 </div>
 <div class="card">
 <img src="https://i.ibb.co/F4HKrF6W/Koh-Xin-Abraham.jpg" alt="Koh Xin Abraham">
@@ -349,7 +349,7 @@ description: ""
 <a href="/titus-teo/">Titus Teo <span class="arrow">→</span></a>
 </div>
 <div class="card">
-<img src="https://i.ibb.co/YH4H1bp/Vincent-Seet-Seet-Kie-Hong.jpg" alt="Vincent Seet (Seet Kie Hong)">
+<img src="https://i.ibb.co/67JbJ0g7/Vincent-Seet-Kie-Hong.jpg" alt="Vincent Seet (Seet Kie Hong)">
 <a href="/vincent-seet-kie-hong/">Vincent Seet (Seet Kie Hong) <span class="arrow">→</span></a>
 </div>
 <div data-artist="yap-jia-hui" class="card">
@@ -390,15 +390,15 @@ description: ""
 <a href="/bizlink-centre-singapore/">Bizlink Centre Singapore Ltd <span class="arrow">→</span></a>
 </div>
 <div class="card">
-<img src="https://i.ibb.co/qMSPk60B/Cerabral-Palsy-Alliance-Singapore-CPAS-GROW.jpg" alt="Cerebral Palsy Alliance Singapore (CPAS GROW)">
+<img src="https://i.ibb.co/rR3cMnrP/CPAS.png" alt="Cerebral Palsy Alliance Singapore (CPAS GROW)">
 <a href="/cerebral-palsy-alliance-singapore-cpas-grow/">Cerebral Palsy Alliance Singapore (CPAS GROW) <span class="arrow">→</span></a>
 </div>
 <div class="card">
-<img src="https://i.ibb.co/qMSPk60B/Cerabral-Palsy-Alliance-Singapore-CPAS-GROW.jpg" alt="Cerebral Palsy Alliance Singapore (CPAS School)">
+<img src="https://i.ibb.co/rR3cMnrP/CPAS.png" alt="Cerebral Palsy Alliance Singapore (CPAS School)">
 <a href="/cerebral-palsy-alliance-singapore-cpas-school/">Cerebral Palsy Alliance Singapore (CPAS School) <span class="arrow">→</span></a>
 </div>
 <div class="card">
-<img src="https://i.ibb.co/j9wX69s7/Christian-Outreach-to-the-Handicapped.jpg" alt="Christian Outreach to the Handicapped">
+<img src="https://i.ibb.co/0p6MXPTW/christian-outreach.jpg" alt="Christian Outreach to the Handicapped">
 <a href="/christian-outreach-to-the-handicapped/">Christian Outreach to the Handicapped <span class="arrow">→</span></a>
 </div>
 <div class="card">
@@ -418,7 +418,7 @@ description: ""
 <a href="/journey-by-touch/">JOURNEY by TOUCH <span class="arrow">→</span></a>
 </div>
 <div class="card">
-<img src="https://i.ibb.co/6R5grX0m/Metta-Welfare-Association-Arts-Metta.jpg" alt="Metta Welfare Association (Arts @ Metta)">
+<img src="https://i.ibb.co/pv2pqnng/metta.png" alt="Metta Welfare Association (Arts @ Metta)">
 <a href="/metta-welfare-association/">Metta Welfare Association (Arts @ Metta) <span class="arrow">→</span></a>
 </div>
 <div class="card">
@@ -431,7 +431,7 @@ description: ""
 </div>
 <div class="card">
 <img src="https://i.ibb.co/vCcqbcht/MINDS-Regional-Hub-Hougang.jpg" alt="MINDS Regional Hub (Hougang)">
-<a href="/minds-regional-hub-hougang/">MINDS Regional Hub (Hougang) <span class="arrow">→</span></a>
+<a href="/minds-regional-hub-hougang/">MINDS Regional Hub (Hougang) &amp; (Woodlands) <span class="arrow">→</span></a>
 </div>
 <div class="card">
 <img src="https://i.ibb.co/vCcqbcht/MINDS-Regional-Hub-Hougang.jpg" alt="MINDS Regional Hub (Woodlands)">
@@ -466,7 +466,7 @@ description: ""
 <a href="/st-andrews-autism-school/">St Andrew's Autism School <span class="arrow">→</span></a>
 </div>
 <div class="card">
-<img src="https://i.ibb.co/LddB62p9/The-Art-Faculty.png" alt="The Art Faculty">
+<img src="https://i.ibb.co/W4jQ8WWT/the-art-faculty.jpg" alt="The Art Faculty">
 <a href="/the-art-faculty/">The Art Faculty <span class="arrow">→</span></a>
 </div>
 <div class="card">

@@ -73,9 +73,7 @@ description: ""
         }
         
     
-    .images_grid{
-     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    .images_grid{ display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
     gap: 25px;
     }
 
@@ -200,13 +198,116 @@ description: ""
     margin-right: 0% !important;
     }
     
-    </style>
+    
+    .painting_item {
+    border-radius: 8px;
+    overflow: hidden;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    background: white;
+    }
+    
+    .painting_item:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 6px 12px rgba(0,0,0,0.15);
+    }
+    
+    .painting_item a {
+    text-decoration: none;
+    color: inherit;
+    display: block;
+    }
+    
+    .painting_item img {
+    width: 100% !important;
+    height: 250px !important;
+    object-fit: cover;
+    object-position: center;
+    display: block;
+    }
+    
+    .painting_title {
+    padding: 12px;
+    text-align: center;
+    font-weight: 500;
+    color: #333;
+    margin: 0;
+    }
+</style>
 <section style="width: 100%">
-    <div class="canvass">
-    <section class="hero">
-        <h1 class="text-center main_heading">Hi! I'm a Heartist<br>Christopher Tey Rui Fang</h1>
-        <img class="hero_img" src="https://i.ibb.co/qMqtP0Lq/Christopher-Tey-Rui-Fang.jpg">
-        <p>Since discovering painting at fourteen, Christopher has developed a remarkable ability to capture wildlife through his acrylic works, bringing the natural world to life with patience and precision. Now at 22, he balances his artistic practice with work at MINDS and culinary training at Soul Food @ Enabling Village. Living with Autism Spectrum Disorder (ASD), he has found in art not only a means of expression but also a sanctuary where his focus and creativity flourish. His dedication extends beyond the canvas to sports like tennis and swimming, reflecting a life enriched by diverse pursuits.</p>
-    </section>
-    </div>
+<div class="canvass">
+<section class="hero">
+<h1 class="text-center main_heading">Hi! I'm a Heartist<br>Christopher Tey Rui Fang</h1>
+<img src="https://i.ibb.co/7xVP4gR8/Christopher-Tey-Rui-Fang.jpg" class="hero_img">
+<p>Since discovering painting at fourteen, Christopher has developed a remarkable ability to capture wildlife through his acrylic works, bringing the natural world to life with patience and precision. Now at 22, he balances his artistic practice with work at MINDS and culinary training at Soul Food @ Enabling Village. Living with Autism Spectrum Disorder (ASD), he has found in art not only a means of expression but also a sanctuary where his focus and creativity flourish. His dedication extends beyond the canvas to sports like tennis and swimming, reflecting a life enriched by diverse pursuits.</p>
+</section>
+<section style="width: 100%; padding-top: 20px;">
+<div class="canvass">
+<h2 class="text-center main_heading2">Paintings for Sale<br></h2>
+<div class="paintings_grid images_grid">
+<div class="painting_item">
+<a target="_blank" href="https://shop.shapinghearts.cdc.gov.sg/products/blue-kingfisher-at-satay-bay">
+<img title="Blue Kingfisher at Satay Bay" src="https://i.ibb.co/RWFDgRL/CHRISTRF-001-Blue-Kingfisher-at-Satay-Bay-410-W-x-510-H-x-20-Dmm.jpg" alt="Blue Kingfisher at Satay Bay">
+<p class="painting_title">Blue Kingfisher at Satay Bay</p>
+</a>
+</div><div class="painting_item">
+<a target="_blank" href="https://shop.shapinghearts.cdc.gov.sg/products/pink-dove">
+<img title="Changi Our Sky Jewel" src="https://i.ibb.co/5tmMyRK/CHRISTRF-002-Changi-Our-Sky-Jewel-410-W-x-510-H-x-20-Dmm.jpg" alt="Changi Our Sky Jewel">
+<p class="painting_title">Changi Our Sky Jewel</p>
+</a>
+</div><div class="painting_item">
+<a target="_blank" href="https://shop.shapinghearts.cdc.gov.sg/products/flamingo-ballet-in-the-garden-city">
+<img title="Flamingo Ballet in the Garden City" src="https://i.ibb.co/ymDf4Wcb/CHRISTRF-003-Flamingo-Ballet-in-the-Garden-City-410-W-x-510-H-x-20-Dmm.jpg" alt="Flamingo Ballet in the Garden City">
+<p class="painting_title">Flamingo Ballet in the Garden City</p>
+</a>
+</div><div class="painting_item">
+<a target="_blank" href="https://shop.shapinghearts.cdc.gov.sg/products/mandarin-duck">
+<img title="Heartland Stray" src="https://i.ibb.co/jPp4YQpX/CHRISTRF-004-Heartland-Stray-410-W-x-510-H-x-20-Dmm.jpg" alt="Heartland Stray">
+<p class="painting_title">Heartland Stray</p>
+</a>
+</div><div class="painting_item">
+<a target="_blank" href="https://shop.shapinghearts.cdc.gov.sg/products/heritage-cruise-duck-tour">
+<img title="Heritage Cruise Duck Tour" src="https://i.ibb.co/Zz2DHYX5/CHRISTRF-005-Heritage-Cruise-Duck-Tour-510-W-x-410-H-x-20-Dmm.jpg" alt="Heritage Cruise Duck Tour">
+<p class="painting_title">Heritage Cruise Duck Tour</p>
+</a>
+</div><div class="painting_item">
+<a target="_blank" href="https://shop.shapinghearts.cdc.gov.sg/products/japanese-white-eye-bird-on-sakura-tree">
+<img title="Little India Heritage Shophouse" src="https://i.ibb.co/8gGynRpV/CHRISTRF-006-Little-India-Heritage-Shophouse-460-W-x-610-H-x-20-Dmm.jpg" alt="Little India Heritage Shophouse">
+<p class="painting_title">Little India Heritage Shophouse</p>
+</a>
+</div><div class="painting_item">
+<a target="_blank" href="https://shop.shapinghearts.cdc.gov.sg/products/lovely-pair-out-at-botanic-gardens">
+<img title="Lovely Pair out at Botanic Gardens" src="https://i.ibb.co/39DJprDr/CHRISTRF-007-Lovely-Pair-out-at-Botanic-Gardens-510-W-x-410-H-x-20-Dmm.jpg" alt="Lovely Pair out at Botanic Gardens">
+<p class="painting_title">Lovely Pair out at Botanic Gardens</p>
+</a>
+</div><div class="painting_item">
+<a target="_blank" href="https://shop.shapinghearts.cdc.gov.sg/products/mosaic-majestic-merlion">
+<img title="Mosaic Majestic Merlion" src="https://i.ibb.co/rRhVsnz9/CHRISTRF-008-Mosaic-Majestic-Merlion-410-W-x-510-H-x-20-Dmm.jpg" alt="Mosaic Majestic Merlion">
+<p class="painting_title">Mosaic Majestic Merlion</p>
+</a>
+</div><div class="painting_item">
+<a target="_blank" href="https://shop.shapinghearts.cdc.gov.sg/products/otters-catch-of-the-day">
+<img title="Otter's catch of the day" src="https://i.ibb.co/Kp1SGqXr/CHRISTRF-009-Otter-s-catch-of-the-day-410-W-x-510-H-x-20-Dmm.jpg" alt="Otter's catch of the day">
+<p class="painting_title">Otter's catch of the day</p>
+</a>
+</div><div class="painting_item">
+<a target="_blank" href="https://shop.shapinghearts.cdc.gov.sg/products/pandas-hugs-at-river-safari">
+<img title="Panda's Hugs at River Safari" src="https://i.ibb.co/5XSVK75N/CHRISTRF-010-Panda-s-Hugs-at-River-Safari-410-W-x-510-H-x-20-Dmm.jpg" alt="Panda's Hugs at River Safari">
+<p class="painting_title">Panda's Hugs at River Safari</p>
+</a>
+</div><div class="painting_item">
+<a target="_blank" href="https://shop.shapinghearts.cdc.gov.sg/products/pasir-ris-night-owl">
+<img title="Pasir Ris Night Owl" src="https://i.ibb.co/ymGXPJkh/CHRISTRF-011-Pasir-Ris-Night-Owl-410-W-x-510-H-x-15-Dmm.jpg" alt="Pasir Ris Night Owl">
+<p class="painting_title">Pasir Ris Night Owl</p>
+</a>
+</div><div class="painting_item">
+<a target="_blank" href="https://shop.shapinghearts.cdc.gov.sg/products/roaring-into-the-future">
+<img title="Roaring into the Future" src="https://i.ibb.co/Kj06KpWc/CHRISTRF-012-Roaring-into-the-Future-410-W-x-510-H-x-20-Dmm.jpg" alt="Roaring into the Future">
+<p class="painting_title">Roaring into the Future</p>
+</a>
+</div>
+</div>
+</div>
+</section>
+</div>
 </section>

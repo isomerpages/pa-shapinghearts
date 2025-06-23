@@ -73,9 +73,7 @@ description: ""
         }
         
     
-    .images_grid{
-     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    .images_grid{ display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
     gap: 25px;
     }
 
@@ -200,13 +198,105 @@ description: ""
     margin-right: 0% !important;
     }
     
-    </style>
+    
+    .painting_item {
+    border-radius: 8px;
+    overflow: hidden;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    background: white;
+    }
+    
+    .painting_item:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 6px 12px rgba(0,0,0,0.15);
+    }
+    
+    .painting_item a {
+    text-decoration: none;
+    color: inherit;
+    display: block;
+    }
+    
+    .painting_item img {
+    width: 100% !important;
+    height: 250px !important;
+    object-fit: cover;
+    object-position: center;
+    display: block;
+    }
+    
+    .painting_title {
+    padding: 12px;
+    text-align: center;
+    font-weight: 500;
+    color: #333;
+    margin: 0;
+    }
+</style>
 <section style="width: 100%">
-    <div class="canvass">
-    <section class="hero">
-        <h1 class="text-center main_heading">Hi! I'm a Heartist<br>Gabriel Rhed Osea Longid</h1>
-        <img class="hero_img" src="https://i.ibb.co/My6VkYZy/Gabriel-Rhed-Osea-Longid.jpg">
-        <p>At 12, Gabriel approaches both art and life with extraordinary vibrancy, despite living with Autism Spectrum Disorder (ASD). His neurodiverse perspective bringing unique depth to his creative expressions. His artistic journey interweaves with a remarkable talent for music, having mastered multiple national anthems with official recognition. Beyond the canvas, he finds inspiration in nature—whether swimming, exploring Singapore's parks, or scaling climbing walls with determined enthusiasm.</p>
-    </section>
-    </div>
+<div class="canvass">
+<section class="hero">
+<h1 class="text-center main_heading">Hi! I'm a Heartist<br>Gabriel Rhed Osea Longid</h1>
+<img src="https://i.ibb.co/BHjLxgp5/Gabriel-Rhed-Osea-Longid.jpg" class="hero_img">
+<p>At 12, Gabriel approaches both art and life with extraordinary vibrancy, despite living with Autism Spectrum Disorder (ASD). His neurodiverse perspective bringing unique depth to his creative expressions. His artistic journey interweaves with a remarkable talent for music, having mastered multiple national anthems with official recognition. Beyond the canvas, he finds inspiration in nature—whether swimming, exploring Singapore's parks, or scaling climbing walls with determined enthusiasm.</p>
+</section>
+<section style="width: 100%; padding-top: 20px;">
+<div class="canvass">
+<h2 class="text-center main_heading2">Paintings for Sale<br></h2>
+<div class="paintings_grid images_grid">
+<div class="painting_item">
+<a target="_blank" href="https://shop.shapinghearts.cdc.gov.sg/products/lick-first-ask-later">
+<img title="Lick First, Ask Later" src="https://i.ibb.co/Kjg5GVdm/GABR-002-Lick-First-Ask-Later-510-W-x-410-H-x-20-Dmm.jpg" alt="Lick First, Ask Later">
+<p class="painting_title">Lick First, Ask Later</p>
+</a>
+</div><div class="painting_item">
+<a target="_blank" href="https://shop.shapinghearts.cdc.gov.sg/products/new-heights-new-fears">
+<img title="New Heights, New Fears" src="https://i.ibb.co/Kc7rG5gX/GABR-003-New-Heights-New-Fears-260-W-x-360-H-x-20-Dmm.jpg" alt="New Heights, New Fears">
+<p class="painting_title">New Heights, New Fears</p>
+</a>
+</div><div class="painting_item">
+<a target="_blank" href="https://shop.shapinghearts.cdc.gov.sg/products/otterly-unique">
+<img title="Otterly Unique" src="https://i.ibb.co/jPgFppPR/GABR-004-Otterly-Unique-460-W-x-310-H-x-20-Dmm.jpg" alt="Otterly Unique">
+<p class="painting_title">Otterly Unique</p>
+</a>
+</div><div class="painting_item">
+<a target="_blank" href="https://shop.shapinghearts.cdc.gov.sg/products/the-lion-who-didnt-pose-properly">
+<img title="The Lion Who Didn't Pose Properly" src="https://i.ibb.co/v6S3knDR/GABR-005-The-Lion-Who-Didn-t-Pose-Properly-360-W-x-460-H-x-20-Dmm.jpg" alt="The Lion Who Didn't Pose Properly">
+<p class="painting_title">The Lion Who Didn't Pose Properly</p>
+</a>
+</div><div class="painting_item">
+<a target="_blank" href="https://shop.shapinghearts.cdc.gov.sg/products/the-monkey-with-a-busy-mind">
+<img title="The Monkey with a Busy Mind" src="https://i.ibb.co/Wp26cBtZ/GABR-006-The-Mon-Key-with-a-Busy-Mind-360-W-x-460-H-x-20-Dmm.jpg" alt="The Monkey with a Busy Mind">
+<p class="painting_title">The Monkey with a Busy Mind</p>
+</a>
+</div><div class="painting_item">
+<a target="_blank" href="https://shop.shapinghearts.cdc.gov.sg/products/the-pink-toucan-that-didnt-follow-the-rules">
+<img title="The Pink Toucan That Didn't Follow The Rules" src="https://i.ibb.co/bjKn83d3/GABR-007-The-Pink-Toucan-That-Didn-t-Follow-the-Rules-410-W-x-510-H-x-20-Dmm.jpg" alt="The Pink Toucan That Didn't Follow The Rules">
+<p class="painting_title">The Pink Toucan That Didn't Follow The Rules</p>
+</a>
+</div><div class="painting_item">
+<a target="_blank" href="https://shop.shapinghearts.cdc.gov.sg/products/the-tale-of-the-missing-tail">
+<img title="The Tale of The Missing Tail" src="https://i.ibb.co/q6ZMPWk/GABR-008-The-Tale-of-the-Missing-Tail-460-W-x-360-H-x-20-Dmm.jpg" alt="The Tale of The Missing Tail">
+<p class="painting_title">The Tale of The Missing Tail</p>
+</a>
+</div><div class="painting_item">
+<a target="_blank" href="https://shop.shapinghearts.cdc.gov.sg/products/the-waiting-bird-in-the-swirly-jungle">
+<img title="The Waiting Bird in the Swirly Jungle" src="https://i.ibb.co/Pvt29bKx/GABR-010-410-W-x-510-H-x-20-Dmm.jpg" alt="The Waiting Bird in the Swirly Jungle">
+<p class="painting_title">The Waiting Bird in the Swirly Jungle</p>
+</a>
+</div><div class="painting_item">
+<a target="_blank" href="https://shop.shapinghearts.cdc.gov.sg/products/where-the-hornbill-sings-in-green-and-gold">
+<img title="Where the Hornbill Sings in Green and Gold" src="https://i.ibb.co/Q7brt784/GABR-009-Where-the-Hornbill-Sings-in-Green-and-Gold-410-W-x-510-H-x-20-Dmm.jpg" alt="Where the Hornbill Sings in Green and Gold">
+<p class="painting_title">Where the Hornbill Sings in Green and Gold</p>
+</a>
+</div>
+</div>
+</div>
+</section>
+
+
+
+
+</div>
 </section>

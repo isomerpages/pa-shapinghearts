@@ -11,12 +11,14 @@ description: ""
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/AWWA.png">
 </div>
 <p>Started in 1979, AWWA School provides special education to children with
-multiple disabilities and autism, aged 7 to 18, to maximise the potential
-for independence and improve their quality of life. Other than a structured
-academic and non-academic curriculum along with CCA programme, the school
-constantly explores collaboration opportunities with stakeholders to expose
-students to different platforms in the community they could participate
-in and gain richer learning experiences. This enables them to develop,
-as well as generalise and adapt the skills they have learnt.&nbsp;</p>
+multiple disabilities and children with Autism, aged 7 to 18, to maximise
+the potential for independence and improve quality of life of students
+with special needs. &nbsp;</p>
+<p>Other than a structured academic and non-academic curriculum and CCA programme,
+the school constantly explores collaboration opportunities with stakeholders
+to expose our students to different platforms in the community that they
+could participate in and have richer learning experiences. This enables
+students to develop, as well as generalize and adapt the skills they have
+learnt. </p>
 <p></p>
 <p></p>
