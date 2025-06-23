@@ -275,6 +275,10 @@ description: ""
         border-radius: 2px;
         margin: 0 !important;
     }
+    
+    .gbtb-scaled {
+        width: 90px !important; /* 60% of original 150px (scaled down by 40%) */
+    }
 
     .navbar .bp-container {
         width: 1280px !important;
@@ -740,7 +744,7 @@ description: ""
                     <div class="text-center mt-5">
                         <h3>SUPPORTING PARTNERS</h3>
                         <div class="sponsors_grid mt-5">
-                            <img src="https://i.ibb.co/6cLQpBHg/gbtb.png">
+                            <img class="gbtb-scaled" src="https://i.ibb.co/mFBBwfHp/GBTB.png">
                             <img src="https://i.ibb.co/YjtwKby/SMRT-Trains-Logo200-Pantone-180205-01-01.png">
                             <img src="https://i.ibb.co/xsLpn5r/Stellar-Ace-logo.png">
                             <img src="https://i.ibb.co/F5FRwbB/Temasek-Polytechnic.png">
