@@ -207,19 +207,34 @@ description: ""
     }
 
     /*Video */
-    VideoPlayer {
+    .VideoPlayer {
         padding: 30px 0px;
         align-items: center;
         justify-content: center;
     }
 
-    .VideoPlayer iframe {
-        width: 100% !important;
-        min-height: 40vh !important;
+    .video-container {
+        position: relative;
+        width: 100%;
+        max-width: 800px;
+        margin: 0 auto;
+        padding-bottom: 56.25%; /* 16:9 aspect ratio */
+        height: 0;
+        overflow: hidden;
+    }
+
+    .video-container iframe {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        border: none;
     }
 
     .hero_center {
-        width: 65%;
+        width: 90%;
+        max-width: 1000px;
         margin-left: auto;
         margin-right: auto;
         padding-top: 50px;
@@ -667,7 +682,9 @@ description: ""
     <section>
         <div class="VideoPlayer relative">
             <div class="hero_center">
-               <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/slH4eS5M3XM?si=-FXkwNdSufx4ms_y" height="315" width="560"></iframe>
+                <div class="video-container">
+                    <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" title="YouTube video player" src="https://www.youtube.com/embed/slH4eS5M3XM?si=-FXkwNdSufx4ms_y"></iframe>
+                </div>
             </div>
         </div>
                <section class="section canvas insta">
