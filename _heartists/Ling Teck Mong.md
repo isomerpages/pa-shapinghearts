@@ -1,7 +1,7 @@
 ---
 title: Ling Teck Mong
 permalink: /ling-teck-mong/
-variant: tiptap
+variant: markdown
 description: ""
 ---
 <h1>Hi! I'm a Heartist<br>Ling Teck Mong</h1>
