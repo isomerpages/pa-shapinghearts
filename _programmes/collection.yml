@@ -2,6 +2,7 @@ collections:
   programmes:
     output: true
     order:
+      - Art Exhibitions/Punggol Digital District.md
       - Art Exhibitions/.keep
       - Art Exhibitions/About.md
       - Art Exhibitions/Gardens by The Bay.md
