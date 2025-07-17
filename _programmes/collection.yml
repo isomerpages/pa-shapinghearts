@@ -2,10 +2,10 @@ collections:
   programmes:
     output: true
     order:
-      - Art Exhibitions/Punggol Digital District.md
       - Art Exhibitions/.keep
       - Art Exhibitions/About.md
       - Art Exhibitions/Gardens by The Bay.md
       - Art Exhibitions/Suntec City.md
       - Art Exhibitions/NDP Heartlands.md
       - Art Exhibitions/Our Tampines Hub.md
+      - Art Exhibitions/Punggol Digital District.md
