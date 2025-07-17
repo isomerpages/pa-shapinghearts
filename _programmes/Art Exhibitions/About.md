@@ -47,7 +47,7 @@ for purchase, and proceeds go toward supporting artists with disabilities.</p>
 <p>Roving Exhibition</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>16 June - 28 June 2025</p>
+<p>16 Jun - 28 Jun 2025</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
@@ -56,7 +56,7 @@ for purchase, and proceeds go toward supporting artists with disabilities.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>28 July - 3 Aug 2025</p>
+<p>28 Jul - 3 Aug 2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Suntec City</p>
