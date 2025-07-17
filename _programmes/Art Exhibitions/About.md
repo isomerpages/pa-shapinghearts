@@ -11,8 +11,9 @@ remarkable works of artists with disabilities while engaging in immersive
 activities that offer glimpses into their world. All artworks are available
 for purchase, and proceeds go toward supporting artists with disabilities.</p>
 <h4><strong>UPCOMING EXHIBITIONS:</strong></h4>
-<table style="minWidth: 50px">
+<table style="minWidth: 75px">
 <colgroup>
+<col>
 <col>
 <col>
 </colgroup>
@@ -26,28 +27,55 @@ for purchase, and proceeds go toward supporting artists with disabilities.</p>
 <p><strong>Date</strong>
 </p>
 </td>
+<td rowspan="1" colspan="1">
+<p>Location</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Main Exhibition</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Our Tampines Hub</p>
 <p>13 Sep - 28 Sep 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Our Tampines Hub</p>
+</td>
+</tr>
+<tr>
+<td rowspan="4" colspan="1">
+<p>Roving Exhibition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>16 Jun - 28 Jun 2025</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Bayfront MRT &amp; Gardens by the Bay (next to Flower Dome ticket counter)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Roving Exhibition</p>
+<p>28 Jul - 3 Aug 2025</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Bayfront MRT &amp; Gardens by the Bay (Flyer near to Flower Dome Ticket
-Counter)</p>
-<p>16 June - 28 June 2025</p>
-<p></p>
-<p>Promenade MRT &amp; Suntec City</p>
-<p>28 July - 3 Aug 2025</p>
-<p></p>
+<p>Suntec City</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>10 Aug 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NDP Heartlands @ Open field next to One Punggol</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>16 Nov - 30 Nov 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Nexus @ Punggol Digital District</p>
 </td>
 </tr>
 </tbody>
