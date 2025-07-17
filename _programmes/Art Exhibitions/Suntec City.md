@@ -9,8 +9,8 @@ third_nav_title: Art Exhibitions
 an immersive exhibition that transports you to vibrant 1940s Singapore!
 Come discover meaningful artworks created by artists with disabilities
 and celebrate 60 years of Singapore’s journey together.</p>
-<p>Enjoy a range of exciting fringe activities perfect for the family!</p>
-<h4>Fringe Activities @ Suntec City</h4>
+<p>Enjoy exciting fringe activities perfect for the family!</p>
+<h4>Fringe Activities</h4>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
