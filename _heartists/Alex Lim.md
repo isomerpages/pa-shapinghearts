@@ -245,26 +245,26 @@ description: ""
 <div class="canvass">
 <h2 class="text-center main_heading2">Paintings for Sale<br></h2>
 <div class="paintings_grid images_grid">
-<div class="painting_item">
-<a target="_blank" href="https://shop.shapinghearts.cdc.gov.sg/products/beacon">
-<img title="Blocks and Blossoms" src="https://i.ibb.co/pBn68TR5/ALEX-001-Blocks-and-Blossoms-510-W-x-510-H-x-20-Dmm.jpg" alt="Blocks and Blossoms">
-<p class="painting_title">Blocks and Blossoms</p>
-</a>
-</div><div class="painting_item">
-<a target="_blank" href="https://shop.shapinghearts.cdc.gov.sg/products/joy">
-<img title="Joy" src="https://i.ibb.co/prRcmnsW/ALEX-002-Joy-410-W-x-510-H-x-20-Dmm.jpg" alt="Joy">
-<p class="painting_title">Joy</p>
-</a>
-</div><div class="painting_item">
-<a target="_blank" href="https://shop.shapinghearts.cdc.gov.sg/products/kampong-of-cluck">
-<img title="Kampong of Cluck" src="https://i.ibb.co/YsZpqTH/ALEX-003-Kampung-of-Cluck-510-W-x-510-H-x-20-Dmm.jpg" alt="Kampong of Cluck">
-<p class="painting_title">Kampong of Cluck</p>
-</a>
-</div><div class="painting_item">
-<a target="_blank" href="https://shop.shapinghearts.cdc.gov.sg/products/the-jungle">
-<img title="The Jungle" src="https://i.ibb.co/SDqJVwtQ/ALEX-005-The-Jungle-510-W-x-510-H-x-20-Dmm.jpg" alt="The Jungle">
-<p class="painting_title">The Jungle</p>
-</a>
+<div class="painting\_item">
+    <a href="https://shop.shapinghearts.cdc.gov.sg/products/blocks-and-blossoms" target="\_blank">
+    <img alt="Blocks and Blossoms" src="https://i.ibb.co/zWjgBbwV/Blocks-and-Blossoms.png" title="Blocks and Blossoms">
+    <p class="painting\_title">Blocks and Blossoms</p>
+    </a>
+    </div><div class="painting\_item">
+    <a href="https://shop.shapinghearts.cdc.gov.sg/products/joy" target="\_blank">
+    <img alt="Joy" src="https://i.ibb.co/TMSfCcVL/Joy.png" title="Joy">
+    <p class="painting\_title">Joy</p>
+    </a>
+    </div><div class="painting\_item">
+    <a href="https://shop.shapinghearts.cdc.gov.sg/products/kampong-of-cluck" target="\_blank">
+    <img alt="Kampong of Cluck" src="https://i.ibb.co/1f49hMzD/Kampung-of-Cluck.png" title="Kampong of Cluck">
+    <p class="painting\_title">Kampong of Cluck</p>
+    </a>
+    </div><div class="painting\_item">
+    <a href="https://shop.shapinghearts.cdc.gov.sg/products/the-jungle" target="\_blank">
+    <img alt="The Jungle" src="https://i.ibb.co/k63s7Kq3/Underwater-Friends.png" title="The Jungle">
+    <p class="painting\_title">The Jungle</p>
+    </a>
 </div>
 </div>
 </div>
