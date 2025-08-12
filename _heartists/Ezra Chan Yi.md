@@ -232,7 +232,7 @@ description: ""
                         </a>
                     </div>
                     <div class="painting_item">
-                        <a href="https://shop.shapinghearts.cdc.gov.sg/products/home" target="_blank">
+                        <a href="https://shop.shapinghearts.cdc.gov.sg/products/inclusivity" target="_blank">
                             <img alt="Inclusivity" src="https://i.ibb.co/206GWWYY/EZRA-010-Inclusivity-122-W-x-910-H-x-20-Dmm.jpg" title="Inclusivity">
                             <p class="painting_title">Inclusivity</p>
                         </a>
@@ -250,7 +250,7 @@ description: ""
                         </a>
                     </div>
                     <div class="painting_item">
-                        <a href="https://shop.shapinghearts.cdc.gov.sg/products/sunrise-1" target="_blank">
+                        <a href="https://shop.shapinghearts.cdc.gov.sg/products/skyline" target="_blank">
                             <img alt="Skyline" src="https://i.ibb.co/9m3SkqDL/EZRA-006-Skyline-600-W-x-420-H-x-20-Dmm.jpg" title="Skyline">
                             <p class="painting_title">Skyline</p>
                         </a>
@@ -262,7 +262,7 @@ description: ""
                         </a>
                     </div>
                     <div class="painting_item">
-                        <a href="https://shop.shapinghearts.cdc.gov.sg/products/animal-kingdom" target="_blank">
+                        <a href="https://shop.shapinghearts.cdc.gov.sg/products/unity" target="_blank">
                             <img alt="Unity" src="https://i.ibb.co/VYC1W417/EZRA-008-Unity-600-W-x-430-H-x-20-Dmm.jpg" title="Unity">
                             <p class="painting_title">Unity</p>
                         </a>
