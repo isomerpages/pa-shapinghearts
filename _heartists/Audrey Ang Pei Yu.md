@@ -6,7 +6,7 @@ description: ""
 ---
 <style>
     @import url('https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap');
-    \* {
+    * {
         margin: 0%;
         padding: 0;
         box-sizing: border-box;
@@ -45,12 +45,12 @@ description: ""
         width: 70%;
         margin: auto;
     }
-    .hero\_img {
+    .hero_img {
         width: 250px !important;
         height: 250px !important;
         border-radius: 50%;
         object-fit: cover;
-        object-position: center;
+        object-position: top;
         display: block;
         margin: 0 auto;
     }
@@ -63,16 +63,17 @@ description: ""
     .bp-section {
         padding: 0px !important;
     }
-    .images\_grid { 
+    .images_grid { 
         display: grid; 
         grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
         gap: 25px;
     }
-    .images\_grid img {
+    .images_grid > img {
         width: auto !important;
         height: auto !important;
     }
-    /\* General \*/
+    /* This ensures the rule only applies to direct img children of images_grid, not those inside painting_item */
+    /* General */
     body .canvass {
         width: 100%;
         margin-left: auto;
@@ -87,12 +88,12 @@ description: ""
     .text-center {
         text-align: center;
     }
-    .main\_heading {
+    .main_heading {
         font-size: 3.5rem;
         line-height: 1.4;
         color: black !important;
     }
-    .main\_heading2 {
+    .main_heading2 {
         font-size: 3rem;
         margin-top: 0 !important;
         color: black !important;
@@ -128,14 +129,14 @@ description: ""
     .relative {
         position: relative;
     }
-    .bg\_gray {
+    .bg_gray {
         background-color: rgba(244, 244, 244, 1);
     }
     .text-gray {
         color: rgb(78, 78, 78);
     }
     @media (max-width: 800px) {
-        .images\_grid {
+        .images_grid {
             display: grid;
             grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
             gap: 15px;
@@ -143,12 +144,12 @@ description: ""
         .hero {
             width: 100%;
         }
-        .hero\_img {
+        .hero_img {
             width: 250px !important;
             height: 250px !important;
             border-radius: 50%;
             object-fit: cover;
-            object-position: center;
+            object-position: top;
             display: block;
             margin: 0 auto;
         }
@@ -157,7 +158,7 @@ description: ""
             margin-left: auto;
             margin-right: auto;
         }
-        .main\_heading2 {
+        .main_heading2 {
             font-size: 2rem;
         }
     }
@@ -170,30 +171,30 @@ description: ""
         margin-left: 0% !important;
         margin-right: 0% !important;
     }
-    .painting\_item {
+    .painting_item {
         border-radius: 8px;
         overflow: hidden;
         box-shadow: 0 4px 8px rgba(0,0,0,0.1);
         transition: transform 0.3s ease, box-shadow 0.3s ease;
         background: white;
     }
-    .painting\_item:hover {
+    .painting_item:hover {
         transform: translateY(-5px);
         box-shadow: 0 6px 12px rgba(0,0,0,0.15);
     }
-    .painting\_item a {
+    .painting_item a {
         text-decoration: none;
         color: inherit;
         display: block;
     }
-    .painting\_item img {
+    .painting_item img {
         width: 100% !important;
         height: 250px !important;
         object-fit: cover;
-        object-position: center;
+        object-position: top;
         display: block;
     }
-    .painting\_title {
+    .painting_title {
         padding: 12px;
         text-align: center;
         font-weight: 500;
@@ -204,18 +205,18 @@ description: ""
 <section style="width: 100%">
     <div class="canvass">
         <section class="hero">
-            <h1 class="text-center main\_heading">Hi! I'm a Heartist<br>Audrey Ang Pei Yu</h1>
-            <img class="hero\_img" src="https://i.ibb.co/4wKcdDvJ/Audrey-Ang-Pei-Yu.jpg">
+            <h1 class="text-center main_heading">Hi! I'm a Heartist<br>Audrey Ang Pei Yu</h1>
+            <img class="hero_img" src="https://i.ibb.co/4wKcdDvJ/Audrey-Ang-Pei-Yu.jpg">
             <p>While pursuing her path in medicine, Audrey has nurtured a parallel passion for artistic expression that spans multiple creative disciplines. Her self-taught journey in digital art draws particular inspiration from the whimsical rubber hose style of the 1920s. Beyond the digital canvas, she explores her creativity through acrylic painting, pottery, and oil pastels, embracing each medium as an opportunity for growth and discovery. This interplay between her medical career and artistic pursuits offers a unique perspective that enriches both worlds, as she continues to develop her distinctive creative voice.</p>
         </section>
         <section style="width: 100%; padding-top: 20px;">
             <div class="canvass">
-                <h2 class="text-center main\_heading2">Paintings for Sale<br></h2>
-                <div class="paintings\_grid images\_grid">
-                    <div class="painting\_item">
-                        <a href="https://shop.shapinghearts.cdc.gov.sg/products/no-otter-way-to-celebrate-60" target="\_blank">
+                <h2 class="text-center main_heading2">Paintings for Sale<br></h2>
+                <div class="paintings_grid images_grid">
+                    <div class="painting_item">
+                        <a href="https://shop.shapinghearts.cdc.gov.sg/products/no-otter-way-to-celebrate-60" target="_blank">
                             <img alt="No Otter Way to Celebrate 60" src="https://i.ibb.co/1G1L1GjT/AUDR-001-No-otter-way-to-celebrate-60-300-W-x-400-H-x-20-Dmm.jpg" title="No Otter Way to Celebrate 60">
-                            <p class="painting\_title">No Otter Way to Celebrate 60</p>
+                            <p class="painting_title">No Otter Way to Celebrate 60</p>
                         </a>
                     </div>
                 </div>
