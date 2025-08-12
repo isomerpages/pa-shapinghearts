@@ -220,7 +220,7 @@ description: ""
                         </a>
                     </div>
                     <div class="painting_item">
-                        <a href="https://shop.shapinghearts.cdc.gov.sg/products/pink-dove" target="_blank">
+                        <a href="https://shop.shapinghearts.cdc.gov.sg/products/changi-our-sky-jewel" target="_blank">
                             <img alt="Changi Our Sky Jewel" src="https://i.ibb.co/5tmMyRK/CHRISTRF-002-Changi-Our-Sky-Jewel-410-W-x-510-H-x-20-Dmm.jpg" title="Changi Our Sky Jewel">
                             <p class="painting_title">Changi Our Sky Jewel</p>
                         </a>
@@ -232,7 +232,7 @@ description: ""
                         </a>
                     </div>
                     <div class="painting_item">
-                        <a href="https://shop.shapinghearts.cdc.gov.sg/products/mandarin-duck" target="_blank">
+                        <a href="https://shop.shapinghearts.cdc.gov.sg/products/heartland-stray" target="_blank">
                             <img alt="Heartland Stray" src="https://i.ibb.co/jPp4YQpX/CHRISTRF-004-Heartland-Stray-410-W-x-510-H-x-20-Dmm.jpg" title="Heartland Stray">
                             <p class="painting_title">Heartland Stray</p>
                         </a>
@@ -244,7 +244,7 @@ description: ""
                         </a>
                     </div>
                     <div class="painting_item">
-                        <a href="https://shop.shapinghearts.cdc.gov.sg/products/japanese-white-eye-bird-on-sakura-tree" target="_blank">
+                        <a href="https://shop.shapinghearts.cdc.gov.sg/products/little-india-heritage-shophouse" target="_blank">
                             <img alt="Little India Heritage Shophouse" src="https://i.ibb.co/8gGynRpV/CHRISTRF-006-Little-India-Heritage-Shophouse-460-W-x-610-H-x-20-Dmm.jpg" title="Little India Heritage Shophouse">
                             <p class="painting_title">Little India Heritage Shophouse</p>
                         </a>
