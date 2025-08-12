@@ -214,7 +214,7 @@ description: ""
                 <h2 class="text-center main_heading2">Paintings for Sale<br></h2>
                 <div class="paintings_grid images_grid">
                     <div class="painting_item">
-                        <a href="https://shop.shapinghearts.cdc.gov.sg/products/honey-bee" target="_blank">
+                        <a href="https://shop.shapinghearts.cdc.gov.sg/products/lai-lim-kopi" target="_blank">
                             <img alt="Lai Lim Kopi!" src="https://i.ibb.co/p8TcgnZ/SIME-001-Lai-Lim-Kopi-460-W-x-630-H-x-15-Dmm.jpg" title="Lai Lim Kopi!">
                             <p class="painting_title">Lai Lim Kopi!</p>
                         </a>
