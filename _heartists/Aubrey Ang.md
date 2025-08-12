@@ -50,7 +50,7 @@ description: ""
         height: 250px !important;
         border-radius: 50%;
         object-fit: cover;
-        object-position: center;
+        object-position: top;
         display: block;
         margin: 0 auto;
     }
@@ -149,7 +149,7 @@ description: ""
             height: 250px !important;
             border-radius: 50%;
             object-fit: cover;
-            object-position: center;
+            object-position: top;
             display: block;
             margin: 0 auto;
         }
