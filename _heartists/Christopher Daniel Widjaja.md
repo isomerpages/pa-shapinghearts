@@ -214,7 +214,7 @@ description: ""
                 <h2 class="text-center main_heading2">Paintings for Sale<br></h2>
                 <div class="paintings_grid images_grid">
                     <div class="painting_item">
-                        <a href="https://shop.shapinghearts.cdc.gov.sg/products/my-first-word-was-duck-1" target="_blank">
+                        <a href="https://shop.shapinghearts.cdc.gov.sg/products/crimson-harmony-in-singapore-s-bloom" target="_blank">
                             <img alt="Crimson harmony in Singapores Bloom" src="https://i.ibb.co/dwMZcZPv/CHRISDW-001-Crimson-harmony-in-Singapore-s-Bloom-410-W-x-510-H-x-20-Dmm.jpg" title="Crimson harmony in Singapores Bloom">
                             <p class="painting_title">Crimson harmony in Singapores Bloom</p>
                         </a>
@@ -226,7 +226,7 @@ description: ""
                         </a>
                     </div>
                     <div class="painting_item">
-                        <a href="https://shop.shapinghearts.cdc.gov.sg/products/the-boy-chicken-is-called-rooster" target="_blank">
+                        <a href="https://shop.shapinghearts.cdc.gov.sg/products/kuchinta-at-clarke-quay" target="_blank">
                             <img alt="Kuchinta at Clarke Quay" src="https://i.ibb.co/V0X96gFm/CHRISDW-002-Kuchinta-at-Clarke-Quay-410-W-x-510-H-x-20-Dmm.jpg" title="Kuchinta at Clarke Quay">
                             <p class="painting_title">Kuchinta at Clarke Quay</p>
                         </a>
@@ -250,7 +250,7 @@ description: ""
                         </a>
                     </div>
                     <div class="painting_item">
-                        <a href="https://shop.shapinghearts.cdc.gov.sg/products/waterside-wonder-the-kingfishers-perch" target="_blank">
+                        <a href="https://shop.shapinghearts.cdc.gov.sg/products/pink-flamingo-at-bird-paradise" target="_blank">
                             <img alt="Pink flamingo at Bird Paradise" src="https://i.ibb.co/kVvgDRg3/CHRISDW-005-Pink-flamingo-at-Bird-Paradise-410-W-x-510-H-x-20-Dmm.jpg" title="Pink flamingo at Bird Paradise">
                             <p class="painting_title">Pink flamingo at Bird Paradise</p>
                         </a>
