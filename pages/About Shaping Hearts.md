@@ -251,9 +251,17 @@ description: ""
         width: 45%;
     }
 
-    /* Sponsors */
+    /* Enhanced Sponsors Section */
+    .sponsors {
+        background: linear-gradient(135deg, #ffffff 0%, #f8f9fa 100%);
+        position: relative;
+        overflow: hidden;
+    }
+
     .sponsors .canvas {
-        width: 70%;
+        width: 80%;
+        position: relative;
+        z-index: 2;
     }
 
     .button a {
@@ -266,13 +274,31 @@ description: ""
         justify-content: center;
         align-items: center;
         flex-wrap: wrap;
-        grid-column-gap: 80px;
-        grid-row-gap: 40px;
+        gap: 40px;
+        margin: 30px 0;
     }
 
     .sponsors h3 {
         color: #c5242f !important;
-        font-weight: bold;
+        font-weight: 700;
+        font-size: 1.4rem;
+        text-transform: uppercase;
+        letter-spacing: 2px;
+        position: relative;
+        display: inline-block;
+        font-family: 'Inter', sans-serif;
+    }
+
+    .sponsors h3::after {
+        content: '';
+        position: absolute;
+        bottom: -8px;
+        left: 50%;
+        transform: translateX(-50%);
+        width: 60px;
+        height: 3px;
+        background: linear-gradient(90deg, #c5242f, #e0125b);
+        border-radius: 2px;
     }
 
     .sponsors h2 {
@@ -284,13 +310,43 @@ description: ""
 
     .sponsors_grid img {
         width: 150px;
+        height: 150px;
+        object-fit: contain;
         font-weight: bold;
-        border-radius: 2px;
+        border-radius: 15px;
         margin: 0 !important;
+        filter: grayscale(20%);
+        box-shadow: 0 5px 20px rgba(0,0,0,0.1);
+        background: white;
+        padding: 10px;
+    }
+
+    .sponsors_grid img:hover {
+        transform: translateY(-5px) scale(1.05);
+        filter: grayscale(0%);
+        box-shadow: 0 15px 40px rgba(0,0,0,0.2);
     }
     
     .gbtb-scaled {
-        width: 90px !important; /* 60% of original 150px (scaled down by 40%) */
+        width: 150px !important;
+        height: 150px !important;
+    }
+
+    .sponsor-name {
+        color: #2c3e50;
+        font-size: 1.1rem;
+        font-weight: 600;
+        text-align: center;
+        padding: 15px;
+        background: white;
+        border-radius: 10px;
+        box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+        margin: 10px;
+    }
+
+    .sponsor-name:hover {
+        transform: translateY(-3px);
+        box-shadow: 0 10px 25px rgba(0,0,0,0.15);
     }
 
     .navbar .bp-container {
@@ -911,51 +967,48 @@ description: ""
                 <div style="display: flex; justify-content: center; align-items: center; gap: 30px;" class="sponsors_grid mt-5">
                     <div style="display: flex; align-items: center; justify-content: center;">
                         <img style="margin: 0; vertical-align: middle;" src="https://i.ibb.co/M2RJnK2/Neo-Group-Logo.png">
-                        <span style="color:#000; font-size:18px; margin-left: 30px; display: inline-block; vertical-align: middle;">Mr Kiat Lim</span>
+                        <span style="margin-left: 30px; display: inline-block; vertical-align: middle;" class="sponsor-name">Mr Kiat Lim</span>
                     </div>
                 </div>
             </div>
             <br><br>
             <div class="text-center mt-5">
-                <div class="text-center mt-5">
-                    <h3>PLATINUM</h3>
-                    <div class="sponsors_grid mt-5">
-                        <img src="https://i.ibb.co/TqJv12Jh/sgpools.png">
-                    </div> 
-                </div>
+                <h3>PLATINUM</h3>
+                <div class="sponsors_grid mt-5">
+                    <img src="https://i.ibb.co/TqJv12Jh/sgpools.png">
+                </div> 
             </div>            
             <br><br>
             <div class="text-center mt-5">
-                <div class="text-center mt-5">
-                    <h3>GOLD</h3>
-                    <div class="sponsors_grid mt-5">
-                        <img src="https://i.ibb.co/hJqfnJw9/rigel.png">
-                    </div> 
-                </div>
+                <h3>GOLD</h3>
+                <div class="sponsors_grid mt-5">
+                    <img src="https://i.ibb.co/hJqfnJw9/rigel.png">
+                </div> 
             </div>
             <br><br>
             <div class="text-center mt-5">
-                <div class="text-center mt-5">
-                    <h3>BRONZE</h3>
-                    <div class="sponsors_grid mt-5">
-                        <img src="https://i.ibb.co/hJqfnJw9/rigel.png">
-                        <img src="https://i.ibb.co/rR7vqt8D/ck.png">
-                        <img src="https://i.ibb.co/3mdXfmVS/top.png">
-                    </div> 
+                <h3>BRONZE</h3>
+                <div class="sponsors_grid mt-5">
+                    <img src="https://i.ibb.co/cSNCGcnp/gain-scaled.png">
+                    <img src="https://i.ibb.co/rR7vqt8D/ck.png">
+                    <img src="https://i.ibb.co/3mdXfmVS/top.png">
+                    <img src="https://i.ibb.co/m59Fz6h1/ngeeann-JPG.jpg">
+                </div> 
+                <div class="sponsors_grid mt-5">
+                    <span class="sponsor-name"><b>Dr Doreen Tan</b></span>
+                    <span class="sponsor-name"><b>Christopher Daniel Widjaja &amp; Family</b></span>
                 </div>
             </div>
             <br><br>            
             <div class="text-center mt-5">
-                <div class="text-center mt-5">
-                    <h3>SUPPORTING PARTNERS</h3>
-                    <div class="sponsors_grid mt-5">
-                        <img class="gbtb-scaled" src="https://i.ibb.co/mFBBwfHp/GBTB.png">
-                        <img src="https://i.ibb.co/YjtwKby/SMRT-Trains-Logo200-Pantone-180205-01-01.png">
-                        <img src="https://i.ibb.co/xsLpn5r/Stellar-Ace-logo.png">
-                        <img src="https://i.ibb.co/F5FRwbB/Temasek-Polytechnic.png">
-                        <img src="https://i.ibb.co/sph6xN33/sfr.png">
-                    </div> 
-                </div>
+                <h3>SUPPORTING PARTNERS</h3>
+                <div class="sponsors_grid mt-5">
+                    <img class="gbtb-scaled" src="https://i.ibb.co/mFBBwfHp/GBTB.png">
+                    <img src="https://i.ibb.co/YjtwKby/SMRT-Trains-Logo200-Pantone-180205-01-01.png">
+                    <img src="https://i.ibb.co/xsLpn5r/Stellar-Ace-logo.png">
+                    <img src="https://i.ibb.co/F5FRwbB/Temasek-Polytechnic.png">
+                    <img src="https://i.ibb.co/sph6xN33/sfr.png">
+                </div> 
             </div>
         </div>
     </section>
