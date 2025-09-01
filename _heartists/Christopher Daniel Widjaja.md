@@ -215,14 +215,14 @@ description: ""
                 <div class="paintings_grid images_grid">
                     <div class="painting_item">
                         <a href="https://shop.shapinghearts.cdc.gov.sg/products/crimson-harmony-in-singapore-s-bloom" target="_blank">
-                            <img alt="Crimson harmony in Singapores Bloom" src="https://i.ibb.co/dwMZcZPv/CHRISDW-001-Crimson-harmony-in-Singapore-s-Bloom-410-W-x-510-H-x-20-Dmm.jpg" title="Crimson harmony in Singapores Bloom">
-                            <p class="painting_title">Crimson harmony in Singapores Bloom</p>
+                            <img alt="Crimson harmony in Singapore's Bloom" src="https://i.ibb.co/dwMZcZPv/CHRISDW-001-Crimson-harmony-in-Singapore-s-Bloom-410-W-x-510-H-x-20-Dmm.jpg" title="Crimson harmony in Singapores Bloom">
+                            <p class="painting_title">Crimson harmony in Singapore's Bloom</p>
                         </a>
                     </div>
                     <div class="painting_item">
                         <a href="https://shop.shapinghearts.cdc.gov.sg/products/crimson-harmony-a-glimpse-of-bukit-timah-nature-reserve" target="_blank">
-                            <img alt="Crimson Harmony: A Glimpse of Bukit Timah Nature  Reserve" src="https://i.ibb.co/d4THkzxC/CHRISDW-010-Crimson-Harmony-A-Glimpse-of-Bukit-Timah-Nature-s-Reserve-410-W-x-510-H-x-20-Dmm.jpg" title="Crimson Harmony: A Glimpse of Bukit Timah Nature  Reserve">
-                            <p class="painting_title">Crimson Harmony: A Glimpse of Bukit Timah Nature  Reserve</p>
+                            <img alt="Crimson Harmony: A Glimpse of Bukit Timah Nature Reserve" src="https://i.ibb.co/d4THkzxC/CHRISDW-010-Crimson-Harmony-A-Glimpse-of-Bukit-Timah-Nature-s-Reserve-410-W-x-510-H-x-20-Dmm.jpg" title="Crimson Harmony: A Glimpse of Bukit Timah Nature  Reserve">
+                            <p class="painting_title">Crimson Harmony: A Glimpse of Bukit Timah Nature Reserve</p>
                         </a>
                     </div>
                     <div class="painting_item">
@@ -240,7 +240,7 @@ description: ""
                     <div class="painting_item">
                         <a href="https://shop.shapinghearts.cdc.gov.sg/products/love-you-mom" target="_blank">
                             <img alt="Nestled in Love: A Weavers Care at East Coast Park" src="https://i.ibb.co/tMpj9z4N/CHRISDW-003-Nestled-in-Love-A-Weaver-s-Care-at-East-Coast-Park-410-W-x-510-H-x-20-Dmm.jpg" title="Nestled in Love: A Weavers Care at East Coast Park">
-                            <p class="painting_title">Nestled in Love: A Weavers Care at East Coast Park</p>
+                            <p class="painting_title">Nestled in Love: A Weaver's Care at East Coast Park</p>
                         </a>
                     </div>
                     <div class="painting_item">
@@ -270,13 +270,13 @@ description: ""
                     <div class="painting_item">
                         <a href="https://shop.shapinghearts.cdc.gov.sg/products/the-flight-of-the-scarlet-macaw-through-bird-paradise" target="_blank">
                             <img alt="The Flight  of The Scarlet Macaw through Bird Paradise" src="https://i.ibb.co/60pBvKvb/CHRISDW-015-The-Flight-of-The-Scarlet-Macaw-through-Bird-Paradise-410-W-x-510-H-x-20-Dmm.jpg" title="The Flight  of The Scarlet Macaw through Bird Paradise">
-                            <p class="painting_title">The Flight  of The Scarlet Macaw through Bird Paradise</p>
+                            <p class="painting_title">The Flight of The Scarlet Macaw through Bird Paradise</p>
                         </a>
                     </div>
                     <div class="painting_item">
                         <a href="https://shop.shapinghearts.cdc.gov.sg/products/the-swan-s-tranquil-journey-through-singapore-botanic-gardens" target="_blank">
-                            <img alt="The Swans Tranquil Journey through Singapore Botanic Gardens" src="https://i.ibb.co/vCgQ4Kjn/CHRISDW-008-The-Swan-s-Tranquil-Journey-through-Singapore-Botanic-Gardens-410-W-x-510-H-x-20-Dmm.jpg" title="The Swans Tranquil Journey through Singapore Botanic Gardens">
-                            <p class="painting_title">The Swans Tranquil Journey through Singapore Botanic Gardens</p>
+                            <img alt="The Swan's Tranquil Journey through Singapore Botanic Gardens" src="https://i.ibb.co/vCgQ4Kjn/CHRISDW-008-The-Swan-s-Tranquil-Journey-through-Singapore-Botanic-Gardens-410-W-x-510-H-x-20-Dmm.jpg" title="The Swan's Tranquil Journey through Singapore Botanic Gardens">
+                            <p class="painting_title">The Swan's Tranquil Journey through Singapore Botanic Gardens</p>
                         </a>
                     </div>
                 </div>
