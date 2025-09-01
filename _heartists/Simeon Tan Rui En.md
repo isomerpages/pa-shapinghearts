@@ -221,8 +221,8 @@ description: ""
                     </div>
                     <div class="painting_item">
                         <a href="https://shop.shapinghearts.cdc.gov.sg/products/reverie-in-singapore-s-garden-city" target="_blank">
-                            <img alt="Reverie in Singapores Garden City" src="https://i.ibb.co/fYyxyKMw/SIME-002-Reverie-in-Singapore-s-Garden-City-630-W-x-460-H-x-15-Dmm.jpg" title="Reverie in Singapores Garden City">
-                            <p class="painting_title">Reverie in Singapores Garden City</p>
+                            <img alt="Reverie in Singapore's Garden City" src="https://i.ibb.co/fYyxyKMw/SIME-002-Reverie-in-Singapore-s-Garden-City-630-W-x-460-H-x-15-Dmm.jpg" title="Reverie in Singapore's Garden City">
+                            <p class="painting_title">Reverie in Singapore's Garden City</p>
                         </a>
                     </div>
                 </div>
