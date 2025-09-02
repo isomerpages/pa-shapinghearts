@@ -46,7 +46,9 @@ fun, colourful photos and capturing memories of a special day.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/KHC_1526.jpg">
 </div>
+<p></p>
 <p>Thank you to everyone who dropped by, supported our artists, and helped
-make the celebration so meaningful.</p>
+make the celebration so meaningful. Here's to 60 years of Singapore — and
+many more, shaped by hearts that care.</p>
 <p></p>
 <p></p>
