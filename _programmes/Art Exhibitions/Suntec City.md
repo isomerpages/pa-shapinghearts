@@ -5,58 +5,34 @@ variant: tiptap
 description: ""
 third_nav_title: Art Exhibitions
 ---
-<p>Shaping Hearts returns to Suntec City from 28 July to 3 August 2025 with
-an immersive exhibition that transports you to vibrant 1940s Singapore!
-Come discover meaningful artworks created by artists with disabilities
-and celebrate 60 years of Singapore’s journey together.</p>
-<p>Enjoy exciting fringe activities perfect for the family!</p>
-<h4>Fringe Activities</h4>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Date</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Time</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Activity</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2 August, Saturday</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2:00pm - 6:00pm</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mask and Origami Colouring</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>3 August, Sunday</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2:00pm - 6:00pm</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mask and Origami Colouring</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p>Visitors can explore and shop meaningful merchandise from our partner,
-Singapore Fashion Runway, along with Social Service Agencies such as Friends
-of The Disabled Society and the Down Syndrome Association (Singapore).
-Items available include candle kits, crochet notebooks, T-shirts, tote
-bags and many more!</p>
-<p>All proceeds go towards supporting artists with disabilities.</p>
+<p>From 28 July to 3 August 2025, Shaping Hearts made a joyful return to
+Suntec City with a vibrant exhibition that took visitors on a nostalgic
+journey back to 1940s Singapore.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_22.jpg">
+</div>
 <p></p>
+<p>Families enjoyed hands-on fringe activities, including mask and origami
+colouring, adding an extra splash of creativity and fun to the experience.
+It was heartwarming to see children and parents alike getting involved
+and expressing themselves through art.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_72.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_27.jpg">
+</div>
+<p></p>
+<p>The event also featured a vibrant merchandise booths from our partners
+— Singapore Fashion Runway, Friends of the Disabled Society, and Down Syndrome
+Association (Singapore). From candle kits and crochet notebooks to T-shirts
+and tote bags, every purchase supported a bigger cause — empowering artists
+with disabilities and promoting inclusive opportunities.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_24.jpg">
+</div>
+<p></p>
+<p>We hope everyone who visited, supported, donated, or simply stopped by
+had a meaningful experience. Your presence helps light the way toward a
+more inclusive and compassionate Singapore.</p>
