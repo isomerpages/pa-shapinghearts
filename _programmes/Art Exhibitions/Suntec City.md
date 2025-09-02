@@ -32,6 +32,7 @@ with disabilities and promoting inclusive opportunities.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_24.jpg">
 </div>
+<p></p>
 <p>We hope everyone who visited, supported, donated, or simply stopped by
 had a meaningful experience. Your presence helps light the way toward a
 more inclusive and compassionate Singapore.</p>
