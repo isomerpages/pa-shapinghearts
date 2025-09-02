@@ -22,14 +22,15 @@ Polytechnic students that incorporates the artworks of Shaping Heart artists.</p
 with contributions from local and Asia-Pacific artists. The exhibition
 is segmented into three zones: Past, Present and Future.</p>
 <p></p>
-<p><strong>[ 13 - 28 Sep] HeARTcade</strong>
+<p><strong>[ 13 - 28 Sep] HeARTcade </strong>
 </p>
 <p>Experience what it’s like to play sports with a disability through wheelchair
 basketball, blindfolded football, and adaptive hockey.</p>
 <p></p>
-<p>Browse and purchase original paintings and meaningufl merchandise at the
-exhibition — including tote bags, T-shirts, and more. <strong>100% of the proceeds go directly to supporting artists with disabilities</strong>,
-empowering their creative journeys and livelihoods.</p>
+<p>At the exhibition, you can explore and purchase original artworks and
+meaningful merchandise like tote bags and T-shirts. All proceeds go directly
+to supporting artists with disabilities. We look forward to seeing you
+there!</p>
 <p></p>
 <p></p>
 <p></p>
