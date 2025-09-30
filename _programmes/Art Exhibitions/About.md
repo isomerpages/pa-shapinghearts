@@ -72,7 +72,7 @@ for purchase, and proceeds go toward supporting artists with disabilities.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>16 Nov - 30 Nov 2025</p>
+<p>16 Nov - 2 Nov 2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Nexus @ Punggol Digital District</p>
