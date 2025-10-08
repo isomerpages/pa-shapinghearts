@@ -10,10 +10,10 @@ third_nav_title: Art Exhibitions
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture1.jpg">
 </div>
-<p>Get ready to embark on an engaging and meaningful journey at Shaping Hearts
-@ Punggol Digital District – ARTfully Able, with 5 exciting zones, each
-brought to life by a unique character. This is more than an exhibition
-— it’s a celebration of abilities, imagination, and joyful expression!</p>
+<p>Get ready to embark on an engaging and meaningful journey at<strong> Shaping Hearts @ Punggol Digital District – ARTfully Able</strong>,
+with <strong><em>5 exciting zones</em></strong>, each brought to life by
+a unique character. This is more than an exhibition — it’s a celebration
+of abilities, imagination, and joyful expression!</p>
 <h2>Explore the 5 Zones</h2>
 <p></p>
 <table style="minWidth: 50px">
@@ -33,7 +33,6 @@ filled with emotion, creativity and personal experience.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/createable_icon.png">
 </div>
-<p></p>
 </td>
 </tr>
 <tr>
@@ -45,6 +44,8 @@ as a painting unfolds before your eyes during live painting sessions with
 our talented Shaping Hearts artists.</p>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/mr_sparkABLE.png">
 </div>
@@ -84,6 +85,9 @@ by Shaping Hearts artists Simeon and Ezra, and brought to life with the
 help of volunteers from SIT and fellow Shaping Hearts artists.</p>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
+<p></p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/discoverable_icon.png">
 </div>
@@ -92,10 +96,12 @@ help of volunteers from SIT and fellow Shaping Hearts artists.</p>
 </tbody>
 </table>
 <p></p>
-<p>The exhibition is a life-sized board game — a fun and interactive journey
-for all ages! Follow the path, answer trivia questions, uncover fun facts,
-and immerse yourself in the 5 vibrant zones of ARTfully Able.</p>
-<p>See you there!</p>
+<p>Come join us for a fun, interactive journey like no other. Follow the
+path, answer trivia questions, uncover fun facts, and immerse yourself
+in the 5 vibrant zones of ARTfully Able.</p>
+<p>All artwork and merchandise are available for purchase, and 100% of proceeds
+will go towards supporting our talented artists with disabilities.</p>
+<p>See you at the exhibition!</p>
 <p></p>
 <p></p>
 <p></p>
