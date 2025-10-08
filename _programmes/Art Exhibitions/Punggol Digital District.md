@@ -54,7 +54,7 @@ our talented Shaping Hearts artists.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <h4>Blue Zone with Mr imagineABLE</h4>
-<p>Join engaging workshops, explore unique handmade crafts, and discover
+<p>Join engaging fringe activities, explore unique handmade crafts, and discover
 meaningful ways to support our artists.</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -96,11 +96,12 @@ help of volunteers from SIT and fellow Shaping Hearts artists.</p>
 </tbody>
 </table>
 <p></p>
-<p>Come join us for a fun, interactive journey like no other. Follow the
-path, answer trivia questions, uncover fun facts, and immerse yourself
-in the 5 vibrant zones of ARTfully Able.</p>
-<p>All artwork and merchandise are available for purchase, and 100% of proceeds
-will go towards supporting our talented artists with disabilities.</p>
+<p>Come join us for a fun and interactive journey like no other. Follow the
+coloured pathways, answer trivia questions, uncover fun facts, and immerse
+yourself in the 5 vibrant zones of Shaping Hearts @ Punggol Digital District
+– ARTfully Able.</p>
+<p>All artwork and merchandise displayed are available for purchase, and
+100% of proceeds will go towards supporting our talented artists with disabilities.</p>
 <p>See you at the exhibition!</p>
 <p></p>
 <p></p>
