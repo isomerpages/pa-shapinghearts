@@ -96,7 +96,7 @@ help of volunteers from SIT and fellow Shaping Hearts artists.</p>
 </table>
 <p></p>
 <h2>Coming Up on 16 November</h2>
-<h4>Live Performances</h4>
+<h3>Live Performances</h3>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -158,7 +158,7 @@ help of volunteers from SIT and fellow Shaping Hearts artists.</p>
 </tr>
 </tbody>
 </table>
-<h4>Live Painting Sessions</h4>
+<h3>Live Painting Sessions</h3>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -191,7 +191,7 @@ help of volunteers from SIT and fellow Shaping Hearts artists.</p>
 </tr>
 </tbody>
 </table>
-<h4>Guided Workshops</h4>
+<h3>Guided Workshops</h3>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
