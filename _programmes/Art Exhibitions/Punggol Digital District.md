@@ -55,7 +55,7 @@ our talented Shaping Hearts artists.</p>
 <td rowspan="1" colspan="1">
 <h4>Blue Zone with Mr imagineABLE</h4>
 <p>Join engaging fringe activities, guided crafts workshops, explore unique
-handmade crafts, and discover meaningful ways to support our artists.</p>
+handmade pieces, and discover meaningful ways to support our artists.</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
