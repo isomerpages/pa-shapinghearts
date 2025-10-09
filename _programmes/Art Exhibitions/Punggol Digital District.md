@@ -171,7 +171,7 @@ help of volunteers from SIT and fellow Shaping Hearts artists.</p>
 <p>Time</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>SSA</p>
+<p>Social Service Agency</p>
 </th>
 </tr>
 <tr>
