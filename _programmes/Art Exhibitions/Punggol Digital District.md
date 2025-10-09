@@ -54,8 +54,8 @@ our talented Shaping Hearts artists.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <h4>Blue Zone with Mr imagineABLE</h4>
-<p>Join engaging fringe activities, explore unique handmade crafts, and discover
-meaningful ways to support our artists.</p>
+<p>Join engaging fringe activities, guided crafts workshops, explore unique
+handmade crafts, and discover meaningful ways to support our artists.</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
@@ -91,6 +91,147 @@ help of volunteers from SIT and fellow Shaping Hearts artists.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/discoverable_icon.png">
 </div>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<h2>Coming Up on 16 November</h2>
+<h4>Live Performances</h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Time</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Details</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>12:10pm - 12:20pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Drum Performance by<em> Down Syndrome Association</em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1:30pm - 2:00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dance Performance by<em> Raw Moves</em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3:00pm - 3:30pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dance Performance by<em> Raw Moves</em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4:30pm - 4:55pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Performance by <em>FMC Azalea Band</em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>6:00pm - 6:30pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Storytelling Session by <em>Shoes Theatre (Yukiko)</em>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h4>Live Painting Sessions</h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Time</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>SSA</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>12:00pm - 1:30pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Artzillions</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3:00pm - 4:30pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Artzillions</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h4>Guided Workshops</h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Time</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Details</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>11:30am - 6:00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>DIY Mosaic Fridge Magnet and Mosaic Name Keychain with <em>Friends of the Disabled Society (FDS)</em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>11:30am - 6:00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Batik Workshop with <em>Metta Welfare Association</em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>11:30am - 6:00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Water Marbling on Pouch and Cyanotype Printing with <em>Artzillions</em>
+</p>
 </td>
 </tr>
 </tbody>
