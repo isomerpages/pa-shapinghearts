@@ -6,11 +6,9 @@ description: ""
 third_nav_title: Art Exhibitions
 ---
 <p></p>
+<h2>Shaping Hearts — Artfully Able @ Punggol Digital District</h2>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture1.jpg">
-</div>
-<p>Get ready to embark on an engaging and meaningful journey at<strong> Shaping Hearts @ Punggol Digital District – ARTfully Able</strong>,
+<p>Get ready to embark on an engaging and meaningful journey at<strong> Shaping Hearts — ARTfully Able @ Punggol Digital District</strong> from <strong>16 - 23 November</strong>,
 with <strong><em>5 exciting zones</em></strong>, each brought to life by
 a unique character. This is more than an exhibition — it’s a celebration
 of abilities, imagination, and joyful expression!</p>
