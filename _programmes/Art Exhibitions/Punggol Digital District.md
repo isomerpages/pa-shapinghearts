@@ -118,7 +118,7 @@ District Stakeholders and Tell Your Children Creative Studios.</p>
 <p>12:10pm - 12:20pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Drum Performance by<em> Down Syndrome Association</em>
+<p>Percussion Performance by<em> Down Syndrome Association</em>
 </p>
 </td>
 </tr>
@@ -219,10 +219,28 @@ District Stakeholders and Tell Your Children Creative Studios.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>11:30am - 6:00pm</p>
+<p>11:30am - 2:00pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Batik Workshop with <em>Metta Welfare Association</em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2:30pm - 4:00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Coffee Painting Workshop with <em>Vincent Seet</em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4:30pm - 6:00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Coffee Painting Workshop with <em>Vincent Seet</em>
 </p>
 </td>
 </tr>
