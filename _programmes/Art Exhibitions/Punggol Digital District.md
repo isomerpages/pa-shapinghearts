@@ -329,8 +329,8 @@ District Stakeholders and Tell Your Children Creative Studios.</p>
 </table>
 <p>Come join us for a fun and interactive journey like no other. Follow the
 coloured pathways, answer trivia questions, uncover fun facts, and immerse
-yourself in the 5 vibrant zones of Shaping Hearts @ Punggol Digital District
-– ARTfully Able.</p>
+yourself in the 5 vibrant zones of Shaping Hearts — ARTfully Able @ Punggol
+Digital District.</p>
 <p>All artwork and merchandise displayed are available for purchase, and
 100% of proceeds will go towards supporting our talented artists with disabilities.</p>
 <p>See you at the festival!</p>
