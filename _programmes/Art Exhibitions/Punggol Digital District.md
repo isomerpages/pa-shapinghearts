@@ -124,10 +124,28 @@ District Stakeholders and Tell Your Children Creative Studios.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>1:00pm - 1:30pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Fringe Activity by <em>Raw Moves</em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>1:30pm - 2:00pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Dance Performance by<em> Raw Moves</em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2:30pm - 3:00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Fringe Activity by <em>Raw Moves</em>
 </p>
 </td>
 </tr>
@@ -145,7 +163,7 @@ District Stakeholders and Tell Your Children Creative Studios.</p>
 <p>4:30pm - 4:55pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Performance by <em>FMC Azalea Band</em>
+<p>Performance by <em>Faith Music Centre Azalea Band</em>
 </p>
 </td>
 </tr>
@@ -255,7 +273,60 @@ District Stakeholders and Tell Your Children Creative Studios.</p>
 </tr>
 </tbody>
 </table>
+<h3>More to Explore</h3>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Activity</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Details</p>
+</th>
+</tr>
+<tr>
+<td rowspan="3" colspan="1">
 <p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p>All-day Craft Activities</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Starbucks Classic Reusable Cold Cup Design Activity (limited to 250 pcs)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Shadow Play</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>"Our Punggol Story" DIY Box Art</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>Digital Interactive Activities</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Art Beyond Canvas</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Avatar Creation Kiosk</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p>Come join us for a fun and interactive journey like no other. Follow the
 coloured pathways, answer trivia questions, uncover fun facts, and immerse
 yourself in the 5 vibrant zones of Shaping Hearts @ Punggol Digital District
