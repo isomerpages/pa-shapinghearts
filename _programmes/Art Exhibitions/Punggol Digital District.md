@@ -37,9 +37,10 @@ filled with emotion, creativity and personal experience.</p>
 <td rowspan="1" colspan="1">
 <h4>Yellow Zone with Mr sparkABLE</h4>
 <p>This is where creativity comes alive and celebrations happen in real-time!
-Enjoy mesmerising live performances by artists with disabilities, or watch
-as a painting unfolds before your eyes during live painting sessions with
-our talented Shaping Hearts artists.</p>
+Get ready for high energy and excitement as you enjoy mesmerising live
+performances by artists with disabilities, or watch as a painting unfolds
+before your eyes during live painting sessions with our talented Shaping
+Hearts artists, alongside engaging storytelling sessions.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
