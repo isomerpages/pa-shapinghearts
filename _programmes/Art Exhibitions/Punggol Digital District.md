@@ -333,7 +333,7 @@ yourself in the 5 vibrant zones of Shaping Hearts @ Punggol Digital District
 – ARTfully Able.</p>
 <p>All artwork and merchandise displayed are available for purchase, and
 100% of proceeds will go towards supporting our talented artists with disabilities.</p>
-<p>See you at the exhibition!</p>
+<p>See you at the festival!</p>
 <p></p>
 <p></p>
 <p></p>
