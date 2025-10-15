@@ -23,7 +23,7 @@ of abilities, imagination, and joyful expression!</p>
 <tr>
 <td rowspan="1" colspan="1">
 <h4>Purple Zone with Ms createABLE</h4>
-<p>Discover powerful artworks created by talented artists with disabilities
+<p>Discover amazing artworks created by talented artists with disabilities
 and see the world through their eyes. Each piece tells a unique story,
 filled with emotion, creativity and personal experience.</p>
 </td>
@@ -53,8 +53,9 @@ Hearts artists, alongside engaging storytelling sessions.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <h4>Blue Zone with Mr imagineABLE</h4>
-<p>Join engaging fringe activities, guided crafts workshops, explore unique
-handmade pieces, and discover meaningful ways to support our artists.</p>
+<p>Discover inspiration and mindfulness through engaging fringe activities,
+hands-on craft workshops, and unique handmade pieces — and explore meaningful
+ways to support our artists.</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
@@ -81,9 +82,11 @@ that grows with every visitor!</p>
 <p>Follow the Art Trail to uncover hidden gems tucked within murals and artworks.
 Discover Singapore’s longest 132m mural — a collaborative masterpiece co-designed
 by Shaping Hearts artists Simeon and Ezra, and brought to life with the
-help of volunteers from SIT and fellow Shaping Hearts artists.</p>
+help of our Shaping Hearts artists, Punggol Community, Punggol Digital
+District Stakeholders and Tell Your Children Creative Studios.</p>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
 <p></p>
 <p></p>
 <p></p>
