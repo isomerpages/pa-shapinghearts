@@ -5,10 +5,14 @@ variant: tiptap
 description: ""
 third_nav_title: Art Exhibitions
 ---
-<p></p>
-<h2>Shaping Hearts — Artfully Able @ Punggol Digital District</h2>
-<p></p>
-<p>Get ready to embark on an engaging and meaningful journey at<strong> Shaping Hearts — ARTfully Able @ Punggol Digital District</strong> from <strong>16 - 23 November</strong>,
+<h2>Shaping Hearts — ARTfully Able @ Punggol Digital District</h2>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/EDM_Banner.png">
+</div>
+<p><strong>Date:</strong> 16 - 23 November
+<br><strong>Time:</strong> 11am - 7pm
+<br><strong>Location:</strong> Nexus, Punggol Coast Mall</p>
+<p>Get ready to embark on an engaging and meaningful journey at<strong> Shaping Hearts — ARTfully Able @ Punggol Digital District</strong>,
 with <strong><em>5 exciting zones</em></strong>, each brought to life by
 a unique character. This is more than an exhibition — it’s a celebration
 of abilities, imagination, and joyful expression!</p>
@@ -190,7 +194,7 @@ District Stakeholders and Tell Your Children Creative Studios.</p>
 <p>Time</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Social Service Agency</p>
+<p>Artist and Social Service Agency</p>
 </th>
 </tr>
 <tr>
@@ -198,7 +202,8 @@ District Stakeholders and Tell Your Children Creative Studios.</p>
 <p>12:00pm - 1:30pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Artzillions</p>
+<p>Avram Oh Yuxian <em>from Artzillions</em>
+</p>
 </td>
 </tr>
 <tr>
@@ -206,7 +211,8 @@ District Stakeholders and Tell Your Children Creative Studios.</p>
 <p>3:00pm - 4:30pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Artzillions</p>
+<p>Nicholas Pang <em>from Artzillions</em>
+</p>
 </td>
 </tr>
 </tbody>
@@ -246,16 +252,7 @@ District Stakeholders and Tell Your Children Creative Studios.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2:30pm - 4:00pm</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Coffee Painting Workshop with <em>Vincent Seet</em>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>4:30pm - 6:00pm</p>
+<p>2:30pm - 6:00pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Coffee Painting Workshop with <em>Vincent Seet</em>
@@ -273,7 +270,7 @@ District Stakeholders and Tell Your Children Creative Studios.</p>
 </tr>
 </tbody>
 </table>
-<h3>More to Explore</h3>
+<h2>More to Explore</h2>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -290,11 +287,6 @@ District Stakeholders and Tell Your Children Creative Studios.</p>
 </tr>
 <tr>
 <td rowspan="3" colspan="1">
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
 <p></p>
 <p>All-day Craft Activities</p>
 </td>
@@ -325,20 +317,31 @@ District Stakeholders and Tell Your Children Creative Studios.</p>
 <p>Avatar Creation Kiosk</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Hidden_Black_RGB.svg">
+</div>
+<p>Hidden Singapore - Gamified Trail</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Embark on an interactive adventure on WhatsApp with the enigmatic Void
+Deck Cat, courtesy of award-winning creative studio HIDDEN. Solve the cat's
+riddles and complete her challenges around Punggol Digital District, to
+unlock its hidden stories and redeem surprise gifts worth over $30!</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p>Come join us for a fun and interactive journey like no other. Follow the
 coloured pathways, answer trivia questions, uncover fun facts, and immerse
 yourself in the 5 vibrant zones of Shaping Hearts — ARTfully Able @ Punggol
-Digital District.</p>
+Digital District. A special thank you to our sponsors — Hidden Singapore,
+Kopifellas, Macrovic, Playmade, Starbucks and Green Party — for making
+this experience possible.</p>
 <p>All artwork and merchandise displayed are available for purchase, and
 100% of proceeds will go towards supporting our talented artists with disabilities.</p>
 <p>See you at the festival!</p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
 <p></p>
