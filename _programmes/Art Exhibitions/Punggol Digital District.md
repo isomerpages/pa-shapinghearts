@@ -6,7 +6,7 @@ description: ""
 third_nav_title: Art Exhibitions
 ---
 <p></p>
-<h2>Shaping Hearts — Artfully Able @ Punggol Digital District</h2>
+<h2>Shaping Hearts — ARTfully Able @ Punggol Digital District</h2>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/EDM_Banner.png">
 </div>
@@ -322,6 +322,17 @@ District Stakeholders and Tell Your Children Creative Studios.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Avatar Creation Kiosk</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Hidden Singapore - Gamified Trail @ Punggol Digital District</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Embark on an interactive trail that blends inclusive arts with gamified
+exploration — solve clues, complete challenges, discover artworks, and
+redeem an exclusive Shaping Hearts kit at on-site booths, featuring treats
+like Starbucks discounts and a special “Our Punggol Story” sticker pack!</p>
 </td>
 </tr>
 </tbody>
