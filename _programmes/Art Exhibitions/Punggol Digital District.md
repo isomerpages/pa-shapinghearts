@@ -329,11 +329,10 @@ District Stakeholders and Tell Your Children Creative Studios.</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Embark on an interactive trail that blends inclusive arts with gamified
-exploration — solve clues, complete challenges, discover artworks, and
-redeem an exclusive Shaping Hearts kit at on-site booths, featuring treats
-like Starbucks discounts and a special “Our Punggol Story” sticker pack,
-brought to you in partnership with <strong>Hidden Singapore</strong>.</p>
+<p>Embark on an interactive adventure on WhatsApp with the enigmatic Void
+Deck Cat, courtesy of award-winning creative studio HIDDEN. Solve the cat's
+riddles and complete her challenges around Punggol Digital District, to
+unlock its hidden stories and redeem surprise gifts worth over $30!</p>
 </td>
 </tr>
 </tbody>
