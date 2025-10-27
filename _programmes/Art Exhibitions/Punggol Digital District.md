@@ -342,7 +342,8 @@ brought to you in partnership with <strong>Hidden Singapore</strong>.</p>
 coloured pathways, answer trivia questions, uncover fun facts, and immerse
 yourself in the 5 vibrant zones of Shaping Hearts — ARTfully Able @ Punggol
 Digital District. A special thank you to our sponsors — Kopifellas, Starbucks,
-Green Party, Playmade, and HiddenSG — for making this experience possible.</p>
+Green Party, Playmade, and Hidden Singapore — for making this experience
+possible.</p>
 <p>All artwork and merchandise displayed are available for purchase, and
 100% of proceeds will go towards supporting our talented artists with disabilities.</p>
 <p>See you at the festival!</p>
