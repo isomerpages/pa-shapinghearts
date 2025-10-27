@@ -332,7 +332,8 @@ District Stakeholders and Tell Your Children Creative Studios.</p>
 <p>Embark on an interactive trail that blends inclusive arts with gamified
 exploration — solve clues, complete challenges, discover artworks, and
 redeem an exclusive Shaping Hearts kit at on-site booths, featuring treats
-like Starbucks discounts and a special “Our Punggol Story” sticker pack!</p>
+like Starbucks discounts and a special “Our Punggol Story” sticker pack,
+brought to you in partnership with <strong>Hidden Singapore</strong>.</p>
 </td>
 </tr>
 </tbody>
