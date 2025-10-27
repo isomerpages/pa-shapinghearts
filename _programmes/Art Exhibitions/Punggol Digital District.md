@@ -351,8 +351,3 @@ Digital District.</p>
 100% of proceeds will go towards supporting our talented artists with disabilities.</p>
 <p>See you at the festival!</p>
 <p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
