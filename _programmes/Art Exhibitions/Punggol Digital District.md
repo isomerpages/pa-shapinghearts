@@ -272,7 +272,7 @@ District Stakeholders and Tell Your Children Creative Studios.</p>
 </tr>
 </tbody>
 </table>
-<h3>More to Explore</h3>
+<h2>More to Explore</h2>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
