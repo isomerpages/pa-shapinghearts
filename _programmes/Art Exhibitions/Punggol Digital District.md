@@ -254,16 +254,7 @@ District Stakeholders and Tell Your Children Creative Studios.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2:30pm - 4:00pm</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Coffee Painting Workshop with <em>Vincent Seet</em>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>4:30pm - 6:00pm</p>
+<p>2:30pm - 6:00pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Coffee Painting Workshop with <em>Vincent Seet</em>
