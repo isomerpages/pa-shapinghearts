@@ -290,7 +290,6 @@ District Stakeholders and Tell Your Children Creative Studios.</p>
 <tr>
 <td rowspan="3" colspan="1">
 <p></p>
-<p></p>
 <p>All-day Craft Activities</p>
 </td>
 <td rowspan="1" colspan="1">
