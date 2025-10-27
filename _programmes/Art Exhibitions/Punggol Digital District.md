@@ -9,7 +9,6 @@ third_nav_title: Art Exhibitions
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/EDM_Banner.png">
 </div>
-<p></p>
 <p><strong>Date:</strong> 16 - 23 November
 <br><strong>Time:</strong> 11am - 7pm
 <br><strong>Location:</strong> Nexus, Punggol Coast Mall</p>
