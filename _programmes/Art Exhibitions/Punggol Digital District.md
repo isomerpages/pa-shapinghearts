@@ -196,7 +196,7 @@ District Stakeholders and Tell Your Children Creative Studios.</p>
 <p>Time</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Social Service Agency</p>
+<p>Artist and Social Service Agency</p>
 </th>
 </tr>
 <tr>
@@ -204,7 +204,8 @@ District Stakeholders and Tell Your Children Creative Studios.</p>
 <p>12:00pm - 1:30pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Artzillions</p>
+<p>Avram Oh Yuxian <em>from Artzillions</em>
+</p>
 </td>
 </tr>
 <tr>
@@ -212,7 +213,8 @@ District Stakeholders and Tell Your Children Creative Studios.</p>
 <p>3:00pm - 4:30pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Artzillions</p>
+<p>Nicholas Pang <em>from Artzillions</em>
+</p>
 </td>
 </tr>
 </tbody>
