@@ -323,7 +323,7 @@ District Stakeholders and Tell Your Children Creative Studios.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Hidden_Black_RGB.svg">
 </div>
-<p>Hidden Singapore - Gamified Trail @ Punggol Digital District</p>
+<p>Hidden Singapore - Gamified Trail</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
