@@ -412,6 +412,65 @@ Digital District Stakeholders and Tell Your Children Creative Studios.</p>
 </tr>
 </tbody>
 </table>
+<p></p>
+<h2>Merchandise Booths</h2>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>16, 22, 23 Nov</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Artzillions</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>cmykaryn</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Down Syndrome Association</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Enabling Services Hub @ Punggol</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Friends of The Disabled Society</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Metta Welfare Association</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>MINDS</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Singapore Association for Mental Health</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Singapore Association of the Visually Handicapped</p>
+</td>
+</tr>
+</tbody>
+</table>
 <h2>More to Explore</h2>
 <table style="minWidth: 50px">
 <colgroup>
