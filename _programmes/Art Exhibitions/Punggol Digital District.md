@@ -400,7 +400,7 @@ Digital District Stakeholders and Tell Your Children Creative Studios.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>To register for workshops, scan the QR or visit <a href="http://go.gov.sg/shpdd25" rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/shpdd25</a> 
+<p>To register for workshops, scan the QR or visit <a href="http://go.gov.sg/shpdd25" rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/shpdd25</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
