@@ -9,9 +9,9 @@ third_nav_title: Art Exhibitions
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/EDM_Banner.png">
 </div>
-<p><strong>Date:</strong> 16 - 23 November
+<p><strong>Date:</strong> 16 - 23 November 2025
 <br><strong>Time:</strong> 11am - 7pm
-<br><strong>Location:</strong> Nexus, Punggol Coast Mall</p>
+<br><strong>Location:</strong> Nexus, Punggol Coast Mall (<em>88 Punggol Way, S'829913</em>)</p>
 <p>Get ready to embark on an engaging and meaningful journey at<strong> Shaping Hearts — ARTfully Able @ Punggol Digital District</strong>,
 with <strong><em>5 exciting zones</em></strong>, each brought to life by
 a unique character. This is more than an exhibition — it’s a celebration
@@ -85,9 +85,9 @@ that grows with every visitor!</p>
 <h4>Green Zone with Mr discoveABLE</h4>
 <p>Follow the Art Trail to uncover hidden gems tucked within murals and artworks.
 Discover Singapore’s longest 132m mural — a collaborative masterpiece co-designed
-by Shaping Hearts artists Simeon and Ezra, and brought to life with the
-help of our Shaping Hearts artists, Punggol Community, Punggol Digital
-District Stakeholders and Tell Your Children Creative Studios.</p>
+by Shaping Hearts special needs artists Simeon and Ezra, and brought to
+life with the help of our Shaping Hearts artists, Punggol Community, Punggol
+Digital District Stakeholders and Tell Your Children Creative Studios.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -101,7 +101,7 @@ District Stakeholders and Tell Your Children Creative Studios.</p>
 </tbody>
 </table>
 <p></p>
-<h2>Coming Up on 16 November</h2>
+<h2>16 November</h2>
 <h3>Live Performances</h3>
 <table style="minWidth: 50px">
 <colgroup>
@@ -119,7 +119,7 @@ District Stakeholders and Tell Your Children Creative Studios.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>12:10pm - 12:20pm</p>
+<p>16 Nov | 12:10pm - 12:20pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Percussion Performance by<em> Down Syndrome Association</em>
@@ -128,7 +128,7 @@ District Stakeholders and Tell Your Children Creative Studios.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1:00pm - 1:30pm</p>
+<p>16 Nov | 1:00pm - 1:30pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Fringe Activity by <em>Raw Moves</em>
@@ -137,7 +137,7 @@ District Stakeholders and Tell Your Children Creative Studios.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1:30pm - 2:00pm</p>
+<p>16 Nov | 1:30pm - 2:00pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Dance Performance by<em> Raw Moves</em>
@@ -146,7 +146,7 @@ District Stakeholders and Tell Your Children Creative Studios.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2:30pm - 3:00pm</p>
+<p>16 Nov | 2:30pm - 3:00pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Fringe Activity by <em>Raw Moves</em>
@@ -155,7 +155,7 @@ District Stakeholders and Tell Your Children Creative Studios.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>3:00pm - 3:30pm</p>
+<p>16 Nov | 3:00pm - 3:30pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Dance Performance by<em> Raw Moves</em>
@@ -164,7 +164,7 @@ District Stakeholders and Tell Your Children Creative Studios.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>4:30pm - 4:55pm</p>
+<p>16 Nov | 4:30pm - 4:55pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Performance by <em>Faith Music Centre Azalea Band</em>
@@ -173,11 +173,64 @@ District Stakeholders and Tell Your Children Creative Studios.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>6:00pm - 6:30pm</p>
+<p>16 Nov | 6:00pm - 6:30pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Storytelling Session by <em>Shoes Theatre (Yukiko)</em>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>22 Nov | 11.00am - 12.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Puppetry Performance by <em>The Finger Players</em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>22 Nov | 2.30pm - 3.15pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dance Performance by <em>YMCA</em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>22 Nov | 4.00pm - 4.30pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Harmonica Performance by <em>Kaushiok Kasiraman, Extraordinary People</em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>22 Nov | 4.30pm - 5.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Keyboard Performance by <em>Alexon Cher, Extraordinary People</em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>23 Nov | 1.00pm - 3.30pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Activity &amp; Performance by <em>Raw Moves (NAC)</em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>23 Nov | 6.00pm - 6.30pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Storytelling Session by Shoes Theatre</p>
 </td>
 </tr>
 </tbody>
