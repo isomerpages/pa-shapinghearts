@@ -101,7 +101,6 @@ Digital District Stakeholders and Tell Your Children Creative Studios.</p>
 </tbody>
 </table>
 <p></p>
-<h2>16 November</h2>
 <h3>Live Performances</h3>
 <table style="minWidth: 50px">
 <colgroup>
@@ -128,37 +127,10 @@ Digital District Stakeholders and Tell Your Children Creative Studios.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>16 Nov | 1:00pm - 1:30pm</p>
+<p>16 Nov | 1:00pm - 3:30pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Fringe Activity by <em>Raw Moves</em>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>16 Nov | 1:30pm - 2:00pm</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Dance Performance by<em> Raw Moves</em>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>16 Nov | 2:30pm - 3:00pm</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Fringe Activity by <em>Raw Moves</em>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>16 Nov | 3:00pm - 3:30pm</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Dance Performance by<em> Raw Moves</em>
+<p>Fringe Activity &amp; Performance by <em>Raw Moves (NAC)</em>
 </p>
 </td>
 </tr>
@@ -221,7 +193,7 @@ Digital District Stakeholders and Tell Your Children Creative Studios.</p>
 <p>23 Nov | 1.00pm - 3.30pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Activity &amp; Performance by <em>Raw Moves (NAC)</em>
+<p>Fringe Activity &amp; Performance by <em>Raw Moves (NAC)</em>
 </p>
 </td>
 </tr>
@@ -230,7 +202,8 @@ Digital District Stakeholders and Tell Your Children Creative Studios.</p>
 <p>23 Nov | 6.00pm - 6.30pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Storytelling Session by Shoes Theatre</p>
+<p>Storytelling Session by Shoes Theatre <em>(Yukiko)</em>
+</p>
 </td>
 </tr>
 </tbody>
@@ -252,7 +225,7 @@ Digital District Stakeholders and Tell Your Children Creative Studios.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>12:00pm - 1:30pm</p>
+<p>16 Nov | 12:00pm - 1:30pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Avram Oh Yuxian <em>from Artzillions</em>
@@ -261,11 +234,43 @@ Digital District Stakeholders and Tell Your Children Creative Studios.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>3:00pm - 4:30pm</p>
+<p>16 Nov | 3:00pm - 4:30pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Nicholas Pang <em>from Artzillions</em>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>22 Nov | 12.00pm - 1.30pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Christopher Tey Rui Fang</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>22 Nov | 3.00pm - 4.30pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Christopher Daniel Widjaja</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>23 Nov | 12.00pm - 1.30pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>TBC</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>23 Nov | 3.00pm - 4.30pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>TBC</p>
 </td>
 </tr>
 </tbody>
@@ -287,7 +292,7 @@ Digital District Stakeholders and Tell Your Children Creative Studios.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>11:30am - 6:00pm</p>
+<p>16 Nov | 11:30am - 6:00pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>DIY Mosaic Fridge Magnet and Mosaic Name Keychain with <em>Friends of the Disabled Society (FDS)</em>
@@ -296,7 +301,7 @@ Digital District Stakeholders and Tell Your Children Creative Studios.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>11:30am - 2:00pm</p>
+<p>16 Nov | 11:30am - 2:00pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Batik Workshop with <em>Metta Welfare Association</em>
@@ -305,7 +310,7 @@ Digital District Stakeholders and Tell Your Children Creative Studios.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2:30pm - 6:00pm</p>
+<p>16 Nov | 2:30pm - 6:00pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Coffee Painting Workshop with <em>Vincent Seet</em>
@@ -314,7 +319,7 @@ Digital District Stakeholders and Tell Your Children Creative Studios.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>11:30am - 6:00pm</p>
+<p>16 Nov | 11:30am - 6:00pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Water Marbling on Pouch and Cyanotype Printing with <em>Artzillions</em>
@@ -323,8 +328,80 @@ Digital District Stakeholders and Tell Your Children Creative Studios.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Scan the QR or visit <a href="http://go.gov.sg/shpdd25" rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/shpdd25</a> to register for the
-workshops</p>
+<p>22 Nov | 1.30pm - 6.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Paper Quilling Bookmark by <em>Extraordinary People</em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>22 Nov | 11:30am - 2:00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Batik Workshop with <em>Metta Welfare Association</em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>22 Nov | 2.30pm - 6.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Coffee Painting Workshop with <em>Vincent Seet</em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>22 Nov | 11.30am - 6.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Water Marbling &amp; Mini Canvas Drawing by <em>Artzillions</em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>23 Nov | 2.30pm - 6.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Coffee Painting Workshop with <em>Vincent Seet</em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>23 Nov | 2.30pm - 5.30pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Batik Workshop with <em>Metta Welfare Association</em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>23 Nov | 11.30am - 12.15pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Terranium Workshop by <em>MINDS (Craft &amp; Farm)</em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>23 Nov | 11.30am - 6.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Water Marbling &amp; Mini Canvas Drawing by <em>Artzillions</em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>To register for workshops, scan the QR or visit <a href="http://go.gov.sg/shpdd25" rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/shpdd25</a> 
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -395,7 +472,7 @@ workshops</p>
 <p>Embark on an interactive adventure on WhatsApp with the enigmatic Void
 Deck Cat, courtesy of award-winning creative studio HIDDEN. Solve the cat's
 riddles and complete her challenges around Punggol Digital District, to
-unlock its hidden stories and redeem surprise gifts worth over $30!</p>
+unlock its hidden stories and redeem surprise gifts worth over $20!</p>
 </td>
 </tr>
 </tbody>
@@ -404,7 +481,7 @@ unlock its hidden stories and redeem surprise gifts worth over $30!</p>
 coloured pathways, answer trivia questions, uncover fun facts, and immerse
 yourself in the 5 vibrant zones of Shaping Hearts — ARTfully Able @ Punggol
 Digital District. A special thank you to our sponsors — Hidden Singapore,
-Kopifellas, Macrovic, Playmade, Starbucks and Green Party — for making
+Kopifellas, Macrovic, Playmade, Starbucks and The Green Party — for making
 this experience possible.</p>
 <p>All artwork and merchandise displayed are available for purchase, and
 100% of proceeds will go towards supporting our talented artists with disabilities.</p>
