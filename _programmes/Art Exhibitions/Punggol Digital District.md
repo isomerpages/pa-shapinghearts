@@ -268,6 +268,18 @@ District Stakeholders and Tell Your Children Creative Studios.</p>
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Scan the QR or visit <a href="http://go.gov.sg/shpdd25" rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/shpdd25</a> to register for the
+workshops</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/https___go_gov_sg_shpdd25.png">
+</div>
+</td>
+</tr>
 </tbody>
 </table>
 <h2>More to Explore</h2>
