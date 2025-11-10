@@ -528,10 +528,11 @@ Digital District Stakeholders and Tell Your Children Creative Studios.</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Embark on an interactive adventure on WhatsApp with the enigmatic Void
-Deck Cat, courtesy of award-winning creative studio HIDDEN. Solve the cat's
-riddles and complete her challenges around Punggol Digital District, to
-unlock its hidden stories and redeem surprise gifts worth over $20!</p>
+<p>From 16 - 23 November, embark on an interactive adventure on WhatsApp
+with the enigmatic Void Deck Cat, courtesy of award-winning creative studio
+HIDDEN. Solve the cat's riddles and complete her challenges around Punggol
+Digital District to unlock its hidden stories and redeem surprise gifts
+worth over $20!</p>
 </td>
 </tr>
 </tbody>
