@@ -262,7 +262,7 @@ Digital District Stakeholders and Tell Your Children Creative Studios.</p>
 <p>23 Nov | 12.00pm - 1.30pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>TBC</p>
+<p>Reuel Dylan Tan from Extraordinary People</p>
 </td>
 </tr>
 <tr>
@@ -270,7 +270,7 @@ Digital District Stakeholders and Tell Your Children Creative Studios.</p>
 <p>23 Nov | 3.00pm - 4.30pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>TBC</p>
+<p>Zafirah Zephyr from Extraordinary People</p>
 </td>
 </tr>
 </tbody>
@@ -295,7 +295,7 @@ Digital District Stakeholders and Tell Your Children Creative Studios.</p>
 <p>16 Nov | 11:30am - 6:00pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>DIY Mosaic Fridge Magnet and Mosaic Name Keychain with <em>Friends of the Disabled Society (FDS)</em>
+<p>DIY Mosaic Fridge Magnet with <em>Friends of the Disabled Society (FDS)</em>
 </p>
 </td>
 </tr>
@@ -385,7 +385,7 @@ Digital District Stakeholders and Tell Your Children Creative Studios.</p>
 <p>23 Nov | 11.30am - 12.15pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Terranium Workshop by <em>MINDS (Craft &amp; Farm)</em>
+<p>Terrarium Workshop by <em>MINDS (Craft &amp; Farm)</em>
 </p>
 </td>
 </tr>
