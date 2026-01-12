@@ -2,6 +2,7 @@ collections:
   programmes:
     output: true
     order:
+      - Art Exhibitions/Shaping Hearts 2025 Wrapped.md
       - Art Exhibitions/.keep
       - Art Exhibitions/About.md
       - Art Exhibitions/Gardens by The Bay.md
