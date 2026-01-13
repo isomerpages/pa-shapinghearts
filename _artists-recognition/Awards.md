@@ -12,7 +12,6 @@ At North East CDC, we are committed to celebrate and uplift artists with disabil
 
 The Kiat Lim-Shaping Hearts Awards is designed to nurture artists with disabilities throughout their artistic journey, from early education to professional development. The awards consists of scholarship, bursary and early intervention grant categories to provide financial assistance for persons with disabilities to pursue art. It recognises the artistic achievements of persons with disabilities (PWDs) and aims to make art education more accessible, especially for those facing financial constraints. The awards are supported by a S$1,000,000 commitment over five years from Kiat Lim, a new patron of Shaping Hearts. The funds ensure that PWDs can access opportunities to facilitate their artistic pursuits, empowering them to explore their creativity and develop essential skills for personal growth and development.
 
-**Application for 2025 Awards are now closed.**
 
 <table style="border-collapse: collapse; width: 100%; font-family: Arial, sans-serif; font-size: 14px;">
   <tbody>
@@ -28,7 +27,7 @@ The Kiat Lim-Shaping Hearts Awards is designed to nurture artists with disabilit
       For beneficiaries (7 years old and above) who have attained a good level of art proficiency and will like to further develop their skills professionally, including but not limited to:
       <ul style="margin: 8px 0; padding-left: 20px;">
         <li style="font-size: 14px;">Learning a new art medium</li>
-        <li style="font-size: 14px;">• Engaging a professional mentor/tutor to improve their current skills</li>
+        <li style="font-size: 14px;"> Engaging a professional mentor/tutor to improve their current skills</li>
       </ul>
     </td>
     <td style="border: 1px solid #D3D3D3; padding: 12px 8px; vertical-align: top; font-size: 14px;">
@@ -86,6 +85,8 @@ The Kiat Lim-Shaping Hearts Awards is designed to nurture artists with disabilit
   </tr>
   </tbody>
 </table>
+
+**Register [here](go.gov.sg/klsha2026) by 28 February 2026.**
 
 ### Neo Kah Kiat Arts Awards
 
