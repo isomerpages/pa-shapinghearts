@@ -1,4 +1,5 @@
 collections:
   artists-recognition:
     output: true
-    order: []
+    order:
+      - Artists Recognition.md
