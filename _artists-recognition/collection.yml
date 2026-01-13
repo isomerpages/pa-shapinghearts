@@ -1,0 +1,4 @@
+collections:
+  artists-recognition:
+    output: true
+    order: []
