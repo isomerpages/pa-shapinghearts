@@ -17,9 +17,6 @@ sections:
         - title: ABOUT SHAPING HEARTS
           description: Largest Inclusive Arts Event
           url: /about-shaping-hearts
-        - title: SHOP FOR ART
-          description: Paintings & Merchandise
-          url: https://shop.shapinghearts.sg/
         - title: PARTNERS & HEARTISTS
           description: Discover the Talents
           url: /heartists-and-partners/
@@ -47,11 +44,4 @@ sections:
       url: /heartists-and-partners/
       image: /images/3_450.png
       alt: Image alt text
-  - infobar:
-      title: The Largest Inclusive Arts Event in Singapore
-      subtitle: SHOP ART & MERCHANDISE
-      id: infobar
-      description: Shop over 700 artworks from artists with disabilities.
-      button: VISIT SHOP
-      url: https://shop.shapinghearts.sg/
 ---
