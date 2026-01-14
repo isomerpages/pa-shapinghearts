@@ -25,6 +25,12 @@ sections:
       size: md
       backgroundColor: white
   - infopic:
+      title: Shaping Hearts 2025 Wrapped
+      id: infopic
+      button: Read More
+      url: https://go.gov.sg/northeastcare
+      alt: Image alt text
+  - infopic:
       title: Discover meaningful art made by people with disabilities
       subtitle: ABOUT SHAPING HEARTS
       id: infopic
