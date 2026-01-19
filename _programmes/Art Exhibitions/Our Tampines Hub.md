@@ -32,11 +32,9 @@ basketball to adaptive hockey, everyone had the chance to experience sports
 through a different lens.</p>
 <p></p>
 <p></p>
-<h4><strong>HeARTcade</strong></h4>
-<p><strong>Date: </strong>13 - 28 September</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/20250913_Shaping_Hearts_0011.jpg">
-</div>
+<p>Thank you for celebrating creativity, diversity, and community with us.
+Your participation helps foster an inclusive environment where every voice
+is respected, every story is seen, and creativity is accessible to all.</p>
 <p></p>
 <p></p>
 <p></p>
