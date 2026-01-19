@@ -25,31 +25,11 @@ incorporating the artists’ original artworks.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/20250913_SHAPING_HEARTS_0269__3_.jpg">
 </div>
-<h4><strong>Inclusive Fashion Showcase – Wearable Art on the Runway</strong></h4>
-<p><strong>Date:</strong> 13 September</p>
-<p>13 Shaping Heart artists and 10 Singapore Fashion Runway models with disabilities
-will be styled to walk the runway, showcasing merchandise designed by 13
-Temasek Polytechnic students that incorporates the artworks of Shaping
-Heart artists.</p>
+<h4></h4>
+<p>Visitors also got to experience the unique perspective of playing sports
+with a disability. From wheelchair basketball to adaptive hockey, everyone
+had the chance to experience sports through a different lens.</p>
 <p></p>
-<h4><strong>Main Exhibition</strong></h4>
-<p><strong>Date: </strong>13 - 28 September</p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/20250913_Shaping_Hearts_0047.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Peranakan Shophouse Entrance Arch</div><div class="isomer-card-link"></div></div></a>
-<a rel="noopener noreferrer nofollow" href="" class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/20250913_Shaping_Hearts_0013.jpg">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">HDB Centrepiece</div>
-<div class="isomer-card-link"></div>
-</div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/20250913_Shaping_Hearts_0034.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Futuristic Photowall</div><div class="isomer-card-link"></div></div></a>
-</div>
-<p>Explore over selected pieces from over 700 artworks by more than 230 artists
-with disabilities, with contributions from local and Asia-Pacific artists.
-The exhibition is segmented into three zones: Past, Present and Future.</p>
 <p></p>
 <h4><strong>HeARTcade</strong></h4>
 <p><strong>Date: </strong>13 - 28 September</p>
