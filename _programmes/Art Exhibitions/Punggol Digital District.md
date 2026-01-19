@@ -5,17 +5,13 @@ variant: tiptap
 description: ""
 third_nav_title: Art Exhibitions
 ---
-<h2>Shaping Hearts — ARTfully Able @ Punggol Digital District</h2>
+<p>ARTfully Able @ Punggol Digital District was a joyful celebration of abilities,
+imagination and creative expression. With five vibrant zones, each brought
+to life by a unique character and offering a unique and immersive experience.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/EDM_Banner.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Artfullyable_PDDC1_365.jpg">
 </div>
-<p><strong>Date:</strong> 16 - 23 November 2025
-<br><strong>Time:</strong> 11am - 7pm
-<br><strong>Location:</strong> Nexus, Punggol Coast Mall (<em>88 Punggol Way, S'829913</em>)</p>
-<p>Get ready to embark on an engaging and meaningful journey at<strong> Shaping Hearts — ARTfully Able @ Punggol Digital District</strong>,
-with <strong><em>5 exciting zones</em></strong>, each brought to life by
-a unique character. This is more than an exhibition — it’s a celebration
-of abilities, imagination, and joyful expression!</p>
 <h2>Explore the 5 Zones</h2>
 <p></p>
 <table style="minWidth: 50px">
