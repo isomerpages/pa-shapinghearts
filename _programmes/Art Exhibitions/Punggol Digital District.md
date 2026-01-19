@@ -19,10 +19,10 @@ also their creative processes in real time.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Artfullyable_PDDC1_254.jpg">
 </div>
-<p>Visitors could also take part in hands-on activities and craft workshops,
-creating and connecting at their own pace. The display of unique handmade
-pieces offered a simple and meaningful way for the community to show support
-for our artists.</p>
+<p>Visitors could took part in hands-on activities and craft workshops, enjoying
+time to create and connect together. The display of unique handmade pieces
+offered a simple and meaningful way for the community to show support for
+our artists.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/25_11_16___NECDC_Shaping_Hearts__Punggol_292.jpg">
