@@ -5,15 +5,23 @@ variant: tiptap
 description: ""
 third_nav_title: Art Exhibitions
 ---
-<p>Join us as Shaping Hearts 2025, Singapore’s largest inclusive arts festival,
-officially launches its Main Exhibition at Our Tampines Hub with an exciting
-line-up of activities that celebrate creativity, collaboration, and the
-power of inclusion.</p>
-<p></p>
+<p>The largest inclusive arts festival, Shaping Hearts, returned with the
+launch of its Main Exhibition at Our Tampines Hub. From the 13th to the
+28th of September, the exhibition proudly showcased over 700 artworks by
+more than 230 brilliant artists with disabilities, including contributions
+from both local and Asia-Pacific Artists.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/20250913_Shaping_Hearts_0020.jpg">
 </div>
-<h3>What to Expect</h3>
+<p></p>
+<p></p>
+<p></p>
+<p>In a first-ever inclusive runway, the stage was filled with heart, creativity,
+and confidence as 13 Shaping Heart artists and 10 Singapore Fashion Runway
+models with disabilities proudly walked the runway. Together, they unveiled
+merchandise designed by 13 Temasek Polytechnic students, each piece thoughtfully
+incorporating the artists’ original artworks.</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/20250913_SHAPING_HEARTS_0269__3_.jpg">
 </div>
