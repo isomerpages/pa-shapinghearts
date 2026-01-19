@@ -34,12 +34,15 @@ incorporating the artists’ original artworks.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/20250913_SHAPING_HEARTS_0269__3_.jpg">
 </div>
-<h4></h4>
+<p></p>
 <p>Visitors also got to experience the unique perspective of playing sports
 with a disability at our inclusive sports tryout zone. From wheelchair
 basketball to adaptive hockey, everyone had the chance to experience sports
 through a different lens.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/20250913_SHAPING_HEARTS_0176_optimized_5000.jpg">
+</div>
 <p></p>
 <p>Thank you for celebrating creativity, diversity, and community with us.
 Your participation helps foster an inclusive environment where every voice
