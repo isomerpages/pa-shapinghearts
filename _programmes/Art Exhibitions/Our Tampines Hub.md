@@ -9,18 +9,27 @@ third_nav_title: Art Exhibitions
 launch of its Main Exhibition at Our Tampines Hub. From the 13th to the
 28th of September, the exhibition proudly showcased over 700 artworks by
 more than 230 brilliant artists with disabilities, including contributions
-from both local and Asia-Pacific Artists.</p>
+from both local and Asia-Pacific artists.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/20250913_Shaping_Hearts_0020.jpg">
 </div>
 <p></p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/20250913_SHAPING_HEARTS_0007_optimized_5000.jpg">
+</div>
 <p></p>
 <p>In a first-ever inclusive runway, the stage was filled with heart, creativity,
 and confidence as 13 Shaping Heart artists and 10 Singapore Fashion Runway
 models with disabilities proudly walked the runway. Together, they unveiled
 merchandise designed by 13 Temasek Polytechnic students, each piece thoughtfully
 incorporating the artists’ original artworks.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/20250913_SHAPING_HEARTS_0223.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/20250913_SHAPING_HEARTS_0210.jpg">
+</div>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/20250913_SHAPING_HEARTS_0269__3_.jpg">
