@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Art Exhibitions
 ---
-<p>Shaping Hearts 2025 was a meaningful year, marked by <strong>five events</strong> that
+<p>Shaping Hearts 2025 was a meaningful year, marked by <strong>five exhibitions</strong> that
 brought art, inclusion, and community together. With the support of our
 community, we raised <strong>over $1.2 million</strong>, empowering artists
 with disabilities and affirming the value of their creative voices. We
