@@ -17,6 +17,7 @@ are embraced.</p>
 <p>The 2025 theme, <strong>Art Beyond Limits</strong>, invited us to reimagine
 what can be. From immersive exhibitions and our first fashion runway, to
 public spaces on walls and cars, each event showed that creativity extends
-far beyond the canvas</p>
+far beyond the canvas, celebrating that artistic expression in all its
+forms and demonstrating that art truly knows no bounds.</p>
 <p>We are grateful to every artist, partner, volunteer, and visitor, and
 look forward to continuing to grow an inclusive arts community.</p>
