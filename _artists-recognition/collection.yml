@@ -1,0 +1,6 @@
+collections:
+  artists-recognition:
+    output: true
+    order:
+      - Awards.md
+      - Awardees.md
