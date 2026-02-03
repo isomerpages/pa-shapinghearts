@@ -685,10 +685,7 @@ description: ""
                 </h1>
                 <p>Celebrating meaningful art made by artists with disabilities.</p>
                 <div class="flex justify-between mt-5">
-                    <button class="button bold">
-                        <a target="_blank" href="https://shop.shapinghearts.cdc.gov.sg/">Shop</a>
-                    </button>
-                    <button class="button bold">
+                            <button class="button bold">
                         <a target="_blank" href="https://shapinghearts.cdc.gov.sg/art-exhibition/">Visit Event</a>
                     </button>
                 </div>
@@ -705,8 +702,6 @@ description: ""
                 <p class="text-center bold">FOLLOW OUR HEARTS</p>
                 <h1 class="main_heading2 text-center mt-5">Step into the world of talented artists with disabilities and be awed by their art creations at the largest inclusive arts event!</h1>
                 <button style="width: fit-content; background: #e0125b;" class="button bold mt-5">
-                    <a target="_blank" href="https://shop.shapinghearts.sg/">Visit Shop</a>
-                </button>
                 <br><br>
                 <div class="story_grid mt-5">
                     <div class="story_card">
@@ -730,7 +725,7 @@ description: ""
                         <p class="text-gray">public engagements</p>
                     </div>
                 </div>
-            </div>
+            </button></div>
         </div>
     </section>
     
