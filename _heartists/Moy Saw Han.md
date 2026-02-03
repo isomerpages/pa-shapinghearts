@@ -207,44 +207,4 @@ description: ""
         <section class="hero">
             <h1 class="text-center main_heading">Hi! I'm a Heartist<br>Moy Saw Han</h1>
             <img class="hero_img" src="https://i.ibb.co/XfsxkLSh/Moy-Saw-Han.jpg">
-            <p>Moy Saw Han became visually impaired in 2018 due to Glaucoma, resulting in only 15% tunnel vision in her left eye and complete blindness in her right eye. Despite these challenges, she has a deep passion for creating, whether through painting, handicrafts, writing poetry, baking, or making music with the harp, tambourine, and autoharp. Her artwork aims to inspire life, hope, and joy.</p>
-        </section>
-        <section style="width: 100%; padding-top: 20px;">
-            <div class="canvass">
-                <h2 class="text-center main_heading2">Paintings for Sale<br></h2>
-                <div class="paintings_grid images_grid">
-                    <div class="painting_item">
-                        <a href="https://shop.shapinghearts.cdc.gov.sg/products/blooms" target="_blank">
-                            <img alt="Blooms" src="https://i.ibb.co/zWmnJc3W/KLSHA-011-Blooms-610-W-x-610-H-x-35-D-mm.jpg" title="Blooms">
-                            <p class="painting_title">Blooms</p>
-                        </a>
-                    </div>
-                    <div class="painting_item">
-                        <a href="https://shop.shapinghearts.cdc.gov.sg/products/deep-calls-unto-deep" target="_blank">
-                            <img alt="Deep Calls Unto Deep" src="https://i.ibb.co/7JmMJJxk/KLSHA-012-Deep-Calls-Unto-Deep-610-W-x-610-H-x-35-D-mm.jpg" title="Deep Calls Unto Deep">
-                            <p class="painting_title">Deep Calls Unto Deep</p>
-                        </a>
-                    </div>
-                    <div class="painting_item">
-                        <a href="https://shop.shapinghearts.cdc.gov.sg/products/fireworks" target="_blank">
-                            <img alt="Fireworks" src="https://i.ibb.co/Kx8rbn2X/MOY-001-FIREWORKS-900-W-x-600-H-x-20-Dmm.jpg" title="Fireworks">
-                            <p class="painting_title">Fireworks</p>
-                        </a>
-                    </div>
-                    <div class="painting_item">
-                        <a href="https://shop.shapinghearts.cdc.gov.sg/products/happy-birthday-singapore" target="_blank">
-                            <img alt="Happy Birthday Singapore!" src="https://i.ibb.co/HTYB5q2g/MOY-002-HAPPY-BIRTHDAY-SINGAPORE-900-W-x-600-H-x-20-Dmm.jpg" title="Happy Birthday Singapore!">
-                            <p class="painting_title">Happy Birthday Singapore!</p>
-                        </a>
-                    </div>
-                    <div class="painting_item">
-                        <a href="https://shop.shapinghearts.cdc.gov.sg/products/open-heaven-over-singapore" target="_blank">
-                            <img alt="Open Heaven Over Singapore" src="https://i.ibb.co/SDs1vDxJ/MOY-003-OPEN-HEAVEN-OVER-SINGAPORE-600-W-x-900-H-x-20-Dmm.jpg" title="Open Heaven Over Singapore">
-                            <p class="painting_title">Open Heaven Over Singapore</p>
-                        </a>
-                    </div>
-                </div>
-            </div>
-        </section>
-    </div>
-</section>
+            <p>Moy Saw Han became visually impaired in 2018 due to Glaucoma, resulting in only 15% tunnel vision in her left eye and complete blindness in her right eye. Despite these challenges, she has a deep passion for creating, whether through painting, handicrafts, writing poetry, baking, or making music with the harp, tambourine, and autoharp. Her artwork aims to inspire life, hope, and joy.</p></section></div></section>
