@@ -206,38 +206,4 @@ description: ""
         <section class="hero">
             <h1 class="text-center main_heading">Hi! I'm a Heartist<br>Alex Lim</h1>
             <img src="https://i.ibb.co/xqtH8pTp/Alex-Lim.jpg" class="hero_img">
-            <p>Working under the moniker "The Unskilled Boy," Alex Lim, an artist with Autism Spectrum Disorder (ASD), transforms everyday observations into vibrant, detail-rich compositions. His artistic journey spans multiple mediums and styles, from abstract to pop art, reaching a milestone in 2024 with his 500th painting. Through exhibitions in Singapore, Korea, and soon Barcelona, he shares his unique vision of the world—one where ordinary subjects are playfully reconstructed through intricate arrangements of shapes and colours, each piece reflecting his authentic creative voice.</p>
-        </section>
-        <section style="width: 100%; padding-top: 20px;">
-            <div class="canvass">
-                <h2 class="text-center main_heading2">Paintings for Sale<br></h2>
-                <div class="paintings_grid images_grid">
-                    <div class="painting_item">
-                        <a href="https://shop.shapinghearts.cdc.gov.sg/products/blocks-and-blossoms" target="_blank">
-                            <img alt="Blocks and Blossoms" src="https://i.ibb.co/zWjgBbwV/Blocks-and-Blossoms.png" title="Blocks and Blossoms">
-                            <p class="painting_title">Blocks and Blossoms</p>
-                        </a>
-                    </div>
-                    <div class="painting_item">
-                        <a href="https://shop.shapinghearts.cdc.gov.sg/products/joy" target="_blank">
-                            <img alt="Joy" src="https://i.ibb.co/TMSfCcVL/Joy.png" title="Joy">
-                            <p class="painting_title">Joy</p>
-                        </a>
-                    </div>
-                    <div class="painting_item">
-                        <a href="https://shop.shapinghearts.cdc.gov.sg/products/kampong-of-cluck" target="_blank">
-                            <img alt="Kampong of Cluck" src="https://i.ibb.co/1f49hMzD/Kampung-of-Cluck.png" title="Kampong of Cluck">
-                            <p class="painting_title">Kampong of Cluck</p>
-                        </a>
-                    </div>
-                    <div class="painting_item">
-                        <a href="https://shop.shapinghearts.cdc.gov.sg/products/the-jungle" target="_blank">
-                            <img alt="The Jungle" src="https://i.ibb.co/k63s7Kq3/Underwater-Friends.png" title="The Jungle">
-                            <p class="painting_title">The Jungle</p>
-                        </a>
-                    </div>
-                </div>
-            </div>
-        </section>
-    </div>
-</section>
+            <p>Working under the moniker "The Unskilled Boy," Alex Lim, an artist with Autism Spectrum Disorder (ASD), transforms everyday observations into vibrant, detail-rich compositions. His artistic journey spans multiple mediums and styles, from abstract to pop art, reaching a milestone in 2024 with his 500th painting. Through exhibitions in Singapore, Korea, and soon Barcelona, he shares his unique vision of the world—one where ordinary subjects are playfully reconstructed through intricate arrangements of shapes and colours, each piece reflecting his authentic creative voice.</p></section></div></section>
