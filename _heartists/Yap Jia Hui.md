@@ -207,38 +207,4 @@ description: ""
         <section class="hero">
             <h1 class="text-center main_heading">Hi! I'm a Heartist<br>Yap Jia Hui</h1>
             <img class="hero_img" src="https://i.ibb.co/whCbTqNH/Yap-Jia-Hui.jpg">
-            <p>Living with Autism Spectrum Disorder (ASD), Jia Hui is a young and vibrant artist who finds inspiration in all things cute, lovely, and pink. Known for her distinctive crayon techniques and bold colour choices, her style is both refreshing and unique. Jia Hui's work combines abstract geometric shapes with a modern flair, drawing influence from the Pop Art movement. She creates playful art featuring cute food and objects, often adding quirky expressions to bring them to life.</p>
-        </section>
-        <section style="width: 100%; padding-top: 20px;">
-            <div class="canvass">
-                <h2 class="text-center main_heading2">Paintings for Sale<br></h2>
-                <div class="paintings_grid images_grid">
-                    <div class="painting_item">
-                        <a href="https://shop.shapinghearts.cdc.gov.sg/products/burgers" target="_blank">
-                            <img alt="Burgers!" src="https://i.ibb.co/MkMgPYK3/JIAHUI-001-Burgers-320-W-x-420-H-x-20-Dmm.jpg" title="Burgers!">
-                            <p class="painting_title">Burgers!</p>
-                        </a>
-                    </div>
-                    <div class="painting_item">
-                        <a href="https://shop.shapinghearts.cdc.gov.sg/products/cactus" target="_blank">
-                            <img alt="Cactus" src="https://i.ibb.co/m53BrKs3/JIAHUI-002-Catus-320-W-x-450-H-x-20-Dmm.jpg" title="Cactus">
-                            <p class="painting_title">Cactus</p>
-                        </a>
-                    </div>
-                    <div class="painting_item">
-                        <a href="https://shop.shapinghearts.cdc.gov.sg/products/girls-toy" target="_blank">
-                            <img alt="Girl's Toy!" src="https://i.ibb.co/nN6BsS9y/JIAHUI-003-Girl-s-Toy-450-W-x-320-H-x-20-Dmm.jpg" title="Girl's Toy!">
-                            <p class="painting_title">Girl's Toy!</p>
-                        </a>
-                    </div>
-                    <div class="painting_item">
-                        <a href="https://shop.shapinghearts.cdc.gov.sg/products/the-leaves" target="_blank">
-                            <img alt="The Leaves" src="https://i.ibb.co/99QPYzYT/JIAHUI-004-The-Leaves-450-W-x-320-H-x-20-Dmm.jpg" title="The Leaves">
-                            <p class="painting_title">The Leaves</p>
-                        </a>
-                    </div>
-                </div>
-            </div>
-        </section>
-    </div>
-</section>
+            <p>Living with Autism Spectrum Disorder (ASD), Jia Hui is a young and vibrant artist who finds inspiration in all things cute, lovely, and pink. Known for her distinctive crayon techniques and bold colour choices, her style is both refreshing and unique. Jia Hui's work combines abstract geometric shapes with a modern flair, drawing influence from the Pop Art movement. She creates playful art featuring cute food and objects, often adding quirky expressions to bring them to life.</p></section></div></section>

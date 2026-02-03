@@ -207,26 +207,4 @@ description: ""
         <section class="hero">
             <h1 class="text-center main_heading">Hi! I'm a Heartist<br>Muhammad Syazwan Bin Rahmat</h1>
             <img class="hero_img" src="https://i.ibb.co/84RMjDxm/Muhammad-Syazwan-Bin-Rahmat.jpg">
-            <p>Muhammad Syazwan Bin Rahmat, a 27-year-old home baker of six years, lives with Epilepsy and Major Depressive Disorder (MDD). Aside from baking, he enjoys cooking and singing, which have been his primary creative outlets. Recently, he discovered the therapeutic power of painting, finding it to be a new way to relieve the weight of his challenges. While baking and singing have always been his forms of art, painting offers a unique sense of satisfaction, allowing him to express himself without any "rules." For Syazwan, painting has become another vital tool for healing and personal growth.</p>
-        </section>
-        <section style="width: 100%; padding-top: 20px;">
-            <div class="canvass">
-                <h2 class="text-center main_heading2">Paintings for Sale<br></h2>
-                <div class="paintings_grid images_grid">
-                    <div class="painting_item">
-                        <a href="https://shop.shapinghearts.cdc.gov.sg/products/ignite" target="_blank">
-                            <img alt="Ignite" src="https://i.ibb.co/5WHvvjsx/SYAZ-002-Ignite-180-W-x-240-H-x-20-Dmm.jpg" title="Ignite">
-                            <p class="painting_title">Ignite</p>
-                        </a>
-                    </div>
-                    <div class="painting_item">
-                        <a href="https://shop.shapinghearts.cdc.gov.sg/products/the-magic-of-aurora-borealis" target="_blank">
-                            <img alt="The Magic of Aurora Borealis" src="https://i.ibb.co/C36j6GhV/SYAZ-001-The-Magic-of-Aurora-Borealis-200-W-x-200-H-x-20-Dmm.jpg" title="The Magic of Aurora Borealis">
-                            <p class="painting_title">The Magic of Aurora Borealis</p>
-                        </a>
-                    </div>
-                </div>
-            </div>
-        </section>
-    </div>
-</section>
+            <p>Muhammad Syazwan Bin Rahmat, a 27-year-old home baker of six years, lives with Epilepsy and Major Depressive Disorder (MDD). Aside from baking, he enjoys cooking and singing, which have been his primary creative outlets. Recently, he discovered the therapeutic power of painting, finding it to be a new way to relieve the weight of his challenges. While baking and singing have always been his forms of art, painting offers a unique sense of satisfaction, allowing him to express himself without any "rules." For Syazwan, painting has become another vital tool for healing and personal growth.</p></section></div></section>

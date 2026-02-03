@@ -207,32 +207,4 @@ description: ""
         <section class="hero">
             <h1 class="text-center main_heading">Hi! I'm a Heartist<br>Isabella Grace Wilfred (Izzy)</h1>
             <img class="hero_img" src="https://i.ibb.co/23mzB4FM/Isabella-Grace-Wilfred-Izzy.jpg">
-            <p>With perfect pitch and an old soul, Izzy who is 18-years-old, expresses herself through a vibrant blend of music and dance. She moves confidently between piano, drums, vocal performance, and K-pop dance, while nurturing a natural gift for languages. Living with Autism Spectrum Disorder (ASD)/Social Communication Disorder (SCD) has enhanced rather than limited her artistic journey, which now continues through music studies in Kuala Lumpur, where she brings her unique perspective to new creative horizons.</p>
-        </section>
-        <section style="width: 100%; padding-top: 20px;">
-            <div class="canvass">
-                <h2 class="text-center main_heading2">Paintings for Sale<br></h2>
-                <div class="paintings_grid images_grid">
-                    <div class="painting_item">
-                        <a href="https://shop.shapinghearts.cdc.gov.sg/products/city-bougainvillea-on-the-bridge" target="_blank">
-                            <img alt="City Bougainvillea on The Bridge" src="https://i.ibb.co/fGC9yWkY/ISAB-001-City-Bougainvillea-on-the-Bridge-460-W-x-610-Hmm.jpg" title="City Bougainvillea on The Bridge">
-                            <p class="painting_title">City Bougainvillea on The Bridge</p>
-                        </a>
-                    </div>
-                    <div class="painting_item">
-                        <a href="https://shop.shapinghearts.cdc.gov.sg/products/frangipani-in-the-heart-of-singapore" target="_blank">
-                            <img alt="Frangipani in the Heart of Singapore" src="https://i.ibb.co/QvVrDSMx/ISAB-002-Frangipani-in-the-Heart-of-Singapore-460-W-x-610-Hmm.jpg" title="Frangipani in the Heart of Singapore">
-                            <p class="painting_title">Frangipani in the Heart of Singapore</p>
-                        </a>
-                    </div>
-                    <div class="painting_item">
-                        <a href="https://shop.shapinghearts.cdc.gov.sg/products/vanda-miss-joaquim-our-nations-blossom" target="_blank">
-                            <img alt="Vanda Miss Joaquim Our Nation's Blossom" src="https://i.ibb.co/jvS960Dn/ISAB-003-Vanda-Miss-Joaquim-Our-Nations-Blossom-460-W-x-610-Hmm.jpg" title="Vanda Miss Joaquim Our Nation's Blossom">
-                            <p class="painting_title">Vanda Miss Joaquim Our Nation's Blossom</p>
-                        </a>
-                    </div>
-                </div>
-            </div>
-        </section>
-    </div>
-</section>
+            <p>With perfect pitch and an old soul, Izzy who is 18-years-old, expresses herself through a vibrant blend of music and dance. She moves confidently between piano, drums, vocal performance, and K-pop dance, while nurturing a natural gift for languages. Living with Autism Spectrum Disorder (ASD)/Social Communication Disorder (SCD) has enhanced rather than limited her artistic journey, which now continues through music studies in Kuala Lumpur, where she brings her unique perspective to new creative horizons.</p></section></div></section>

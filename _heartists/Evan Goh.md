@@ -207,20 +207,4 @@ description: ""
         <section class="hero">
             <h1 class="text-center main_heading">Hi! I'm a Heartist<br>Evan Goh</h1>
             <img class="hero_img" src="https://i.ibb.co/rK75q4p2/Evan-Goh.jpg">
-            <p>After learning that he had Autism Spectrum Disorder (ASD), Evan turned to art to fuel his creative compass. At age five, it offered him a powerful medium for storytelling and self-expression. At 18, he transforms his unique perspective into visual narratives that explore themes of identity and appreciation. Through each brushstroke, he builds bridges of connection with the world around him, crafting meaningful experiences that speak eloquently without words.</p>
-        </section>
-        <section style="width: 100%; padding-top: 20px;">
-            <div class="canvass">
-                <h2 class="text-center main_heading2">Paintings for Sale<br></h2>
-                <div class="paintings_grid images_grid">
-                    <div class="painting_item">
-                        <a href="https://shop.shapinghearts.cdc.gov.sg/products/merlions-gaze-celebrating-sg60" target="_blank">
-                            <img alt="Merlion's Gaze: Celebrating SG60" src="https://i.ibb.co/SXm0ZpRP/EVAN-001-Merlion-s-Gaze-Celebrating-SG60-300-W-x-400-H-x-20-Dmm.jpg" title="Merlion's Gaze: Celebrating SG60">
-                            <p class="painting_title">Merlion's Gaze: Celebrating SG60</p>
-                        </a>
-                    </div>
-                </div>
-            </div>
-        </section>
-    </div>
-</section>
+            <p>After learning that he had Autism Spectrum Disorder (ASD), Evan turned to art to fuel his creative compass. At age five, it offered him a powerful medium for storytelling and self-expression. At 18, he transforms his unique perspective into visual narratives that explore themes of identity and appreciation. Through each brushstroke, he builds bridges of connection with the world around him, crafting meaningful experiences that speak eloquently without words.</p></section></div></section>

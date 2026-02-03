@@ -30,6 +30,9 @@ sections:
       button: Read More
       url: https://go.gov.sg/northeastcare
       alt: Image alt text
+      image: /images/Artfullyable_PDDC1_449.jpg
+      description: Five exhibitions, bold partnerships, and $1.2M raised for artists
+        with disabilities.
   - infopic:
       title: Discover meaningful art made by people with disabilities
       subtitle: ABOUT SHAPING HEARTS

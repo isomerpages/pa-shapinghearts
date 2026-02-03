@@ -207,38 +207,4 @@ description: ""
         <section class="hero">
             <h1 class="text-center main_heading">Hi! I'm a Heartist<br>Zayne Pua</h1>
             <img class="hero_img" src="https://i.ibb.co/xT8h0tB/Zayne-Pua.jpg">
-            <p>Zayne, 14, has faced significant challenges with Anxiety and Mild Depression since a bullying incident at age 9. These struggles affected his ability to attend school and navigate daily life. However, through the power of art, Zayne has found a vital outlet for his emotions, allowing him to express himself and find peace amidst the turmoil. Despite the setbacks he's encountered, Zayne's passion for art has been a constant source of strength and healing. With the support of SAMH, he continues to grow and inspire those around him with his resilience and determination.</p>
-        </section>
-        <section style="width: 100%; padding-top: 20px;">
-            <div class="canvass">
-                <h2 class="text-center main_heading2">Paintings for Sale<br></h2>
-                <div class="paintings_grid images_grid">
-                    <div class="painting_item">
-                        <a href="https://shop.shapinghearts.cdc.gov.sg/products/endless-cave-3" target="_blank">
-                            <img alt="Endless cave" src="https://i.ibb.co/GvjngM2d/ZAYNE-001-Endless-cave-770-W-x-1020-Hmm.jpg" title="Endless cave">
-                            <p class="painting_title">Endless cave</p>
-                        </a>
-                    </div>
-                    <div class="painting_item">
-                        <a href="https://shop.shapinghearts.cdc.gov.sg/products/rainbow-raindrops-1" target="_blank">
-                            <img alt="Rainbow raindrops" src="https://i.ibb.co/bgRcKQF7/ZAYNE-002-Rainbow-raindrops-1020-W-x-770-Hmm.jpg" title="Rainbow raindrops">
-                            <p class="painting_title">Rainbow raindrops</p>
-                        </a>
-                    </div>
-                    <div class="painting_item">
-                        <a href="https://shop.shapinghearts.cdc.gov.sg/products/speedlines-1" target="_blank">
-                            <img alt="Speedlines" src="https://i.ibb.co/4ZPFvbvJ/ZAYNE-003-Speedlines-310-W-x-920-Hmm.jpg" title="Speedlines">
-                            <p class="painting_title">Speedlines</p>
-                        </a>
-                    </div>
-                    <div class="painting_item">
-                        <a href="https://shop.shapinghearts.cdc.gov.sg/products/voyage-1" target="_blank">
-                            <img alt="Voyage" src="https://i.ibb.co/cSffYKH2/ZAYNE-004-Voyage-760-W-x-1020-Hmm.jpg" title="Voyage">
-                            <p class="painting_title">Voyage</p>
-                        </a>
-                    </div>
-                </div>
-            </div>
-        </section>
-    </div>
-</section>
+            <p>Zayne, 14, has faced significant challenges with Anxiety and Mild Depression since a bullying incident at age 9. These struggles affected his ability to attend school and navigate daily life. However, through the power of art, Zayne has found a vital outlet for his emotions, allowing him to express himself and find peace amidst the turmoil. Despite the setbacks he's encountered, Zayne's passion for art has been a constant source of strength and healing. With the support of SAMH, he continues to grow and inspire those around him with his resilience and determination.</p></section></div></section>

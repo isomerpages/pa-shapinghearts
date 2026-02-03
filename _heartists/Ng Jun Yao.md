@@ -207,20 +207,4 @@ description: ""
         <section class="hero">
             <h1 class="text-center main_heading">Hi! I'm a Heartist<br>Ng Jun Yao</h1>
             <img class="hero_img" src="https://i.ibb.co/nsrbcfHK/Ng-Jun-Yao.jpg">
-            <p>Jun Yao is a talented artist with a unique ability to capture the charm of animals in his work. Diagnosed with Autism Spectrum Disorder (ASD) at the age of four, he graduated from AWWA Special School, where he honed his skills. His love for animal expressions led him to create whimsical cartoon characters, and his art has been featured in exhibitions and on merchandise. Specialising in watercolours, Jun Yao's work reflects his creativity, perseverance, and distinctive perspective on the world.</p>
-        </section>
-        <section style="width: 100%; padding-top: 20px;">
-            <div class="canvass">
-                <h2 class="text-center main_heading2">Paintings for Sale<br></h2>
-                <div class="paintings_grid images_grid">
-                    <div class="painting_item">
-                        <a href="https://shop.shapinghearts.cdc.gov.sg/products/majulah-our-singapore" target="_blank">
-                            <img alt="Majulah, Our Singapore" src="https://i.ibb.co/k2j8KmcL/JUNY-001-Majulah-Our-Singapore-440-W-x-340-Hmm.jpg" title="Majulah, Our Singapore">
-                            <p class="painting_title">Majulah, Our Singapore</p>
-                        </a>
-                    </div>
-                </div>
-            </div>
-        </section>
-    </div>
-</section>
+            <p>Jun Yao is a talented artist with a unique ability to capture the charm of animals in his work. Diagnosed with Autism Spectrum Disorder (ASD) at the age of four, he graduated from AWWA Special School, where he honed his skills. His love for animal expressions led him to create whimsical cartoon characters, and his art has been featured in exhibitions and on merchandise. Specialising in watercolours, Jun Yao's work reflects his creativity, perseverance, and distinctive perspective on the world.</p></section></div></section>

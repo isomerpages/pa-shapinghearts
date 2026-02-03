@@ -207,20 +207,4 @@ description: ""
         <section class="hero">
             <h1 class="text-center main_heading">Hi! I'm a Heartist<br>Audrey Ang Pei Yu</h1>
             <img class="hero_img" src="https://i.ibb.co/4wKcdDvJ/Audrey-Ang-Pei-Yu.jpg">
-            <p>While pursuing her path in medicine, Audrey has nurtured a parallel passion for artistic expression that spans multiple creative disciplines. Her self-taught journey in digital art draws particular inspiration from the whimsical rubber hose style of the 1920s. Beyond the digital canvas, she explores her creativity through acrylic painting, pottery, and oil pastels, embracing each medium as an opportunity for growth and discovery. This interplay between her medical career and artistic pursuits offers a unique perspective that enriches both worlds, as she continues to develop her distinctive creative voice.</p>
-        </section>
-        <section style="width: 100%; padding-top: 20px;">
-            <div class="canvass">
-                <h2 class="text-center main_heading2">Paintings for Sale<br></h2>
-                <div class="paintings_grid images_grid">
-                    <div class="painting_item">
-                        <a href="https://shop.shapinghearts.cdc.gov.sg/products/no-otter-way-to-celebrate-60" target="_blank">
-                            <img alt="No Otter Way to Celebrate 60" src="https://i.ibb.co/1G1L1GjT/AUDR-001-No-otter-way-to-celebrate-60-300-W-x-400-H-x-20-Dmm.jpg" title="No Otter Way to Celebrate 60">
-                            <p class="painting_title">No Otter Way to Celebrate 60</p>
-                        </a>
-                    </div>
-                </div>
-            </div>
-        </section>
-    </div>
-</section>
+            <p>While pursuing her path in medicine, Audrey has nurtured a parallel passion for artistic expression that spans multiple creative disciplines. Her self-taught journey in digital art draws particular inspiration from the whimsical rubber hose style of the 1920s. Beyond the digital canvas, she explores her creativity through acrylic painting, pottery, and oil pastels, embracing each medium as an opportunity for growth and discovery. This interplay between her medical career and artistic pursuits offers a unique perspective that enriches both worlds, as she continues to develop her distinctive creative voice.</p></section></div></section>

@@ -207,26 +207,4 @@ description: ""
         <section class="hero">
             <h1 class="text-center main_heading">Hi! I'm a Heartist<br>Jonas Teo</h1>
             <img class="hero_img" src="https://i.ibb.co/jvZ6ntmk/Jonas-teo.jpg">
-            <p>Through vibrant artworks filled with rainbows, Mario characters, and pirate adventures, Jonas transforms his unique perspective into colourful expressions of joy. Living with Autism Spectrum Disorder (ASD), he has discovered in art a powerful medium for sharing his imaginative world. His creative journey takes on special meaning within a family where each of three siblings faces distinct challenges, yet his artistic voice rings clear and strong, inspiring others with every piece he creates.</p>
-        </section>
-        <section style="width: 100%; padding-top: 20px;">
-            <div class="canvass">
-                <h2 class="text-center main_heading2">Paintings for Sale<br></h2>
-                <div class="paintings_grid images_grid">
-                    <div class="painting_item">
-                        <a href="https://shop.shapinghearts.cdc.gov.sg/products/rainbow-merlion" target="_blank">
-                            <img alt="Rainbow Merlion" src="https://i.ibb.co/wZshVqSx/JONAS-001-Rainbow-Merlion-340-W-x-430-H-x-15-Dmm.jpg" title="Rainbow Merlion">
-                            <p class="painting_title">Rainbow Merlion</p>
-                        </a>
-                    </div>
-                    <div class="painting_item">
-                        <a href="https://shop.shapinghearts.cdc.gov.sg/products/rainbow-rabbit" target="_blank">
-                            <img alt="Rainbow Rabbit" src="https://i.ibb.co/xK82057x/JONAS-003-Rainbow-Rabbit-300-W-x-440-H-x-20-Dmm.jpg" title="Rainbow Rabbit">
-                            <p class="painting_title">Rainbow Rabbit</p>
-                        </a>
-                    </div>
-                </div>
-            </div>
-        </section>
-    </div>
-</section>
+            <p>Through vibrant artworks filled with rainbows, Mario characters, and pirate adventures, Jonas transforms his unique perspective into colourful expressions of joy. Living with Autism Spectrum Disorder (ASD), he has discovered in art a powerful medium for sharing his imaginative world. His creative journey takes on special meaning within a family where each of three siblings faces distinct challenges, yet his artistic voice rings clear and strong, inspiring others with every piece he creates.</p></section></div></section>

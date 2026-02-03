@@ -207,26 +207,4 @@ description: ""
         <section class="hero">
             <h1 class="text-center main_heading">Hi! I'm a Heartist<br>Elijah Goh</h1>
             <img class="hero_img" src="https://i.ibb.co/KxzTJGh5/Elijah-Goh.jpg">
-            <p>From his first brushstrokes at age five, Elijah's artistic journey has been one of continuous growth and exploration. Living with Autism Spectrum Disorder (ASD), his dedication did not waver as shown through active participation in art clubs and competitions throughout his school years, where he developed both technique and passion. Through experimenting with various painting styles, he has discovered powerful ways to channel his thoughts and emotions onto canvas. Each piece reflects not only his personal experiences but also his determination to push beyond challenges, creating works that connect deeply with viewers.</p>
-        </section>
-        <section style="width: 100%; padding-top: 20px;">
-            <div class="canvass">
-                <h2 class="text-center main_heading2">Paintings for Sale<br></h2>
-                <div class="paintings_grid images_grid">
-                    <div class="painting_item">
-                        <a href="https://shop.shapinghearts.cdc.gov.sg/products/breath-of-calm" target="_blank">
-                            <img alt="Breath of Calm" src="https://i.ibb.co/ymJcYZMV/ELIJ-003-Breath-of-Calm-300-W-x-400-H-x-20-Dmm.jpg" title="Breath of Calm">
-                            <p class="painting_title">Breath of Calm</p>
-                        </a>
-                    </div>
-                    <div class="painting_item">
-                        <a href="https://shop.shapinghearts.cdc.gov.sg/products/springtime-symphony" target="_blank">
-                            <img alt="Springtime Symphony" src="https://i.ibb.co/xqnzr0qT/ELIJ-002-Springtime-Symphony-400-W-x-300-H-x-20-Dmm.jpg" title="Springtime Symphony">
-                            <p class="painting_title">Springtime Symphony</p>
-                        </a>
-                    </div>
-                </div>
-            </div>
-        </section>
-    </div>
-</section>
+            <p>From his first brushstrokes at age five, Elijah's artistic journey has been one of continuous growth and exploration. Living with Autism Spectrum Disorder (ASD), his dedication did not waver as shown through active participation in art clubs and competitions throughout his school years, where he developed both technique and passion. Through experimenting with various painting styles, he has discovered powerful ways to channel his thoughts and emotions onto canvas. Each piece reflects not only his personal experiences but also his determination to push beyond challenges, creating works that connect deeply with viewers.</p></section></div></section>

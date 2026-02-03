@@ -207,20 +207,4 @@ description: ""
         <section class="hero">
             <h1 class="text-center main_heading">Hi! I'm a Heartist<br>Aubrey Ang</h1>
             <img class="hero_img" src="https://i.ibb.co/6JcCLTxw/Aubrey-Ang.jpg">
-            <p>Art in its myriad forms has become both a passion and a source of joy for Aubrey, who approaches each piece with curiosity and dedication. Her creative practice spans various mediums as she continuously explores new ways to bring her imagination to life. When not immersed in her artwork, Aubrey finds peace and inspiration in the gentle rhythms of virtual farming, tending to her digital menagerie in Stardew Valley. This balance between artistic expression and quiet recreation shapes her unique creative perspective.</p>
-        </section>
-        <section style="width: 100%; padding-top: 20px;">
-            <div class="canvass">
-                <h2 class="text-center main_heading2">Paintings for Sale<br></h2>
-                <div class="paintings_grid images_grid">
-                    <div class="painting_item">
-                        <a href="https://shop.shapinghearts.cdc.gov.sg/products/o-for-otter-orchids" target="_blank">
-                            <img alt="O for Otter &amp; Orchids" src="https://i.ibb.co/HTJ60gTv/AUBR-001-O-for-Otter-Orchids-300-W-x-400-H-x-20-Dmm.jpg" title="O for Otter &amp; Orchids">
-                            <p class="painting_title">O for Otter &amp; Orchids</p>
-                        </a>
-                    </div>
-                </div>
-            </div>
-        </section>
-    </div>
-</section>
+            <p>Art in its myriad forms has become both a passion and a source of joy for Aubrey, who approaches each piece with curiosity and dedication. Her creative practice spans various mediums as she continuously explores new ways to bring her imagination to life. When not immersed in her artwork, Aubrey finds peace and inspiration in the gentle rhythms of virtual farming, tending to her digital menagerie in Stardew Valley. This balance between artistic expression and quiet recreation shapes her unique creative perspective.</p></section></div></section>
