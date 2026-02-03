@@ -207,38 +207,4 @@ description: ""
         <section class="hero">
             <h1 class="text-center main_heading">Hi! I'm a Heartist<br>Muhammad Ridhwan Masli</h1>
             <img class="hero_img" src="https://i.ibb.co/xtszv4fT/Muhammad-Ridhwan-Masli.jpg">
-            <p>Born with Pfeiffer Syndrome, Ridhwan began his artistic journey at the age of five with Global Art. His resilience and talent have earned him the Lee Kwan Yew Exemplary Student Award and Most Outstanding Student Award in 2024. Ridhwan's artwork, including the award-winning "Mind Space", which was showcased at the ArtScience Museum, reflects his unique perspective on the world. He has participated in various prestigious competitions and exhibitions, such as UOL X Art:Dis and Shaping Hearts at One Punggol. Through his art, Ridhwan blends creativity and introspection, offering a unique perspective on the world and sharing his journey of self-expression with others.</p>
-        </section>
-        <section style="width: 100%; padding-top: 20px;">
-            <div class="canvass">
-                <h2 class="text-center main_heading2">Paintings for Sale<br></h2>
-                <div class="paintings_grid images_grid">
-                    <div class="painting_item">
-                        <a href="https://shop.shapinghearts.cdc.gov.sg/products/city-reflections" target="_blank">
-                            <img alt="City Reflections" src="https://i.ibb.co/LDPR9tRB/RIDH-001-City-Reflections-295-W-x-210-H-mm.jpg" title="City Reflections">
-                            <p class="painting_title">City Reflections</p>
-                        </a>
-                    </div>
-                    <div class="painting_item">
-                        <a href="https://shop.shapinghearts.cdc.gov.sg/products/eruption-of-light" target="_blank">
-                            <img alt="Eruption of Light" src="https://i.ibb.co/N2G32SQ8/KLSHA-003-Eruption-of-Light-550-W-x-430-H-mm-Framed.jpg" title="Eruption of Light">
-                            <p class="painting_title">Eruption of Light</p>
-                        </a>
-                    </div>
-                    <div class="painting_item">
-                        <a href="https://shop.shapinghearts.cdc.gov.sg/products/journey-to-the-sea" target="_blank">
-                            <img alt="Journey to The Sea" src="https://i.ibb.co/vxsQZ81k/RIDH-004-Journey-to-the-Sea-310-W-x-410-H-x-20-Dmm.jpg" title="Journey to The Sea">
-                            <p class="painting_title">Journey to The Sea</p>
-                        </a>
-                    </div>
-                    <div class="painting_item">
-                        <a href="https://shop.shapinghearts.cdc.gov.sg/products/ocean-bloom" target="_blank">
-                            <img alt="Ocean Bloom" src="https://i.ibb.co/b5mZWz3x/KLSHA-004-Ocean-Bloom-300-W-x-400-H-mm.jpg" title="Ocean Bloom">
-                            <p class="painting_title">Ocean Bloom</p>
-                        </a>
-                    </div>
-                </div>
-            </div>
-        </section>
-    </div>
-</section>
+            <p>Born with Pfeiffer Syndrome, Ridhwan began his artistic journey at the age of five with Global Art. His resilience and talent have earned him the Lee Kwan Yew Exemplary Student Award and Most Outstanding Student Award in 2024. Ridhwan's artwork, including the award-winning "Mind Space", which was showcased at the ArtScience Museum, reflects his unique perspective on the world. He has participated in various prestigious competitions and exhibitions, such as UOL X Art:Dis and Shaping Hearts at One Punggol. Through his art, Ridhwan blends creativity and introspection, offering a unique perspective on the world and sharing his journey of self-expression with others.</p></section></div></section>
