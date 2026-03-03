@@ -8,7 +8,7 @@ description: ""
 <p>At North East CDC, we are committed to celebrate and uplift artists with
 disabilities. We introduced two prestigious awards: one recognising overall
 artistic achievement, and another honouring excellence in painting.</p>
-<p><strong>Register for the Kiat Lim-Shaping Hearts Awards </strong><a href="https://form.gov.sg/68d0ca6c26128e0ec34f17aa" rel="noopener nofollow" target="_blank">here</a><strong> by 28 February 2026.</strong>
+<p><strong>Register for the Kiat Lim-Shaping Hearts Awards </strong><a href="https://form.gov.sg/68d0ca6c26128e0ec34f17aa" rel="noopener nofollow" target="_blank">here</a><strong> by 31 March 2026.</strong>
 </p>
 <h3>Kiat Lim-Shaping Hearts Awards</h3>
 <p>The Kiat Lim-Shaping Hearts Awards is designed to nurture artists with
